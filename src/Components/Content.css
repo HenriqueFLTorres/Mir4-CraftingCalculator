@@ -1,0 +1,79 @@
+@import url('../App.css');
+
+.ContentArea {
+    display: grid;
+
+    box-sizing: border-box;
+
+    width: clamp(0.1rem, 95%, 2200px);
+    height: 85%;
+
+    grid-template-areas:
+        'collapseButtom two three'
+        'one two three'
+        'one two three'
+        'one two three'
+        'one two four';
+    grid-template-columns: 25% 10% 65%;
+    grid-template-rows: 40px repeat(4, 24%);
+
+    gap: clamp(0.1rem, 1%, 20rem);
+    padding: clamp(0.1rem, 1%, 2rem);
+}
+
+.ContentArea.Expand {
+    grid-template-columns: 5% 10% 85%;
+}
+
+.ColapseButtom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+    grid-area: collapseButtom;
+
+    background-color: var(--primary-color);
+    border-radius: 0.5vw;
+
+    font-size: var(--step--1);
+    font-weight: 700;
+}
+
+.Colapse {
+    width: 5%;
+    stroke: var(--font-color);
+    stroke-width: 5;
+
+    transform: rotate(90deg);
+
+    transition-property: transform;
+    transition-duration: 250ms;
+    transition-timing-function: ease;
+}
+
+.ContentArea.Expand .Colapse {
+    transform: rotate(-90deg);
+    width: 30%;
+}
+
+@media (max-width: 700px) {
+
+    .ContentArea {
+        grid-template-areas:
+        'collapseButtom two two'
+        'one two two'
+        'one three three'
+        'one three three'
+        'one three three'
+        'one three three'
+        'one four four';
+        grid-template-rows: 3% repeat(6, 16.16%);
+        grid-template-columns: 40% 60%;
+    }
+
+    .ContentArea.Expand {
+        grid-template-columns: 5% 95%;
+    }
+    
+}

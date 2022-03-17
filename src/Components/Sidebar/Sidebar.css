@@ -1,0 +1,299 @@
+@import url('../../App.css');
+
+
+.ItemList {
+    width: 100%;
+    max-height: auto;
+
+    background-color: var(--primary-color);
+
+
+    grid-area: one;
+    padding: 3%;
+
+    overflow-y: scroll;
+}
+
+.SearchBar {
+    display: flex;
+
+    width: 90%;
+    
+    color: var(--font-color);
+    font-size: var(--step-0);
+
+    background-color: var(--secondary-color);
+    border: 2px solid var(--secondary-color);
+    border-radius: 50px;
+
+    padding: 1rem 1.75rem;
+    text-align: center;
+
+    margin: 2rem auto;
+
+    transition-property: border, background-color;
+    transition-duration: 250ms;
+    transition-timing-function: ease-in-out;
+}
+
+.SearchBar:focus {
+    outline: none;
+    border: 2px solid var(--unselected);
+}
+
+
+
+
+
+
+
+
+.ItemUI {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+
+    height: clamp(0.1rem, 10vh, 120px);
+    padding: 5% 8%;
+
+    border-radius: 0.5vh;
+
+    background-color: var(--secondary-color);
+
+    margin: 3%;
+
+    transition-property: transform, background, filter;
+    transition-duration: 400ms;
+}
+
+
+.ItemUI:hover {
+    cursor: pointer;
+    transform: translateX(4%);
+}
+
+
+
+
+.ImageFrame {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 80px;
+    width: 80px;
+
+    border-radius: 100%;
+
+    margin-right: 8%;
+    background-color: var(--terciary-color);
+
+    transition-property: transform, background, filter;
+    transition-duration: 400ms;
+}
+
+.ImageFrame img {
+    height: 65%;
+}
+
+
+
+.ItemInfo {
+    display: flex;
+    flex-direction: column;
+
+    margin-right: auto;
+
+    height: 90%;
+}
+
+.ItemName {
+    font-size: var(--step-0);
+    font-weight: 600;
+}
+
+.ItemCategory {
+    font-size: var(--step--1);
+    font-weight: 400;
+    color: var(--unselected);
+
+    margin-top: 0.5rem;
+}
+
+.ItemRarity {
+    margin-top: auto;
+    font-size: var(--step--1);
+    font-weight: 500;
+}
+
+
+
+
+
+.ItemUI.Active {
+    transform: translateX(2%);
+    background-color: var(--terciary-color);
+}
+
+.ItemUI.Active .ImageFrame {
+    background-color: var(--fourth-color);
+}
+
+
+
+.ItemUI.Active:hover {
+    transform: scale(.92, .92) translateX(3%);
+}
+
+
+
+
+/**************************************************************
+
+                    ITEM RARITY COLORS!!
+
+**************************************************************/
+
+
+.ItemRarity.Common {
+    color: var(--common);
+}
+
+.ItemRarity.Uncommon {
+    color: var(--uncommon);
+}
+
+.ItemRarity.Rare {
+    color: var(--rare);
+}
+
+.ItemRarity.Epic {
+    color: var(--epic);
+}
+
+.ItemRarity.Legendary {
+    color: var(--legendary);
+}
+
+
+
+
+
+
+.ContentArea.Expand .ItemDisplay,
+.ContentArea.Expand .SearchBar,
+.ContentArea.Expand .ItemList {
+    display: none;
+}
+
+.ContentArea.Expand .ItemList {
+    overflow: hidden;
+}
+
+
+
+
+@media (max-width: 1500px) {
+
+    .ImageFrame {
+        width: 55px;
+        height: 55px;
+    }
+
+    .ItemInfo {
+        height: 100%;
+    }
+
+    .ItemName, .ItemCategory, .ItemRarity  {
+        font-size: var(--step--1);
+    }
+
+    .ItemCategory {
+        margin-top: 0.2rem;
+    }
+}
+
+@media (max-width: 1050px) {
+
+
+    .ItemUI {
+        padding: 5%;
+        height: 80%;
+    }
+
+    .ImageFrame {
+        width: 40px;
+        height: 40px;
+    }
+
+    .ItemInfo {
+        height: 80%;
+    }
+
+    .ItemName, .ItemCategory, .ItemRarity {
+        font-size: var(--step--1);
+    }
+
+}
+
+@media (max-width: 1050px) {
+
+
+    .ItemUI {
+        padding: 5%;
+        height: 80%;
+    }
+
+    .ImageFrame {
+        width: clamp(0.1rem, 3vw + 1rem, 200px);
+        height: clamp(0.1rem, 3vw + 1rem, 200px);
+        
+        margin-left: 3%;
+    }
+}
+
+
+@media (max-width: 700px) {
+    
+    .SearchBar {
+        padding: 3% 8%;
+
+        margin-block: 8%;
+    }
+
+    .ItemUI {
+        padding: 4%;
+        height: 50px;
+    }
+
+    .ItemName, .ItemCategory, .ItemRarity {
+        font-size: var(--step--1);
+    }
+
+    .ItemCategory {
+        margin-top: 0;
+    }
+
+}
+
+
+@media (max-width: 450px) {
+
+    .ItemUI {
+        padding: 4%;
+        height: 40px;
+    }
+
+    .ItemInfo {
+        height: 60%;
+    }
+
+    .ItemName, .ItemCategory, .ItemRarity {
+        font-size: var(--step--1);
+    }
+
+    .ItemCategory {
+        margin-top: 0;
+    }
+
+}

@@ -1,0 +1,161 @@
+@font-face {
+    font-family: "Noto Sans Display";
+    src: url(/src/Fonts/NotoSansDisplay-Thin.ttf) format(ttf),
+         url(/src/Fonts/NotoSansDisplay-ExtraLight.ttf) format(ttf),
+         url(/src/Fonts/NotoSansDisplay-Light.ttf) format(ttf),
+         url(/src/Fonts/NotoSansDisplay-Regular.ttf) format(ttf),
+         url(/src/Fonts/NotoSansDisplay-Medium.ttf) format(ttf),
+         url(/src/Fonts/NotoSansDisplay-SemiBold.ttf) format(ttf),
+         url(/src/Fonts/NotoSansDisplay-Bold.ttf) format(ttf),
+         url(/src/Fonts/NotoSansDisplay-ExtraBold.ttf) format(ttf),
+         url(/src/Fonts/NotoSansDisplay-Black.ttf) format(ttf);
+}
+
+*, *:before, *:after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Noto Sans Display", cursive;
+
+    font-size: 10px;
+    color: var(--font-color);
+    user-select: none;
+}
+
+:root {
+    --primary-color: #FFFFFF;
+    --secondary-color: #EEEEEE;
+    --terciary-color: #d8d8d8;
+    --fourth-color: #e8e8e8;
+
+    --dark-color: #c3c3c3;
+
+    --selected: #E01010;
+    --unselected: #585858;
+    --font-color: #0F0F0F;
+
+    --common: #687175;
+    --uncommon: #318f6d;
+    --rare: #255089;
+    --epic: #c2231e;
+    --legendary: #d2bc19;
+
+    --step--2: clamp(0.91rem, calc(0.89rem + 0.10vw), 0.96rem);
+    --step--1: clamp(1.09rem, calc(1.05rem + 0.21vw), 1.20rem);
+    --step-0: clamp(1.31rem, calc(1.24rem + 0.37vw), 1.50rem);
+    --step-1: clamp(1.58rem, calc(1.46rem + 0.59vw), 1.88rem);
+    --step-2: clamp(1.89rem, calc(1.71rem + 0.89vw), 2.34rem);
+    --step-3: clamp(2.27rem, calc(2.01rem + 1.29vw), 2.93rem);
+    --step-4: clamp(2.72rem, calc(2.36rem + 1.83vw), 3.66rem);
+    --step-5: clamp(3.27rem, calc(2.75rem + 2.56vw), 4.58rem);
+}
+
+#root.Dark {
+    --primary-color: #181818;
+    --secondary-color: #1D1D1D;
+    --terciary-color: #222222;
+    --fourth-color: #292929;
+
+    --dark-color: #1a1a1a;
+
+    --font-color: #F5F5F5;
+}
+
+.MainBackground {
+    background-color: var(--secondary-color);
+    width: 100%;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+::-webkit-scrollbar {
+    background-color: var(--dark-color);
+    width: 1.25rem;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--terciary-color);
+    border-radius: 50px;
+    border: 2px solid var(--dark-color);
+
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: var(--unselected);
+}
+
+::selection {
+    background-color: var(--unselected);
+}
+
+
+@media (max-width: 1600px) {
+
+    :root {
+        --step--2: clamp(0.84rem, calc(0.76rem + 0.11vw), 0.78rem);
+        --step--1: clamp(1.05rem, calc(0.89rem + 0.22vw), 0.94rem);
+        --step-0: clamp(1.13rem, calc(1.05rem + 0.37vw), 1.31rem);
+        --step-1: clamp(1.35rem, calc(1.24rem + 0.57vw), 1.64rem);
+        --step-2: clamp(1.62rem, calc(1.45rem + 0.84vw), 2.05rem);
+    }
+}
+
+@media (max-width: 1050px) {
+
+    :root {
+        --step--2: clamp(0.64rem, calc(0.35rem + 0.40vw), 0.43rem);
+        --step--1: clamp(0.80rem, calc(0.41rem + 0.55vw), 0.52rem);
+        --step-0: clamp(0.63rem, calc(0.48rem + 0.73vw), 1.00rem);
+        --step-1: clamp(0.75rem, calc(0.55rem + 0.98vw), 1.25rem);
+        --step-2: clamp(0.90rem, calc(0.64rem + 1.29vw), 1.56rem);
+    }
+}
+
+@media (max-width: 800px) {
+
+    :root {
+        --step--2: clamp(0.48rem, calc(0.30rem + 0.26vw), 0.35rem);
+        --step--1: clamp(0.60rem, calc(0.35rem + 0.36vw), 0.42rem);
+        --step-0: clamp(0.50rem, calc(0.40rem + 0.49vw), 0.75rem);
+        --step-1: clamp(0.60rem, calc(0.47rem + 0.66vw), 0.94rem);
+        --step-2: clamp(0.72rem, calc(0.54rem + 0.88vw), 1.17rem);
+    }
+
+}
+
+@media (max-width: 450px) {
+
+    :root {
+        --step--2: clamp(0.32rem, calc(0.18rem + 0.20vw), 0.22rem);
+        --step--1: clamp(0.40rem, calc(0.21rem + 0.27vw), 0.26rem);
+        --step-0: clamp(0.31rem, calc(0.24rem + 0.37vw), 0.50rem);
+        --step-1: clamp(0.38rem, calc(0.28rem + 0.49vw), 0.63rem);
+        --step-2: clamp(0.45rem, calc(0.32rem + 0.65vw), 0.78rem);
+      }
+
+}
+
+@media (min-width: 2100px) {
+
+    :root {
+        --step--2: clamp(1.12rem, calc(0.71rem + 0.58vw), 0.82rem);
+        --step--1: clamp(1.40rem, calc(0.83rem + 0.80vw), 0.99rem);
+        --step-0: clamp(1.19rem, calc(0.97rem + 1.10vw), 1.75rem);
+        --step-1: clamp(1.43rem, calc(1.13rem + 1.49vw), 2.19rem);
+        --step-2: clamp(1.71rem, calc(1.31rem + 2.00vw), 2.73rem);
+        --step-3: clamp(2.05rem, calc(1.52rem + 2.67vw), 3.42rem);
+        --step-4: clamp(2.46rem, calc(1.76rem + 3.53vw), 4.27rem);
+        --step-5: clamp(2.96rem, calc(2.02rem + 4.65vw), 5.34rem);
+    }
+}
+
+
+@media (max-width: 700px) {
+    ::-webkit-scrollbar {
+        width: 2vw;
+    }
+}

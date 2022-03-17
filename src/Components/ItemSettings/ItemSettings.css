@@ -1,0 +1,433 @@
+@import url('../../App.css');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Display:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.ItemSettings {
+    width: 100%;
+    height: 100%;
+    background-color: var(--primary-color);
+
+    padding: 1%;
+    border-radius: 1vh;
+
+    overflow-y: scroll;
+
+    grid-area: three;
+}
+
+
+
+
+
+.ItemConfigUI {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    
+    margin-inline: auto;
+    margin-block: 2%;
+
+    width: 92%;
+
+    transition: all 0.5s ease;
+}
+
+
+
+
+
+.ItemSettingsUI {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 15%;
+
+    margin: 0 2%;
+}
+
+.ISFrame {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: clamp(0.1rem, 6vh + 1rem, 130px);
+    height: clamp(0.1rem, 6vh + 1rem, 130px);
+
+    margin-top: 6%;
+    margin-bottom: 10%;
+
+    border-radius: 1vh;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    cursor: pointer;
+
+    transition-property: background-color, border, transform;
+    transition-duration: 250ms;
+    transition-timing-function: ease;
+}
+
+.ISFrame img {
+    width: 70%;
+}
+
+.ISFrame:hover {
+    border: 0.3vh solid rgba(255, 21, 21, 0.461);
+    transform: scale(1.1, 1.1);
+}
+
+.ISName {
+    font-weight: 600;
+    font-size: var(--step-0);
+
+    margin-top: 7%;
+}
+
+.ISRarity {
+    font-weight: 300;
+    font-size: var(--step--1);
+
+    margin-top: 2%;
+}
+
+
+
+
+
+.ISRarity.Common {
+    color: var(--common);
+}
+
+.ISRarity.Uncommon {
+    color: var(--uncommon);
+}
+
+.ISRarity.Rare {
+    color: var(--rare);
+}
+
+.ISRarity.Epic {
+    color: var(--epic);
+}
+
+.ISRarity.Legendary {
+    color: var(--legendary);
+}
+
+
+
+
+
+.ValueChanger {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 12%;
+
+    margin: auto 4%;
+}
+
+.ValueChanger .Arrow {
+    width: clamp(0.1rem, 1vh + 1rem, 25px);
+    height: clamp(0.1rem, 1vh + 1rem, 25px);
+    stroke: var(--unselected);
+
+    cursor: pointer;
+
+    transition-property: stroke, transform;
+    transition-duration: 250ms;
+    transition-timing-function: ease;
+}
+
+.Arrow.UP {
+    transform: rotate(180deg);
+}
+
+.Arrow:hover {
+    stroke: var(--font-color);
+    transform: scale(1.2, 1.2);
+}
+
+.Arrow.UP:hover {
+    transform: scale(1.2, 1.2) rotate(180deg);
+}
+
+
+
+.ValueChanger input {
+    width: clamp(0.1rem, 4vh + 1rem, 70px);
+    height: clamp(0.1rem, 4vh + 1rem, 70px);
+
+    background-color: var(--secondary-color);
+    border-radius: 20%;
+    border: 2px solid var(--primary-color);
+    font-size: var(--step--1);
+
+    outline: none;
+
+    text-align: center;
+
+    margin: 0 5%;
+
+    -moz-appearance: textfield;
+
+    transition-property: background-color, border;
+    transition-duration: 250ms;
+    transition-timing-function: ease;
+}
+
+.ValueChanger input::-webkit-outer-spin-button,
+.ValueChanger input::-webkit-inner-spin-button {
+    appearance: none;
+    -webkit-appearance: none;
+}
+
+
+.ValueChanger input:focus {
+    outline: none;
+    border: 2px solid var(--unselected);
+    background-color: var(--tericary-color);
+}
+
+
+
+.RecipeItems {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.RecipeItem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    transform: translateY(8%);
+    margin: 0 5%;
+
+    width: clamp(0.1rem, 8vw + 1rem, 200px);
+    transform: translateY(-5%);
+
+    transition-property: transform;
+    transition-duration: 250ms;
+    transition-timing-function: ease;
+}
+
+
+.RIName {
+    font-weight: 600;
+    font-size: var(--step--1);
+}
+
+.RIFrame {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: clamp(0.1rem, 6vh + 1rem, 200px);
+    height: clamp(0.1rem, 6vh + 1rem, 200px);
+
+    margin-block: 10%;
+
+    border-radius: 100%;
+
+    background-color: var(--secondary-color);
+}
+
+.RIFrame.Common {
+    background: linear-gradient(180deg, rgba(57,61,62,1) 0%, rgba(107,120,126,1) 100%);
+}
+
+.RIFrame.Uncommon {
+    background: linear-gradient(180deg, rgba(19,58,43,1) 0%, rgba(48,139,104,1) 100%);
+}
+
+.RIFrame.Rare {
+    background: linear-gradient(180deg, rgba(16,42,67,1) 0%, rgba(40,86,150,1) 100%);
+}
+
+.RIFrame.Epic {
+    background: linear-gradient(180deg, rgba(48,5,16,1) 0%, rgba(168,33,31,1) 100%);
+}
+
+.RIFrame.Legendary {
+    background: linear-gradient(180deg, rgba(111,74,4,1) 0%, rgba(213,190,23,1) 100%);
+}
+
+
+.RIFrame img {
+    width: 60%;
+}
+
+.RIValue {
+    font-weight: 400;
+    font-size: var(--step--1);
+
+    transition: all 0.5s ease;
+}
+
+
+
+
+
+
+
+
+.RecipeItem .RIName {
+    opacity: 0;
+
+    transition-property: opacity;
+    transition-duration: 250ms;
+    transition-timing-function: ease;
+}
+
+.RecipeItem.Hover {
+    transform: translateY(5%);
+}
+
+.RecipeItem.Hover .RIName {
+    opacity: 1;
+}
+
+
+
+
+
+@media (max-width: 1500px) {
+
+    .ItemSettingsUI {
+        margin: 0;
+    }
+
+    .ISName, .ISRarity {
+        font-size: var(--step--1);
+    }
+
+    .ISFrame {
+        width: clamp(0.1rem, 4vh + 1rem, 130px);
+        height: clamp(0.1rem, 4vh + 1rem, 130px);
+
+        border-radius: 0.2vh;
+    }
+
+    .ValueChanger {
+        width: 13%;
+        margin-inline: 1.5rem;
+    }
+
+    .ValueChanger input {
+        width: clamp(0.1rem, 2vh + 1rem, 70px);
+        height: clamp(0.1rem, 2vh + 1rem, 70px);
+        margin: 0 10%;
+    }
+
+    .ValueChanger .Arrow {
+        width: clamp(0.1rem, 0.4vh + 1rem, 25px);
+        height: clamp(0.1rem, 0.4vh + 1rem, 25px);
+    }
+
+    .RecipeItem {
+        width: clamp(0.1rem, 6vw + 1rem, 200px);
+    }
+
+    .RIName {
+        font-size: var(--step--2);
+    }
+
+    .RIFrame {
+        width: clamp(0.1rem, 4vh + 1rem, 200px);
+        height: clamp(0.1rem, 4vh + 1rem, 200px);
+        margin: 20% 0;
+    }
+
+}
+
+@media (max-width: 1050px) {
+
+    .ISFrame {
+        width: clamp(0.1rem, 3vh + 1rem, 130px);
+        height: clamp(0.1rem, 3vh + 1rem, 130px);
+    }
+
+    .RecipeItem {
+        width: clamp(0.1rem, 5vw + 1rem, 200px);
+        margin: 0;
+    }
+
+    .RIFrame {
+        width: clamp(0.1rem, 2.5vw + 1rem, 200px);
+        height: clamp(0.1rem, 2.5vw + 1rem, 200px);
+        margin: 15% 0;
+    }
+    
+}
+
+@media (max-width: 600px) {
+
+    .ItemConfigUI {
+        align-items: center;
+    }
+
+    .ItemSettings {
+        padding: 8% 1%;
+    }
+
+    .ItemSettingsUI {
+        width: 23%;
+    }
+
+    .ISName, .ISRarity {
+        font-size: var(--step--2);
+    }
+
+    .ISFrame {
+        width: clamp(0.1rem, 3vw + 1rem, 130px);
+        height: clamp(0.1rem, 3vw + 1rem, 130px);
+
+        border-radius: 0.2vh;
+    }
+
+    .ValueChanger {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        width: 10%;
+        margin: 0;
+    }
+
+    .ValueChanger input {
+        width: clamp(0.1rem, 2vw + 1rem, 70px);
+        height: clamp(0.1rem, 2vw + 1rem, 70px);
+        margin: 0 10%;
+
+        font-size: var(--step--2);
+
+        transform: translateY(-30%);
+    }
+
+    .ValueChanger .Arrow {
+        display: none;
+    }
+
+    .RecipeItem {
+        width: clamp(0.1rem, 5vw + 1rem, 200px);
+
+        transform: translateY(-15%);
+    }
+
+    .RIName {
+        font-size: var(--step--2);
+    }
+
+    .RIFrame {
+        width: clamp(0.1rem, 2vw + 1rem, 200px);
+        height: clamp(0.1rem, 2vw + 1rem, 200px);
+        margin: 15% 0;
+    }
+
+}

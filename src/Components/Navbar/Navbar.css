@@ -1,0 +1,150 @@
+@import url('../../App.css');
+
+
+
+
+.MainNavbar {
+    width: 100%;
+    height: clamp(0.1rem, 12%, 180px);
+    background-color: var(--primary-color);
+
+    position: relative;
+    z-index: 20;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+
+.LogoContainer {
+    width: clamp(0.1rem, 10vw + 1rem, 220px);
+    margin: 0 5%;
+}
+
+
+
+
+.NavbarItems {
+    display: flex;
+    flex-direction: row;
+    place-content: center;
+
+    height: 100%;
+    width: 70%;
+
+    list-style-type: none;
+}
+
+
+
+.NavbarItems li {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    width: clamp(0.1rem, 20%, 40rem);
+    height: 100%;
+
+
+    font-size: var(--step-1);
+    font-weight: 500;
+    
+    cursor: pointer;
+
+    transition-property: transform, color, font-size, font-weight;
+    transition-duration: 200ms;
+    transition-timing-function: ease-in;
+}
+
+.NavbarItems li:hover {
+    transform: translateY(-1.25rem);
+}
+
+
+
+
+.NavbarItems li::after {
+    content: "";
+    background-color: var(--font-color);
+
+    height: 0.5rem;
+    width: 25rem;
+
+    bottom: 0;
+
+    position: absolute;
+
+    transform: scale(0, 0.6);
+    transition: transform 200ms ease-in, background-color 300ms ease-in;
+}
+
+.NavbarItems li:hover::after {
+    background-color: var(--selected);
+    transform: scale(0.7, 1) translateY(1.25rem);
+}
+
+
+.NavbarItems li.Unselected {
+    color: var(--unselected);
+}
+
+.NavbarItems li.Active {
+    color: var(--font-color);
+    font-size: var(--step-2);
+    font-weight: 700;
+}
+
+
+
+
+
+.ThemeIconContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: var(--secondary-color);
+
+    height: 65%;
+    width: 10%;
+    border-radius: 5%;
+    padding: 2%;
+
+    cursor: pointer;
+
+    margin-right: 3%;
+}
+
+.ThemeIcon {
+    width: 30%;
+    fill: var(--font-color);
+
+    transition-property: filter, opacity, color;
+    transition: 250ms ease-in-out;
+}
+
+.ThemeIcon.On {
+    filter: drop-shadow(0 0 .5vw var(--font-color));
+}
+
+.ThemeIcon.Off {
+    fill: var(--unselected);
+    opacity: 0.6;
+}
+
+
+@media (max-width: 600px) {
+    .MainNavbar {
+        height: clamp(0.1rem, 8%, 100px);
+    }
+
+    .ThemeIconContainer {
+        width: 18%;
+    }
+}

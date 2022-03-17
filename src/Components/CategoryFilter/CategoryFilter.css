@@ -1,0 +1,142 @@
+@import url('../../App.css');
+
+.CategoryFilter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+
+    padding-top: 20%;
+
+    width: auto;
+    height: 100%;
+    
+    background-color: var(--primary-color);
+    border-radius: 1vh;
+
+    grid-area: two;
+}
+
+.RarityDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    width: 100%;
+
+    margin: 2% 0;
+    padding: 1rem;
+
+    cursor: pointer;
+
+    transition-property: transform, background-color;
+    transition-duration: 200ms;
+    transition-timing-function: ease-in;
+}
+
+.RarityDiv:hover {
+    background-color: var(--dark-color);
+}
+
+.RarityDiv:hover img,
+.RarityDiv:hover .RarityTitle {
+    filter: grayscale(20%);
+    transform: scale(1.2, 1.2) translateY(7%);
+}
+.RarityDiv:hover .RarityTitle {
+    transform: scale(1.2, 1.2) translateY(40%);
+    font-weight: 600;
+}
+
+
+
+.RarityDiv img {
+    width: 25%;
+    margin: 7% 0;
+
+    filter: grayscale(70%);
+
+    transition-property: transform, background-color, filter;
+    transition-duration: 200ms;
+    transition-timing-function: ease-in;
+}
+
+.RarityTitle {
+    margin-block: 7%;
+
+    font-size: var(--step--1);
+    font-weight: 300;
+
+    text-align: center;
+    height: 30%;
+    width: 100%;
+
+
+    transition-property: transform, background-color;
+    transition-duration: 200ms;
+    transition-timing-function: ease-in;
+}
+
+
+.RarityDiv.True {
+    background-color: var(--dark-color);
+}
+
+.RarityDiv.True img,
+.RarityDiv.True .RarityTitle {
+    filter: grayscale(0%);
+    transform: scale(1.2, 1.2) translateY(7%);
+}
+
+.RarityDiv.True .RarityTitle {
+    transform: scale(1.2, 1.2) translateY(40%);
+    font-weight: 700;
+}
+
+
+
+
+@media (max-width: 700px) {
+
+    .CategoryFilter {
+        flex-direction: row;
+        padding: 0;
+
+        overflow-x: scroll;
+    }
+
+    .RarityDiv {
+        height: 50%;
+        width: 29%;
+
+        transform: scale(1, 1);
+    }
+
+    .RarityDiv.True {
+        background-color: var(--primary-color);
+    }
+}
+
+
+
+@media (max-width: 450px) {
+
+    .CategoryFilter {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .RarityDiv {
+        width: 15%;
+        height: 40%;
+        padding: 0;
+    }
+
+    .RarityTitle {
+        font-size: var(--step--2);
+        font-weight: 300;
+    }
+    
+
+}

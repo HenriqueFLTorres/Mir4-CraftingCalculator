@@ -1,0 +1,582 @@
+[
+  {
+    "name": "Herb Root",
+    "image": "./Icons/Herb_Root.png",
+    "category": "Medicine",
+    "rarity": "Common",
+    "recipe": [ 
+      { "name": "Shredded Root", "rarity": "Common", "amount": 10 }, 
+      { "name": "Copper Coin", "amount": 50 } 
+    ]
+  },
+  {
+    "name": "Reishi",
+    "image": "./Icons/Reishi.png",
+    "category": "Medicine",
+    "rarity": "Common",
+    "recipe": [ 
+      { "name": "Shredded Mushroom", "rarity": "Common", "amount": 10 }, 
+      { "name": "Copper Coin", "amount": 50 } 
+    ]
+  },
+  {
+    "name": "Herb Leaf",
+    "image": "./Icons/Herb_Leaf.png",
+    "category": "Medicine",
+    "rarity": "Common",
+    "recipe": [ 
+      { "name": "Shredded Stem", "rarity": "Common", "amount": 20 }, 
+      { "name": "Copper Coin", "amount": 50 } 
+    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "[UC] Unihorn Slice",
+    "image": "./Icons/Unihorn_Slice.png",
+    "category": "Medicine",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "Unihorn Slice", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 200 }, 
+      { "name" : "Energy", "amount": 100 }
+    ]
+  },
+  {
+    "name": "[UC] Flower Oil",
+    "image": "./Icons/Flower_Oil.png",
+    "category": "Medicine",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "Flower Oil", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 200 }, 
+      { "name" : "Energy", "amount": 100 }
+    ]
+  },
+  {
+    "name": "[UC] Century Fruit",
+    "image": "./Icons/Century_Fruit.png",
+    "category": "Medicine",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "Century Fruit", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 200 }, 
+      { "name" : "Energy", "amount": 100 }
+    ]
+  },
+  {
+    "name": "[UC] Greater Yang Pill",
+    "image": "./Icons/Greater_Yang_Pill.png",
+    "category": "Medicine",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "Greater Yang Pill", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 200 }, 
+      { "name" : "Energy", "amount": 100 }
+    ]
+  },
+  {
+    "name": "[UC] Greater Yin Pill",
+    "image": "./Icons/Greater_Yin_Pill.png",
+    "category": "Medicine",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "Greater Yin Pill", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 200 }, 
+      { "name" : "Energy", "amount": 100 }
+    ]
+  },
+  {
+    "name": "[UC] Lesser Yang Pill",
+    "image": "./Icons/Lesser_Yang_pill.png",
+    "category": "Medicine",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "Lesser Yang Pill", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 200 }, 
+      { "name" : "Energy", "amount": 100 }
+    ]
+  },
+  {
+    "name": "[UC] Lesser Yin Pill",
+    "image": "./Icons/Lesser_Yin_pill.png",
+    "category": "Medicine",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "Lesser Yin Pill", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 200 }, 
+      { "name" : "Energy", "amount": 100 }
+    ]
+  },
+  {
+    "name": "[UC] Herb Root",
+    "image": "./Icons/Herb_Root.png",
+    "category": "Medicine",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "Herb Root", "amount": 10 }, 
+      { "name" : "Copper Coin", "amount": 200 }, 
+      { "name" : "Energy", "amount": 100 }
+    ]
+  },
+  {
+    "name": "[UC] Reishi",
+    "image": "./Icons/Reishi.png",
+    "category": "Medicine",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "Reishi", "amount": 10 }, 
+      { "name" : "Copper Coin", "amount": 200 }, 
+      { "name" : "Energy", "amount": 100 }
+    ]
+  },
+  {
+    "name": "[UC] Herb Leaf",
+    "image": "./Icons/Herb_Leaf.png",
+    "category": "Medicine",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "Herb Leaf", "amount": 10 }, 
+      { "name" : "Copper Coin", "amount": 200 }, 
+      { "name" : "Energy", "amount": 100 }
+    ]
+  },
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "Rare Oil",
+    "image": "./Icons/Oil.png",
+    "category": "Medicine",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "Uncommon Oil", "amount": 10 }, 
+      { "name" : "Life Elixir", "amount": 12 }, 
+      { "name" : "Copper Coin", "amount": 4000 }, 
+      { "name" : "Energy", "amount": 2000 }
+    ]
+  },
+  {
+    "name": "[R] Unihorn Slice",
+    "image": "./Icons/Unihorn_Slice.png",
+    "category": "Medicine",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[UC] Unihorn Slice", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 1000 }, 
+      { "name" : "Energy", "amount": 500 }
+    ]
+  },
+  {
+    "name": "[R] Flower Oil",
+    "image": "./Icons/Flower_Oil.png",
+    "category": "Medicine",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[UC] Flower Oil", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 1000 }, 
+      { "name" : "Energy", "amount": 500 }
+    ]
+  },
+  {
+    "name": "[R] Century Fruit",
+    "image": "./Icons/Century_Fruit.png",
+    "category": "Medicine",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[UC] Century Fruit", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 1000 }, 
+      { "name" : "Energy", "amount": 500 }
+    ]
+  },
+  {
+    "name": "[R] Snow Panax",
+    "image": "./Icons/Snow_Panax.png",
+    "category": "Medicine",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[UC] Snow Panax", "amount": 10 }, 
+      { "name" : "Life Elixir", "amount": 12 }, 
+      { "name" : "Copper Coin", "amount": 4000 }, 
+      { "name" : "Energy", "amount": 2000 }
+    ]
+  },
+  {
+    "name": "[R] Greater Yang Pill",
+    "image": "./Icons/Greater_Yang_Pill.png",
+    "category": "Medicine",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[UC] Greater Yang Pill", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 1000 }, 
+      { "name" : "Energy", "amount": 500 }
+    ]
+  },
+  {
+    "name": "[R] Greater Yin Pill",
+    "image": "./Icons/Greater_Yin_Pill.png",
+    "category": "Medicine",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[UC] Greater Yin Pill", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 1000 }, 
+      { "name" : "Energy", "amount": 500 }
+    ]
+  },
+  {
+    "name": "[R] Lesser Yang Pill",
+    "image": "./Icons/Lesser_Yang_pill.png",
+    "category": "Medicine",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[UC] Lesser Yang Pill", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 1000 }, 
+      { "name" : "Energy", "amount": 500 }
+    ]
+  },
+  {
+    "name": "[R] Lesser Yin Pill",
+    "image": "./Icons/Lesser_Yin_pill.png",
+    "category": "Medicine",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[UC] Lesser Yin Pill", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 1000 }, 
+      { "name" : "Energy", "amount": 500 }
+    ]
+  },
+  {
+    "name": "[R] Herb Root",
+    "image": "./Icons/Herb_Root.png",
+    "category": "Medicine",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[UC] Herb Root", "amount": 10 }, 
+      { "name" : "Life Elixir", "amount": 2 }, 
+      { "name" : "Copper Coin", "amount": 1000 }, 
+      { "name" : "Energy", "amount": 500 }
+    ]
+  },
+  {
+    "name": "[R] Reishi",
+    "image": "./Icons/Reishi.png",
+    "category": "Medicine",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[UC] Reishi", "amount": 10 }, 
+      { "name" : "Life Elixir", "amount":  2 }, 
+      { "name" : "Copper Coin", "amount": 1000 }, 
+      { "name" : "Energy", "amount": 500 }
+    ]
+  },
+  {
+    "name": "[R] Herb Leaf",
+    "image": "./Icons/Herb_Leaf.png",
+    "category": "Medicine",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[UC] Herb Leaf", "amount": 10 }, 
+      { "name" : "Life Elixir", "amount": 2 }, 
+      { "name" : "Copper Coin", "amount": 1000 }, 
+      { "name" : "Energy", "amount": 500 }
+    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "Epic Oil",
+    "image": "./Icons/Oil.png",
+    "category": "Medicine",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "Uncommon Oil", "amount": 10 }, 
+      { "name" : "Life Elixir", "amount": 50 }, 
+      { "name" : "Copper Coin", "amount": 20000 }, 
+      { "name" : "Energy", "amount": 10000 }
+    ]
+  },
+  {
+    "name": "[E] Unihorn Slice",
+    "image": "./Icons/Unihorn_Slice.png",
+    "category": "Medicine",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[R] Unihorn Slice", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 10000 }, 
+      { "name" : "Energy", "amount": 2500 }
+    ]
+  },
+  {
+    "name": "[E] Flower Oil",
+    "image": "./Icons/Flower_Oil.png",
+    "category": "Medicine",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[R] Flower Oil", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 10000 }, 
+      { "name" : "Energy", "amount": 2500 }
+    ]
+  },
+  {
+    "name": "[E] Century Fruit",
+    "image": "./Icons/Century_Fruit.png",
+    "category": "Medicine",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[R] Century Fruit", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 10000 }, 
+      { "name" : "Energy", "amount": 2500 }
+    ]
+  },
+  {
+    "name": "[E] Snow Panax",
+    "image": "./Icons/Snow_Panax.png",
+    "category": "Medicine",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[R] Snow Panax", "amount": 10 }, 
+      { "name" : "Life Elixir", "amount": 50 }, 
+      { "name" : "Copper Coin", "amount": 20000 }, 
+      { "name" : "Energy", "amount": 10000 }
+    ]
+  },
+  {
+    "name": "[E] Greater Yang Pill",
+    "image": "./Icons/Greater_Yang_Pill.png",
+    "category": "Medicine",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[R] Greater Yang Pill", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 10000 }, 
+      { "name" : "Energy", "amount": 2500 }
+    ]
+  },
+  {
+    "name": "[E] Greater Yin Pill",
+    "image": "./Icons/Greater_Yin_Pill.png",
+    "category": "Medicine",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[R] Greater Yin Pill", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 10000 }, 
+      { "name" : "Energy", "amount": 2500 }
+    ]
+  },
+  {
+    "name": "[E] Lesser Yang Pill",
+    "image": "./Icons/Lesser_Yang_pill.png",
+    "category": "Medicine",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[R] Lesser Yang Pill", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 10000 }, 
+      { "name" : "Energy", "amount": 2500 }
+    ]
+  },
+  {
+    "name": "[E] Lesser Yin Pill",
+    "image": "./Icons/Lesser_Yin_pill.png",
+    "category": "Medicine",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[R] Lesser Yin Pill", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 10000 }, 
+      { "name" : "Energy", "amount": 2500 }
+    ]
+  },
+  {
+    "name": "[E] Herb Root",
+    "image": "./Icons/Herb_Root.png",
+    "category": "Medicine",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[R] Herb Root", "amount": 10 }, 
+      { "name" : "Life Elixir", "amount": 10 }, 
+      { "name" : "Copper Coin", "amount": 10000 }, 
+      { "name" : "Energy", "amount": 2500 }
+    ]
+  },
+  {
+    "name": "[E] Reishi",
+    "image": "./Icons/Reishi.png",
+    "category": "Medicine",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[R] Reishi", "amount": 10 }, 
+      { "name" : "Life Elixir", "amount": 10 }, 
+      { "name" : "Copper Coin", "amount": 10000 }, 
+      { "name" : "Energy", "amount": 2500 }
+    ]
+  },
+  {
+    "name": "[E] Herb Leaf",
+    "image": "./Icons/Herb_Leaf.png",
+    "category": "Medicine",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[R] Herb Leaf", "amount": 10 }, 
+      { "name" : "Life Elixir", "amount": 10 }, 
+      { "name" : "Copper Coin", "amount": 10000 }, 
+      { "name" : "Energy", "amount": 2500 }
+    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "[L] Unihorn Slice",
+    "image": "./Icons/Unihorn_Slice.png",
+    "category": "Medicine",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[E] Unihorn Slice", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 50000 }, 
+      { "name" : "Energy", "amount": 12500 }
+    ]
+  },
+  {
+    "name": "[L] Flower Oil",
+    "image": "./Icons/Flower_Oil.png",
+    "category": "Medicine",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[E] Flower Oil", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 50000 }, 
+      { "name" : "Energy", "amount": 12500 }
+    ]
+  },
+  {
+    "name": "[L] Century Fruit",
+    "image": "./Icons/Century_Fruit.png",
+    "category": "Medicine",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[E] Century Fruit", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 50000 },
+      { "name" : "Energy", "amount": 12500 }
+    ]
+  },
+  {
+    "name": "[L] Greater Yang Pill",
+    "image": "./Icons/Greater_Yang_Pill.png",
+    "category": "Medicine",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[E] Greater Yang Pill", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 50000 }, 
+      { "name" : "Energy", "amount": 12500 }
+    ]
+  },
+  {
+    "name": "[L] Greater Yin Pill",
+    "image": "./Icons/Greater_Yin_Pill.png",
+    "category": "Medicine",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[E] Greater Yin Pill", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 50000 }, 
+      { "name" : "Energy", "amount": 12500 }
+    ]
+  },
+  {
+    "name": "[L] Lesser Yang Pill",
+    "image": "./Icons/Lesser_Yang_pill.png",
+    "category": "Medicine",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[E] Lesser Yang Pill", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 50000 }, 
+      { "name" : "Energy", "amount": 12500 }
+    ]
+  },
+  {
+    "name": "[L] Lesser Yin Pill",
+    "image": "./Icons/Lesser_Yin_pill.png",
+    "category": "Medicine",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[E] Lesser Yin Pill", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 50000 }, 
+      { "name" : "Energy", "amount": 12500 }
+    ]
+  },
+  {
+    "name": "[L] Herb Root",
+    "image": "./Icons/Herb_Root.png",
+    "category": "Medicine",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[E] Herb Root", "amount": 10 }, 
+      { "name" : "Life Elixir", "amount": 50 }, 
+      { "name" : "Copper Coin", "amount": 50000 }, 
+      { "name" : "Energy", "amount": 12500 }
+    ]
+  },
+  {
+    "name": "[L] Reishi",
+    "image": "./Icons/Reishi.png",
+    "category": "Medicine",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[E] Reishi", "amount": 10 }, 
+      { "name" : "Life Elixir", "amount": 50 }, 
+      { "name" : "Copper Coin", "amount": 50000 }, 
+      { "name" : "Energy", "amount": 12500 }
+    ]
+  },
+  {
+    "name": "[L] Herb Leaf",
+    "image": "./Icons/Herb_Leaf.png",
+    "category": "Medicine",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[E] Herb Leaf", "amount": 10 }, 
+      { "name" : "Life Elixir", "amount": 50 }, 
+      { "name" : "Copper Coin", "amount": 50000 }, 
+      { "name" : "Energy", "amount": 12500 }
+    ]
+  }
+]

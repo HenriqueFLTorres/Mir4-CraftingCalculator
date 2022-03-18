@@ -43,6 +43,10 @@
   
 ### Updates 🎉
   
+  #### V1.1
+  - Item frames on recipe result now have a custom background for their rarity
+  
+  
   #### V1.0 - Launch
   
   There are a lot to be fixed and added, but the user already can calculate medicine items, search by name, filter by category, set the amount of multiple items and see the total resources cost

@@ -578,5 +578,466 @@
       { "name" : "Copper Coin", "amount": 50000 }, 
       { "name" : "Energy", "amount": 12500 }
     ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "[UC] Steel",
+    "image": "./Icons/Steel.png",
+    "category": "Equipaments",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "Broken Ore", "rarity": "Common", "amount": 10 }, 
+      { "name" : "Copper Coin", "amount": 400 }, 
+      { "name" : "Dark Steel", "amount": 200 }
+    ]
+  },
+  {
+    "name": "[UC] Platinum",
+    "image": "./Icons/Platinum.png",
+    "category": "Equipaments",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "Broken Ore", "rarity": "Common", "amount": 10 }, 
+      { "name" : "Copper Coin", "amount": 400 }, 
+      { "name" : "Dark Steel", "amount": 200 }
+    ]
+  },
+  {
+    "name": "[UC] Evil Minded Orb",
+    "image": "./Icons/Evil_Minded_Orb.png",
+    "category": "Equipaments",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "Evil Minded Orb", "rarity": "Common", "amount": 10 }, 
+      { "name" : "Copper Coin", "amount": 400 }, 
+      { "name" : "Dark Steel", "amount": 200 }
+    ]
+  },
+  {
+    "name": "[UC] Quintessence",
+    "image": "./Icons/Quintessence.png",
+    "category": "Equipaments",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "Quintessence", "rarity": "Common", "amount": 10 }, 
+      { "name" : "Copper Coin", "amount": 400 }, 
+      { "name" : "Dark Steel", "amount": 200 }
+    ]
+  },
+  {
+    "name": "[UC] Illuminating Fragment",
+    "image": "./Icons/Illuminating_Fragment.png",
+    "category": "Equipaments",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "Evil Minded Orb", "rarity": "Common", "amount": 10 }, 
+      { "name" : "Copper Coin", "amount": 400 }, 
+      { "name" : "Dark Steel", "amount": 200 }
+    ]
+  },
+  {
+    "name": "[UC] Moon Shadow Stone",
+    "image": "./Icons/Moon_Shadow_Stone.png",
+    "category": "Equipaments",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "Moon Shadow Stone", "rarity": "Common", "amount": 10 }, 
+      { "name" : "Copper Coin", "amount": 400 }, 
+      { "name" : "Dark Steel", "amount": 200 }
+    ]
+  },
+  {
+    "name": "[UC] Exorcism Bauble",
+    "image": "./Icons/Exorcism_Bauble.png",
+    "category": "Equipaments",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "Exorcism Bauble", "rarity": "Common", "amount": 10 }, 
+      { "name" : "Copper Coin", "amount": 400 }, 
+      { "name" : "Dark Steel", "amount": 200 }
+    ]
+  },
+  {
+    "name": "[UC] Anima Stone",
+    "image": "./Icons/Anima_Stone.png",
+    "category": "Equipaments",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "Anima Stone", "rarity": "Common", "amount": 10 }, 
+      { "name" : "Copper Coin", "amount": 400 }, 
+      { "name" : "Dark Steel", "amount": 200 }
+    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "[R] Steel",
+    "image": "./Icons/Steel.png",
+    "category": "Equipaments",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 2 }, 
+      { "name" : "Copper Coin", "amount": 2000 }, 
+      { "name" : "Dark Steel", "amount": 1000 }
+    ]
+  },
+  {
+    "name": "[R] Platinum",
+    "image": "./Icons/Platinum.png",
+    "category": "Equipaments",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[UC] Platinum", "rarity": "Uncommon", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 2 }, 
+      { "name" : "Copper Coin", "amount": 2000 }, 
+      { "name" : "Dark Steel", "amount": 1000 }
+    ]
+  },
+  {
+    "name": "[R] Evil Minded Orb",
+    "image": "./Icons/Evil_Minded_Orb.png",
+    "category": "Equipaments",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[UC] Evil Minded Orb", "rarity": "Uncommon", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 2 }, 
+      { "name" : "Copper Coin", "amount": 2000 }, 
+      { "name" : "Dark Steel", "amount": 1000 }
+    ]
+  },
+  {
+    "name": "[R] Quintessence",
+    "image": "./Icons/Quintessence.png",
+    "category": "Equipaments",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[UC] Quintessence", "rarity": "Uncommon", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 2 }, 
+      { "name" : "Copper Coin", "amount": 2000 }, 
+      { "name" : "Dark Steel", "amount": 1000 }
+    ]
+  },
+  {
+    "name": "[R] Illuminating Fragment",
+    "image": "./Icons/Illuminating_Fragment.png",
+    "category": "Equipaments",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[UC] Illuminating Fragment", "rarity": "Uncommon", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 2 }, 
+      { "name" : "Copper Coin", "amount": 2000 }, 
+      { "name" : "Dark Steel", "amount": 1000 }
+    ]
+  },
+  {
+    "name": "[R] Moon Shadow Stone",
+    "image": "./Icons/Moon_Shadow_Stone.png",
+    "category": "Equipaments",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[UC] Moon Shadow Stone", "rarity": "Uncommon", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 2 }, 
+      { "name" : "Copper Coin", "amount": 2000 }, 
+      { "name" : "Dark Steel", "amount": 1000 }
+    ]
+  },
+  {
+    "name": "[R] Exorcism Bauble",
+    "image": "./Icons/Exorcism_Bauble.png",
+    "category": "Equipaments",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[UC] Exorcism Bauble", "rarity": "Uncommon", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 2 }, 
+      { "name" : "Copper Coin", "amount": 2000 }, 
+      { "name" : "Dark Steel", "amount": 1000 }
+    ]
+  },
+  {
+    "name": "[R] Anima Stone",
+    "image": "./Icons/Anima_Stone.png",
+    "category": "Equipaments",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[UC] Anima Stone", "rarity": "Uncommon", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 2 }, 
+      { "name" : "Copper Coin", "amount": 2000 }, 
+      { "name" : "Dark Steel", "amount": 1000 }
+    ]
+  },
+
+
+
+
+
+  {
+    "name": "[E] Steel",
+    "image": "./Icons/Steel.png",
+    "category": "Equipaments",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[R] Steel", "rarity": "Rare", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 25 }, 
+      { "name" : "Copper Coin", "amount": 20000 }, 
+      { "name" : "Dark Steel", "amount": 5000 }
+    ]
+  },
+  {
+    "name": "[E] Platinum",
+    "image": "./Icons/Platinum.png",
+    "category": "Equipaments",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[R] Platinum", "rarity": "Rare", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 25 }, 
+      { "name" : "Copper Coin", "amount": 20000 }, 
+      { "name" : "Dark Steel", "amount": 5000 }
+    ]
+  },
+  {
+    "name": "[E] Evil Minded Orb",
+    "image": "./Icons/Evil_Minded_Orb.png",
+    "category": "Equipaments",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[R] Evil Minded Orb", "rarity": "Rare", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 25 }, 
+      { "name" : "Copper Coin", "amount": 20000 }, 
+      { "name" : "Dark Steel", "amount": 5000 }
+    ]
+  },
+  {
+    "name": "[E] Quintessence",
+    "image": "./Icons/Quintessence.png",
+    "category": "Equipaments",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[R] Quintessence", "rarity": "Rare", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 25 }, 
+      { "name" : "Copper Coin", "amount": 20000 }, 
+      { "name" : "Dark Steel", "amount": 5000 }
+    ]
+  },
+  {
+    "name": "[E] Illuminating Fragment",
+    "image": "./Icons/Illuminating_Fragment.png",
+    "category": "Equipaments",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[R] Illuminating Fragment", "rarity": "Rare", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 25 }, 
+      { "name" : "Copper Coin", "amount": 20000 }, 
+      { "name" : "Dark Steel", "amount": 5000 }
+    ]
+  },
+  {
+    "name": "[E] Moon Shadow Stone",
+    "image": "./Icons/Moon_Shadow_Stone.png",
+    "category": "Equipaments",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[R] Moon Shadow Stone", "rarity": "Rare", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 25 }, 
+      { "name" : "Copper Coin", "amount": 20000 }, 
+      { "name" : "Dark Steel", "amount": 5000 }
+    ]
+  },
+  {
+    "name": "[E] Exorcism Bauble",
+    "image": "./Icons/Exorcism_Bauble.png",
+    "category": "Equipaments",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[R] Exorcism Bauble", "rarity": "Rare", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 25 }, 
+      { "name" : "Copper Coin", "amount": 20000 }, 
+      { "name" : "Dark Steel", "amount": 5000 }
+    ]
+  },
+  {
+    "name": "[E] Anima Stone",
+    "image": "./Icons/Anima_Stone.png",
+    "category": "Equipaments",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[R] Anima Stone", "rarity": "Rare", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 25 }, 
+      { "name" : "Copper Coin", "amount": 20000 }, 
+      { "name" : "Dark Steel", "amount": 5000 }
+    ]
+  },
+
+
+
+
+
+
+
+  {
+    "name": "[L] Steel",
+    "image": "./Icons/Steel.png",
+    "category": "Equipaments",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[E] Steel", "rarity": "Epic", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 125 }, 
+      { "name" : "Copper Coin", "amount": 100000 }, 
+      { "name" : "Dark Steel", "amount": 25000 }
+    ]
+  },
+  {
+    "name": "[L] Platinum",
+    "image": "./Icons/Platinum.png",
+    "category": "Equipaments",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[E] Platinum", "rarity": "Epic", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 125 }, 
+      { "name" : "Copper Coin", "amount": 100000 }, 
+      { "name" : "Dark Steel", "amount": 25000 }
+    ]
+  },
+  {
+    "name": "[L] Evil Minded Orb",
+    "image": "./Icons/Evil_Minded_Orb.png",
+    "category": "Equipaments",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[E] Evil Minded Orb", "rarity": "Epic", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 125 }, 
+      { "name" : "Copper Coin", "amount": 100000 }, 
+      { "name" : "Dark Steel", "amount": 25000 }
+    ]
+  },
+  {
+    "name": "[L] Quintessence",
+    "image": "./Icons/Quintessence.png",
+    "category": "Equipaments",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[E] Quintessence", "rarity": "Epic", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 125 }, 
+      { "name" : "Copper Coin", "amount": 100000 }, 
+      { "name" : "Dark Steel", "amount": 25000 }
+    ]
+  },
+  {
+    "name": "[L] Illuminating Fragment",
+    "image": "./Icons/Illuminating_Fragment.png",
+    "category": "Equipaments",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[E] Illuminating Fragment", "rarity": "Epic", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 125 }, 
+      { "name" : "Copper Coin", "amount": 100000 }, 
+      { "name" : "Dark Steel", "amount": 25000 }
+    ]
+  },
+  {
+    "name": "[L] Moon Shadow Stone",
+    "image": "./Icons/Moon_Shadow_Stone.png",
+    "category": "Equipaments",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[E] Moon Shadow Stone", "rarity": "Epic", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 125 }, 
+      { "name" : "Copper Coin", "amount": 100000 }, 
+      { "name" : "Dark Steel", "amount": 25000 }
+    ]
+  },
+  {
+    "name": "[L] Exorcism Bauble",
+    "image": "./Icons/Exorcism_Bauble.png",
+    "category": "Equipaments",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[E] Exorcism Bauble", "rarity": "Epic", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 125 }, 
+      { "name" : "Copper Coin", "amount": 100000 }, 
+      { "name" : "Dark Steel", "amount": 25000 }
+    ]
+  },
+  {
+    "name": "[L] Anima Stone",
+    "image": "./Icons/Anima_Stone.png",
+    "category": "Equipaments",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[E] Anima Stone", "rarity": "Epic", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 25 }, 
+      { "name" : "Copper Coin", "amount": 100000 }, 
+      { "name" : "Dark Steel", "amount": 25000 }
+    ]
   }
 ]

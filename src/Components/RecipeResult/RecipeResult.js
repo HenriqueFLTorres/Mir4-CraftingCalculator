@@ -6,12 +6,14 @@ import { useRecipe } from '../Hooks/AcessRecipeContext'
 import recipeSum from '../../Utils/recipeSum.js'
 import millify from 'millify'
 import nameFormatter from '../../Utils/nameFormatter'
+import recipeBGColor from '../../Utils/recipeBGColor'
 
 const RecipeResult = () => {
 
   const recipeInfo = useRecipe();
   let recipe = recipeInfo;
   let result = recipeSum(recipe)
+
 
 
   return (
@@ -21,13 +23,13 @@ const RecipeResult = () => {
         {result?.map((item, index) => {
 
             let fancyAmount = item.value.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ")
-
             let bakedName = nameFormatter(item.name)
-
+            
+            let backgroundColor = recipeBGColor(item.name)
 
           return (
             <div className={`RecipeCounter`} key={index} data-content={fancyAmount} >
-                <div className='RCFrame'>
+                <div className='RCFrame' style={{ background: backgroundColor }}>
                   <img className='RCImage' src={`./Icons/${bakedName}.png`} alt={item.name} />
                 </div>
                 <h3 className='RCName'>{item.name}</h3>

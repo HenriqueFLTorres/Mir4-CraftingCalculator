@@ -1,23 +1,29 @@
 @import url('../../App.css');
 
+.ContentArea.Expand .ItemList {
+    width: 20%;
+}
 
 .ItemList {
     width: 100%;
-    max-height: auto;
+    height: auto;
 
     background-color: var(--primary-color);
 
 
     grid-area: one;
-    padding: 3%;
+    padding: clamp(0.1rem, .9vw + .5rem, 2000rem);
 
     overflow-y: scroll;
+    overflow-x: hidden;
+
+    transition: width 550ms ease;
 }
 
 .SearchBar {
     display: flex;
 
-    width: 90%;
+    width: 20vw;
     
     color: var(--font-color);
     font-size: var(--step-0);
@@ -53,14 +59,16 @@
     align-items: center;
     justify-content: flex-start;
 
-    height: clamp(0.1rem, 10vh, 120px);
-    padding: 5% 8%;
+    height: clamp(0.1rem, 8vh + 1rem, 2000rem);
+    width: clamp(15vw, 19.5vw + 1rem, 20000rem);
 
-    border-radius: 0.5vh;
+    padding-block: clamp(.7vw, .5vw + .5rem ,2000rem);
+    padding-inline: clamp(1.7vw, 1.25vw + 1rem ,2000rem);
+
+    border-radius: 0.3vw;
+    margin-bottom: clamp(0.1rem, .5vh + .5rem, 2000rem);
 
     background-color: var(--secondary-color);
-
-    margin: 3%;
 
     transition-property: transform, background, filter;
     transition-duration: 400ms;
@@ -80,8 +88,8 @@
     justify-content: center;
     align-items: center;
 
-    height: 80px;
-    width: 80px;
+    height: clamp(0.1rem, 3vw + 1rem, 2000rem);
+    width: clamp(0.1rem, 3vw + 1rem, 2000rem);
 
     border-radius: 100%;
 
@@ -93,7 +101,7 @@
 }
 
 .ImageFrame img {
-    height: 65%;
+    height: 70%;
 }
 
 
@@ -104,7 +112,7 @@
 
     margin-right: auto;
 
-    height: 90%;
+    height: 100%;
 }
 
 .ItemName {
@@ -117,7 +125,7 @@
     font-weight: 400;
     color: var(--unselected);
 
-    margin-top: 0.5rem;
+    margin-top: 1%;
 }
 
 .ItemRarity {
@@ -180,7 +188,7 @@
 
 
 
-.ContentArea.Expand .ItemDisplay,
+/* .ContentArea.Expand .ItemDisplay,
 .ContentArea.Expand .SearchBar,
 .ContentArea.Expand .ItemList {
     display: none;
@@ -188,17 +196,12 @@
 
 .ContentArea.Expand .ItemList {
     overflow: hidden;
-}
+} */
 
 
 
 
 @media (max-width: 1500px) {
-
-    .ImageFrame {
-        width: 55px;
-        height: 55px;
-    }
 
     .ItemInfo {
         height: 100%;
@@ -221,11 +224,6 @@
         height: 80%;
     }
 
-    .ImageFrame {
-        width: 40px;
-        height: 40px;
-    }
-
     .ItemInfo {
         height: 80%;
     }
@@ -244,12 +242,6 @@
         height: 80%;
     }
 
-    .ImageFrame {
-        width: clamp(0.1rem, 3vw + 1rem, 200px);
-        height: clamp(0.1rem, 3vw + 1rem, 200px);
-        
-        margin-left: 3%;
-    }
 }
 
 

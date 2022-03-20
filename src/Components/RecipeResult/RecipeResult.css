@@ -12,7 +12,16 @@
     border-radius: 1vh;
 
     grid-area: four;
+    transition: width 550ms ease, transform 550ms ease;
 }
+
+
+
+.ContentArea.Expand .RecipeResult {
+    width: 132%;
+    transform: translateX(-24%);
+}
+
 
 .RRTip {
     font-size: var(--step-0);

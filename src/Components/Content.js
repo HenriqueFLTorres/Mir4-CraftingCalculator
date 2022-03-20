@@ -18,7 +18,17 @@ export const Content = () => {
     <div className={`ContentArea${colapse ? ' Expand' : ''}`}>
       <SelectAndUpdateContext>
           <AcessRecipeContext>
-            <div className='ColapseButtom' onClick={() => setColapse(!colapse)}>
+            <div className='ColapseButtom' onClick={(e) => {
+              setColapse(!colapse)
+              // setTimeout(() => {
+              //   if ( !colapse ) {
+              //     e.target.parentNode.style.gridTemplateColumns = "5% 10% 85%"
+              //   } else {
+              //     e.target.parentNode.style.gridTemplateColumns = "25% 10% 63%"
+              //   }
+              // }, 550);
+              
+            }}>
                 <Arrow className="Colapse"/>
                 <Arrow className="Colapse"/>
                 <Arrow className="Colapse"/>

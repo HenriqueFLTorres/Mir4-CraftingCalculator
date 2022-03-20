@@ -6,7 +6,7 @@
     box-sizing: border-box;
 
     width: clamp(0.1rem, 95%, 2200px);
-    height: 85%;
+    height: 88%;
 
     grid-template-areas:
         'collapseButtom two three'
@@ -14,22 +14,24 @@
         'one two three'
         'one two three'
         'one two four';
-    grid-template-columns: 25% 10% 65%;
-    grid-template-rows: 40px repeat(4, 24%);
+    grid-template-columns: 25% 10% 63%;
+    grid-template-rows: 40px repeat(3, 21%) 28%;
 
     gap: clamp(0.1rem, 1%, 20rem);
     padding: clamp(0.1rem, 1%, 2rem);
 }
 
-.ContentArea.Expand {
-    grid-template-columns: 5% 10% 85%;
+.ContentArea.Expand .ColapseButtom {
+    width: 20%;
 }
 
 .ColapseButtom {
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 100%;
 
+    cursor: pointer;
 
     grid-area: collapseButtom;
 
@@ -38,6 +40,8 @@
 
     font-size: var(--step--1);
     font-weight: 700;
+
+    transition: width 550ms ease;
 }
 
 .Colapse {
@@ -54,7 +58,7 @@
 
 .ContentArea.Expand .Colapse {
     transform: rotate(-90deg);
-    width: 30%;
+    height: 60%;
 }
 
 @media (max-width: 700px) {

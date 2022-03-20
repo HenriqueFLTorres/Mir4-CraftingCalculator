@@ -12,8 +12,14 @@
     overflow-y: scroll;
 
     grid-area: three;
+    transition: width 550ms ease, transform 550ms ease;
 }
 
+
+.ContentArea.Expand .ItemSettings {
+    width: 132%;
+    transform: translateX(-24%);
+}
 
 
 

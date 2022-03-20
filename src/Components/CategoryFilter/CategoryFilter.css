@@ -10,11 +10,18 @@
 
     width: auto;
     height: 100%;
+    overflow-x: hidden;
+    overflow-y: scroll;
     
     background-color: var(--primary-color);
     border-radius: 1vh;
 
     grid-area: two;
+    transition: transform 550ms ease;
+}
+
+.ContentArea.Expand .CategoryFilter {
+    transform: translateX(-200%);
 }
 
 .RarityDiv {
@@ -52,7 +59,7 @@
 
 
 .RarityDiv img {
-    width: 25%;
+    width: 20%;
     margin: 7% 0;
 
     filter: grayscale(70%);
@@ -65,7 +72,7 @@
 .RarityTitle {
     margin-block: 7%;
 
-    font-size: var(--step--1);
+    font-size: var(--step--2);
     font-weight: 300;
 
     text-align: center;

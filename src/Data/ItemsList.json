@@ -48,7 +48,7 @@
     "category": "Medicine",
     "rarity": "Uncommon",
     "recipe": [ 
-      { "name" : "Unihorn Slice", "amount": 20 }, 
+      { "name" : "Unihorn Slice", "rarity": "Common", "amount": 20 }, 
       { "name" : "Copper Coin", "amount": 200 }, 
       { "name" : "Energy", "amount": 100 }
     ]
@@ -59,7 +59,7 @@
     "category": "Medicine",
     "rarity": "Uncommon",
     "recipe": [ 
-      { "name" : "Flower Oil", "amount": 20 }, 
+      { "name" : "Flower Oil", "rarity": "Common", "amount": 20 }, 
       { "name" : "Copper Coin", "amount": 200 }, 
       { "name" : "Energy", "amount": 100 }
     ]
@@ -70,7 +70,7 @@
     "category": "Medicine",
     "rarity": "Uncommon",
     "recipe": [ 
-      { "name" : "Century Fruit", "amount": 20 }, 
+      { "name" : "Century Fruit", "rarity": "Common", "amount": 20 }, 
       { "name" : "Copper Coin", "amount": 200 }, 
       { "name" : "Energy", "amount": 100 }
     ]
@@ -81,7 +81,7 @@
     "category": "Medicine",
     "rarity": "Uncommon",
     "recipe": [ 
-      { "name" : "Greater Yang Pill", "amount": 20 }, 
+      { "name" : "Greater Yang Pill", "rarity": "Common", "amount": 20 }, 
       { "name" : "Copper Coin", "amount": 200 }, 
       { "name" : "Energy", "amount": 100 }
     ]
@@ -92,7 +92,7 @@
     "category": "Medicine",
     "rarity": "Uncommon",
     "recipe": [ 
-      { "name" : "Greater Yin Pill", "amount": 20 }, 
+      { "name" : "Greater Yin Pill", "rarity": "Common", "amount": 20 }, 
       { "name" : "Copper Coin", "amount": 200 }, 
       { "name" : "Energy", "amount": 100 }
     ]
@@ -103,7 +103,7 @@
     "category": "Medicine",
     "rarity": "Uncommon",
     "recipe": [ 
-      { "name" : "Lesser Yang Pill", "amount": 20 }, 
+      { "name" : "Lesser Yang Pill", "rarity": "Common", "amount": 20 }, 
       { "name" : "Copper Coin", "amount": 200 }, 
       { "name" : "Energy", "amount": 100 }
     ]
@@ -114,7 +114,7 @@
     "category": "Medicine",
     "rarity": "Uncommon",
     "recipe": [ 
-      { "name" : "Lesser Yin Pill", "amount": 20 }, 
+      { "name" : "Lesser Yin Pill", "rarity": "Common", "amount": 20 }, 
       { "name" : "Copper Coin", "amount": 200 }, 
       { "name" : "Energy", "amount": 100 }
     ]
@@ -125,7 +125,7 @@
     "category": "Medicine",
     "rarity": "Uncommon",
     "recipe": [ 
-      { "name" : "Herb Root", "amount": 10 }, 
+      { "name" : "Herb Root", "rarity": "Common", "amount": 10 }, 
       { "name" : "Copper Coin", "amount": 200 }, 
       { "name" : "Energy", "amount": 100 }
     ]
@@ -136,7 +136,7 @@
     "category": "Medicine",
     "rarity": "Uncommon",
     "recipe": [ 
-      { "name" : "Reishi", "amount": 10 }, 
+      { "name" : "Reishi", "rarity": "Common", "amount": 10 }, 
       { "name" : "Copper Coin", "amount": 200 }, 
       { "name" : "Energy", "amount": 100 }
     ]
@@ -147,7 +147,7 @@
     "category": "Medicine",
     "rarity": "Uncommon",
     "recipe": [ 
-      { "name" : "Herb Leaf", "amount": 10 }, 
+      { "name" : "Herb Leaf", "rarity": "Common", "amount": 10 }, 
       { "name" : "Copper Coin", "amount": 200 }, 
       { "name" : "Energy", "amount": 100 }
     ]
@@ -168,8 +168,8 @@
     "category": "Medicine",
     "rarity": "Rare",
     "recipe": [ 
-      { "name" : "Uncommon Oil", "amount": 10 }, 
-      { "name" : "Life Elixir", "amount": 12 }, 
+      { "name" : "Uncommon Oil", "rarity": "Uncommon", "amount": 10 }, 
+      { "name" : "Life Elixir", "rarity": "Uncommon", "amount": 12 }, 
       { "name" : "Copper Coin", "amount": 4000 }, 
       { "name" : "Energy", "amount": 2000 }
     ]
@@ -180,7 +180,7 @@
     "category": "Medicine",
     "rarity": "Rare",
     "recipe": [ 
-      { "name" : "[UC] Unihorn Slice", "amount": 20 }, 
+      { "name" : "[UC] Unihorn Slice", "rarity": "Uncommon", "amount": 20 }, 
       { "name" : "Copper Coin", "amount": 1000 }, 
       { "name" : "Energy", "amount": 500 }
     ]
@@ -191,7 +191,7 @@
     "category": "Medicine",
     "rarity": "Rare",
     "recipe": [ 
-      { "name" : "[UC] Flower Oil", "amount": 20 }, 
+      { "name" : "[UC] Flower Oil", "rarity": "Uncommon", "amount": 20 }, 
       { "name" : "Copper Coin", "amount": 1000 }, 
       { "name" : "Energy", "amount": 500 }
     ]
@@ -202,7 +202,7 @@
     "category": "Medicine",
     "rarity": "Rare",
     "recipe": [ 
-      { "name" : "[UC] Century Fruit", "amount": 20 }, 
+      { "name" : "[UC] Century Fruit", "rarity": "Uncommon", "amount": 20 }, 
       { "name" : "Copper Coin", "amount": 1000 }, 
       { "name" : "Energy", "amount": 500 }
     ]
@@ -213,8 +213,8 @@
     "category": "Medicine",
     "rarity": "Rare",
     "recipe": [ 
-      { "name" : "[UC] Snow Panax", "amount": 10 }, 
-      { "name" : "Life Elixir", "amount": 12 }, 
+      { "name" : "[UC] Snow Panax", "rarity": "Uncommon", "amount": 10 }, 
+      { "name" : "Life Elixir", "rarity": "Uncommon", "amount": 12 }, 
       { "name" : "Copper Coin", "amount": 4000 }, 
       { "name" : "Energy", "amount": 2000 }
     ]
@@ -225,7 +225,7 @@
     "category": "Medicine",
     "rarity": "Rare",
     "recipe": [ 
-      { "name" : "[UC] Greater Yang Pill", "amount": 20 }, 
+      { "name" : "[UC] Greater Yang Pill", "rarity": "Uncommon", "amount": 20 }, 
       { "name" : "Copper Coin", "amount": 1000 }, 
       { "name" : "Energy", "amount": 500 }
     ]
@@ -236,7 +236,7 @@
     "category": "Medicine",
     "rarity": "Rare",
     "recipe": [ 
-      { "name" : "[UC] Greater Yin Pill", "amount": 20 }, 
+      { "name" : "[UC] Greater Yin Pill", "rarity": "Uncommon", "amount": 20 }, 
       { "name" : "Copper Coin", "amount": 1000 }, 
       { "name" : "Energy", "amount": 500 }
     ]
@@ -247,7 +247,7 @@
     "category": "Medicine",
     "rarity": "Rare",
     "recipe": [ 
-      { "name" : "[UC] Lesser Yang Pill", "amount": 20 }, 
+      { "name" : "[UC] Lesser Yang Pill", "rarity": "Uncommon", "amount": 20 }, 
       { "name" : "Copper Coin", "amount": 1000 }, 
       { "name" : "Energy", "amount": 500 }
     ]
@@ -258,7 +258,7 @@
     "category": "Medicine",
     "rarity": "Rare",
     "recipe": [ 
-      { "name" : "[UC] Lesser Yin Pill", "amount": 20 }, 
+      { "name" : "[UC] Lesser Yin Pill", "rarity": "Uncommon", "amount": 20 }, 
       { "name" : "Copper Coin", "amount": 1000 }, 
       { "name" : "Energy", "amount": 500 }
     ]
@@ -269,8 +269,8 @@
     "category": "Medicine",
     "rarity": "Rare",
     "recipe": [ 
-      { "name" : "[UC] Herb Root", "amount": 10 }, 
-      { "name" : "Life Elixir", "amount": 2 }, 
+      { "name" : "[UC] Herb Root", "rarity": "Uncommon", "amount": 10 }, 
+      { "name" : "Life Elixir", "rarity": "Uncommon", "amount": 2 }, 
       { "name" : "Copper Coin", "amount": 1000 }, 
       { "name" : "Energy", "amount": 500 }
     ]
@@ -281,8 +281,8 @@
     "category": "Medicine",
     "rarity": "Rare",
     "recipe": [ 
-      { "name" : "[UC] Reishi", "amount": 10 }, 
-      { "name" : "Life Elixir", "amount":  2 }, 
+      { "name" : "[UC] Reishi", "rarity": "Uncommon", "amount": 10 }, 
+      { "name" : "Life Elixir", "rarity": "Uncommon", "amount":  2 }, 
       { "name" : "Copper Coin", "amount": 1000 }, 
       { "name" : "Energy", "amount": 500 }
     ]
@@ -293,8 +293,8 @@
     "category": "Medicine",
     "rarity": "Rare",
     "recipe": [ 
-      { "name" : "[UC] Herb Leaf", "amount": 10 }, 
-      { "name" : "Life Elixir", "amount": 2 }, 
+      { "name" : "[UC] Herb Leaf", "rarity": "Uncommon", "amount": 10 }, 
+      { "name" : "Life Elixir", "rarity": "Uncommon", "amount": 2 }, 
       { "name" : "Copper Coin", "amount": 1000 }, 
       { "name" : "Energy", "amount": 500 }
     ]
@@ -320,8 +320,8 @@
     "category": "Medicine",
     "rarity": "Epic",
     "recipe": [ 
-      { "name" : "Uncommon Oil", "amount": 10 }, 
-      { "name" : "Life Elixir", "amount": 50 }, 
+      { "name" : "Uncommon Oil", "rarity": "Uncommon", "amount": 10 }, 
+      { "name" : "Life Elixir", "rarity": "Uncommon", "amount": 50 }, 
       { "name" : "Copper Coin", "amount": 20000 }, 
       { "name" : "Energy", "amount": 10000 }
     ]
@@ -332,7 +332,7 @@
     "category": "Medicine",
     "rarity": "Epic",
     "recipe": [ 
-      { "name" : "[R] Unihorn Slice", "amount": 20 }, 
+      { "name" : "[R] Unihorn Slice", "rarity": "Rare", "amount": 20 }, 
       { "name" : "Copper Coin", "amount": 10000 }, 
       { "name" : "Energy", "amount": 2500 }
     ]
@@ -343,7 +343,7 @@
     "category": "Medicine",
     "rarity": "Epic",
     "recipe": [ 
-      { "name" : "[R] Flower Oil", "amount": 20 }, 
+      { "name" : "[R] Flower Oil", "rarity": "Rare", "amount": 20 }, 
       { "name" : "Copper Coin", "amount": 10000 }, 
       { "name" : "Energy", "amount": 2500 }
     ]
@@ -354,7 +354,7 @@
     "category": "Medicine",
     "rarity": "Epic",
     "recipe": [ 
-      { "name" : "[R] Century Fruit", "amount": 20 }, 
+      { "name" : "[R] Century Fruit", "rarity": "Rare", "amount": 20 }, 
       { "name" : "Copper Coin", "amount": 10000 }, 
       { "name" : "Energy", "amount": 2500 }
     ]
@@ -365,8 +365,8 @@
     "category": "Medicine",
     "rarity": "Epic",
     "recipe": [ 
-      { "name" : "[R] Snow Panax", "amount": 10 }, 
-      { "name" : "Life Elixir", "amount": 50 }, 
+      { "name" : "[R] Snow Panax", "rarity": "Rare", "amount": 10 }, 
+      { "name" : "Life Elixir", "rarity": "Uncommon", "amount": 50 }, 
       { "name" : "Copper Coin", "amount": 20000 }, 
       { "name" : "Energy", "amount": 10000 }
     ]
@@ -377,7 +377,7 @@
     "category": "Medicine",
     "rarity": "Epic",
     "recipe": [ 
-      { "name" : "[R] Greater Yang Pill", "amount": 20 }, 
+      { "name" : "[R] Greater Yang Pill", "rarity": "Rare", "amount": 20 }, 
       { "name" : "Copper Coin", "amount": 10000 }, 
       { "name" : "Energy", "amount": 2500 }
     ]
@@ -388,7 +388,7 @@
     "category": "Medicine",
     "rarity": "Epic",
     "recipe": [ 
-      { "name" : "[R] Greater Yin Pill", "amount": 20 }, 
+      { "name" : "[R] Greater Yin Pill", "rarity": "Rare", "amount": 20 }, 
       { "name" : "Copper Coin", "amount": 10000 }, 
       { "name" : "Energy", "amount": 2500 }
     ]
@@ -399,7 +399,7 @@
     "category": "Medicine",
     "rarity": "Epic",
     "recipe": [ 
-      { "name" : "[R] Lesser Yang Pill", "amount": 20 }, 
+      { "name" : "[R] Lesser Yang Pill", "rarity": "Rare", "amount": 20 }, 
       { "name" : "Copper Coin", "amount": 10000 }, 
       { "name" : "Energy", "amount": 2500 }
     ]
@@ -410,7 +410,7 @@
     "category": "Medicine",
     "rarity": "Epic",
     "recipe": [ 
-      { "name" : "[R] Lesser Yin Pill", "amount": 20 }, 
+      { "name" : "[R] Lesser Yin Pill", "rarity": "Rare", "amount": 20 }, 
       { "name" : "Copper Coin", "amount": 10000 }, 
       { "name" : "Energy", "amount": 2500 }
     ]
@@ -421,8 +421,8 @@
     "category": "Medicine",
     "rarity": "Epic",
     "recipe": [ 
-      { "name" : "[R] Herb Root", "amount": 10 }, 
-      { "name" : "Life Elixir", "amount": 10 }, 
+      { "name" : "[R] Herb Root", "rarity": "Rare", "amount": 10 }, 
+      { "name" : "Life Elixir", "rarity": "Uncommon", "amount": 10 }, 
       { "name" : "Copper Coin", "amount": 10000 }, 
       { "name" : "Energy", "amount": 2500 }
     ]
@@ -433,8 +433,8 @@
     "category": "Medicine",
     "rarity": "Epic",
     "recipe": [ 
-      { "name" : "[R] Reishi", "amount": 10 }, 
-      { "name" : "Life Elixir", "amount": 10 }, 
+      { "name" : "[R] Reishi", "rarity": "Rare", "amount": 10 }, 
+      { "name" : "Life Elixir", "rarity": "Uncommon", "amount": 10 }, 
       { "name" : "Copper Coin", "amount": 10000 }, 
       { "name" : "Energy", "amount": 2500 }
     ]
@@ -445,8 +445,8 @@
     "category": "Medicine",
     "rarity": "Epic",
     "recipe": [ 
-      { "name" : "[R] Herb Leaf", "amount": 10 }, 
-      { "name" : "Life Elixir", "amount": 10 }, 
+      { "name" : "[R] Herb Leaf", "rarity": "Rare", "amount": 10 }, 
+      { "name" : "Life Elixir", "rarity": "Uncommon", "amount": 10 }, 
       { "name" : "Copper Coin", "amount": 10000 }, 
       { "name" : "Energy", "amount": 2500 }
     ]
@@ -472,7 +472,7 @@
     "category": "Medicine",
     "rarity": "Legendary",
     "recipe": [ 
-      { "name" : "[E] Unihorn Slice", "amount": 20 }, 
+      { "name" : "[E] Unihorn Slice", "rarity": "Epic", "amount": 20 }, 
       { "name" : "Copper Coin", "amount": 50000 }, 
       { "name" : "Energy", "amount": 12500 }
     ]
@@ -483,7 +483,7 @@
     "category": "Medicine",
     "rarity": "Legendary",
     "recipe": [ 
-      { "name" : "[E] Flower Oil", "amount": 20 }, 
+      { "name" : "[E] Flower Oil", "rarity": "Epic", "amount": 20 }, 
       { "name" : "Copper Coin", "amount": 50000 }, 
       { "name" : "Energy", "amount": 12500 }
     ]
@@ -494,7 +494,7 @@
     "category": "Medicine",
     "rarity": "Legendary",
     "recipe": [ 
-      { "name" : "[E] Century Fruit", "amount": 20 }, 
+      { "name" : "[E] Century Fruit", "rarity": "Epic", "amount": 20 }, 
       { "name" : "Copper Coin", "amount": 50000 },
       { "name" : "Energy", "amount": 12500 }
     ]
@@ -505,7 +505,7 @@
     "category": "Medicine",
     "rarity": "Legendary",
     "recipe": [ 
-      { "name" : "[E] Greater Yang Pill", "amount": 20 }, 
+      { "name" : "[E] Greater Yang Pill", "rarity": "Epic", "amount": 20 }, 
       { "name" : "Copper Coin", "amount": 50000 }, 
       { "name" : "Energy", "amount": 12500 }
     ]
@@ -516,7 +516,7 @@
     "category": "Medicine",
     "rarity": "Legendary",
     "recipe": [ 
-      { "name" : "[E] Greater Yin Pill", "amount": 20 }, 
+      { "name" : "[E] Greater Yin Pill", "rarity": "Epic", "amount": 20 }, 
       { "name" : "Copper Coin", "amount": 50000 }, 
       { "name" : "Energy", "amount": 12500 }
     ]
@@ -527,7 +527,7 @@
     "category": "Medicine",
     "rarity": "Legendary",
     "recipe": [ 
-      { "name" : "[E] Lesser Yang Pill", "amount": 20 }, 
+      { "name" : "[E] Lesser Yang Pill", "rarity": "Epic", "amount": 20 }, 
       { "name" : "Copper Coin", "amount": 50000 }, 
       { "name" : "Energy", "amount": 12500 }
     ]
@@ -538,7 +538,7 @@
     "category": "Medicine",
     "rarity": "Legendary",
     "recipe": [ 
-      { "name" : "[E] Lesser Yin Pill", "amount": 20 }, 
+      { "name" : "[E] Lesser Yin Pill", "rarity": "Epic", "amount": 20 }, 
       { "name" : "Copper Coin", "amount": 50000 }, 
       { "name" : "Energy", "amount": 12500 }
     ]
@@ -549,8 +549,8 @@
     "category": "Medicine",
     "rarity": "Legendary",
     "recipe": [ 
-      { "name" : "[E] Herb Root", "amount": 10 }, 
-      { "name" : "Life Elixir", "amount": 50 }, 
+      { "name" : "[E] Herb Root", "rarity": "Epic", "amount": 10 }, 
+      { "name" : "Life Elixir", "rarity": "Uncommon", "amount": 50 }, 
       { "name" : "Copper Coin", "amount": 50000 }, 
       { "name" : "Energy", "amount": 12500 }
     ]
@@ -561,8 +561,8 @@
     "category": "Medicine",
     "rarity": "Legendary",
     "recipe": [ 
-      { "name" : "[E] Reishi", "amount": 10 }, 
-      { "name" : "Life Elixir", "amount": 50 }, 
+      { "name" : "[E] Reishi", "rarity": "Epic", "amount": 10 }, 
+      { "name" : "Life Elixir", "rarity": "Uncommon", "amount": 50 }, 
       { "name" : "Copper Coin", "amount": 50000 }, 
       { "name" : "Energy", "amount": 12500 }
     ]
@@ -573,8 +573,8 @@
     "category": "Medicine",
     "rarity": "Legendary",
     "recipe": [ 
-      { "name" : "[E] Herb Leaf", "amount": 10 }, 
-      { "name" : "Life Elixir", "amount": 50 }, 
+      { "name" : "[E] Herb Leaf", "rarity": "Epic", "amount": 10 }, 
+      { "name" : "Life Elixir", "rarity": "Uncommon", "amount": 50 }, 
       { "name" : "Copper Coin", "amount": 50000 }, 
       { "name" : "Energy", "amount": 12500 }
     ]
@@ -1038,6 +1038,258 @@
       { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 25 }, 
       { "name" : "Copper Coin", "amount": 100000 }, 
       { "name" : "Dark Steel", "amount": 25000 }
+    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "[UC] Moonlight Magic Stone",
+    "image": "./Icons/Moonlight_Magic_Stone.png",
+    "category": "Promotions",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "Moonlight Magic Stone", "rarity": "Common", "amount": 10 }, 
+      { "name" : "Copper Coin", "amount": 400 }, 
+      { "name" : "Dark Steel", "amount": 200 }
+    ]
+  },
+  {
+    "name": "[UC] Blue Devil Stone",
+    "image": "./Icons/Blue_Devil_Stone.png",
+    "category": "Promotions",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "Blue Devil Stone", "rarity": "Common", "amount": 10 }, 
+      { "name" : "Copper Coin", "amount": 400 }, 
+      { "name" : "Dark Steel", "amount": 200 }
+    ]
+  },
+  {
+    "name": "[UC] Purified Water",
+    "image": "./Icons/Purified_Water.png",
+    "category": "Promotions",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "Purified Water", "rarity": "Common", "amount": 10 }, 
+      { "name" : "Copper Coin", "amount": 400 }, 
+      { "name" : "Energy", "amount": 200 }
+    ]
+  },
+  {
+    "name": "[UC] Virtue Pill",
+    "image": "./Icons/Virtue_Pill.png",
+    "category": "Promotions",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "Virtue Pill", "rarity": "Common", "amount": 10 }, 
+      { "name" : "Copper Coin", "amount": 400 }, 
+      { "name" : "Energy", "amount": 200 }
+    ]
+  },
+
+
+
+
+
+
+
+  {
+    "name": "[R] Moonlight Magic Stone",
+    "image": "./Icons/Moonlight_Magic_Stone.png",
+    "category": "Promotions",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[UC] Moonlight Magic Stone", "rarity": "Uncommon", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 5 }, 
+      { "name" : "Copper Coin", "amount": 2000 }, 
+      { "name" : "Dark Steel", "amount": 1000 }
+    ]
+  },
+  {
+    "name": "[R] Blue Devil Stone",
+    "image": "./Icons/Blue_Devil_Stone.png",
+    "category": "Promotions",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[UC] Blue Devil Stone", "rarity": "Uncommon", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 5 }, 
+      { "name" : "Copper Coin", "amount": 2000 }, 
+      { "name" : "Dark Steel", "amount": 1000 }
+    ]
+  },
+  {
+    "name": "[R] Purified Water",
+    "image": "./Icons/Purified_Water.png",
+    "category": "Promotions",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[UC] Purified Water", "rarity": "Uncommon", "amount": 10 }, 
+      { "name" : "Life Elixir", "rarity": "Uncommon", "amount": 10 }, 
+      { "name" : "Copper Coin", "amount": 2000 }, 
+      { "name" : "Energy", "amount": 1000 }
+    ]
+  },
+  {
+    "name": "Rare Virtue Pill",
+    "image": "./Icons/Virtue_Pill.png",
+    "category": "Promotions",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[UC] Virtue Pill", "rarity": "Uncommon", "amount": 10 }, 
+      { "name" : "Life Elixir", "rarity": "Uncommon", "amount": 10 }, 
+      { "name" : "Copper Coin", "amount": 2000 }, 
+      { "name" : "Energy", "amount": 1000 }
+    ]
+  },
+
+
+
+
+
+
+  {
+    "name": "[E] Moonlight Magic Stone",
+    "image": "./Icons/Moonlight_Magic_Stone.png",
+    "category": "Promotions",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[R] Moonlight Magic Stone", "rarity": "Rare", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 20000 }, 
+      { "name" : "Dark Steel", "amount": 5000 }
+    ]
+  },
+  {
+    "name": "[E] Blue Devil Stone",
+    "image": "./Icons/Blue_Devil_Stone.png",
+    "category": "Promotions",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[R] Blue Devil Stone", "rarity": "Rare", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 20 }, 
+      { "name" : "Copper Coin", "amount": 20000 }, 
+      { "name" : "Dark Steel", "amount": 5000 }
+    ]
+  },
+  {
+    "name": "[E] Purified Water",
+    "image": "./Icons/Purified_Water.png",
+    "category": "Promotions",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[R] Purified Water", "rarity": "Rare", "amount": 10 }, 
+      { "name" : "Life Elixir", "rarity": "Uncommon", "amount": 40 }, 
+      { "name" : "Copper Coin", "amount": 20000 }, 
+      { "name" : "Energy", "amount": 5000 }
+    ]
+  },
+  {
+    "name": "Epic Virtue Pill",
+    "image": "./Icons/Virtue_Pill.png",
+    "category": "Promotions",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "Rare Virtue Pill", "rarity": "Rare", "amount": 10 }, 
+      { "name" : "Life Elixir", "rarity": "Uncommon", "amount": 40 }, 
+      { "name" : "Copper Coin", "amount": 20000 }, 
+      { "name" : "Energy", "amount": 5000 }
+    ]
+  },
+
+
+
+
+
+  {
+    "name": "[L] Moonlight Magic Stone",
+    "image": "./Icons/Moonlight_Magic_Stone.png",
+    "category": "Promotions",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[E] Moonlight Magic Stone", "rarity": "Epic", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 60 }, 
+      { "name" : "Copper Coin", "amount": 100000 }, 
+      { "name" : "Dark Steel", "amount": 25000 }
+    ]
+  },
+  {
+    "name": "[L] Blue Devil Stone",
+    "image": "./Icons/Blue_Devil_Stone.png",
+    "category": "Promotions",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[E] Blue Devil Stone", "rarity": "Epic", "amount": 10 }, 
+      { "name" : "Glittering Powder", "rarity": "Uncommon", "amount": 60 }, 
+      { "name" : "Copper Coin", "amount": 100000 }, 
+      { "name" : "Dark Steel", "amount": 25000 }
+    ]
+  },
+  {
+    "name": "[L] Purified Water",
+    "image": "./Icons/Purified_Water.png",
+    "category": "Promotions",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[E] Purified Water", "rarity": "Epic", "amount": 10 }, 
+      { "name" : "Life Elixir", "rarity": "Uncommon", "amount": 120 }, 
+      { "name" : "Copper Coin", "amount": 100000 }, 
+      { "name" : "Energy", "amount": 25000 }
+    ]
+  },
+  {
+    "name": "Legendary Virtue Pill",
+    "image": "./Icons/Virtue_Pill.png",
+    "category": "Promotions",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "Epic Virtue Pill", "rarity": "Epic", "amount": 10 }, 
+      { "name" : "Life Elixir", "rarity": "Uncommon", "amount": 120 }, 
+      { "name" : "Copper Coin", "amount": 100000 }, 
+      { "name" : "Energy", "amount": 25000 }
     ]
   }
 ]

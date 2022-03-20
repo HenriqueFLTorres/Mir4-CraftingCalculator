@@ -15,7 +15,6 @@ const RecipeResult = () => {
   let result = recipeSum(recipe)
 
 
-
   return (
     <div className='RecipeResult'>
       <div className='RRTip'>Hover on items for precise numbers</div>
@@ -24,8 +23,9 @@ const RecipeResult = () => {
 
             let fancyAmount = item.value.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ")
             let bakedName = nameFormatter(item.name)
-            
+
             let backgroundColor = recipeBGColor(item.name)
+
 
           return (
             <div className={`RecipeCounter`} key={index} data-content={fancyAmount} >

@@ -10,7 +10,7 @@ import { AcessRecipeContext } from './Hooks/AcessRecipeContext';
 import Arrow from './SVG/Icons/Arrow';
 
 export const Content = () => {
-  const [filter, setFilter] = useState('')
+  const [filter, setFilter] = useState([''])
   const [totalRecipe, setTotalRecipe] = useState([])
   const [colapse, setColapse] = useState(false)
 

@@ -12,10 +12,10 @@ const ItemSettings = () => {
   return (
     <div className='ItemSettings'>
       {ItemsList.map((item, index) => {
-        const { name, image, rarity, recipe } = item;
+        const { name, image, rarity, recipe, tier } = item;
         
         return ( selected.includes(index) &&
-          <ItemConfigUI key={index} index={index} name={name} image={image} rarity={rarity} recipe={recipe} />
+          <ItemConfigUI key={index} index={index} name={name} image={image} rarity={rarity} recipe={recipe} tier={tier} />
         )
       })}
     </div>

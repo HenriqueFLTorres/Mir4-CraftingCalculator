@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 
 import './RecipeResult.css'
 import { useRecipe } from '../Hooks/AcessRecipeContext'
@@ -9,7 +9,7 @@ import nameFormatter from '../../Utils/nameFormatter'
 import recipeBGColor from '../../Utils/recipeBGColor'
 
 const RecipeResult = () => {
-
+  
   const recipeInfo = useRecipe();
   let recipe = recipeInfo;
   let result = recipeSum(recipe)
@@ -31,6 +31,7 @@ const RecipeResult = () => {
             <div className={`RecipeCounter`} key={index} data-content={fancyAmount} >
                 <div className='RCFrame' style={{ background: backgroundColor }}>
                   <img className='RCImage' src={`./Icons/${bakedName}.png`} alt={item.name} />
+                  { item.tier && <img className='Tier' src={`./Icons/tier${item.tier}.png`} alt={`tier ${item.tier}`} />  }
                 </div>
                 <h3 className='RCName'>{item.name}</h3>
                 <h1 className='RCValue'>{millify(item.value)}</h1>

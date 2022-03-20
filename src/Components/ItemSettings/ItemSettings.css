@@ -74,8 +74,13 @@
     transition-timing-function: ease;
 }
 
-.ISFrame img {
+.ISFrame img:first-child {
     width: 70%;
+    transform: translateX(100%);
+}
+
+.ISFrame .Tier {
+    transform: translate(-50%, 20%) scale(.3);
 }
 
 .ISFrame:hover {

@@ -15,7 +15,6 @@ export const useRecipeUpdate = () => {
 export const AcessRecipeContext = ({ children }) => {
     const [recipe, setRecipe] = useState(() => [])
 
-
     return (
         <RecipeContext.Provider value={recipe}>
             <RecipeUpdateContext.Provider value={setRecipe}>

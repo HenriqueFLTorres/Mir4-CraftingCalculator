@@ -4,7 +4,7 @@ import Sidebar from './Sidebar'
 
 import './Sidebar.css'
 
-const ItemUi = ({ name, image, category, rarity, recipe, index, filter }) => {
+const ItemUi = ({ name, image, category, rarity, index, tier }) => {
   const selected = useSelect();
   const updateSelected = useSelectUpdate();
 
@@ -18,9 +18,10 @@ const ItemUi = ({ name, image, category, rarity, recipe, index, filter }) => {
     }}>
         <div className='ImageFrame'>
             <img src={image} alt={name} />
+            { tier ? <img className='Tier' src={`./Icons/tier${tier}.png`} alt={`tier ${tier}`} /> : <img className='Tier' src={`./Icons/tierHide.png`} alt={`no Tier`} /> }
         </div>
-        <div className='ItemInfo'>
-            <div className='ItemName'>{name}</div>
+        <div className='ItemInfo' data-fullName={name} >
+            <div className='ItemName'>{name.length > 25 ? `${name.substring(0, 25)}...` : name}</div>
             <div className='ItemCategory'>{category}</div>
             <div className={`ItemRarity ${rarity}`}>{rarity}</div>
         </div>

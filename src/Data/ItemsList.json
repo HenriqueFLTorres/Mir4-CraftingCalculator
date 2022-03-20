@@ -1291,5 +1291,658 @@
       { "name" : "Copper Coin", "amount": 100000 }, 
       { "name" : "Energy", "amount": 25000 }
     ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "Quiver",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Secondary",
+    "tier": "1",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 40 }, 
+      { "name" : "[UC] Evil Minded Orb", "rarity": "Uncommon", "amount": 4 }, 
+      { "name" : "[UC] Moon Shadow Stone", "rarity": "Uncommon", "amount": 1 }, 
+      { "name" : "[UC] Dragon Claw", "rarity": "Uncommon", "amount": 1 }, 
+      { "name" : "Copper Coin", "amount": 1000 }, 
+      { "name" : "Dark Steel", "amount": 1000 }
+    ]
+  },
+  {
+    "name": "Leather Quiver",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Secondary",
+    "tier": "1",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 40 }, 
+      { "name" : "[UC] Evil Minded Orb", "rarity": "Uncommon", "amount": 2 }, 
+      { "name" : "[UC] Moon Shadow Stone", "rarity": "Uncommon", "amount": 2 }, 
+      { "name" : "[UC] Dragon Claw", "rarity": "Uncommon", "amount": 1 }, 
+      { "name" : "Copper Coin", "amount": 1000 }, 
+      { "name" : "Dark Steel", "amount": 1000 }
+    ]
+  },
+  {
+    "name": "Bamboo Quiver",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Secondary",
+    "tier": "2",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 80 }, 
+      { "name" : "[UC] Evil Minded Orb", "rarity": "Uncommon", "amount": 8 }, 
+      { "name" : "[UC] Moon Shadow Stone", "rarity": "Uncommon", "amount": 2 }, 
+      { "name" : "[UC] Dragon Claw", "rarity": "Uncommon", "amount": 2 }, 
+      { "name" : "Copper Coin", "amount": 7000 }, 
+      { "name" : "Dark Steel", "amount": 7000 }
+    ]
+  },
+  {
+    "name": "Wolf Leather Quiver",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Secondary",
+    "tier": "2",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 80 }, 
+      { "name" : "[UC] Evil Minded Orb", "rarity": "Uncommon", "amount": 4 }, 
+      { "name" : "[UC] Moon Shadow Stone", "rarity": "Uncommon", "amount": 4 }, 
+      { "name" : "[UC] Dragon Claw", "rarity": "Uncommon", "amount": 2 }, 
+      { "name" : "Copper Coin", "amount": 7000 }, 
+      { "name" : "Dark Steel", "amount": 7000 }
+    ]
+  },
+  {
+    "name": "Iron Quiver",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Secondary",
+    "tier": "3",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 160 }, 
+      { "name" : "[UC] Evil Minded Orb", "rarity": "Uncommon", "amount": 16 }, 
+      { "name" : "[UC] Moon Shadow Stone", "rarity": "Uncommon", "amount": 4 }, 
+      { "name" : "[UC] Dragon Claw", "rarity": "Uncommon", "amount": 4 }, 
+      { "name" : "Copper Coin", "amount": 24000 }, 
+      { "name" : "Dark Steel", "amount": 24000 }
+    ]
+  },
+  {
+    "name": "Tiger Leather Quiver",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Secondary",
+    "tier": "3",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 160 }, 
+      { "name" : "[UC] Evil Minded Orb", "rarity": "Uncommon", "amount": 8 }, 
+      { "name" : "[UC] Moon Shadow Stone", "rarity": "Uncommon", "amount": 8 }, 
+      { "name" : "[UC] Dragon Claw", "rarity": "Uncommon", "amount": 4 }, 
+      { "name" : "Copper Coin", "amount": 24000 }, 
+      { "name" : "Dark Steel", "amount": 24000 }
+    ]
+  },
+  {
+    "name": "Adamant Quiver",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Secondary",
+    "tier": "4",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 320 }, 
+      { "name" : "[UC] Evil Minded Orb", "rarity": "Uncommon", "amount": 32 }, 
+      { "name" : "[UC] Moon Shadow Stone", "rarity": "Uncommon", "amount": 8 }, 
+      { "name" : "[UC] Dragon Claw", "rarity": "Uncommon", "amount": 8 }, 
+      { "name" : "Copper Coin", "amount": 63000 }, 
+      { "name" : "Dark Steel", "amount": 63000 }
+    ]
+  },
+  {
+    "name": "White Tiger Quiver",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Secondary",
+    "tier": "4",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 320 }, 
+      { "name" : "[UC] Evil Minded Orb", "rarity": "Uncommon", "amount": 16 }, 
+      { "name" : "[UC] Moon Shadow Stone", "rarity": "Uncommon", "amount": 16 }, 
+      { "name" : "[UC] Dragon Claw", "rarity": "Uncommon", "amount": 8 }, 
+      { "name" : "Copper Coin", "amount": 63000 }, 
+      { "name" : "Dark Steel", "amount": 63000 }
+    ]
+  },
+
+
+
+
+
+
+  {
+    "name": "Horn Bow",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Primary",
+    "tier": "1",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 40 }, 
+      { "name" : "[UC] Evil Minded Orb", "rarity": "Uncommon", "amount": 4 }, 
+      { "name" : "[UC] Moon Shadow Stone", "rarity": "Uncommon", "amount": 1 }, 
+      { "name" : "[UC] Dragon Scale", "rarity": "Uncommon", "amount": 1 }, 
+      { "name" : "Copper Coin", "amount": 1000 }, 
+      { "name" : "Dark Steel", "amount": 1000 }
+    ]
+  },
+  {
+    "name": "Devilface Bow",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Primary",
+    "tier": "1",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 40 }, 
+      { "name" : "[UC] Evil Minded Orb", "rarity": "Uncommon", "amount": 2 }, 
+      { "name" : "[UC] Moon Shadow Stone", "rarity": "Uncommon", "amount": 2 }, 
+      { "name" : "[UC] Dragon Scale", "rarity": "Uncommon", "amount": 1 }, 
+      { "name" : "Copper Coin", "amount": 1000 }, 
+      { "name" : "Dark Steel", "amount": 1000 }
+    ]
+  },
+  {
+    "name": "Oxhorn Bow",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Primary",
+    "tier": "2",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 80 }, 
+      { "name" : "[UC] Evil Minded Orb", "rarity": "Uncommon", "amount": 8 }, 
+      { "name" : "[UC] Moon Shadow Stone", "rarity": "Uncommon", "amount": 2 }, 
+      { "name" : "[UC] Dragon Scale", "rarity": "Uncommon", "amount": 2 }, 
+      { "name" : "Copper Coin", "amount": 7000 }, 
+      { "name" : "Dark Steel", "amount": 4000 }
+    ]
+  },
+  {
+    "name": "Revenant Bow",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Primary",
+    "tier": "2",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 80 }, 
+      { "name" : "[UC] Evil Minded Orb", "rarity": "Uncommon", "amount": 4 }, 
+      { "name" : "[UC] Moon Shadow Stone", "rarity": "Uncommon", "amount": 4 }, 
+      { "name" : "[UC] Dragon Scale", "rarity": "Uncommon", "amount": 2 }, 
+      { "name" : "Copper Coin", "amount": 7000 }, 
+      { "name" : "Dark Steel", "amount": 4000 }
+    ]
+  },
+  {
+    "name": "Ironhorn Bow",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Primary",
+    "tier": "3",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 160 }, 
+      { "name" : "[UC] Evil Minded Orb", "rarity": "Uncommon", "amount": 16 }, 
+      { "name" : "[UC] Moon Shadow Stone", "rarity": "Uncommon", "amount": 4 }, 
+      { "name" : "[UC] Dragon Scale", "rarity": "Uncommon", "amount": 4 }, 
+      { "name" : "Copper Coin", "amount": 24000 }, 
+      { "name" : "Dark Steel", "amount": 11000 }
+    ]
+  },
+  {
+    "name": "Mara Bow",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Primary",
+    "tier": "3",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 160 }, 
+      { "name" : "[UC] Evil Minded Orb", "rarity": "Uncommon", "amount": 8 }, 
+      { "name" : "[UC] Moon Shadow Stone", "rarity": "Uncommon", "amount": 8 }, 
+      { "name" : "[UC] Dragon Scale", "rarity": "Uncommon", "amount": 4 }, 
+      { "name" : "Copper Coin", "amount": 24000 }, 
+      { "name" : "Dark Steel", "amount": 11000 }
+    ]
+  },
+  {
+    "name": "Dragon Horn Bow",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Primary",
+    "tier": "4",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 320 }, 
+      { "name" : "[UC] Evil Minded Orb", "rarity": "Uncommon", "amount": 32 }, 
+      { "name" : "[UC] Moon Shadow Stone", "rarity": "Uncommon", "amount": 8 }, 
+      { "name" : "[UC] Dragon Scale", "rarity": "Uncommon", "amount": 8 }, 
+      { "name" : "Copper Coin", "amount": 63000 }, 
+      { "name" : "Dark Steel", "amount": 26000 }
+    ]
+  },
+  {
+    "name": "Hell Horse Bow",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Primary",
+    "tier": "4",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 320 }, 
+      { "name" : "[UC] Evil Minded Orb", "rarity": "Uncommon", "amount": 16 }, 
+      { "name" : "[UC] Moon Shadow Stone", "rarity": "Uncommon", "amount": 16 }, 
+      { "name" : "[UC] Dragon Scale", "rarity": "Uncommon", "amount": 8 }, 
+      { "name" : "Copper Coin", "amount": 63000 }, 
+      { "name" : "Dark Steel", "amount": 26000 }
+    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "Miri Quiver & Small Dragon Quiver",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Secondary",
+    "tier": "1",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[R] Steel", "rarity": "Rare", "amount": 75 }, 
+      { "name" : "[R] Evil Minded Orb", "rarity": "Rare", "amount": 25 }, 
+      { "name" : "[R] Moon Shadow Stone", "rarity": "Rare", "amount": 25 }, 
+      { "name" : "[R] Dragon Claw", "rarity": "Rare", "amount": 1 }, 
+      { "name" : "Copper Coin", "amount": 50000 }, 
+      { "name" : "Dark Steel", "amount": 50000 }
+    ]
+  },
+  {
+    "name": "Pakua Quiver & Flying Dragon Quiver",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Secondary",
+    "tier": "2",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[R] Steel", "rarity": "Rare", "amount": 150 }, 
+      { "name" : "[R] Evil Minded Orb", "rarity": "Rare", "amount": 50 }, 
+      { "name" : "[R] Moon Shadow Stone", "rarity": "Rare", "amount": 50 }, 
+      { "name" : "[R] Dragon Claw", "rarity": "Rare", "amount": 2 }, 
+      { "name" : "Copper Coin", "amount": 200000 }, 
+      { "name" : "Dark Steel", "amount": 200000 }
+    ]
+  },
+  {
+    "name": "Redmoon Quiver & Yellow Dragon Quiver",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Secondary",
+    "tier": "3",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[R] Steel", "rarity": "Rare", "amount": 300 }, 
+      { "name" : "[R] Evil Minded Orb", "rarity": "Rare", "amount": 100 }, 
+      { "name" : "[R] Moon Shadow Stone", "rarity": "Rare", "amount": 100 }, 
+      { "name" : "[R] Dragon Claw", "rarity": "Rare", "amount": 4 }, 
+      { "name" : "Copper Coin", "amount": 550000 }, 
+      { "name" : "Dark Steel", "amount": 550000 }
+    ]
+  },
+  {
+    "name": "Moonlight Quiver & Moonfang Quiver",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Secondary",
+    "tier": "4",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[R] Steel", "rarity": "Rare", "amount": 600 }, 
+      { "name" : "[R] Evil Minded Orb", "rarity": "Rare", "amount": 200 }, 
+      { "name" : "[R] Moon Shadow Stone", "rarity": "Rare", "amount": 200 }, 
+      { "name" : "[R] Dragon Claw", "rarity": "Rare", "amount": 8 }, 
+      { "name" : "Copper Coin", "amount": 1300000 }, 
+      { "name" : "Dark Steel", "amount": 1300000 }
+    ]
+  },
+
+
+
+
+
+
+  {
+    "name": "Miri Bow & Dragonling Bow",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Primary",
+    "tier": "1",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[R] Steel", "rarity": "Rare", "amount": 75 }, 
+      { "name" : "[R] Evil Minded Orb", "rarity": "Rare", "amount": 25 }, 
+      { "name" : "[R] Moon Shadow Stone", "rarity": "Rare", "amount": 25 }, 
+      { "name" : "[R] Dragon Scale", "rarity": "Rare", "amount": 1 }, 
+      { "name" : "Copper Coin", "amount": 50000 }, 
+      { "name" : "Dark Steel", "amount": 10000 }
+    ]
+  },
+  {
+    "name": "Pakua Miri Bow & Flying Dragon Bow",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Primary",
+    "tier": "2",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[R] Steel", "rarity": "Rare", "amount": 150 }, 
+      { "name" : "[R] Evil Minded Orb", "rarity": "Rare", "amount": 50 }, 
+      { "name" : "[R] Moon Shadow Stone", "rarity": "Rare", "amount": 50 }, 
+      { "name" : "[R] Dragon Scale", "rarity": "Rare", "amount": 2 }, 
+      { "name" : "Copper Coin", "amount": 200000 }, 
+      { "name" : "Dark Steel", "amount": 35000 }
+    ]
+  },
+  {
+    "name": "Redmoon Ballista & Yellow Dragon Shot",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Primary",
+    "tier": "3",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[R] Steel", "rarity": "Rare", "amount": 300 }, 
+      { "name" : "[R] Evil Minded Orb", "rarity": "Rare", "amount": 100 }, 
+      { "name" : "[R] Moon Shadow Stone", "rarity": "Rare", "amount": 100 }, 
+      { "name" : "[R] Dragon Scale", "rarity": "Rare", "amount": 4 }, 
+      { "name" : "Copper Coin", "amount": 550000 }, 
+      { "name" : "Dark Steel", "amount": 90000 }
+    ]
+  },
+  {
+    "name": "Moonlight Ballista & Moonfang Dragon Shot",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Primary",
+    "tier": "4",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[R] Steel", "rarity": "Rare", "amount": 600 }, 
+      { "name" : "[R] Evil Minded Orb", "rarity": "Rare", "amount": 200 }, 
+      { "name" : "[R] Moon Shadow Stone", "rarity": "Rare", "amount": 200 }, 
+      { "name" : "[R] Dragon Scale", "rarity": "Rare", "amount": 8 }, 
+      { "name" : "Copper Coin", "amount": 1300000 }, 
+      { "name" : "Dark Steel", "amount": 205000 }
+    ]
+  },
+
+
+
+
+
+  {
+    "name": "Dual Quiver & Changhae Quiver",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Primary",
+    "tier": "1",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[E] Steel", "rarity": "Epic", "amount": 300 }, 
+      { "name" : "[E] Evil Minded Orb", "rarity": "Epic", "amount": 100 }, 
+      { "name" : "[E] Moon Shadow Stone", "rarity": "Epic", "amount": 100 }, 
+      { "name" : "[E] Dragon Scale", "rarity": "Epic", "amount": 1 }, 
+      { "name" : "Copper Coin", "amount": 800000 }, 
+      { "name" : "Dark Steel", "amount": 800000 }
+    ]
+  },
+  {
+    "name": "Dipole Quiver & Firmament Quiver",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Primary",
+    "tier": "2",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[E] Steel", "rarity": "Epic", "amount": 600 }, 
+      { "name" : "[E] Evil Minded Orb", "rarity": "Epic", "amount": 200 }, 
+      { "name" : "[E] Moon Shadow Stone", "rarity": "Epic", "amount": 200 }, 
+      { "name" : "[E] Dragon Scale", "rarity": "Epic", "amount": 2 }, 
+      { "name" : "Copper Coin", "amount": 3200000 }, 
+      { "name" : "Dark Steel", "amount": 3200000 }
+    ]
+  },
+  {
+    "name": "Two Dragons Quiver & Blue Sky Piercing Quiver",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Primary",
+    "tier": "3",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[E] Steel", "rarity": "Epic", "amount": 1200 }, 
+      { "name" : "[E] Evil Minded Orb", "rarity": "Epic", "amount": 400 }, 
+      { "name" : "[E] Moon Shadow Stone", "rarity": "Epic", "amount": 400 }, 
+      { "name" : "[E] Dragon Scale", "rarity": "Epic", "amount": 4 }, 
+      { "name" : "Copper Coin", "amount": 8800000 }, 
+      { "name" : "Dark Steel", "amount": 8800000 }
+    ]
+  },
+  {
+    "name": "Two Moons Quiver & Ascending Dragon Quiver",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Primary",
+    "tier": "4",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[E] Steel", "rarity": "Epic", "amount": 2400 }, 
+      { "name" : "[E] Evil Minded Orb", "rarity": "Epic", "amount": 800 }, 
+      { "name" : "[E] Moon Shadow Stone", "rarity": "Epic", "amount": 800 }, 
+      { "name" : "[E] Dragon Scale", "rarity": "Epic", "amount": 8 }, 
+      { "name" : "Copper Coin", "amount": 20800000 }, 
+      { "name" : "Dark Steel", "amount": 20800000 }
+    ]
+  },
+
+
+
+
+
+
+
+
+  {
+    "name": "Demonic Dragon Quiver",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Secondary",
+    "tier": "1",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[L] Steel", "rarity": "Legendary", "amount": 300 }, 
+      { "name" : "[L] Evil Minded Orb", "rarity": "Legendary", "amount": 100 }, 
+      { "name" : "[L] Moon Shadow Stone", "rarity": "Legendary", "amount": 100 }, 
+      { "name" : "[L] Dragon Claw", "rarity": "Legendary", "amount": 1 }, 
+      { "name" : "Copper Coin", "amount": 10000000 }, 
+      { "name" : "Dark Steel", "amount": 10000000 }
+    ]
+  },
+  {
+    "name": "Darksteel Mara Quiver",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Secondary",
+    "tier": "2",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[L] Steel", "rarity": "Legendary", "amount": 600 }, 
+      { "name" : "[L] Evil Minded Orb", "rarity": "Legendary", "amount": 200 }, 
+      { "name" : "[L] Moon Shadow Stone", "rarity": "Legendary", "amount": 200 }, 
+      { "name" : "[L] Dragon Claw", "rarity": "Legendary", "amount": 2 }, 
+      { "name" : "Copper Coin", "amount": 40000000 }, 
+      { "name" : "Dark Steel", "amount": 40000000 }
+    ]
+  },
+  {
+    "name": "Yellow Dragon Dipole Quiver",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Secondary",
+    "tier": "3",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[L] Steel", "rarity": "Legendary", "amount": 1200 }, 
+      { "name" : "[L] Evil Minded Orb", "rarity": "Legendary", "amount": 400 }, 
+      { "name" : "[L] Moon Shadow Stone", "rarity": "Legendary", "amount": 400 }, 
+      { "name" : "[L] Dragon Claw", "rarity": "Legendary", "amount": 4 }, 
+      { "name" : "Copper Coin", "amount": 110000000 }, 
+      { "name" : "Dark Steel", "amount": 110000000 }
+    ]
+  },
+  {
+    "name": "Vermilion Bird Godly Quiver",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Secondary",
+    "tier": "4",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[L] Steel", "rarity": "Legendary", "amount": 2400 }, 
+      { "name" : "[L] Evil Minded Orb", "rarity": "Legendary", "amount": 800 }, 
+      { "name" : "[L] Moon Shadow Stone", "rarity": "Legendary", "amount": 800 }, 
+      { "name" : "[L] Dragon Claw", "rarity": "Legendary", "amount": 8 }, 
+      { "name" : "Copper Coin", "amount": 260000000 }, 
+      { "name" : "Dark Steel", "amount": 260000000 }
+    ]
+  },
+
+
+
+  {
+    "name": "Demonic Dragon Horn Bow",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Primary",
+    "tier": "1",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[L] Steel", "rarity": "Legendary", "amount": 300 }, 
+      { "name" : "[L] Evil Minded Orb", "rarity": "Legendary", "amount": 100 }, 
+      { "name" : "[L] Moon Shadow Stone", "rarity": "Legendary", "amount": 100 }, 
+      { "name" : "[L] Dragon Scale", "rarity": "Legendary", "amount": 1 }, 
+      { "name" : "Copper Coin", "amount": 10000000 }, 
+      { "name" : "Dark Steel", "amount": 1000000 }
+    ]
+  },
+  {
+    "name": "Darksteel Mara Bow",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Primary",
+    "tier": "2",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[L] Steel", "rarity": "Legendary", "amount": 600 }, 
+      { "name" : "[L] Evil Minded Orb", "rarity": "Legendary", "amount": 200 }, 
+      { "name" : "[L] Moon Shadow Stone", "rarity": "Legendary", "amount": 200 }, 
+      { "name" : "[L] Dragon Scale", "rarity": "Legendary", "amount": 2 }, 
+      { "name" : "Copper Coin", "amount": 40000000 }, 
+      { "name" : "Dark Steel", "amount": 4000000 }
+    ]
+  },
+  {
+    "name": "Yellow Dragon Dipole Bow",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Primary",
+    "tier": "3",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[L] Steel", "rarity": "Legendary", "amount": 1200 }, 
+      { "name" : "[L] Evil Minded Orb", "rarity": "Legendary", "amount": 400 }, 
+      { "name" : "[L] Moon Shadow Stone", "rarity": "Legendary", "amount": 400 }, 
+      { "name" : "[L] Dragon Scale", "rarity": "Legendary", "amount": 4 }, 
+      { "name" : "Copper Coin", "amount": 110000000 }, 
+      { "name" : "Dark Steel", "amount": 11000000 }
+    ]
+  },
+  {
+    "name": "Vermilion Bird Godly Bow",
+    "image": "./Icons/Dark_Steel.png",
+    "category": "Weapon Primary",
+    "tier": "4",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[L] Steel", "rarity": "Legendary", "amount": 2400 }, 
+      { "name" : "[L] Evil Minded Orb", "rarity": "Legendary", "amount": 800 }, 
+      { "name" : "[L] Moon Shadow Stone", "rarity": "Legendary", "amount": 800 }, 
+      { "name" : "[L] Dragon Scale", "rarity": "Legendary", "amount": 8 }, 
+      { "name" : "Copper Coin", "amount": 260000000 }, 
+      { "name" : "Dark Steel", "amount": 26000000 }
+    ]
   }
 ]

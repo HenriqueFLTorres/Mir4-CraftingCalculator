@@ -12,7 +12,7 @@ export const useSelectUpdate = () => {
 }
 
 export const SelectAndUpdateContext = ({ children }) => {
-    const [selected, setSelected] = useState(() => [0])
+    const [selected, setSelected] = useState(() => [])
 
     return (
         <SelectContext.Provider value={selected}>

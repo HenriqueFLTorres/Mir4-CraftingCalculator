@@ -9,7 +9,7 @@ import RecipeItem from './RecipeItem'
 let recipeInfo = []
 
 
-const ItemConfigUI = ({ name, image, rarity, recipe, index }) => {
+const ItemConfigUI = ({ name, image, rarity, recipe, index, tier }) => {
     const [value, setValue] = useState(1)
 
     const selected = useSelect();
@@ -28,21 +28,25 @@ const ItemConfigUI = ({ name, image, rarity, recipe, index }) => {
         return value;
     }
 
-
+    
+    
     useEffect(() => {
-
-        let recipeSelector = document.querySelectorAll(".RecipeItem")
-
-        recipeSelector.forEach((item) => { 
-
-          let dataContent = item.dataset.content
-          return recipeInfo.push({ ["name"]: item.firstChild.innerText, ["value"]: Number(dataContent) 
-          
-        })})
         
-        recipeUpdate(recipeInfo)
-        recipeInfo = []
+        let recipeSelector = document.querySelectorAll(".RecipeItem")
+        if (recipeSelector) {
+            recipeSelector.forEach((item) => { 
 
+                let dataContent = item.dataset.content
+                return recipeInfo.push({ ["name"]: item.firstChild.innerText, ["value"]: Number(dataContent) 
+                
+              })})
+              
+              recipeUpdate(recipeInfo)
+              recipeInfo = [] 
+        } else {
+            recipeUpdate([])
+        }
+        
 
     }, [value, selected])
 
@@ -56,6 +60,7 @@ const ItemConfigUI = ({ name, image, rarity, recipe, index }) => {
                 onClick={() => selectedUpdate(selected.filter(indexNumber => indexNumber != index))} 
                 style={{ backgroundImage: `url(./ItemFrames/Rarity_${rarity}_bg.png)` }} >
                 <img src={image} alt={name} />
+                { tier ? <img className='Tier' src={`./Icons/tier${tier}.png`} alt={`tier ${tier}`} /> : <img className='Tier' src={`./Icons/tierHide.png`} alt={`no Tier`} /> }
             </div>
             <div className='ISName'>{name}</div>
             <div className={`ISRarity ${rarity}`}>{rarity}</div>

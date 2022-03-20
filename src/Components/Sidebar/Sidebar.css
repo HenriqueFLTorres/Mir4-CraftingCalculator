@@ -85,13 +85,14 @@
 
 .ImageFrame {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 
     height: clamp(0.1rem, 3vw + 1rem, 2000rem);
     width: clamp(0.1rem, 3vw + 1rem, 2000rem);
-
-    border-radius: 100%;
+ 
+    border-radius: 100%; 
 
     margin-right: 8%;
     background-color: var(--terciary-color);
@@ -99,10 +100,21 @@
     transition-property: transform, background, filter;
     transition-duration: 400ms;
 }
+.ImageFrame > * {
+    /* border: 2px solid purple; */
+    transform: translateY(25%);
+}
 
-.ImageFrame img {
+.ImageFrame .Tier {
+    height: 40%;
+    transform: translateX(-100%);
+}
+
+.ImageFrame img:first-child {
     height: 70%;
 }
+
+
 
 
 
@@ -115,9 +127,38 @@
     height: 100%;
 }
 
+.ItemInfo:before {
+    position: absolute;
+    display: inline-block;
+    content: attr(data-fullName);
+
+    background-color: var(--fourth-color);
+    font-size: var(--step--1);
+    
+    padding: 1.5% 3%;
+    border-radius: 20vw;
+
+    opacity: 0;
+
+    transform: scale(0.2, 0.5);
+    transition: opacity 350ms ease, transform 350ms ease;
+}
+
+.ItemUI:hover .ItemInfo::before {
+    transform: translate(-10%, -90%) scale(1, 1);
+    opacity: 1;
+}
+
+.ItemUI:hover .ItemName {
+    opacity: 0.15;
+}
+
 .ItemName {
     font-size: var(--step-0);
     font-weight: 600;
+    opacity: 1;
+
+    transition: opacity 250ms ease;
 }
 
 .ItemCategory {

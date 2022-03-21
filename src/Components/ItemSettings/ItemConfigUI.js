@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react'
+import checkValue from '../../Utils/checkValue'
 import { useRecipe, useRecipeUpdate } from '../Hooks/AcessRecipeContext'
 import { useSelect, useSelectUpdate } from '../Hooks/SelectedContext'
 
@@ -17,18 +18,6 @@ const ItemConfigUI = ({ name, image, rarity, recipe, index, tier }) => {
 
     const recipeValue = useRecipe();
     const recipeUpdate = useRecipeUpdate();
-
-    const minValue = 0
-    const maxValue = 1000
-
-    const checkValue = (oldValue) => {
-        let value = oldValue;
-        if (value < minValue) value = minValue
-        else if (value > maxValue) value = maxValue
-        return value;
-    }
-
-    
     
     useEffect(() => {
         
@@ -67,9 +56,9 @@ const ItemConfigUI = ({ name, image, rarity, recipe, index, tier }) => {
         </div>
 
         <div className='ValueChanger'>
-            <Arrow className="Arrow Down" onClick={() => setValue((oldValue) => checkValue(oldValue - 1))}/>
+            <Arrow className="Arrow Down" onClick={() => setValue((oldValue) => checkValue(oldValue - 1, 0, 1000))}/>
             <input id={`InputNumber${index}`} type="number" value={value} onChange={(e) => setValue(checkValue(e.target.value))} />
-            <Arrow className="Arrow UP" onClick={() => setValue((oldValue) => checkValue(oldValue + 1))}/>
+            <Arrow className="Arrow UP" onClick={() => setValue((oldValue) => checkValue(oldValue + 1, 0, 1000))}/>
         </div>
 
         <div className='RecipeItems'>

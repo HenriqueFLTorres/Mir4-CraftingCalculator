@@ -6,7 +6,6 @@
     height: 100%;
     background-color: var(--primary-color);
 
-    padding: 1%;
     border-radius: 1vh;
 
     overflow-y: scroll;
@@ -25,14 +24,12 @@
 
 
 .ItemConfigUI {
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    
-    margin-inline: auto;
-    margin-block: 2%;
+    display: grid;
+    grid-template-columns: 25% 10% auto;
 
     width: 92%;
+    margin-block: 1.5%;
+    margin-left: 1%;
 
     transition: all 0.5s ease;
 }
@@ -46,18 +43,16 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    width: 15%;
-
-    margin: 0 2%;
 }
 
 .ISFrame {
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
 
-    width: clamp(0.1rem, 6vh + 1rem, 130px);
-    height: clamp(0.1rem, 6vh + 1rem, 130px);
+    width: clamp(0.1rem, 4vw + 1rem, 130px);
+    height: clamp(0.1rem, 4vw + 1rem, 130px);
 
     margin-top: 6%;
     margin-bottom: 10%;
@@ -75,12 +70,16 @@
 }
 
 .ISFrame img:first-child {
-    width: 70%;
-    transform: translateX(100%);
+    height: 70%;
+    width: auto;
+
+    transform: translateY(25%);
 }
 
 .ISFrame .Tier {
-    transform: translate(-50%, 20%) scale(.3);
+    height: 30%;
+    width: auto;
+    transform: translateX(-110%) scale(1);
 }
 
 .ISFrame:hover {
@@ -91,6 +90,7 @@
 .ISName {
     font-weight: 600;
     font-size: var(--step-0);
+    text-align: center;
 
     margin-top: 7%;
 }
@@ -136,9 +136,7 @@
     justify-content: space-between;
     align-items: center;
 
-    width: 12%;
-
-    margin: auto 4%;
+    margin: auto 0;
 }
 
 .ValueChanger .Arrow {
@@ -218,7 +216,6 @@
     justify-content: center;
 
     transform: translateY(8%);
-    margin: 0 5%;
 
     width: clamp(0.1rem, 8vw + 1rem, 200px);
     transform: translateY(-5%);

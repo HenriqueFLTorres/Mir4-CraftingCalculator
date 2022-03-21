@@ -6,10 +6,10 @@ import ItensList from '../../Data/ItemsList.json'
 const rarity = Array.from(new Set(ItensList.map((item, index) => ItensList[index].rarity)))
 const category = Array.from(new Set(ItensList.map((item, index) => ItensList[index].category)))
 
-let allCategories = ["Weapon Primary", "Legendary"]
+let allCategories = []
 
-// rarity.map((item) => allCategories.push(item) )
-// category.map((item) => allCategories.push(item) )
+rarity.map((item) => allCategories.push(item) )
+category.map((item) => allCategories.push(item) )
 
 
 const CategoryFilter = ({ filter, setFilter }) => {

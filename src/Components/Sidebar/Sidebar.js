@@ -4,7 +4,7 @@ import ItemUi from "./ItemUi";
 
 import "./Sidebar.css";
 
-const Sidebar = ({ filter }) => {
+const Sidebar = ({ filter, inventory, inventoryContent, setInventoryContent }) => {
   const [search, setSearch] = useState("");
 
   return (
@@ -32,6 +32,9 @@ const Sidebar = ({ filter }) => {
                 recipe={recipe}
                 filter={filter}
                 tier={tier}
+                inventory={inventory}
+                inventoryContent={inventoryContent}
+                setInventoryContent={setInventoryContent}
               />
             )
           );

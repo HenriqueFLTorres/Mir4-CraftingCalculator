@@ -12,12 +12,19 @@
 
 
     grid-area: one;
-    padding: clamp(0.1rem, .9vw + .5rem, 2000rem);
+    /* padding: clamp(0.1rem, .9vw + .5rem, 2000rem); */
 
+    overflow: hidden;
+
+    transition: width 550ms ease;
+}
+
+.ItemDisplay {
     overflow-y: scroll;
     overflow-x: hidden;
 
-    transition: width 550ms ease;
+    height: 90%;
+    padding: clamp(0.1rem, .5vw + .5rem, 2000rem);
 }
 
 .SearchBar {
@@ -125,18 +132,20 @@
     margin-right: auto;
 
     height: 100%;
+    transform: translateY(0);
 }
 
 .ItemInfo:before {
     position: absolute;
-    display: inline-block;
-    content: attr(data-fullName);
+    display: block;
+    content: attr(data-fullname);
 
     background-color: var(--fourth-color);
     font-size: var(--step--1);
     
-    padding: 1.5% 3%;
+    padding: 4% 10%;
     border-radius: 20vw;
+    width: max-content;
 
     opacity: 0;
 
@@ -204,41 +213,25 @@
 **************************************************************/
 
 
-.ItemRarity.Common {
+.Common {
     color: var(--common);
 }
 
-.ItemRarity.Uncommon {
+.Uncommon {
     color: var(--uncommon);
 }
 
-.ItemRarity.Rare {
+.Rare {
     color: var(--rare);
 }
 
-.ItemRarity.Epic {
+.Epic {
     color: var(--epic);
 }
 
-.ItemRarity.Legendary {
+.Legendary {
     color: var(--legendary);
 }
-
-
-
-
-
-
-/* .ContentArea.Expand .ItemDisplay,
-.ContentArea.Expand .SearchBar,
-.ContentArea.Expand .ItemList {
-    display: none;
-}
-
-.ContentArea.Expand .ItemList {
-    overflow: hidden;
-} */
-
 
 
 

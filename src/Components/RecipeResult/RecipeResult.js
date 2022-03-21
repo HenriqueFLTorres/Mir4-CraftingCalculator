@@ -8,7 +8,7 @@ import millify from 'millify'
 import nameFormatter from '../../Utils/nameFormatter'
 import recipeBGColor from '../../Utils/recipeBGColor'
 
-const RecipeResult = () => {
+const RecipeResult = ({ myBackpack }) => {
   
   const recipeInfo = useRecipe();
   let recipe = recipeInfo;
@@ -25,6 +25,8 @@ const RecipeResult = () => {
             let bakedName = nameFormatter(item.name)
 
             let backgroundColor = recipeBGColor(item.name)
+
+            // if ( myBackpack.includes() )
 
 
           return (

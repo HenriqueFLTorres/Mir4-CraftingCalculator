@@ -17,11 +17,11 @@ const RecipeItem = ({ name, amount, rarity }) => {
     >
         <h1 className="RIName">{name}</h1>
         <div className={`RIFrame ${ rarity || ''}`}>
-        <img src={`./Icons/${bakedName}.png`} alt={name} />
+          <img src={`./Icons/${bakedName}.png`} alt={name} />
         </div>
-        <h1 className="RIValue">
-        {millify(amount)}
-        </h1>
+          <h1 className="RIValue">
+            {millify(amount)}
+          </h1>
     </div>
   );
 };

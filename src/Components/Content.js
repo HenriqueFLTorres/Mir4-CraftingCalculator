@@ -39,7 +39,7 @@ export const Content = () => {
             <Sidebar filter={filter} inventory={inventory} inventoryContent={inventoryContent} setInventoryContent={setInventoryContent}/>
             <CategoryFilter filter={filter} setFilter={setFilter}/>
             <ItemSettings/>
-            <RecipeResult myBackpack={myBackpack}/>
+            <RecipeResult />
             <BackpackMenu inventory={inventory} setInventory={setInventory} inventoryContent={inventoryContent} myBackpack={myBackpack} />
           </AcessRecipeContext>
       </SelectAndUpdateContext>

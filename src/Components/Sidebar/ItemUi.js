@@ -18,8 +18,9 @@ const ItemUi = ({ name, image, category, rarity, index, tier, inventory, invento
         }
       } else {
         if ( inventoryContent.includes(index) ) {
-          setInventoryContent(inventoryContent.filter(indexNumber => indexNumber != index))
-        } else {
+          let newList = inventoryContent.filter((indexNumber) => indexNumber != index)
+          setInventoryContent(newList)
+        }  else {
           setInventoryContent(inventoryContent.concat(index))
         }
       }

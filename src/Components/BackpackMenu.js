@@ -6,12 +6,16 @@ import './BackpackMenu.css'
 import BPItem from './BPItem'
 
 const BackpackMenu = ({ inventory, setInventory, inventoryContent, myBackpack }) => {
-
+  const [refresh, setRefresh] = useState(0)
 
   let parsed = JSON.parse(localStorage.getItem("Backpack"))
 
+  useEffect(() => {
+    parsed = JSON.parse(localStorage.getItem("Backpack"))
+  }, [myBackpack])
+
   return (
-    <div className="BackpackMenu">
+    <div className="BackpackMenu" onClick={() => setRefresh(refresh + 1)}>
         <div className={`BackpackButton${inventory ? ' Active' : ''}`} onClick={() => setInventory(!inventory)}>
         <Backpack/>
         </div>

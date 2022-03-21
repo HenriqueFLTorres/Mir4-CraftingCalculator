@@ -8,12 +8,13 @@ import millify from 'millify'
 import nameFormatter from '../../Utils/nameFormatter'
 import recipeBGColor from '../../Utils/recipeBGColor'
 
-const RecipeResult = ({ myBackpack }) => {
+const RecipeResult = () => {
   
   const recipeInfo = useRecipe();
   let recipe = recipeInfo;
   let result = recipeSum(recipe)
 
+  let parsed = JSON.parse(localStorage.getItem("Backpack"))
 
   return (
     <div className='RecipeResult'>
@@ -26,17 +27,19 @@ const RecipeResult = ({ myBackpack }) => {
 
             let backgroundColor = recipeBGColor(item.name)
 
-            // if ( myBackpack.includes() )
-
+            if (parsed.hasOwnProperty(item.name)) {
+              let name = item.name
+              item.value -= parsed[name]
+            }
 
           return (
-            <div className={`RecipeCounter`} key={index} data-content={fancyAmount} >
+            <div className={`RecipeCounter`} key={index} data-content={item.value <= 0 ? Math.abs(item.value) : fancyAmount} >
                 <div className='RCFrame' style={{ background: backgroundColor }}>
                   <img className='RCImage' src={`./Icons/${bakedName}.png`} alt={item.name} />
                   { item.tier && <img className='Tier' src={`./Icons/tier${item.tier}.png`} alt={`tier ${item.tier}`} />  }
                 </div>
                 <h3 className='RCName'>{item.name}</h3>
-                <h1 className='RCValue'>{millify(item.value)}</h1>
+                <h1 className='RCValue'>{ item.value <= 0 ? "Enough Itens" : millify(item.value)}</h1>
             </div>
           )
         })}      

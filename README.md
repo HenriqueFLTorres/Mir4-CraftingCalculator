@@ -43,9 +43,13 @@
   
 ### Updates 🎉
   
-  #### V1.1
+  #### V1.1 - (03/20/22)
   - Item frames on recipe result now have a custom background for their rarity
-  
+  - New category filter (You can use multiple filters now)
+  - Responsiviness design fixes
+  - New colapse animation for hide items list
+  - New items added (Weapons Primary & Secondary)
+  - New hover animation on items from list (You can see the full name on hover)
   
   #### V1.0 - Launch
   

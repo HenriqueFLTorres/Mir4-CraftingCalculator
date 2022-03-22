@@ -16,6 +16,7 @@
         'one two four';
     grid-template-columns: 25% 10% 63%;
     grid-template-rows: 40px repeat(3, 21%) 28%;
+    clip-path: inset(-100% 0 0 0);
 
     gap: clamp(0.1rem, 1%, 20rem);
     padding: clamp(0.1rem, 1%, 2rem);
@@ -45,20 +46,20 @@
 }
 
 .Colapse {
-    width: 5%;
+    height: 40%;
     stroke: var(--font-color);
     stroke-width: 5;
 
     transform: rotate(90deg);
 
-    transition-property: transform;
+    transition-property: transform, height;
     transition-duration: 250ms;
     transition-timing-function: ease;
 }
 
 .ContentArea.Expand .Colapse {
     transform: rotate(-90deg);
-    height: 60%;
+    height: 30%;
 }
 
 

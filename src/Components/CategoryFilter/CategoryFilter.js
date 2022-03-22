@@ -1,10 +1,10 @@
 import React, { useEffect } from 'react';
 import './CategoryFilter.css';
 
-import ItensList from '../../Data/ItemsList.json'
+import ItemsListArbalist from '../../Data/ItemsListArbalist.json'
 
-const rarity = Array.from(new Set(ItensList.map((item, index) => ItensList[index].rarity)))
-const category = Array.from(new Set(ItensList.map((item, index) => ItensList[index].category)))
+const rarity = Array.from(new Set(ItemsListArbalist.map((item, index) => ItemsListArbalist[index].rarity)))
+const category = Array.from(new Set(ItemsListArbalist.map((item, index) => ItemsListArbalist[index].category)))
 
 let allCategories = []
 

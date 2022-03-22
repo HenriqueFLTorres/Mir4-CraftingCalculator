@@ -3,7 +3,7 @@ import checkValue from '../Utils/checkValue'
 
 import './BackpackMenu.css'
 
-const BPItem = ({  name, image, category, rarity, tier, myBackpack, inventoryContent, index }) => {
+const BPItem = ({  name, image, rarity, tier, myBackpack, inventoryContent, index }) => {
     const [value, setValue] = useState(1)
     let parsedBP = JSON.parse(localStorage.getItem("Backpack"))
 
@@ -22,7 +22,7 @@ const BPItem = ({  name, image, category, rarity, tier, myBackpack, inventoryCon
             <div className='BPName'>{name}</div>
             <div className={`BPRarity ${rarity}`}>{rarity}</div>
         </div>
-        <div className='BPFrame' onClick={() => {
+        <div className={`BPFrame ${rarity}`} onClick={() => {
             delete myBackpack[name]
             let targetIndex = inventoryContent.indexOf(index)
             inventoryContent.splice(targetIndex, index)

@@ -22,15 +22,15 @@ const RecipeResult = () => {
       <div className='ResultList'>
         {result?.map((item, index) => {
 
-            let fancyAmount = item.value.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ")
-            let bakedName = nameFormatter(item.name)
-
-            let backgroundColor = recipeBGColor(item.name)
-
             if (parsed.hasOwnProperty(item.name)) {
               let name = item.name
               item.value -= parsed[name]
             }
+
+            let fancyAmount = item.value.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ")
+            let bakedName = nameFormatter(item.name)
+
+            let backgroundColor = recipeBGColor(item.name)
 
           return (
             <div className={`RecipeCounter`} key={index} data-content={item.value <= 0 ? Math.abs(item.value) : fancyAmount} >

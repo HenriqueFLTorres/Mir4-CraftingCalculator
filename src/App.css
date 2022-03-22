@@ -61,6 +61,35 @@
     --font-color: #F5F5F5;
 }
 
+
+/**************************************************************
+
+                    ITEM RARITY COLORS!!
+
+**************************************************************/
+
+
+.Common {
+    color: var(--common);
+}
+
+.Uncommon {
+    color: var(--uncommon);
+}
+
+.Rare {
+    color: var(--rare);
+}
+
+.Epic {
+    color: var(--epic);
+}
+
+.Legendary {
+    color: var(--legendary);
+}
+
+
 .MainBackground {
     background-color: var(--secondary-color);
     width: 100%;

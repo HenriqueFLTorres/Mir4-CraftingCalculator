@@ -10,7 +10,7 @@ import { AcessRecipeContext } from './Hooks/AcessRecipeContext';
 import Arrow from './SVG/Icons/Arrow';
 import BackpackMenu from './BackpackMenu';
 
-let myBackpack = {};
+let myBackpack = {"Dark Steel": 1};
 
 export const Content = () => {
   const [filter, setFilter] = useState([''])

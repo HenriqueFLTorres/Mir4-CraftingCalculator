@@ -6,9 +6,8 @@
     overflow: hidden;
     visibility: hidden;
 
-    border: 2px solid pink;
     width: clamp(0.1rem, 93vw, 2200px);
-    height: 85vh;
+    height: 86vh;
 
     clip-path: inset(-100% 0 0 0);
     transform: translateY(-100%);
@@ -29,45 +28,81 @@
     border-bottom-right-radius: 0;
 
     background-color: var(--dark-color);
-    transform: translateY(10vh) translateX(65vw);
+    transform: translateY(10vh) translateX(54vw);
 
     transition: transform 550ms ease;
 }
 
-.BackpackButton > * {
+.BackpackButton > svg {
+    fill: var(--unselected);
+    cursor: pointer;
+
+    transition-property: fill, filter, transform;
+    transition: 350ms ease;
+}
+
+.BackpackButton:hover > svg {
     fill: var(--font-color);
+    filter: drop-shadow(0 0 .15vw var(--font-color));
+    transform: scale(1.2, 1.2);
 }
 
 .BackpackButton.Active {
     transform: translateX(0%) translateY(10vh);
 }
 
+.BackpackButton.Active > svg {
+    fill: var(--font-color);
+}
+
+.BackpackButton.Active:hover > svg {
+    fill: var(--unselected);
+    filter: drop-shadow(0 0 0 var(--unselected));
+    transform: scale(.9, .9);
+}
+
+.DefaultItems {
+    display: flex;
+    flex-direction: row;
+    width: 46vw;
+}
+
+
+
+
 .BackpackArea {
     display: grid;
     justify-content: center;
-    grid-template-columns: repeat(auto-fit, minmax(140px, 200px));
-    grid-auto-rows: 220px;
+    grid-template-columns: repeat(auto-fit, 9vw);
+    grid-auto-rows: 12vw;
 
     padding: 2.5%;
 
     height: 100%;
-    width: 70%;
+    width: 58%;
 
-    background-color: var(--dark-color);
+    backdrop-filter: blur(.5vw);
+    -webkit-backdrop-filter:blur(.5vw);
+    background-image: linear-gradient(155deg, rgba(51, 51, 51, 0.57), rgba(233, 233, 233, 0.063));
+    border-radius: 1vw;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
     transform: translateX(100%);
 
+    overflow-y: scroll;
+
     transition: transform 550ms ease;
+}
+
+.BackpackArea .DefaultItems {
+    grid-column: 1/-1;
+    justify-content: center;
 }
 
 
 .BackpackArea.Active {
     transform: translateX(0);
 }
-
-
-.BAApply {
-}
-
 
 
 .BPItem {
@@ -99,14 +134,56 @@
     justify-content: center;
     align-items: center;
 
-    background-color: var(--secondary-color);
     border-radius: .5vw;
 
     margin-block: 10%;
 
-    width: clamp(0.1rem, 5vw + 1rem, 200rem);
-    height: clamp(0.1rem, 5vw + 1rem, 200rem);
+    width: clamp(0.1rem, 4vw + 1rem, 200rem);
+    height: clamp(0.1rem, 4vw + 1rem, 200rem);
+
+    transition-property: transform, border;
+    transition: 250ms ease;
 }
+
+.BPFrame:hover {
+    transform: scale(1.2, 1.2);
+    border: .2vw solid rgba(194, 46, 46, 0.713);
+}
+
+.DefaultItems .BPFrame:hover {
+    border: none;
+}
+
+
+.BPFrame.Default {
+    background-color: var(--secondary-color);
+}
+
+.BPFrame.Common {
+    background: linear-gradient(180deg, rgba(57,61,62,1) 0%, rgba(107,120,126,1) 100%);
+}
+
+.BPFrame.Uncommon {
+    background: linear-gradient(180deg, rgba(19,58,43,1) 0%, rgba(48,139,104,1) 100%);
+}
+
+.BPFrame.Rare {
+    background: linear-gradient(180deg, rgba(16,42,67,1) 0%, rgba(40,86,150,1) 100%);
+}
+
+.BPFrame.Epic {
+    background: linear-gradient(180deg, rgba(48,5,16,1) 0%, rgba(168,33,31,1) 100%);
+}
+
+.BPFrame.Legendary {
+    background: linear-gradient(180deg, rgba(111,74,4,1) 0%, rgba(213,190,23,1) 100%);
+}
+
+
+
+
+
+
 
 .BPFrame img:first-child {
     height: 80%;
@@ -123,7 +200,7 @@
     font-size: var(--step-0);
 
     color: var(--font-color);
-    background-color: var(--dark-color);
+    background-color: rgba(0, 0, 0, 0);
     border: none;
     border-radius: 5vw;
 

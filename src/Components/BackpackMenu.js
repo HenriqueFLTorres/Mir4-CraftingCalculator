@@ -4,6 +4,7 @@ import ItemsList from '../Data/ItemsList.json'
 
 import './BackpackMenu.css'
 import BPItem from './BPItem'
+import DefaultItems from './DefaultItems'
 
 const BackpackMenu = ({ inventory, setInventory, inventoryContent, myBackpack }) => {
   const [refresh, setRefresh] = useState(0)
@@ -20,10 +21,11 @@ const BackpackMenu = ({ inventory, setInventory, inventoryContent, myBackpack })
         <Backpack/>
         </div>
         <div className={`BackpackArea${inventory ? ' Active' : ''}`}>
+            <DefaultItems myBackpack={myBackpack}/>
             { ItemsList.map((item, index) => {
                 const { name, image, category, rarity, tier } = item
                  
-                return ( inventoryContent.includes(index) || parsed?.hasOwnProperty(name) ) && <BPItem key={index} name={name} image={image} category={category} rarity={rarity} tier={tier} myBackpack={myBackpack} inventoryContent={inventoryContent} index={index} />
+                return ( inventoryContent.includes(index) || parsed?.hasOwnProperty(name) ) && <BPItem key={index} name={name} image={image} rarity={rarity} tier={tier} myBackpack={myBackpack} inventoryContent={inventoryContent} index={index} />
             }) }
         </div>
     </div>

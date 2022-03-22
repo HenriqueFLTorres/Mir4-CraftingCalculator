@@ -1,6 +1,5 @@
-import React, { useEffect } from 'react'
+import React from 'react'
 import { useSelect, useSelectUpdate } from '../Hooks/SelectedContext'
-import Sidebar from './Sidebar'
 
 import './Sidebar.css'
 

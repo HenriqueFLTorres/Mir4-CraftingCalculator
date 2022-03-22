@@ -45,6 +45,8 @@
   
   ### V1.2 - (03/21/22) 
   - New Feature: Inventory (You can select your item and it will subtract from the result)
+  - Added Copper, Dark steel and energy as default items on inventory
+  - New Feature: Item display by class (Select the preferred class and it will show the items of the respective class)
   - Fixed position & New Inventory GUI design (It's no more above the filters)
   - Fixed result items hover amount (items weren't displaying the remaining ammount correctly)
   

@@ -47,8 +47,11 @@
   - Fixing a bug when user deleted backpack storage the website no longer worked
   - Ton of design fixes for better responsiviness
   - Design changes for better visibility
-  - Added more items (Jewels)
+  - Added remaining items (Jewels)
+  - New visual (Item Frames)
   
+      <img width="40%" src="https://user-images.githubusercontent.com/96752883/159807069-1aeaa729-1aaf-4e72-9113-f6135a8739e3.png">
+
   
   ### V1.2 - (03/21/22) 
   - New Feature: Inventory (You can select your item and it will subtract from the result)

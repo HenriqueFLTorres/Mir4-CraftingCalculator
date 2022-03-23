@@ -43,6 +43,13 @@
   
 ### Updates 🎉
   
+  ### V1.3 - (03/22/22)
+  - Fixing a bug when user deleted backpack storage the website no longer worked
+  - Ton of design fixes for better responsiviness
+  - Design changes for better visibility
+  - Added more items (Jewels)
+  
+  
   ### V1.2 - (03/21/22) 
   - New Feature: Inventory (You can select your item and it will subtract from the result)
   - Added Copper, Dark steel and energy as default items on inventory

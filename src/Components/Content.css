@@ -70,16 +70,21 @@
         'collapseButtom two two'
         'one two two'
         'one three three'
-        'one three three'
-        'one three three'
-        'one three three'
         'one four four';
-        grid-template-rows: 3% repeat(6, 16.16%);
+        grid-template-rows: 5% 7% 60% 28%;
         grid-template-columns: 40% 60%;
     }
 
     .ContentArea.Expand {
-        grid-template-columns: 5% 95%;
+        grid-template-columns: 32% 40% 40%;
     }
     
+}
+
+@media (max-width: 700px) and (orientation: landscape) {
+
+    .ContentArea {
+        grid-template-rows: 10% 10% 50% 27%;
+
+    }
 }

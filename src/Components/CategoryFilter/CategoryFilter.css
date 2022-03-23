@@ -30,8 +30,6 @@
     align-items: center;
     justify-content: center;
 
-    width: 100%;
-
     margin: 2% 0;
     padding: 1rem;
 
@@ -107,21 +105,37 @@
 @media (max-width: 700px) {
 
     .CategoryFilter {
-        flex-direction: row;
+        display: grid;
+        grid-auto-columns: 17%;
+        grid-auto-flow: column dense;
         padding: 0;
+        width: 56vw;
 
         overflow-x: scroll;
+        overflow-y: hidden;
     }
 
     .RarityDiv {
-        height: 50%;
-        width: 29%;
+        height: 100%;
+        width: 100%;
+        padding: 0;
 
         transform: scale(1, 1);
     }
 
+    .RarityTitle {
+        width: auto;
+        height: auto;
+        font-size: var(--step--1);
+    }
+
     .RarityDiv.True {
-        background-color: var(--primary-color);
+        background-color: var(--terciary-color);
+    }
+
+    .ContentArea.Expand .CategoryFilter {
+        transform: translateX(-27%);
+        width: 87vw;
     }
 }
 
@@ -129,16 +143,6 @@
 
 @media (max-width: 450px) {
 
-    .CategoryFilter {
-        justify-content: center;
-        align-items: center;
-    }
-
-    .RarityDiv {
-        width: 15%;
-        height: 40%;
-        padding: 0;
-    }
 
     .RarityTitle {
         font-size: var(--step--2);

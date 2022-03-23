@@ -192,13 +192,13 @@
     }
 
     .ResultList {
-        grid-template-columns: repeat(auto-fit, minmax(40px, 70px));
-        grid-auto-rows: 80px;
+        grid-template-columns: repeat(auto-fit, 22%);
+        grid-auto-rows: calc(8vw + 1rem);
     }
 
     .RCFrame {
-        width: calc(9vw + 1rem);
-        height: calc(9vw + 1rem);
+        width: calc(5vw + 1rem);
+        height: calc(5vw + 1rem);
     }
 
     .RecipeCounter {
@@ -227,4 +227,18 @@
         height: 70px;
     }
 
+}
+
+
+@media (max-width: 700px) and (orientation: landscape) {
+
+    .ResultList {
+        grid-template-columns: repeat(auto-fit, 12vw);
+        grid-auto-rows: 9vw;
+    }
+
+    .RCFrame {
+        width: calc(3vw + 1rem);
+        height: calc(3vw + 1rem);
+    }
 }

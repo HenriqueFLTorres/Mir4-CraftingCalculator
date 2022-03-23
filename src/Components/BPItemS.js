@@ -27,7 +27,7 @@ const BPItemS = ({  name, image, myBackpack }) => {
                 <img className='Tier' src={`./Icons/tierHide.png`} alt={`no Tier`} />
             </div>
             <input type="number" value={value} onChange={(e) => { 
-                setValue(checkValue(e.target.value, 1, 1000000000))
+                setValue(checkValue(e.target.value, 0, 1000000000))
                 setTimeout(() => {
                     localStorage.setItem("Backpack", JSON.stringify(myBackpack))
                 }, 400);

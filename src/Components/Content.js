@@ -10,17 +10,21 @@ import { AcessRecipeContext } from './Hooks/AcessRecipeContext';
 import Arrow from './SVG/Icons/Arrow';
 import BackpackMenu from './BackpackMenu';
 
-let myBackpack = {"Dark Steel": 1};
+let myBackpack = {"Copper Coin": 0, "Dark Steel": 0, "Energy": 0};
 
 export const Content = () => {
   const [filter, setFilter] = useState([''])
   const [totalRecipe, setTotalRecipe] = useState([])
   const [colapse, setColapse] = useState(false)
+  const [itemClass, setItemClass] = useState("Arbalist")
   
   const [inventory, setInventory] = useState(false)
   const [inventoryContent, setInventoryContent] = useState([])
   
   useEffect(() => {
+    if ( localStorage.getItem("Backpack") === null ) {
+      localStorage.setItem("Backpack", JSON.stringify(myBackpack))
+    }
     let storageBP = localStorage.getItem("Backpack")
     storageBP && ( myBackpack = JSON.parse(storageBP) )
   }, [])
@@ -36,9 +40,9 @@ export const Content = () => {
                 <Arrow className="Colapse"/>
                 <Arrow className="Colapse"/>
             </div>
-            <Sidebar filter={filter} inventory={inventory} inventoryContent={inventoryContent} setInventoryContent={setInventoryContent}/>
+            <Sidebar filter={filter} inventory={inventory} inventoryContent={inventoryContent} setInventoryContent={setInventoryContent} setItemClass={setItemClass} itemClass={itemClass}/>
             <CategoryFilter filter={filter} setFilter={setFilter}/>
-            <ItemSettings/>
+            <ItemSettings setItemClass={setItemClass} itemClass={itemClass}/>
             <RecipeResult />
             <BackpackMenu inventory={inventory} setInventory={setInventory} inventoryContent={inventoryContent} myBackpack={myBackpack} />
           </AcessRecipeContext>

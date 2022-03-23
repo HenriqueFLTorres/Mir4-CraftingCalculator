@@ -1,28 +1,19 @@
 import React, { useState } from "react";
 
-import ItemsListArbalist from '../../Data/ItemsListArbalist.json'
-import ItemsListLancer from '../../Data/ItemsListLancer.json'
-import ItemsListSorcerer from '../../Data/ItemsListSorcerer.json'
-import ItemsListTaoist from '../../Data/ItemsListTaoist.json'
-import ItemsListWarrior from '../../Data/ItemsListWarrior.json'
+import handleMap from '../../Utils/classSelectHandler.js'
 
 import Classes from "./Classes";
 import ItemUi from "./ItemUi";
 
 import "./Sidebar.css";
 
-const Sidebar = ({ filter, inventory, inventoryContent, setInventoryContent }) => {
+const Sidebar = ({ filter, inventory, inventoryContent, setInventoryContent, itemClass, setItemClass }) => {
   const [search, setSearch] = useState("");
-  const [itemClass, setItemClass] = useState("Arbalist")
+  const [icon, setIcon] = useState(false)
 
-  const handleMap = (className) => {
-    if (className === "Arbalist") return ItemsListArbalist
-    if (className === "Lancer") return ItemsListLancer
-    if (className === "Sorcerer") return ItemsListSorcerer
-    if (className === "Taoist") return ItemsListTaoist
-    if (className === "Warrior") return ItemsListWarrior
-    else return
-  }
+  setTimeout(() => {
+    setIcon(!icon)
+  }, 1000);
 
   return (
     <div className="ItemList">
@@ -34,8 +25,8 @@ const Sidebar = ({ filter, inventory, inventoryContent, setInventoryContent }) =
         />
       </div>
       <div className="ItemDisplay">
-        {(handleMap(itemClass)).map((itemInfo, index) => {
-          const { name, image, category, rarity, recipe,  tier } = itemInfo;
+        {handleMap(itemClass).map((itemInfo, index) => {
+          const { name, image, category, rarity, recipe,  tier, imageSecondary } = itemInfo;
 
           return (
             name.toLocaleLowerCase().includes(search.toLocaleLowerCase()) &&
@@ -45,6 +36,7 @@ const Sidebar = ({ filter, inventory, inventoryContent, setInventoryContent }) =
                 index={index}
                 name={name}
                 image={image}
+                imageS={imageSecondary}
                 category={category}
                 rarity={rarity}
                 recipe={recipe}
@@ -53,6 +45,7 @@ const Sidebar = ({ filter, inventory, inventoryContent, setInventoryContent }) =
                 inventory={inventory}
                 inventoryContent={inventoryContent}
                 setInventoryContent={setInventoryContent}
+                icon={icon}
               />
             )
           );

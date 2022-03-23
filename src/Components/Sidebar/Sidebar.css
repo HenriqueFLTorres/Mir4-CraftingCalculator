@@ -146,7 +146,8 @@
 .SearchBar {
     display: flex;
 
-    width: 20vw;
+    width: 80%;
+    margin: 10% auto;
     
     color: var(--font-color);
     font-size: var(--step-0);
@@ -155,10 +156,10 @@
     border: 2px solid var(--secondary-color);
     border-radius: 50px;
 
-    padding: 1rem 1.75rem;
+    padding: clamp(0.1rem, .25vh + .5rem, 20rem);
     text-align: center;
 
-    margin: 2rem clamp(0.1rem, 1vw + 0.5rem, 2000rem);
+    /* margin: 2rem clamp(0.1rem, 1vw + 0.5rem, 2000rem); */
 
     transition-property: border, background-color;
     transition-duration: 250ms;
@@ -182,11 +183,11 @@
     align-items: center;
     justify-content: flex-start;
 
-    height: clamp(0.1rem, 8vh + 1rem, 2000rem);
-    width: clamp(15vw, 19.5vw + 1rem, 20000rem);
+    height: clamp(8rem, 8vh + 1rem, 20rem);
+    min-width: 13vw;
+    width: 100%;
 
-    padding-block: clamp(.7vw, .5vw + .5rem ,2000rem);
-    padding-inline: clamp(1.7vw, 1.25vw + 1rem ,2000rem);
+    padding-inline: clamp(1.7vw, 1.25vw + 1rem, 20rem);
 
     border-radius: 0.3vw;
     margin-bottom: clamp(0.1rem, .5vh + .5rem, 2000rem);
@@ -217,14 +218,13 @@
  
     border-radius: 100%; 
 
-    margin-right: 8%;
+    margin-right: clamp(2rem, 8%, 3rem);
     background-color: var(--terciary-color);
 
     transition-property: transform, background, filter;
     transition-duration: 400ms;
 }
 .ImageFrame > * {
-    /* border: 2px solid purple; */
     transform: translateY(25%);
 }
 
@@ -247,7 +247,7 @@
 
     margin-right: auto;
 
-    height: 100%;
+    height: 75%;
     transform: translateY(0);
 }
 
@@ -279,9 +279,12 @@
 }
 
 .ItemName {
+    display: inline-block;
+
     font-size: var(--step-0);
     font-weight: 600;
     opacity: 1;
+    white-space: nowrap;
 
     transition: opacity 250ms ease;
 }
@@ -322,10 +325,6 @@
 
 @media (max-width: 1500px) {
 
-    .ItemInfo {
-        height: 100%;
-    }
-
     .ItemName, .ItemCategory, .ItemRarity  {
         font-size: var(--step--1);
     }
@@ -339,12 +338,13 @@
 
 
     .ItemUI {
-        padding: 5%;
-        height: 80%;
+        padding: 0;
+        height: clamp(5rem, 8vh + 1rem, 20rem);
     }
 
-    .ItemInfo {
-        height: 80%;
+    .ImageFrame {
+        margin-left: 7%;
+        margin-right: 5%;
     }
 
     .ItemName, .ItemCategory, .ItemRarity {
@@ -353,25 +353,9 @@
 
 }
 
-@media (max-width: 1050px) {
 
-
-    .ItemUI {
-        padding: 5%;
-        height: 80%;
-    }
-
-}
-
-
-@media (max-width: 700px) {
+@media (max-width: 800px) {
     
-    .SearchBar {
-        padding: 3% 8%;
-
-        margin-block: 8%;
-    }
-
     .ItemUI {
         padding: 4%;
         height: 50px;

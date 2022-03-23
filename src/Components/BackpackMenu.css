@@ -20,6 +20,7 @@
 .BackpackButton {
     width: clamp(0.1rem, 6vw + 1rem ,200rem);
     height: clamp(0.1rem, 6vw + 1rem ,200rem);
+    opacity: 0;
 
     padding: 1vw;
 

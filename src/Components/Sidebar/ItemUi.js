@@ -1,9 +1,10 @@
-import React from 'react'
+import React, { useState, useEffect } from 'react'
 import { useSelect, useSelectUpdate } from '../Hooks/SelectedContext'
 
 import './Sidebar.css'
 
-const ItemUi = ({ name, image, category, rarity, index, tier, inventory, inventoryContent, setInventoryContent }) => {
+const ItemUi = ({ name, image, imageS, category, rarity, index, tier, inventory, inventoryContent, setInventoryContent, icon }) => {
+
   const selected = useSelect();
   const updateSelected = useSelectUpdate();
 
@@ -23,10 +24,14 @@ const ItemUi = ({ name, image, category, rarity, index, tier, inventory, invento
           setInventoryContent(inventoryContent.concat(index))
         }
       }
+
+      console.log(icon);
       
     }}>
         <div className='ImageFrame'>
-            <img src={image} alt={name} />
+            { imageS ?
+            ( icon ? <img src={image} alt={name} /> : <img src={imageS} alt={name} /> ) :
+            <img src={image} alt={name} /> }
             { tier ? <img className='Tier' src={`./Icons/tier${tier}.png`} alt={`tier ${tier}`} /> : <img className='Tier' src={`./Icons/tierHide.png`} alt={`no Tier`} /> }
         </div>
         <div className='ItemInfo' data-fullname={name} >

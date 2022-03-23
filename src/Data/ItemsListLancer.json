@@ -1353,8 +1353,8 @@
 
 
   {
-    "name": "Lancer",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Hand Polearm",
+    "image": "./Icons/Lancer/Hand_Polearm.png",
     "category": "Weapon Secondary",
     "tier": "1",
     "rarity": "Uncommon",
@@ -1368,8 +1368,8 @@
     ]
   },
   {
-    "name": "Leather Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Short Polearm",
+    "image": "./Icons/Lancer/Short_Polearm.png",
     "category": "Weapon Secondary",
     "tier": "1",
     "rarity": "Uncommon",
@@ -1383,8 +1383,8 @@
     ]
   },
   {
-    "name": "Bamboo Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Half-moon Hand Polearm",
+    "image": "./Icons/Lancer/Hand_Polearm.png",
     "category": "Weapon Secondary",
     "tier": "2",
     "rarity": "Uncommon",
@@ -1398,8 +1398,8 @@
     ]
   },
   {
-    "name": "Wolf Leather Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Black Scythe Short Polearm",
+    "image": "./Icons/Lancer/Short_Polearm.png",
     "category": "Weapon Secondary",
     "tier": "2",
     "rarity": "Uncommon",
@@ -1413,8 +1413,8 @@
     ]
   },
   {
-    "name": "Iron Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Moon Slashing Hand Polearm",
+    "image": "./Icons/Lancer/Hand_Polearm.png",
     "category": "Weapon Secondary",
     "tier": "3",
     "rarity": "Uncommon",
@@ -1428,8 +1428,8 @@
     ]
   },
   {
-    "name": "Tiger Leather Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Demonic Scythe Short",
+    "image": "./Icons/Lancer/Short_Polearm.png",
     "category": "Weapon Secondary",
     "tier": "3",
     "rarity": "Uncommon",
@@ -1443,8 +1443,8 @@
     ]
   },
   {
-    "name": "Adamant Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Moon Severing Hand Polearm",
+    "image": "./Icons/Lancer/Hand_Polearm.png",
     "category": "Weapon Secondary",
     "tier": "4",
     "rarity": "Uncommon",
@@ -1458,8 +1458,8 @@
     ]
   },
   {
-    "name": "White Tiger Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Ghost Slashing Short Polearm",
+    "image": "./Icons/Lancer/Short_Polearm.png",
     "category": "Weapon Secondary",
     "tier": "4",
     "rarity": "Uncommon",
@@ -1479,8 +1479,8 @@
 
 
   {
-    "name": "Horn Bow",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Tiger Fang Spear",
+    "image": "./Icons/Lancer/Tiger_Fang_Spear.png",
     "category": "Weapon Primary",
     "tier": "1",
     "rarity": "Uncommon",
@@ -1494,8 +1494,8 @@
     ]
   },
   {
-    "name": "Devilface Bow",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Bloodletter Staff",
+    "image": "./Icons/Lancer/Bloodletter_Staff.png",
     "category": "Weapon Primary",
     "tier": "1",
     "rarity": "Uncommon",
@@ -1509,8 +1509,8 @@
     ]
   },
   {
-    "name": "Oxhorn Bow",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Snakecurve Spear",
+    "image": "./Icons/Lancer/Tiger_Fang_Spear.png",
     "category": "Weapon Primary",
     "tier": "2",
     "rarity": "Uncommon",
@@ -1524,8 +1524,8 @@
     ]
   },
   {
-    "name": "Revenant Bow",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Bloodstopper Staff",
+    "image": "./Icons/Lancer/Bloodletter_Staff.png",
     "category": "Weapon Primary",
     "tier": "2",
     "rarity": "Uncommon",
@@ -1539,8 +1539,8 @@
     ]
   },
   {
-    "name": "Ironhorn Bow",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Trident Cane",
+    "image": "./Icons/Lancer/Tiger_Fang_Spear.png",
     "category": "Weapon Primary",
     "tier": "3",
     "rarity": "Uncommon",
@@ -1554,8 +1554,8 @@
     ]
   },
   {
-    "name": "Mara Bow",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Bloodpoint",
+    "image": "./Icons/Lancer/Bloodletter_Staff.png",
     "category": "Weapon Primary",
     "tier": "3",
     "rarity": "Uncommon",
@@ -1569,8 +1569,8 @@
     ]
   },
   {
-    "name": "Dragon Horn Bow",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Shadowsteel Halberd",
+    "image": "./Icons/Lancer/Tiger_Fang_Spear.png",
     "category": "Weapon Primary",
     "tier": "4",
     "rarity": "Uncommon",
@@ -1584,8 +1584,8 @@
     ]
   },
   {
-    "name": "Hell Horse Bow",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Blood of Hidden Sky Staff",
+    "image": "./Icons/Lancer/Bloodletter_Staff.png",
     "category": "Weapon Primary",
     "tier": "4",
     "rarity": "Uncommon",
@@ -1624,8 +1624,9 @@
 
 
   {
-    "name": "Miri Quiver & Small Dragon Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Sharp Short Polearm & Hidden Moon Short Polearm",
+    "image": "./Icons/Lancer/Sharp_Short_Polearm.png",
+    "imageSecondary": "./Icons/Lancer/Hidden_Moon_Short_Polearm.png",
     "category": "Weapon Secondary",
     "tier": "1",
     "rarity": "Rare",
@@ -1639,8 +1640,9 @@
     ]
   },
   {
-    "name": "Pakua Quiver & Flying Dragon Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Improved Sharp Short Polearm & Flying Blade Short Polearm",
+    "image": "./Icons/Lancer/Sharp_Short_Polearm.png",
+    "imageSecondary": "./Icons/Lancer/Hidden_Moon_Short_Polearm.png",
     "category": "Weapon Secondary",
     "tier": "2",
     "rarity": "Rare",
@@ -1654,8 +1656,9 @@
     ]
   },
   {
-    "name": "Redmoon Quiver & Yellow Dragon Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Chain Short Polearm & Flying Scythe Short Polearm",
+    "image": "./Icons/Lancer/Sharp_Short_Polearm.png",
+    "imageSecondary": "./Icons/Lancer/Hidden_Moon_Short_Polearm.png",
     "category": "Weapon Secondary",
     "tier": "3",
     "rarity": "Rare",
@@ -1669,8 +1672,9 @@
     ]
   },
   {
-    "name": "Moonlight Quiver & Moonfang Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Chained Moons Short Polearm & Hidden Sky Short Polearm",
+    "image": "./Icons/Lancer/Sharp_Short_Polearm.png",
+    "imageSecondary": "./Icons/Lancer/Hidden_Moon_Short_Polearm.png",
     "category": "Weapon Secondary",
     "tier": "4",
     "rarity": "Rare",
@@ -1690,8 +1694,9 @@
 
 
   {
-    "name": "Miri Bow & Dragonling Bow",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Sky Slasher Heavy Polearm & Spiked Short Polearm",
+    "image": "./Icons/Lancer/Sky_Slasher_Heavy_Polearm.png",
+    "imageSecondary": "./Icons/Lancer/Spiked_Short_Polearm.png",
     "category": "Weapon Primary",
     "tier": "1",
     "rarity": "Rare",
@@ -1705,8 +1710,9 @@
     ]
   },
   {
-    "name": "Pakua Miri Bow & Flying Dragon Bow",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Spiral Heavy Polearm & Sky Piercer Heavy Polearm",
+    "image": "./Icons/Lancer/Sky_Slasher_Heavy_Polearm.png",
+    "imageSecondary": "./Icons/Lancer/Spiked_Short_Polearm.png",
     "category": "Weapon Primary",
     "tier": "2",
     "rarity": "Rare",
@@ -1720,8 +1726,9 @@
     ]
   },
   {
-    "name": "Redmoon Ballista & Yellow Dragon Shot",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Sky Flying Tiger Polearm & Yellow Dragon Halberd",
+    "image": "./Icons/Lancer/Sky_Slasher_Heavy_Polearm.png",
+    "imageSecondary": "./Icons/Lancer/Spiked_Short_Polearm.png",
     "category": "Weapon Primary",
     "tier": "3",
     "rarity": "Rare",
@@ -1735,8 +1742,9 @@
     ]
   },
   {
-    "name": "Moonlight Ballista & Moonfang Dragon Shot",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Moonlight Dragon's Flight Polearm & Moonfang Halberd",
+    "image": "./Icons/Lancer/Sky_Slasher_Heavy_Polearm.png",
+    "imageSecondary": "./Icons/Lancer/Spiked_Short_Polearm.png",
     "category": "Weapon Primary",
     "tier": "4",
     "rarity": "Rare",
@@ -1754,9 +1762,19 @@
 
 
 
+
+
+
+
+
+
+
+
+
   {
-    "name": "Dual Quiver & Changhae Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Sun Reaching Short Polearm & Purple Moon Hand Polearm",
+    "image": "./Icons/Lancer/Sun_Reaching_Short_Polearm.png",
+    "imageSecondary": "./Icons/Lancer/Purple_Moon_Hand_Polearm.png",
     "category": "Weapon Primary",
     "tier": "1",
     "rarity": "Epic",
@@ -1764,14 +1782,15 @@
       { "name" : "[E] Steel", "rarity": "Epic", "amount": 300 }, 
       { "name" : "[E] Evil Minded Orb", "rarity": "Epic", "amount": 100 }, 
       { "name" : "[E] Moon Shadow Stone", "rarity": "Epic", "amount": 100 }, 
-      { "name" : "[E] Dragon Scale", "rarity": "Epic", "amount": 1 }, 
+      { "name" : "[E] Dragon Claw", "rarity": "Epic", "amount": 1 }, 
       { "name" : "Copper Coin", "amount": 800000 }, 
       { "name" : "Dark Steel", "amount": 800000 }
     ]
   },
   {
-    "name": "Dipole Quiver & Firmament Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Moon Piercing Short Polearm & Violet Lightning Hand Polearm",
+    "image": "./Icons/Lancer/Sun_Reaching_Short_Polearm.png",
+    "imageSecondary": "./Icons/Lancer/Purple_Moon_Hand_Polearm.png",
     "category": "Weapon Primary",
     "tier": "2",
     "rarity": "Epic",
@@ -1779,14 +1798,15 @@
       { "name" : "[E] Steel", "rarity": "Epic", "amount": 600 }, 
       { "name" : "[E] Evil Minded Orb", "rarity": "Epic", "amount": 200 }, 
       { "name" : "[E] Moon Shadow Stone", "rarity": "Epic", "amount": 200 }, 
-      { "name" : "[E] Dragon Scale", "rarity": "Epic", "amount": 2 }, 
+      { "name" : "[E] Dragon Claw", "rarity": "Epic", "amount": 2 }, 
       { "name" : "Copper Coin", "amount": 3200000 }, 
       { "name" : "Dark Steel", "amount": 3200000 }
     ]
   },
   {
-    "name": "Two Dragons Quiver & Blue Sky Piercing Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Lunisolar Short Polearm & Lightning Hand Polearm",
+    "image": "./Icons/Lancer/Sun_Reaching_Short_Polearm.png",
+    "imageSecondary": "./Icons/Lancer/Purple_Moon_Hand_Polearm.png",
     "category": "Weapon Primary",
     "tier": "3",
     "rarity": "Epic",
@@ -1794,14 +1814,15 @@
       { "name" : "[E] Steel", "rarity": "Epic", "amount": 1200 }, 
       { "name" : "[E] Evil Minded Orb", "rarity": "Epic", "amount": 400 }, 
       { "name" : "[E] Moon Shadow Stone", "rarity": "Epic", "amount": 400 }, 
-      { "name" : "[E] Dragon Scale", "rarity": "Epic", "amount": 4 }, 
+      { "name" : "[E] Dragon Claw", "rarity": "Epic", "amount": 4 }, 
       { "name" : "Copper Coin", "amount": 8800000 }, 
       { "name" : "Dark Steel", "amount": 8800000 }
     ]
   },
   {
-    "name": "Two Moons Quiver & Ascending Dragon Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Skytear Short Polearm & Heavenly Thunder Hand Polearm",
+    "image": "./Icons/Lancer/Sun_Reaching_Short_Polearm.png",
+    "imageSecondary": "./Icons/Lancer/Purple_Moon_Hand_Polearm.png",
     "category": "Weapon Primary",
     "tier": "4",
     "rarity": "Epic",
@@ -1809,7 +1830,7 @@
       { "name" : "[E] Steel", "rarity": "Epic", "amount": 2400 }, 
       { "name" : "[E] Evil Minded Orb", "rarity": "Epic", "amount": 800 }, 
       { "name" : "[E] Moon Shadow Stone", "rarity": "Epic", "amount": 800 }, 
-      { "name" : "[E] Dragon Scale", "rarity": "Epic", "amount": 8 }, 
+      { "name" : "[E] Dragon Claw", "rarity": "Epic", "amount": 8 }, 
       { "name" : "Copper Coin", "amount": 20800000 }, 
       { "name" : "Dark Steel", "amount": 20800000 }
     ]
@@ -1820,11 +1841,91 @@
 
 
 
+  {
+    "name": "Brave Dragon Halberd & Virtue's Emissary Quarterstaff",
+    "image": "./Icons/Lancer/Brave_Dragon_Halberd.png",
+    "imageSecondary": "./Icons/Lancer/Virtues_Emissary_Quarterstaff.png",
+    "category": "Weapon Primary",
+    "tier": "1",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[E] Steel", "rarity": "Epic", "amount": 300 }, 
+      { "name" : "[E] Evil Minded Orb", "rarity": "Epic", "amount": 100 }, 
+      { "name" : "[E] Moon Shadow Stone", "rarity": "Epic", "amount": 100 }, 
+      { "name" : "[E] Dragon Scale", "rarity": "Epic", "amount": 1 }, 
+      { "name" : "Copper Coin", "amount": 800000 }, 
+      { "name" : "Dark Steel", "amount": 100000 }
+    ]
+  },
+  {
+    "name": "Spiral Halberd & Heavenshaker Quarterstaff",
+    "image": "./Icons/Lancer/Brave_Dragon_Halberd.png",
+    "imageSecondary": "./Icons/Lancer/Virtues_Emissary_Quarterstaff.png",
+    "category": "Weapon Primary",
+    "tier": "2",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[E] Steel", "rarity": "Epic", "amount": 600 }, 
+      { "name" : "[E] Evil Minded Orb", "rarity": "Epic", "amount": 200 }, 
+      { "name" : "[E] Moon Shadow Stone", "rarity": "Epic", "amount": 200 }, 
+      { "name" : "[E] Dragon Scale", "rarity": "Epic", "amount": 2 }, 
+      { "name" : "Copper Coin", "amount": 3200000 }, 
+      { "name" : "Dark Steel", "amount": 400000 }
+    ]
+  },
+  {
+    "name": "Skyquake Ultimate Halberd & Meteor Quarterstaff",
+    "image": "./Icons/Lancer/Brave_Dragon_Halberd.png",
+    "imageSecondary": "./Icons/Lancer/Virtues_Emissary_Quarterstaff.png",
+    "category": "Weapon Primary",
+    "tier": "3",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[E] Steel", "rarity": "Epic", "amount": 1200 }, 
+      { "name" : "[E] Evil Minded Orb", "rarity": "Epic", "amount": 400 }, 
+      { "name" : "[E] Moon Shadow Stone", "rarity": "Epic", "amount": 400 }, 
+      { "name" : "[E] Dragon Scale", "rarity": "Epic", "amount": 4 }, 
+      { "name" : "Copper Coin", "amount": 8800000 }, 
+      { "name" : "Dark Steel", "amount": 1600000 }
+    ]
+  },
+  {
+    "name": "Spacetime Heavy Halberd & Skytiger Black Quarterstaff",
+    "image": "./Icons/Lancer/Brave_Dragon_Halberd.png",
+    "imageSecondary": "./Icons/Lancer/Virtues_Emissary_Quarterstaff.png",
+    "category": "Weapon Primary",
+    "tier": "4",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[E] Steel", "rarity": "Epic", "amount": 2400 }, 
+      { "name" : "[E] Evil Minded Orb", "rarity": "Epic", "amount": 800 }, 
+      { "name" : "[E] Moon Shadow Stone", "rarity": "Epic", "amount": 800 }, 
+      { "name" : "[E] Dragon Scale", "rarity": "Epic", "amount": 8 }, 
+      { "name" : "Copper Coin", "amount": 20800000 }, 
+      { "name" : "Dark Steel", "amount": 3200000 }
+    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
   {
-    "name": "Demonic Dragon Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Dragon Fang Short Polearm",
+    "image": "./Icons/Lancer/Dragon_Fang_Short_Polearm.png",
     "category": "Weapon Secondary",
     "tier": "1",
     "rarity": "Legendary",
@@ -1838,8 +1939,8 @@
     ]
   },
   {
-    "name": "Darksteel Mara Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Dragon Slaying Short Polearm",
+    "image": "./Icons/Lancer/Dragon_Fang_Short_Polearm.png",
     "category": "Weapon Secondary",
     "tier": "2",
     "rarity": "Legendary",
@@ -1853,8 +1954,8 @@
     ]
   },
   {
-    "name": "Yellow Dragon Dipole Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "One Point Short Polearm",
+    "image": "./Icons/Lancer/Dragon_Fang_Short_Polearm.png",
     "category": "Weapon Secondary",
     "tier": "3",
     "rarity": "Legendary",
@@ -1868,8 +1969,8 @@
     ]
   },
   {
-    "name": "Vermilion Bird Godly Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Godslayer Short Polearm",
+    "image": "./Icons/Lancer/Dragon_Fang_Short_Polearm.png",
     "category": "Weapon Secondary",
     "tier": "4",
     "rarity": "Legendary",
@@ -1886,8 +1987,8 @@
 
 
   {
-    "name": "Demonic Dragon Horn Bow",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Dragon Frenzy Halberd",
+    "image": "./Icons/Lancer/Dragon_Frenzy_Halberd.png",
     "category": "Weapon Primary",
     "tier": "1",
     "rarity": "Legendary",
@@ -1901,8 +2002,8 @@
     ]
   },
   {
-    "name": "Darksteel Mara Bow",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Purple Dragon Halberd",
+    "image": "./Icons/Lancer/Purple_Dragon_Halberd.png",
     "category": "Weapon Primary",
     "tier": "2",
     "rarity": "Legendary",
@@ -1916,8 +2017,8 @@
     ]
   },
   {
-    "name": "Yellow Dragon Dipole Bow",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Star Blast Spear",
+    "image": "./Icons/Lancer/Star_Blast_Spear.png",
     "category": "Weapon Primary",
     "tier": "3",
     "rarity": "Legendary",
@@ -1931,8 +2032,8 @@
     ]
   },
   {
-    "name": "Vermilion Bird Godly Bow",
-    "image": "./Icons/Dark_Steel.png",
+    "name": "Godslayer Spear",
+    "image": "./Icons/Lancer/Godslayer_Spear.png",
     "category": "Weapon Primary",
     "tier": "4",
     "rarity": "Legendary",

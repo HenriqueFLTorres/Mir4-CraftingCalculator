@@ -25,13 +25,12 @@
 
 .ItemConfigUI {
     display: grid;
-    grid-template-columns: 25% 10% auto;
+    justify-content: center;
+    grid-template-columns: 1fr 1fr auto;
 
-    width: 92%;
+    width: min-content;
     margin-block: 1.5%;
     margin-left: 1%;
-
-    transition: all 0.5s ease;
 }
 
 
@@ -43,6 +42,9 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    width: clamp(0.1rem, 10vw + 1rem, 25rem);
+
+    padding-inline: 10%;
 }
 
 .ISFrame {
@@ -51,11 +53,11 @@
     align-items: center;
     justify-content: center;
 
-    width: clamp(0.1rem, 4vw + 1rem, 130px);
-    height: clamp(0.1rem, 4vw + 1rem, 130px);
+    width: clamp(0.1rem, 3vw + 1rem, 100px);
+    height: clamp(0.1rem, 3vw + 1rem, 100px);
 
     margin-top: 6%;
-    margin-bottom: 10%;
+    margin-bottom: 5%;
 
     border-radius: 1vh;
 
@@ -70,7 +72,7 @@
 }
 
 .ISFrame img:first-child {
-    height: 70%;
+    height: 80%;
     width: auto;
 
     transform: translateY(25%);
@@ -79,7 +81,7 @@
 .ISFrame .Tier {
     height: 30%;
     width: auto;
-    transform: translateX(-110%) scale(1);
+    transform: translateX(-120%) translateY(-10%) scale(1);
 }
 
 .ISFrame:hover {
@@ -88,18 +90,15 @@
 }
 
 .ISName {
-    font-weight: 600;
-    font-size: var(--step-0);
+    font-weight: 500;
+    font-size: var(--step--1);
     text-align: center;
-
-    margin-top: 7%;
 }
 
 .ISRarity {
     font-weight: 300;
     font-size: var(--step--1);
 
-    margin-top: 2%;
 }
 
 
@@ -136,7 +135,9 @@
     justify-content: space-between;
     align-items: center;
 
-    margin: auto 0;
+    width: clamp(0.1rem, 4vw + 1rem, 200rem);
+
+    margin-right: 30%;
 }
 
 .ValueChanger .Arrow {
@@ -167,12 +168,12 @@
 
 
 .ValueChanger input {
-    width: clamp(0.1rem, 4vh + 1rem, 70px);
-    height: clamp(0.1rem, 4vh + 1rem, 70px);
+    width: clamp(0.1rem, 2vw + 1rem, 70px);
+    height: clamp(0.1rem, 2vw + 1rem, 70px);
 
     background-color: var(--secondary-color);
     border-radius: 20%;
-    border: 2px solid var(--primary-color);
+    border: .15vw solid var(--primary-color);
     font-size: var(--step--1);
 
     outline: none;
@@ -197,7 +198,7 @@
 
 .ValueChanger input:focus {
     outline: none;
-    border: 2px solid var(--unselected);
+    border: .15vw solid var(--unselected);
     background-color: var(--tericary-color);
 }
 
@@ -206,6 +207,7 @@
 .RecipeItems {
     display: flex;
     flex-direction: row;
+    margin-left: 1vw;
 }
 
 
@@ -217,7 +219,7 @@
 
     transform: translateY(8%);
 
-    width: clamp(0.1rem, 8vw + 1rem, 200px);
+    width: clamp(0.1rem, 5vw + 1rem, 150px);
     transform: translateY(-5%);
 
     transition-property: transform;
@@ -227,8 +229,15 @@
 
 
 .RIName {
-    font-weight: 600;
-    font-size: var(--step--1);
+    position: absolute;
+
+    font-weight: 500;
+    font-size: var(--step--2);
+    text-align: center;
+
+    width: 10vw;
+
+    transform: translateY(-420%);
 }
 
 .RIFrame {
@@ -236,8 +245,8 @@
     align-items: center;
     justify-content: center;
 
-    width: clamp(0.1rem, 6vh + 1rem, 200px);
-    height: clamp(0.1rem, 6vh + 1rem, 200px);
+    width: clamp(0.1rem, 4.5vh + 1rem, 200px);
+    height: clamp(0.1rem, 4.5vh + 1rem, 200px);
 
     margin-block: 10%;
 
@@ -268,12 +277,12 @@
 
 
 .RIFrame img {
-    width: 60%;
+    width: 70%;
 }
 
 .RIValue {
     font-weight: 400;
-    font-size: var(--step--1);
+    font-size: var(--step--2);
 
     transition: all 0.5s ease;
 }
@@ -356,6 +365,7 @@
 
 @media (max-width: 1050px) {
 
+
     .ISFrame {
         width: clamp(0.1rem, 3vh + 1rem, 130px);
         height: clamp(0.1rem, 3vh + 1rem, 130px);
@@ -376,27 +386,41 @@
 
 @media (max-width: 600px) {
 
-    .ItemConfigUI {
-        align-items: center;
+    .ItemSettings {
+        display: flex;
     }
 
-    .ItemSettings {
-        padding: 8% 1%;
+    .ItemConfigUI {
+        display: flex;
+        flex-direction: column;
+        justify-content: start;
+        align-items: center;
+
+        height: 100%;
+        background-color: rgb(46, 77, 96);
+
+        margin: 0;
     }
 
     .ItemSettingsUI {
-        width: 23%;
+
+        margin: 0;
+        width: 20vw;
+        height: auto;
+
+        margin-bottom: 20%;
     }
 
     .ISName, .ISRarity {
-        font-size: var(--step--2);
+        font-size: var(--step-1);
     }
 
     .ISFrame {
-        width: clamp(0.1rem, 3vw + 1rem, 130px);
-        height: clamp(0.1rem, 3vw + 1rem, 130px);
+        width: clamp(0.1rem, 6vw + 1rem, 130px);
+        height: clamp(0.1rem, 6vw + 1rem, 130px);
 
         border-radius: 0.2vh;
+        margin-bottom: 10%;
     }
 
     .ValueChanger {
@@ -404,8 +428,9 @@
         justify-content: center;
         align-items: center;
 
-        width: 10%;
-        margin: 0;
+        width: 100%;
+        height: 20vh;
+        margin-bottom: 5vh;
     }
 
     .ValueChanger input {
@@ -418,24 +443,66 @@
         transform: translateY(-30%);
     }
 
-    .ValueChanger .Arrow {
-        display: none;
+    .RecipeItems {
+        flex-direction: column;
     }
 
     .RecipeItem {
-        width: clamp(0.1rem, 5vw + 1rem, 200px);
+        width: clamp(0.1rem, 9vw + 1rem, 200px);
+        margin-bottom: 10%;
 
         transform: translateY(-15%);
     }
 
+    .RIName, .RIValue {
+        font-size: var(--step-0);
+    }
+
     .RIName {
-        font-size: var(--step--2);
+        transform: translateY(-7vh);
     }
 
     .RIFrame {
-        width: clamp(0.1rem, 2vw + 1rem, 200px);
-        height: clamp(0.1rem, 2vw + 1rem, 200px);
+        width: clamp(0.1rem, 4vw + 1rem, 200px);
+        height: clamp(0.1rem, 4vw + 1rem, 200px);
         margin: 15% 0;
     }
 
+}
+
+
+
+@media (max-width: 700px) and (orientation: landscape) {
+
+    .ItemConfigUI {
+        grid-template-columns: 13vw 7vw auto;
+        height: 25vh;
+    }
+
+    .ISFrame {
+        width: clamp(0.1rem, 5vw + 1rem, 130px);
+        height: clamp(0.1rem, 5vw + 1rem, 130px);
+    }
+
+    .ISName, .ISRarity, .RIValue, .RIName {
+        font-size: var(--step-0);
+    }
+
+    .RIName {
+        width: 20vw;
+    }
+
+    .ValueChanger {
+        margin: 0;
+        width: auto;
+    }
+
+    .RecipeItem {
+        width: 9vw;
+    }
+
+    .RIFrame {
+        width: clamp(0.1rem, 4vw + 1rem, 200px);
+        height: clamp(0.1rem, 4vw + 1rem, 200px);
+    }
 }

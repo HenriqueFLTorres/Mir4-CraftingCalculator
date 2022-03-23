@@ -17,6 +17,11 @@ export const Content = () => {
   const [totalRecipe, setTotalRecipe] = useState([])
   const [colapse, setColapse] = useState(false)
   const [itemClass, setItemClass] = useState("Arbalist")
+  const [icon, setIcon] = useState(false)
+
+  setTimeout(() => {
+    setIcon(!icon)
+  }, 1000);
   
   const [inventory, setInventory] = useState(false)
   const [inventoryContent, setInventoryContent] = useState([])
@@ -40,11 +45,11 @@ export const Content = () => {
                 <Arrow className="Colapse"/>
                 <Arrow className="Colapse"/>
             </div>
-            <Sidebar filter={filter} inventory={inventory} inventoryContent={inventoryContent} setInventoryContent={setInventoryContent} setItemClass={setItemClass} itemClass={itemClass}/>
+            <Sidebar filter={filter} inventory={inventory} inventoryContent={inventoryContent} setInventoryContent={setInventoryContent} setItemClass={setItemClass} itemClass={itemClass} icon={icon} />
             <CategoryFilter filter={filter} setFilter={setFilter}/>
-            <ItemSettings setItemClass={setItemClass} itemClass={itemClass}/>
+            <ItemSettings setItemClass={setItemClass} itemClass={itemClass} icon={icon} setIcon={setIcon}/>
             <RecipeResult />
-            <BackpackMenu inventory={inventory} setInventory={setInventory} inventoryContent={inventoryContent} myBackpack={myBackpack} />
+            <BackpackMenu inventory={inventory} setInventory={setInventory} inventoryContent={inventoryContent} myBackpack={myBackpack} icon={icon} itemClass={itemClass} />
           </AcessRecipeContext>
       </SelectAndUpdateContext>
     </div>

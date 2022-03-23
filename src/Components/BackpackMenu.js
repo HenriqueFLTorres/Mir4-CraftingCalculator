@@ -6,7 +6,7 @@ import './BackpackMenu.css'
 import BPItem from './BPItem'
 import DefaultItems from './DefaultItems'
 
-const BackpackMenu = ({ inventory, setInventory, inventoryContent, myBackpack }) => {
+const BackpackMenu = ({ inventory, setInventory, inventoryContent, myBackpack, icon, itemClass }) => {
   const [refresh, setRefresh] = useState(0)
 
   let parsed = JSON.parse(localStorage.getItem("Backpack"))
@@ -23,9 +23,19 @@ const BackpackMenu = ({ inventory, setInventory, inventoryContent, myBackpack })
         <div className={`BackpackArea${inventory ? ' Active' : ''}`}>
             <DefaultItems myBackpack={myBackpack}/>
             { ItemsList.map((item, index) => {
-                const { name, image, category, rarity, tier } = item
+                const { name, image, category, rarity, tier, imageSecondary, names, images } = item
+
+                let itemName = name
+                let nameSet
+                let imageSet
+                
+                if ( !name ) {
+                  itemName = names[`name${itemClass}`]
+                  nameSet = names[`name${itemClass}`]
+                  imageSet = images[`image${itemClass}`]
+                }
                  
-                return ( inventoryContent.includes(index) || parsed?.hasOwnProperty(name) ) && <BPItem key={index} name={name} image={image} rarity={rarity} tier={tier} myBackpack={myBackpack} inventoryContent={inventoryContent} index={index} />
+                return ( inventoryContent.includes(index) || parsed?.hasOwnProperty(name) ) && <BPItem key={index} name={itemName} image={image} rarity={rarity} tier={tier} myBackpack={myBackpack} inventoryContent={inventoryContent} index={index} imageS={imageSecondary} nameSet={nameSet} imageSet={imageSet} icon={icon} itemClass={itemClass} />
             }) }
         </div>
     </div>

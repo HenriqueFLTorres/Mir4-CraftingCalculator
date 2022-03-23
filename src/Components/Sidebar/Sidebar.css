@@ -139,7 +139,7 @@
     overflow-y: scroll;
     overflow-x: hidden;
 
-    height: 77%;
+    height: 71%;
     padding: clamp(0.1rem, .5vw + .5rem, 2000rem);
 }
 
@@ -236,6 +236,51 @@
 .ImageFrame img:first-child {
     height: 70%;
 }
+
+
+
+
+
+
+
+
+
+.ImageFrame.Common, .ImageFrame.Uncommon, .ImageFrame.Rare, .ImageFrame.Epic, .ImageFrame.Legendary {
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.ImageFrame.Common {
+    background-image: url(../../../public/ItemFrames/Circle_Common.png);
+}
+
+.ImageFrame.Uncommon {
+    background-image: url(../../../public/ItemFrames/Circle_Uncommon.png);
+}
+
+.ImageFrame.Rare {
+    background-image: url(../../../public/ItemFrames/Circle_Rare.png);
+}
+
+.ImageFrame.Epic {
+    background-image: url(../../../public/ItemFrames/Circle_Epic.png);
+}
+
+.ImageFrame.Legendary {
+    background-image: url(../../../public/ItemFrames/Circle_Legendary.png);
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

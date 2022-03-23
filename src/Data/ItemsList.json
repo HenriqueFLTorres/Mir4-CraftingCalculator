@@ -688,7 +688,7 @@
     "category": "Equipaments",
     "rarity": "Uncommon",
     "recipe": [ 
-      { "name" : "Evil Minded Orb", "rarity": "Common", "amount": 10 }, 
+      { "name" : "Illuminating Fragment", "rarity": "Common", "amount": 10 }, 
       { "name" : "Copper Coin", "amount": 400 }, 
       { "name" : "Dark Steel", "amount": 200 }
     ]
@@ -1353,8 +1353,20 @@
 
 
   {
-    "name": "Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Quiver",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Quiver.png" ],
+      "imageLancer": [ "" ],
+      "imageSorcerer": [ "" ],
+      "imageTaoist": [ "" ],
+      "imageWarrior": [ "" ]
+    },
     "category": "Weapon Secondary",
     "tier": "1",
     "rarity": "Uncommon",
@@ -1368,8 +1380,20 @@
     ]
   },
   {
-    "name": "Leather Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Leather Quiver",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Leather_Quiver.png" ],
+      "imageLancer": [ "" ],
+      "imageSorcerer": [ "" ],
+      "imageTaoist": [ "" ],
+      "imageWarrior": [ "" ]
+    },
     "category": "Weapon Secondary",
     "tier": "1",
     "rarity": "Uncommon",
@@ -1383,8 +1407,20 @@
     ]
   },
   {
-    "name": "Bamboo Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Bamboo Quiver",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Quiver.png" ],
+      "imageLancer": [ "" ],
+      "imageSorcerer": [ "" ],
+      "imageTaoist": [ "" ],
+      "imageWarrior": [ "" ]
+    },
     "category": "Weapon Secondary",
     "tier": "2",
     "rarity": "Uncommon",
@@ -1398,8 +1434,20 @@
     ]
   },
   {
-    "name": "Wolf Leather Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Wolf Leather Quiver",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Leather_Quiver.png" ],
+      "imageLancer": [ "" ],
+      "imageSorcerer": [ "" ],
+      "imageTaoist": [ "" ],
+      "imageWarrior": [ "" ]
+    },
     "category": "Weapon Secondary",
     "tier": "2",
     "rarity": "Uncommon",
@@ -1413,8 +1461,20 @@
     ]
   },
   {
-    "name": "Iron Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Iron Quiver",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Quiver.png" ],
+      "imageLancer": [ "" ],
+      "imageSorcerer": [ "" ],
+      "imageTaoist": [ "" ],
+      "imageWarrior": [ "" ]
+    },
     "category": "Weapon Secondary",
     "tier": "3",
     "rarity": "Uncommon",
@@ -1428,8 +1488,20 @@
     ]
   },
   {
-    "name": "Tiger Leather Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Tiger Leather Quiver",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Leather_Quiver.png" ],
+      "imageLancer": [ "" ],
+      "imageSorcerer": [ "" ],
+      "imageTaoist": [ "" ],
+      "imageWarrior": [ "" ]
+    },
     "category": "Weapon Secondary",
     "tier": "3",
     "rarity": "Uncommon",
@@ -1443,8 +1515,20 @@
     ]
   },
   {
-    "name": "Adamant Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Adamant Quiver",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Quiver.png" ],
+      "imageLancer": [ "" ],
+      "imageSorcerer": [ "" ],
+      "imageTaoist": [ "" ],
+      "imageWarrior": [ "" ]
+    },
     "category": "Weapon Secondary",
     "tier": "4",
     "rarity": "Uncommon",
@@ -1458,8 +1542,20 @@
     ]
   },
   {
-    "name": "White Tiger Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "White Tiger Quiver",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Leather_Quiver.png" ],
+      "imageLancer": [ "" ],
+      "imageSorcerer": [ "" ],
+      "imageTaoist": [ "" ],
+      "imageWarrior": [ "" ]
+    },
     "category": "Weapon Secondary",
     "tier": "4",
     "rarity": "Uncommon",
@@ -1479,8 +1575,20 @@
 
 
   {
-    "name": "Horn Bow",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Horn Bow",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Horn_Bow.png" ],
+      "imageLancer": [ "" ],
+      "imageSorcerer": [ "" ],
+      "imageTaoist": [ "" ],
+      "imageWarrior": [ "" ]
+    },
     "category": "Weapon Primary",
     "tier": "1",
     "rarity": "Uncommon",
@@ -1494,8 +1602,20 @@
     ]
   },
   {
-    "name": "Devilface Bow",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Devilface Bow",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Devilface_Bow.png" ],
+      "imageLancer": [ "" ],
+      "imageSorcerer": [ "" ],
+      "imageTaoist": [ "" ],
+      "imageWarrior": [ "" ]
+    },
     "category": "Weapon Primary",
     "tier": "1",
     "rarity": "Uncommon",
@@ -1509,8 +1629,20 @@
     ]
   },
   {
-    "name": "Oxhorn Bow",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Oxhorn Bow",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Horn_Bow.png" ],
+      "imageLancer": [ "" ],
+      "imageSorcerer": [ "" ],
+      "imageTaoist": [ "" ],
+      "imageWarrior": [ "" ]
+    },
     "category": "Weapon Primary",
     "tier": "2",
     "rarity": "Uncommon",
@@ -1524,8 +1656,20 @@
     ]
   },
   {
-    "name": "Revenant Bow",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Revenant Bow",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Devilface_Bow.png" ],
+      "imageLancer": [ "" ],
+      "imageSorcerer": [ "" ],
+      "imageTaoist": [ "" ],
+      "imageWarrior": [ "" ]
+    },
     "category": "Weapon Primary",
     "tier": "2",
     "rarity": "Uncommon",
@@ -1539,8 +1683,20 @@
     ]
   },
   {
-    "name": "Ironhorn Bow",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Ironhorn Bow",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Horn_Bow.png" ],
+      "imageLancer": [ "" ],
+      "imageSorcerer": [ "" ],
+      "imageTaoist": [ "" ],
+      "imageWarrior": [ "" ]
+    },
     "category": "Weapon Primary",
     "tier": "3",
     "rarity": "Uncommon",
@@ -1554,8 +1710,20 @@
     ]
   },
   {
-    "name": "Mara Bow",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Mara Bow",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Devilface_Bow.png" ],
+      "imageLancer": [ "" ],
+      "imageSorcerer": [ "" ],
+      "imageTaoist": [ "" ],
+      "imageWarrior": [ "" ]
+    },
     "category": "Weapon Primary",
     "tier": "3",
     "rarity": "Uncommon",
@@ -1569,8 +1737,20 @@
     ]
   },
   {
-    "name": "Dragon Horn Bow",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Dragon Horn Bow",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Horn_Bow.png" ],
+      "imageLancer": [ "" ],
+      "imageSorcerer": [ "" ],
+      "imageTaoist": [ "" ],
+      "imageWarrior": [ "" ]
+    },
     "category": "Weapon Primary",
     "tier": "4",
     "rarity": "Uncommon",
@@ -1584,8 +1764,20 @@
     ]
   },
   {
-    "name": "Hell Horse Bow",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Hell Horse Bow",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Devilface_Bow.png" ],
+      "imageLancer": [ "" ],
+      "imageSorcerer": [ "" ],
+      "imageTaoist": [ "" ],
+      "imageWarrior": [ "" ]
+    },
     "category": "Weapon Primary",
     "tier": "4",
     "rarity": "Uncommon",
@@ -1624,8 +1816,20 @@
 
 
   {
-    "name": "Miri Quiver & Small Dragon Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Miri Quiver & Small Dragon Quiver",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Miri_Quiver.png", "./Icons/Arbalist/Small_Dragon_Quiver.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
     "category": "Weapon Secondary",
     "tier": "1",
     "rarity": "Rare",
@@ -1639,8 +1843,20 @@
     ]
   },
   {
-    "name": "Pakua Quiver & Flying Dragon Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Pakua Quiver & Flying Dragon Quiver",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Miri_Quiver.png", "./Icons/Arbalist/Small_Dragon_Quiver.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
     "category": "Weapon Secondary",
     "tier": "2",
     "rarity": "Rare",
@@ -1654,8 +1870,20 @@
     ]
   },
   {
-    "name": "Redmoon Quiver & Yellow Dragon Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Redmoon Quiver & Yellow Dragon Quiver",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Miri_Quiver.png", "./Icons/Arbalist/Small_Dragon_Quiver.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
     "category": "Weapon Secondary",
     "tier": "3",
     "rarity": "Rare",
@@ -1669,8 +1897,20 @@
     ]
   },
   {
-    "name": "Moonlight Quiver & Moonfang Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Moonlight Quiver & Moonfang Quiver",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Miri_Quiver.png", "./Icons/Arbalist/Small_Dragon_Quiver.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
     "category": "Weapon Secondary",
     "tier": "4",
     "rarity": "Rare",
@@ -1690,8 +1930,20 @@
 
 
   {
-    "name": "Miri Bow & Dragonling Bow",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Miri Bow & Dragonling Bow",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Miri_Bow.png", "./Icons/Arbalist/Dragonling_Bow.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
     "category": "Weapon Primary",
     "tier": "1",
     "rarity": "Rare",
@@ -1705,8 +1957,20 @@
     ]
   },
   {
-    "name": "Pakua Miri Bow & Flying Dragon Bow",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Pakua Miri Bow & Flying Dragon Bow",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Miri_Bow.png", "./Icons/Arbalist/Dragonling_Bow.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
     "category": "Weapon Primary",
     "tier": "2",
     "rarity": "Rare",
@@ -1720,8 +1984,20 @@
     ]
   },
   {
-    "name": "Redmoon Ballista & Yellow Dragon Shot",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Redmoon Ballista & Yellow Dragon Shot",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Miri_Bow.png", "./Icons/Arbalist/Dragonling_Bow.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
     "category": "Weapon Primary",
     "tier": "3",
     "rarity": "Rare",
@@ -1735,8 +2011,20 @@
     ]
   },
   {
-    "name": "Moonlight Ballista & Moonfang Dragon Shot",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Moonlight Ballista & Moonfang Dragon Shot",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Miri_Bow.png", "./Icons/Arbalist/Dragonling_Bow.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
     "category": "Weapon Primary",
     "tier": "4",
     "rarity": "Rare",
@@ -1754,9 +2042,136 @@
 
 
 
+
+
+
   {
-    "name": "Dual Quiver & Changhae Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Dual Quiver & Changhae Quiver",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Dual_Quiver.png", "./Icons/Arbalist/Changhae_Quiver.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Weapon Secondary",
+    "tier": "1",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[E] Steel", "rarity": "Epic", "amount": 300 }, 
+      { "name" : "[E] Evil Minded Orb", "rarity": "Epic", "amount": 100 }, 
+      { "name" : "[E] Moon Shadow Stone", "rarity": "Epic", "amount": 100 }, 
+      { "name" : "[E] Dragon Claw", "rarity": "Epic", "amount": 1 }, 
+      { "name" : "Copper Coin", "amount": 800000 }, 
+      { "name" : "Dark Steel", "amount": 800000 }
+    ]
+  },
+  {
+    "names": { 
+      "nameArbalist": "Dipole Quiver & Firmament Quiver",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Dual_Quiver.png", "./Icons/Arbalist/Changhae_Quiver.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Weapon Secondary",
+    "tier": "2",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[E] Steel", "rarity": "Epic", "amount": 600 }, 
+      { "name" : "[E] Evil Minded Orb", "rarity": "Epic", "amount": 200 }, 
+      { "name" : "[E] Moon Shadow Stone", "rarity": "Epic", "amount": 200 }, 
+      { "name" : "[E] Dragon Claw", "rarity": "Epic", "amount": 2 }, 
+      { "name" : "Copper Coin", "amount": 3200000 }, 
+      { "name" : "Dark Steel", "amount": 3200000 }
+    ]
+  },
+  {
+    "names": { 
+      "nameArbalist": "Two Dragons Quiver & Blue Sky Piercing Quiver",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Dual_Quiver.png", "./Icons/Arbalist/Changhae_Quiver.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Weapon Secondary",
+    "tier": "3",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[E] Steel", "rarity": "Epic", "amount": 1200 }, 
+      { "name" : "[E] Evil Minded Orb", "rarity": "Epic", "amount": 400 }, 
+      { "name" : "[E] Moon Shadow Stone", "rarity": "Epic", "amount": 400 }, 
+      { "name" : "[E] Dragon Claw", "rarity": "Epic", "amount": 4 }, 
+      { "name" : "Copper Coin", "amount": 8800000 }, 
+      { "name" : "Dark Steel", "amount": 8800000 }
+    ]
+  },
+  {
+    "names": { 
+      "nameArbalist": "Two Moons Quiver & Ascending Dragon Quiver",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Dual_Quiver.png", "./Icons/Arbalist/Changhae_Quiver.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Weapon Secondary",
+    "tier": "4",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[E] Steel", "rarity": "Epic", "amount": 2400 }, 
+      { "name" : "[E] Evil Minded Orb", "rarity": "Epic", "amount": 800 }, 
+      { "name" : "[E] Moon Shadow Stone", "rarity": "Epic", "amount": 800 }, 
+      { "name" : "[E] Dragon Claw", "rarity": "Epic", "amount": 8 }, 
+      { "name" : "Copper Coin", "amount": 20800000 }, 
+      { "name" : "Dark Steel", "amount": 20800000 }
+    ]
+  },
+
+
+
+
+  {
+    "names": { 
+      "nameArbalist": "New Moon Bow & Starved Wolf Bow",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/New_Moon_Bow.png", "./Icons/Arbalist/Starved_Wolf_Bow.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
     "category": "Weapon Primary",
     "tier": "1",
     "rarity": "Epic",
@@ -1766,12 +2181,24 @@
       { "name" : "[E] Moon Shadow Stone", "rarity": "Epic", "amount": 100 }, 
       { "name" : "[E] Dragon Scale", "rarity": "Epic", "amount": 1 }, 
       { "name" : "Copper Coin", "amount": 800000 }, 
-      { "name" : "Dark Steel", "amount": 800000 }
+      { "name" : "Dark Steel", "amount": 100000 }
     ]
   },
   {
-    "name": "Dipole Quiver & Firmament Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Half-Moon Bow & Morang Bow",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/New_Moon_Bow.png", "./Icons/Arbalist/Starved_Wolf_Bow.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
     "category": "Weapon Primary",
     "tier": "2",
     "rarity": "Epic",
@@ -1781,12 +2208,24 @@
       { "name" : "[E] Moon Shadow Stone", "rarity": "Epic", "amount": 200 }, 
       { "name" : "[E] Dragon Scale", "rarity": "Epic", "amount": 2 }, 
       { "name" : "Copper Coin", "amount": 3200000 }, 
-      { "name" : "Dark Steel", "amount": 3200000 }
+      { "name" : "Dark Steel", "amount": 400000 }
     ]
   },
   {
-    "name": "Two Dragons Quiver & Blue Sky Piercing Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Full Moon Sky Bow & Illusion Bow",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/New_Moon_Bow.png", "./Icons/Arbalist/Starved_Wolf_Bow.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
     "category": "Weapon Primary",
     "tier": "3",
     "rarity": "Epic",
@@ -1796,12 +2235,24 @@
       { "name" : "[E] Moon Shadow Stone", "rarity": "Epic", "amount": 400 }, 
       { "name" : "[E] Dragon Scale", "rarity": "Epic", "amount": 4 }, 
       { "name" : "Copper Coin", "amount": 8800000 }, 
-      { "name" : "Dark Steel", "amount": 8800000 }
+      { "name" : "Dark Steel", "amount": 1600000 }
     ]
   },
   {
-    "name": "Two Moons Quiver & Ascending Dragon Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Beyond Spacetime Bow & Marang Tiger Shot",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/New_Moon_Bow.png", "./Icons/Arbalist/Starved_Wolf_Bow.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
     "category": "Weapon Primary",
     "tier": "4",
     "rarity": "Epic",
@@ -1811,7 +2262,7 @@
       { "name" : "[E] Moon Shadow Stone", "rarity": "Epic", "amount": 800 }, 
       { "name" : "[E] Dragon Scale", "rarity": "Epic", "amount": 8 }, 
       { "name" : "Copper Coin", "amount": 20800000 }, 
-      { "name" : "Dark Steel", "amount": 20800000 }
+      { "name" : "Dark Steel", "amount": 3200000 }
     ]
   },
 
@@ -1822,9 +2273,22 @@
 
 
 
+
   {
-    "name": "Demonic Dragon Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Demonic Dragon Quiver",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Demonic_Dragon_Quiver.png" ],
+      "imageLancer": [ "" ],
+      "imageSorcerer": [ "" ],
+      "imageTaoist": [ "" ],
+      "imageWarrior": [ "" ]
+    },
     "category": "Weapon Secondary",
     "tier": "1",
     "rarity": "Legendary",
@@ -1838,8 +2302,20 @@
     ]
   },
   {
-    "name": "Darksteel Mara Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Darksteel Mara Quiver",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Demonic_Dragon_Quiver.png" ],
+      "imageLancer": [ "" ],
+      "imageSorcerer": [ "" ],
+      "imageTaoist": [ "" ],
+      "imageWarrior": [ "" ]
+    },
     "category": "Weapon Secondary",
     "tier": "2",
     "rarity": "Legendary",
@@ -1853,8 +2329,20 @@
     ]
   },
   {
-    "name": "Yellow Dragon Dipole Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Yellow Dragon Dipole Quiver",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Demonic_Dragon_Quiver.png" ],
+      "imageLancer": [ "" ],
+      "imageSorcerer": [ "" ],
+      "imageTaoist": [ "" ],
+      "imageWarrior": [ "" ]
+    },
     "category": "Weapon Secondary",
     "tier": "3",
     "rarity": "Legendary",
@@ -1868,8 +2356,20 @@
     ]
   },
   {
-    "name": "Vermilion Bird Godly Quiver",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Vermilion Bird Godly Quiver",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Demonic_Dragon_Quiver.png" ],
+      "imageLancer": [ "" ],
+      "imageSorcerer": [ "" ],
+      "imageTaoist": [ "" ],
+      "imageWarrior": [ "" ]
+    },
     "category": "Weapon Secondary",
     "tier": "4",
     "rarity": "Legendary",
@@ -1886,8 +2386,20 @@
 
 
   {
-    "name": "Demonic Dragon Horn Bow",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Demonic Dragon Horn Bow",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Demonic_Dragon_Horn_Bow.png" ],
+      "imageLancer": [ "" ],
+      "imageSorcerer": [ "" ],
+      "imageTaoist": [ "" ],
+      "imageWarrior": [ "" ]
+    },
     "category": "Weapon Primary",
     "tier": "1",
     "rarity": "Legendary",
@@ -1901,8 +2413,20 @@
     ]
   },
   {
-    "name": "Darksteel Mara Bow",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Darksteel Mara Bow",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Darksteel_Mara_Bow.png" ],
+      "imageLancer": [ "" ],
+      "imageSorcerer": [ "" ],
+      "imageTaoist": [ "" ],
+      "imageWarrior": [ "" ]
+    },
     "category": "Weapon Primary",
     "tier": "2",
     "rarity": "Legendary",
@@ -1916,8 +2440,20 @@
     ]
   },
   {
-    "name": "Yellow Dragon Dipole Bow",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Yellow Dragon Dipole Bow",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Yellow_Dragon_Dipole_Bow.png" ],
+      "imageLancer": [ "" ],
+      "imageSorcerer": [ "" ],
+      "imageTaoist": [ "" ],
+      "imageWarrior": [ "" ]
+    },
     "category": "Weapon Primary",
     "tier": "3",
     "rarity": "Legendary",
@@ -1931,8 +2467,20 @@
     ]
   },
   {
-    "name": "Vermilion Bird Godly Bow",
-    "image": "./Icons/Dark_Steel.png",
+    "names": { 
+      "nameArbalist": "Vermilion Bird Godly Bow",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Vermilion_Bird_Godly_Bow.png" ],
+      "imageLancer": [ "" ],
+      "imageSorcerer": [ "" ],
+      "imageTaoist": [ "" ],
+      "imageWarrior": [ "" ]
+    },
     "category": "Weapon Primary",
     "tier": "4",
     "rarity": "Legendary",
@@ -1944,5 +2492,3029 @@
       { "name" : "Copper Coin", "amount": 260000000 }, 
       { "name" : "Dark Steel", "amount": 26000000 }
     ]
-  }
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "names": { 
+      "nameArbalist": "Silk Outfit Top/Bottom",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Silk_Outfit_Top.png", "./Icons/Arbalist/Silk_Outfit_Bottom.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Top/Bottom",
+    "tier": "1",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 20 }, 
+      { "name" : "[UC] Quintessence", "rarity": "Uncommon", "amount": 2 }, 
+      { "name" : "[UC] Exorcism Bauble", "rarity": "Uncommon", "amount": 1 }, 
+      { "name" : "[UC] Dragon Leather", "rarity": "Uncommon", "amount": 1 }, 
+      { "name" : "Copper Coin", "amount": 500 }, 
+      { "name" : "Dark Steel", "amount": 500 }
+    ]
+  },
+  {
+    "names": { 
+      "nameArbalist": "Covert Outfit Top/Bottom",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Covert_Outfit_Top.png", "./Icons/Arbalist/Covert_Outfit_Bottom.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Top/Bottom",
+    "tier": "1",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 20 }, 
+      { "name" : "[UC] Quintessence", "rarity": "Uncommon", "amount": 1 }, 
+      { "name" : "[UC] Exorcism Bauble", "rarity": "Uncommon", "amount": 2 }, 
+      { "name" : "[UC] Dragon Leather", "rarity": "Uncommon", "amount": 1 }, 
+      { "name" : "Copper Coin", "amount": 500 }, 
+      { "name" : "Dark Steel", "amount": 500 }
+    ]
+  },
+  {
+    "names": { 
+      "nameArbalist": "Afterimage Outfit Top/Bottom",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Silk_Outfit_Top.png", "./Icons/Arbalist/Silk_Outfit_Bottom.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Top/Bottom",
+    "tier": "2",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 40 }, 
+      { "name" : "[UC] Quintessence", "rarity": "Uncommon", "amount": 4 }, 
+      { "name" : "[UC] Exorcism Bauble", "rarity": "Uncommon", "amount": 2 }, 
+      { "name" : "[UC] Dragon Leather", "rarity": "Uncommon", "amount": 2 }, 
+      { "name" : "Copper Coin", "amount": 3500 }, 
+      { "name" : "Dark Steel", "amount": 2000 }
+    ]
+  },
+  {
+    "names": { 
+      "nameArbalist": "Incognito Outfit Top/Bottom",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Covert_Outfit_Top.png", "./Icons/Arbalist/Covert_Outfit_Bottom.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Top/Bottom",
+    "tier": "2",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 40 }, 
+      { "name" : "[UC] Quintessence", "rarity": "Uncommon", "amount": 2 }, 
+      { "name" : "[UC] Exorcism Bauble", "rarity": "Uncommon", "amount": 4 }, 
+      { "name" : "[UC] Dragon Leather", "rarity": "Uncommon", "amount": 2 }, 
+      { "name" : "Copper Coin", "amount": 3500 }, 
+      { "name" : "Dark Steel", "amount": 2000 }
+    ]
+  },
+  {
+    "names": { 
+      "nameArbalist": "Shadow Outfit Top/Bottom",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Silk_Outfit_Top.png", "./Icons/Arbalist/Silk_Outfit_Bottom.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Top/Bottom",
+    "tier": "3",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 80 }, 
+      { "name" : "[UC] Quintessence", "rarity": "Uncommon", "amount": 8 }, 
+      { "name" : "[UC] Exorcism Bauble", "rarity": "Uncommon", "amount": 4 }, 
+      { "name" : "[UC] Dragon Leather", "rarity": "Uncommon", "amount": 4 }, 
+      { "name" : "Copper Coin", "amount": 12000 }, 
+      { "name" : "Dark Steel", "amount": 5500 }
+    ]
+  },
+  {
+    "names": { 
+      "nameArbalist": "Disguised Outfit Top/Bottom",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Covert_Outfit_Top.png", "./Icons/Arbalist/Covert_Outfit_Bottom.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Top/Bottom",
+    "tier": "3",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 80 }, 
+      { "name" : "[UC] Quintessence", "rarity": "Uncommon", "amount": 4 }, 
+      { "name" : "[UC] Exorcism Bauble", "rarity": "Uncommon", "amount": 8 }, 
+      { "name" : "[UC] Dragon Leather", "rarity": "Uncommon", "amount": 4 }, 
+      { "name" : "Copper Coin", "amount": 12000 }, 
+      { "name" : "Dark Steel", "amount": 5500 }
+    ]
+  },
+  {
+    "names": { 
+      "nameArbalist": "Secret Outfit Top/Bottom",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Silk_Outfit_Top.png", "./Icons/Arbalist/Silk_Outfit_Bottom.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Top/Bottom",
+    "tier": "4",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 160 }, 
+      { "name" : "[UC] Quintessence", "rarity": "Uncommon", "amount": 16 }, 
+      { "name" : "[UC] Exorcism Bauble", "rarity": "Uncommon", "amount": 8 }, 
+      { "name" : "[UC] Dragon Leather", "rarity": "Uncommon", "amount": 8 }, 
+      { "name" : "Copper Coin", "amount": 31500 }, 
+      { "name" : "Dark Steel", "amount": 13000 }
+    ]
+  },
+  {
+    "names": { 
+      "nameArbalist": "Undercover Outfit Top/Bottom",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Covert_Outfit_Top.png", "./Icons/Arbalist/Covert_Outfit_Bottom.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Top/Bottom",
+    "tier": "4",
+    "rarity": "Uncommon",
+    "recipe": [ 
+      { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 160 }, 
+      { "name" : "[UC] Quintessence", "rarity": "Uncommon", "amount": 8 }, 
+      { "name" : "[UC] Exorcism Bauble", "rarity": "Uncommon", "amount": 16 }, 
+      { "name" : "[UC] Dragon Leather", "rarity": "Uncommon", "amount": 8 }, 
+      { "name" : "Copper Coin", "amount": 31500 }, 
+      { "name" : "Dark Steel", "amount": 13000 }
+    ]
+  },
+
+
+
+
+
+
+  {
+    "names": { 
+      "nameArbalist": "Phantom Martial Uniform Top/Bottom",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Phantom_Martial_Uniform_Top.png", "./Icons/Arbalist/Phantom_Martial_Uniform_Bottom.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Top/Bottom",
+    "tier": "1",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[R] Steel", "rarity": "Rare", "amount": 75 }, 
+      { "name" : "[R] Quintessence", "rarity": "Rare", "amount": 25 }, 
+      { "name" : "[R] Exorcism Bauble", "rarity": "Rare", "amount": 25 }, 
+      { "name" : "[R] Dragon Leather", "rarity": "Rare", "amount": 1 }, 
+      { "name" : "Copper Coin", "amount": 25000 }, 
+      { "name" : "Dark Steel", "amount": 5000 }
+    ]
+  },
+  {
+    "names": { 
+      "nameArbalist": "White Snake Martial Uniform Top/Bottom",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/White_Snake_Martial_Uniform_Top.png", "./Icons/Arbalist/White_Snake_Martial_Uniform_Bottom.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Top/Bottom",
+    "tier": "1",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[R] Steel", "rarity": "Rare", "amount": 75 }, 
+      { "name" : "[R] Quintessence", "rarity": "Rare", "amount": 25 }, 
+      { "name" : "[R] Exorcism Bauble", "rarity": "Rare", "amount": 25 }, 
+      { "name" : "[R] Dragon Leather", "rarity": "Rare", "amount": 1 }, 
+      { "name" : "Copper Coin", "amount": 25000 }, 
+      { "name" : "Dark Steel", "amount": 5000 }
+    ]
+  },
+  {
+    "names": { 
+      "nameArbalist": "Soulgeist Martial Uniform Top/Bottom",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Phantom_Martial_Uniform_Top.png", "./Icons/Arbalist/Phantom_Martial_Uniform_Bottom.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Top/Bottom",
+    "tier": "2",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[R] Steel", "rarity": "Rare", "amount": 150 }, 
+      { "name" : "[R] Quintessence", "rarity": "Rare", "amount": 50 }, 
+      { "name" : "[R] Exorcism Bauble", "rarity": "Rare", "amount": 50 }, 
+      { "name" : "[R] Dragon Leather", "rarity": "Rare", "amount": 2 }, 
+      { "name" : "Copper Coin", "amount": 100000 }, 
+      { "name" : "Dark Steel", "amount": 17500 }
+    ]
+  },
+  {
+    "names": { 
+      "nameArbalist": "Boundless Martial Uniform Top/Bottom",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/White_Snake_Martial_Uniform_Top.png", "./Icons/Arbalist/White_Snake_Martial_Uniform_Bottom.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Top/Bottom",
+    "tier": "2",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[R] Steel", "rarity": "Rare", "amount": 150 }, 
+      { "name" : "[R] Quintessence", "rarity": "Rare", "amount": 50 }, 
+      { "name" : "[R] Exorcism Bauble", "rarity": "Rare", "amount": 50 }, 
+      { "name" : "[R] Dragon Leather", "rarity": "Rare", "amount": 2 }, 
+      { "name" : "Copper Coin", "amount": 100000 }, 
+      { "name" : "Dark Steel", "amount": 17500 }
+    ]
+  },
+  {
+    "names": { 
+      "nameArbalist": "White Lotus Martial Uniform Top/Bottom",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Phantom_Martial_Uniform_Top.png", "./Icons/Arbalist/Phantom_Martial_Uniform_Bottom.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Top/Bottom",
+    "tier": "3",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[R] Steel", "rarity": "Rare", "amount": 300 }, 
+      { "name" : "[R] Quintessence", "rarity": "Rare", "amount": 100 }, 
+      { "name" : "[R] Exorcism Bauble", "rarity": "Rare", "amount": 100 }, 
+      { "name" : "[R] Dragon Leather", "rarity": "Rare", "amount": 4 }, 
+      { "name" : "Copper Coin", "amount": 375000 }, 
+      { "name" : "Dark Steel", "amount": 45000 }
+    ]
+  },
+  {
+    "names": { 
+      "nameArbalist": "Yellow Dragon Martial Uniform Top/Bottom",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/White_Snake_Martial_Uniform_Top.png", "./Icons/Arbalist/White_Snake_Martial_Uniform_Bottom.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Top/Bottom",
+    "tier": "3",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[R] Steel", "rarity": "Rare", "amount": 300 }, 
+      { "name" : "[R] Quintessence", "rarity": "Rare", "amount": 100 }, 
+      { "name" : "[R] Exorcism Bauble", "rarity": "Rare", "amount": 100 }, 
+      { "name" : "[R] Dragon Leather", "rarity": "Rare", "amount": 4 }, 
+      { "name" : "Copper Coin", "amount": 375000 }, 
+      { "name" : "Dark Steel", "amount": 45000 }
+    ]
+  },
+  {
+    "names": { 
+      "nameArbalist": "Pacification Martial Uniform Top/Bottom",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Phantom_Martial_Uniform_Top.png", "./Icons/Arbalist/Phantom_Martial_Uniform_Bottom.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Top/Bottom",
+    "tier": "4",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[R] Steel", "rarity": "Rare", "amount": 600 }, 
+      { "name" : "[R] Quintessence", "rarity": "Rare", "amount": 200 }, 
+      { "name" : "[R] Exorcism Bauble", "rarity": "Rare", "amount": 200 }, 
+      { "name" : "[R] Dragon Leather", "rarity": "Rare", "amount": 8 }, 
+      { "name" : "Copper Coin", "amount": 850000 }, 
+      { "name" : "Dark Steel", "amount": 102500 }
+    ]
+  },
+  {
+    "names": { 
+      "nameArbalist": "Shadowsteel Martial Uniform Top/Bottom",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/White_Snake_Martial_Uniform_Top.png", "./Icons/Arbalist/White_Snake_Martial_Uniform_Bottom.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Top/Bottom",
+    "tier": "4",
+    "rarity": "Rare",
+    "recipe": [ 
+      { "name" : "[R] Steel", "rarity": "Rare", "amount": 600 }, 
+      { "name" : "[R] Quintessence", "rarity": "Rare", "amount": 200 }, 
+      { "name" : "[R] Exorcism Bauble", "rarity": "Rare", "amount": 200 }, 
+      { "name" : "[R] Dragon Leather", "rarity": "Rare", "amount": 8 }, 
+      { "name" : "Copper Coin", "amount": 850000 }, 
+      { "name" : "Dark Steel", "amount": 102500 }
+    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "names": { 
+      "nameArbalist": "Murder Martial Uniform Top/Bottom",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Murder_Martial_Uniform_Top.png", "./Icons/Arbalist/Murder_Martial_Uniform_Bottom.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Top/Bottom",
+    "tier": "1",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[E] Steel", "rarity": "Epic", "amount": 300 }, 
+      { "name" : "[E] Quintessence", "rarity": "Epic", "amount": 100 }, 
+      { "name" : "[E] Exorcism Bauble", "rarity": "Epic", "amount": 100 }, 
+      { "name" : "[E] Dragon Leather", "rarity": "Epic", "amount": 1 }, 
+      { "name" : "Copper Coin", "amount": 400000 }, 
+      { "name" : "Dark Steel", "amount": 50000 }
+    ]
+  },
+  {
+    "names": { 
+      "nameArbalist": "Dark Cloud Martial Uniform Top/Bottom",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Top.png", "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Bottom.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Top/Bottom",
+    "tier": "1",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[E] Steel", "rarity": "Epic", "amount": 300 }, 
+      { "name" : "[E] Quintessence", "rarity": "Epic", "amount": 100 }, 
+      { "name" : "[E] Exorcism Bauble", "rarity": "Epic", "amount": 100 }, 
+      { "name" : "[E] Dragon Leather", "rarity": "Epic", "amount": 1 }, 
+      { "name" : "Copper Coin", "amount": 400000 }, 
+      { "name" : "Dark Steel", "amount": 50000 }
+    ]
+  },
+  {
+    "names": { 
+      "nameArbalist": "Deep Secret Martial Uniform Top/Bottom",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Murder_Martial_Uniform_Top.png", "./Icons/Arbalist/Murder_Martial_Uniform_Bottom.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Top/Bottom",
+    "tier": "2",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[E] Steel", "rarity": "Epic", "amount": 600 }, 
+      { "name" : "[E] Quintessence", "rarity": "Epic", "amount": 200 }, 
+      { "name" : "[E] Exorcism Bauble", "rarity": "Epic", "amount": 200 }, 
+      { "name" : "[E] Dragon Leather", "rarity": "Epic", "amount": 2 }, 
+      { "name" : "Copper Coin", "amount": 1600000 }, 
+      { "name" : "Dark Steel", "amount": 200000 }
+    ]
+  },
+  {
+    "names": { 
+      "nameArbalist": "Dark King Cloud Martial Uniform Top/Bottom",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Top.png", "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Bottom.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Top/Bottom",
+    "tier": "2",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[E] Steel", "rarity": "Epic", "amount": 600 }, 
+      { "name" : "[E] Quintessence", "rarity": "Epic", "amount": 200 }, 
+      { "name" : "[E] Exorcism Bauble", "rarity": "Epic", "amount": 200 }, 
+      { "name" : "[E] Dragon Leather", "rarity": "Epic", "amount": 2 }, 
+      { "name" : "Copper Coin", "amount": 1600000 }, 
+      { "name" : "Dark Steel", "amount": 200000 }
+    ]
+  },
+  {
+    "names": { 
+      "nameArbalist": "Complete Secret Martial Uniform Top/Bottom",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Murder_Martial_Uniform_Top.png", "./Icons/Arbalist/Murder_Martial_Uniform_Bottom.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Top/Bottom",
+    "tier": "3",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[E] Steel", "rarity": "Epic", "amount": 1200 }, 
+      { "name" : "[E] Quintessence", "rarity": "Epic", "amount": 400 }, 
+      { "name" : "[E] Exorcism Bauble", "rarity": "Epic", "amount": 400 }, 
+      { "name" : "[E] Dragon Leather", "rarity": "Epic", "amount": 4 }, 
+      { "name" : "Copper Coin", "amount": 4400000 }, 
+      { "name" : "Dark Steel", "amount": 550000 }
+    ]
+  },
+  {
+    "names": { 
+      "nameArbalist": "Dark Heaven Cloud Martial Uniform Top/Bottom",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Top.png", "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Bottom.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Top/Bottom",
+    "tier": "3",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[E] Steel", "rarity": "Epic", "amount": 1200 }, 
+      { "name" : "[E] Quintessence", "rarity": "Epic", "amount": 400 }, 
+      { "name" : "[E] Exorcism Bauble", "rarity": "Epic", "amount": 400 }, 
+      { "name" : "[E] Dragon Leather", "rarity": "Epic", "amount": 4 }, 
+      { "name" : "Copper Coin", "amount": 4400000 }, 
+      { "name" : "Dark Steel", "amount": 550000 }
+    ]
+  },
+  {
+    "names": { 
+      "nameArbalist": "Spirit Suppression Martial Uniform Top/Bottom",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Murder_Martial_Uniform_Top.png", "./Icons/Arbalist/Murder_Martial_Uniform_Bottom.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Top/Bottom",
+    "tier": "4",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[E] Steel", "rarity": "Epic", "amount": 2400 }, 
+      { "name" : "[E] Quintessence", "rarity": "Epic", "amount": 800 }, 
+      { "name" : "[E] Exorcism Bauble", "rarity": "Epic", "amount": 800 }, 
+      { "name" : "[E] Dragon Leather", "rarity": "Epic", "amount": 8 }, 
+      { "name" : "Copper Coin", "amount": 10400000 }, 
+      { "name" : "Dark Steel", "amount": 1300000 }
+    ]
+  },
+  {
+    "names": { 
+      "nameArbalist": "Countless Evil Cloud Martial Uniform Top/Bottom",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Top.png", "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Bottom.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Top/Bottom",
+    "tier": "4",
+    "rarity": "Epic",
+    "recipe": [ 
+      { "name" : "[E] Steel", "rarity": "Epic", "amount": 2400 }, 
+      { "name" : "[E] Quintessence", "rarity": "Epic", "amount": 800 }, 
+      { "name" : "[E] Exorcism Bauble", "rarity": "Epic", "amount": 800 }, 
+      { "name" : "[E] Dragon Leather", "rarity": "Epic", "amount": 8 }, 
+      { "name" : "Copper Coin", "amount": 10400000 }, 
+      { "name" : "Dark Steel", "amount": 1300000 }
+    ]
+  },
+
+
+
+
+
+
+  {
+    "names": { 
+      "nameArbalist": "Heavenly Connection Martial Uniform Top/Bottom",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Top.png", "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Bottom.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Top/Bottom",
+    "tier": "1",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[L] Steel", "rarity": "Legendary", "amount": 300 }, 
+      { "name" : "[L] Quintessence", "rarity": "Legendary", "amount": 100 }, 
+      { "name" : "[L] Exorcism Bauble", "rarity": "Legendary", "amount": 100 }, 
+      { "name" : "[L] Dragon Leather", "rarity": "Legendary", "amount": 1 }, 
+      { "name" : "Copper Coin", "amount": 5000000 }, 
+      { "name" : "Dark Steel", "amount": 500000 }
+    ]
+  },
+  {
+    "names": { 
+      "nameArbalist": "Celestial Martial Uniform Top/Bottom",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Top.png", "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Bottom.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Top/Bottom",
+    "tier": "2",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[L] Steel", "rarity": "Legendary", "amount": 600 }, 
+      { "name" : "[L] Quintessence", "rarity": "Legendary", "amount": 200 }, 
+      { "name" : "[L] Exorcism Bauble", "rarity": "Legendary", "amount": 200 }, 
+      { "name" : "[L] Dragon Leather", "rarity": "Legendary", "amount": 2 }, 
+      { "name" : "Copper Coin", "amount": 20000000 }, 
+      { "name" : "Dark Steel", "amount": 2000000 }
+    ]
+  },
+  {
+    "names": { 
+      "nameArbalist": "Shineworld Secret Outfit Top/Bottom",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Top.png", "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Bottom.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Top/Bottom",
+    "tier": "3",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[L] Steel", "rarity": "Legendary", "amount": 1200 }, 
+      { "name" : "[L] Quintessence", "rarity": "Legendary", "amount": 400 }, 
+      { "name" : "[L] Exorcism Bauble", "rarity": "Legendary", "amount": 400 }, 
+      { "name" : "[L] Dragon Leather", "rarity": "Legendary", "amount": 4 }, 
+      { "name" : "Copper Coin", "amount": 55000000 }, 
+      { "name" : "Dark Steel", "amount": 5500000 }
+    ]
+  },
+  {
+    "names": { 
+      "nameArbalist": "Skyweb Secret Outfit Top/Bottom",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Top.png", "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Bottom.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Top/Bottom",
+    "tier": "4",
+    "rarity": "Legendary",
+    "recipe": [ 
+      { "name" : "[L] Steel", "rarity": "Legendary", "amount": 2400 }, 
+      { "name" : "[L] Quintessence", "rarity": "Legendary", "amount": 800 }, 
+      { "name" : "[L] Exorcism Bauble", "rarity": "Legendary", "amount": 800 }, 
+      { "name" : "[L] Dragon Leather", "rarity": "Legendary", "amount": 8 }, 
+      { "name" : "Copper Coin", "amount": 130000000 }, 
+      { "name" : "Dark Steel", "amount": 13000000 }
+    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "names": { 
+      "nameArbalist": "Silk Outfit Gloves/Boots",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Silk_Outfit_Gloves.png", "./Icons/Arbalist/Silk_Outfit_Boots.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Gloves/Boots",
+    "tier": "1",
+    "rarity": "Uncommon",
+    "recipe": [ 
+        { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 20 }, 
+        { "name" : "[UC] Quintessence", "rarity": "Uncommon", "amount": 2 }, 
+        { "name" : "[UC] Exorcism Bauble", "rarity": "Uncommon", "amount": 1 }, 
+        { "name" : "[UC] Dragon Leather", "rarity": "Uncommon", "amount": 1 }, 
+        { "name" : "Copper Coin", "amount": 500 }, 
+        { "name" : "Dark Steel", "amount": 500 }
+    ]
+    },
+    {
+    "names": { 
+      "nameArbalist": "Covert Outfit Gloves/Boots",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Covert_Outfit_Gloves.png", "./Icons/Arbalist/Covert_Outfit_Boots.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Gloves/Boots",
+    "tier": "1",
+    "rarity": "Uncommon",
+    "recipe": [ 
+        { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 20 }, 
+        { "name" : "[UC] Quintessence", "rarity": "Uncommon", "amount": 1 }, 
+        { "name" : "[UC] Exorcism Bauble", "rarity": "Uncommon", "amount": 2 }, 
+        { "name" : "[UC] Dragon Leather", "rarity": "Uncommon", "amount": 1 }, 
+        { "name" : "Copper Coin", "amount": 500 }, 
+        { "name" : "Dark Steel", "amount": 500 }
+    ]
+    },
+    {
+    "names": { 
+      "nameArbalist": "Afterimage Outfit Gloves/Boots",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Silk_Outfit_Gloves.png", "./Icons/Arbalist/Silk_Outfit_Boots.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Gloves/Boots",
+    "tier": "2",
+    "rarity": "Uncommon",
+    "recipe": [ 
+        { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 40 }, 
+        { "name" : "[UC] Quintessence", "rarity": "Uncommon", "amount": 4 }, 
+        { "name" : "[UC] Exorcism Bauble", "rarity": "Uncommon", "amount": 2 }, 
+        { "name" : "[UC] Dragon Leather", "rarity": "Uncommon", "amount": 2 }, 
+        { "name" : "Copper Coin", "amount": 3500 }, 
+        { "name" : "Dark Steel", "amount": 2000 }
+    ]
+    },
+    {
+    "names": { 
+      "nameArbalist": "Incognito Outfit Gloves/Boots",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Covert_Outfit_Gloves.png", "./Icons/Arbalist/Covert_Outfit_Boots.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Gloves/Boots",
+    "tier": "2",
+    "rarity": "Uncommon",
+    "recipe": [ 
+        { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 40 }, 
+        { "name" : "[UC] Quintessence", "rarity": "Uncommon", "amount": 2 }, 
+        { "name" : "[UC] Exorcism Bauble", "rarity": "Uncommon", "amount": 4 }, 
+        { "name" : "[UC] Dragon Leather", "rarity": "Uncommon", "amount": 2 }, 
+        { "name" : "Copper Coin", "amount": 3500 }, 
+        { "name" : "Dark Steel", "amount": 2000 }
+    ]
+    },
+    {
+    "names": { 
+      "nameArbalist": "Shadow Outfit Gloves/Boots",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Silk_Outfit_Gloves.png", "./Icons/Arbalist/Silk_Outfit_Boots.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Gloves/Boots",
+    "tier": "3",
+    "rarity": "Uncommon",
+    "recipe": [ 
+        { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 80 }, 
+        { "name" : "[UC] Quintessence", "rarity": "Uncommon", "amount": 8 }, 
+        { "name" : "[UC] Exorcism Bauble", "rarity": "Uncommon", "amount": 4 }, 
+        { "name" : "[UC] Dragon Leather", "rarity": "Uncommon", "amount": 4 }, 
+        { "name" : "Copper Coin", "amount": 12000 }, 
+        { "name" : "Dark Steel", "amount": 5500 }
+    ]
+    },
+    {
+    "names": { 
+      "nameArbalist": "Disguised Outfit Gloves/Boots",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Covert_Outfit_Gloves.png", "./Icons/Arbalist/Covert_Outfit_Boots.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Gloves/Boots",
+    "tier": "3",
+    "rarity": "Uncommon",
+    "recipe": [ 
+        { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 80 }, 
+        { "name" : "[UC] Quintessence", "rarity": "Uncommon", "amount": 4 }, 
+        { "name" : "[UC] Exorcism Bauble", "rarity": "Uncommon", "amount": 8 }, 
+        { "name" : "[UC] Dragon Leather", "rarity": "Uncommon", "amount": 4 }, 
+        { "name" : "Copper Coin", "amount": 12000 }, 
+        { "name" : "Dark Steel", "amount": 5500 }
+    ]
+    },
+    {
+    "names": { 
+      "nameArbalist": "Secret Outfit Gloves/Boots",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Silk_Outfit_Gloves.png", "./Icons/Arbalist/Silk_Outfit_Boots.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Gloves/Boots",
+    "tier": "4",
+    "rarity": "Uncommon",
+    "recipe": [ 
+        { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 160 }, 
+        { "name" : "[UC] Quintessence", "rarity": "Uncommon", "amount": 16 }, 
+        { "name" : "[UC] Exorcism Bauble", "rarity": "Uncommon", "amount": 8 }, 
+        { "name" : "[UC] Dragon Leather", "rarity": "Uncommon", "amount": 8 }, 
+        { "name" : "Copper Coin", "amount": 31500 }, 
+        { "name" : "Dark Steel", "amount": 13000 }
+    ]
+    },
+    {
+    "names": { 
+      "nameArbalist": "Undercover Outfit Gloves/Boots",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Covert_Outfit_Gloves.png", "./Icons/Arbalist/Covert_Outfit_Boots.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Gloves/Boots",
+    "tier": "4",
+    "rarity": "Uncommon",
+    "recipe": [ 
+        { "name" : "[UC] Steel", "rarity": "Uncommon", "amount": 160 }, 
+        { "name" : "[UC] Quintessence", "rarity": "Uncommon", "amount": 8 }, 
+        { "name" : "[UC] Exorcism Bauble", "rarity": "Uncommon", "amount": 16 }, 
+        { "name" : "[UC] Dragon Leather", "rarity": "Uncommon", "amount": 8 }, 
+        { "name" : "Copper Coin", "amount": 31500 }, 
+        { "name" : "Dark Steel", "amount": 13000 }
+    ]
+    },
+
+
+
+
+
+
+    {
+    "names": { 
+      "nameArbalist": "Phantom Martial Uniform Gloves/Boots",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Phantom_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Phantom_Martial_Uniform_Boots.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Gloves/Boots",
+    "tier": "1",
+    "rarity": "Rare",
+    "recipe": [ 
+        { "name" : "[R] Steel", "rarity": "Rare", "amount": 75 }, 
+        { "name" : "[R] Quintessence", "rarity": "Rare", "amount": 25 }, 
+        { "name" : "[R] Exorcism Bauble", "rarity": "Rare", "amount": 25 }, 
+        { "name" : "[R] Dragon Leather", "rarity": "Rare", "amount": 1 }, 
+        { "name" : "Copper Coin", "amount": 25000 }, 
+        { "name" : "Dark Steel", "amount": 5000 }
+    ]
+    },
+    {
+    "names": { 
+      "nameArbalist": "White Snake Martial Uniform Gloves/Boots",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/White_Snake_Martial_Uniform_Gloves.png", "./Icons/Arbalist/White_Snake_Martial_Uniform_Boots.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Gloves/Boots",
+    "tier": "1",
+    "rarity": "Rare",
+    "recipe": [ 
+        { "name" : "[R] Steel", "rarity": "Rare", "amount": 75 }, 
+        { "name" : "[R] Quintessence", "rarity": "Rare", "amount": 25 }, 
+        { "name" : "[R] Exorcism Bauble", "rarity": "Rare", "amount": 25 }, 
+        { "name" : "[R] Dragon Leather", "rarity": "Rare", "amount": 1 }, 
+        { "name" : "Copper Coin", "amount": 25000 }, 
+        { "name" : "Dark Steel", "amount": 5000 }
+    ]
+    },
+    {
+    "names": { 
+      "nameArbalist": "Soulgeist Martial Uniform Gloves/Boots",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Phantom_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Phantom_Martial_Uniform_Boots.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Gloves/Boots",
+    "tier": "2",
+    "rarity": "Rare",
+    "recipe": [ 
+        { "name" : "[R] Steel", "rarity": "Rare", "amount": 150 }, 
+        { "name" : "[R] Quintessence", "rarity": "Rare", "amount": 50 }, 
+        { "name" : "[R] Exorcism Bauble", "rarity": "Rare", "amount": 50 }, 
+        { "name" : "[R] Dragon Leather", "rarity": "Rare", "amount": 2 }, 
+        { "name" : "Copper Coin", "amount": 100000 }, 
+        { "name" : "Dark Steel", "amount": 17500 }
+    ]
+    },
+    {
+    "names": { 
+      "nameArbalist": "Boundless Martial Uniform Gloves/Boots",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/White_Snake_Martial_Uniform_Gloves.png", "./Icons/Arbalist/White_Snake_Martial_Uniform_Boots.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Gloves/Boots",
+    "tier": "2",
+    "rarity": "Rare",
+    "recipe": [ 
+        { "name" : "[R] Steel", "rarity": "Rare", "amount": 150 }, 
+        { "name" : "[R] Quintessence", "rarity": "Rare", "amount": 50 }, 
+        { "name" : "[R] Exorcism Bauble", "rarity": "Rare", "amount": 50 }, 
+        { "name" : "[R] Dragon Leather", "rarity": "Rare", "amount": 2 }, 
+        { "name" : "Copper Coin", "amount": 100000 }, 
+        { "name" : "Dark Steel", "amount": 17500 }
+    ]
+    },
+    {
+    "names": { 
+      "nameArbalist": "White Lotus Martial Uniform Gloves/Boots",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Phantom_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Phantom_Martial_Uniform_Boots.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Gloves/Boots",
+    "tier": "3",
+    "rarity": "Rare",
+    "recipe": [ 
+        { "name" : "[R] Steel", "rarity": "Rare", "amount": 300 }, 
+        { "name" : "[R] Quintessence", "rarity": "Rare", "amount": 100 }, 
+        { "name" : "[R] Exorcism Bauble", "rarity": "Rare", "amount": 100 }, 
+        { "name" : "[R] Dragon Leather", "rarity": "Rare", "amount": 4 }, 
+        { "name" : "Copper Coin", "amount": 375000 }, 
+        { "name" : "Dark Steel", "amount": 45000 }
+    ]
+    },
+    {
+    "names": { 
+      "nameArbalist": "Yellow Dragon Martial Uniform Gloves/Boots",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/White_Snake_Martial_Uniform_Gloves.png", "./Icons/Arbalist/White_Snake_Martial_Uniform_Boots.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Gloves/Boots",
+    "tier": "3",
+    "rarity": "Rare",
+    "recipe": [ 
+        { "name" : "[R] Steel", "rarity": "Rare", "amount": 300 }, 
+        { "name" : "[R] Quintessence", "rarity": "Rare", "amount": 100 }, 
+        { "name" : "[R] Exorcism Bauble", "rarity": "Rare", "amount": 100 }, 
+        { "name" : "[R] Dragon Leather", "rarity": "Rare", "amount": 4 }, 
+        { "name" : "Copper Coin", "amount": 375000 }, 
+        { "name" : "Dark Steel", "amount": 45000 }
+    ]
+    },
+    {
+    "names": { 
+      "nameArbalist": "Pacification Martial Uniform Gloves/Boots",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Phantom_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Phantom_Martial_Uniform_Boots.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Gloves/Boots",
+    "tier": "4",
+    "rarity": "Rare",
+    "recipe": [ 
+        { "name" : "[R] Steel", "rarity": "Rare", "amount": 600 }, 
+        { "name" : "[R] Quintessence", "rarity": "Rare", "amount": 200 }, 
+        { "name" : "[R] Exorcism Bauble", "rarity": "Rare", "amount": 200 }, 
+        { "name" : "[R] Dragon Leather", "rarity": "Rare", "amount": 8 }, 
+        { "name" : "Copper Coin", "amount": 850000 }, 
+        { "name" : "Dark Steel", "amount": 102500 }
+    ]
+    },
+    {
+    "names": { 
+      "nameArbalist": "Shadowsteel Martial Uniform Gloves/Boots",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/White_Snake_Martial_Uniform_Gloves.png", "./Icons/Arbalist/White_Snake_Martial_Uniform_Boots.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Gloves/Boots",
+    "tier": "4",
+    "rarity": "Rare",
+    "recipe": [ 
+        { "name" : "[R] Steel", "rarity": "Rare", "amount": 600 }, 
+        { "name" : "[R] Quintessence", "rarity": "Rare", "amount": 200 }, 
+        { "name" : "[R] Exorcism Bauble", "rarity": "Rare", "amount": 200 }, 
+        { "name" : "[R] Dragon Leather", "rarity": "Rare", "amount": 8 }, 
+        { "name" : "Copper Coin", "amount": 850000 }, 
+        { "name" : "Dark Steel", "amount": 102500 }
+    ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+    "names": { 
+      "nameArbalist": "Murder Martial Uniform Gloves/Boots",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Murder_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Murder_Martial_Uniform_Boots.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Gloves/Boots",
+    "tier": "1",
+    "rarity": "Epic",
+    "recipe": [ 
+        { "name" : "[E] Steel", "rarity": "Epic", "amount": 300 }, 
+        { "name" : "[E] Quintessence", "rarity": "Epic", "amount": 100 }, 
+        { "name" : "[E] Exorcism Bauble", "rarity": "Epic", "amount": 100 }, 
+        { "name" : "[E] Dragon Leather", "rarity": "Epic", "amount": 1 }, 
+        { "name" : "Copper Coin", "amount": 400000 }, 
+        { "name" : "Dark Steel", "amount": 50000 }
+    ]
+    },
+    {
+    "names": { 
+      "nameArbalist": "Dark Cloud Martial Uniform Gloves/Boots",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Boots.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Gloves/Boots",
+    "tier": "1",
+    "rarity": "Epic",
+    "recipe": [ 
+        { "name" : "[E] Steel", "rarity": "Epic", "amount": 300 }, 
+        { "name" : "[E] Quintessence", "rarity": "Epic", "amount": 100 }, 
+        { "name" : "[E] Exorcism Bauble", "rarity": "Epic", "amount": 100 }, 
+        { "name" : "[E] Dragon Leather", "rarity": "Epic", "amount": 1 }, 
+        { "name" : "Copper Coin", "amount": 400000 }, 
+        { "name" : "Dark Steel", "amount": 50000 }
+    ]
+    },
+    {
+    "names": { 
+      "nameArbalist": "Deep Secret Martial Uniform Gloves/Boots",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Murder_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Murder_Martial_Uniform_Boots.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Gloves/Boots",
+    "tier": "2",
+    "rarity": "Epic",
+    "recipe": [ 
+        { "name" : "[E] Steel", "rarity": "Epic", "amount": 600 }, 
+        { "name" : "[E] Quintessence", "rarity": "Epic", "amount": 200 }, 
+        { "name" : "[E] Exorcism Bauble", "rarity": "Epic", "amount": 200 }, 
+        { "name" : "[E] Dragon Leather", "rarity": "Epic", "amount": 2 }, 
+        { "name" : "Copper Coin", "amount": 1600000 }, 
+        { "name" : "Dark Steel", "amount": 200000 }
+    ]
+    },
+    {
+    "names": { 
+      "nameArbalist": "Dark King Cloud Martial Uniform Gloves/Boots",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Boots.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Gloves/Boots",
+    "tier": "2",
+    "rarity": "Epic",
+    "recipe": [ 
+        { "name" : "[E] Steel", "rarity": "Epic", "amount": 600 }, 
+        { "name" : "[E] Quintessence", "rarity": "Epic", "amount": 200 }, 
+        { "name" : "[E] Exorcism Bauble", "rarity": "Epic", "amount": 200 }, 
+        { "name" : "[E] Dragon Leather", "rarity": "Epic", "amount": 2 }, 
+        { "name" : "Copper Coin", "amount": 1600000 }, 
+        { "name" : "Dark Steel", "amount": 200000 }
+    ]
+    },
+    {
+    "names": { 
+      "nameArbalist": "Complete Secret Martial Uniform Gloves/Boots",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Murder_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Murder_Martial_Uniform_Boots.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Gloves/Boots",
+    "tier": "3",
+    "rarity": "Epic",
+    "recipe": [ 
+        { "name" : "[E] Steel", "rarity": "Epic", "amount": 1200 }, 
+        { "name" : "[E] Quintessence", "rarity": "Epic", "amount": 400 }, 
+        { "name" : "[E] Exorcism Bauble", "rarity": "Epic", "amount": 400 }, 
+        { "name" : "[E] Dragon Leather", "rarity": "Epic", "amount": 4 }, 
+        { "name" : "Copper Coin", "amount": 4400000 }, 
+        { "name" : "Dark Steel", "amount": 550000 }
+    ]
+    },
+    {
+    "names": { 
+      "nameArbalist": "Dark Heaven Cloud Martial Uniform Gloves/Boots",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Boots.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Gloves/Boots",
+    "tier": "3",
+    "rarity": "Epic",
+    "recipe": [ 
+        { "name" : "[E] Steel", "rarity": "Epic", "amount": 1200 }, 
+        { "name" : "[E] Quintessence", "rarity": "Epic", "amount": 400 }, 
+        { "name" : "[E] Exorcism Bauble", "rarity": "Epic", "amount": 400 }, 
+        { "name" : "[E] Dragon Leather", "rarity": "Epic", "amount": 4 }, 
+        { "name" : "Copper Coin", "amount": 4400000 }, 
+        { "name" : "Dark Steel", "amount": 550000 }
+    ]
+    },
+    {
+    "names": { 
+      "nameArbalist": "Spirit Suppression Martial Uniform Gloves/Boots",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Murder_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Murder_Martial_Uniform_Boots.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Gloves/Boots",
+    "tier": "4",
+    "rarity": "Epic",
+    "recipe": [ 
+        { "name" : "[E] Steel", "rarity": "Epic", "amount": 2400 }, 
+        { "name" : "[E] Quintessence", "rarity": "Epic", "amount": 800 }, 
+        { "name" : "[E] Exorcism Bauble", "rarity": "Epic", "amount": 800 }, 
+        { "name" : "[E] Dragon Leather", "rarity": "Epic", "amount": 8 }, 
+        { "name" : "Copper Coin", "amount": 10400000 }, 
+        { "name" : "Dark Steel", "amount": 1300000 }
+    ]
+    },
+    {
+    "names": { 
+      "nameArbalist": "Countless Evil Cloud Martial Uniform Gloves/Boots",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Boots.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Gloves/Boots",
+    "tier": "4",
+    "rarity": "Epic",
+    "recipe": [ 
+        { "name" : "[E] Steel", "rarity": "Epic", "amount": 2400 }, 
+        { "name" : "[E] Quintessence", "rarity": "Epic", "amount": 800 }, 
+        { "name" : "[E] Exorcism Bauble", "rarity": "Epic", "amount": 800 }, 
+        { "name" : "[E] Dragon Leather", "rarity": "Epic", "amount": 8 }, 
+        { "name" : "Copper Coin", "amount": 10400000 }, 
+        { "name" : "Dark Steel", "amount": 1300000 }
+    ]
+    },
+
+
+
+
+
+
+    {
+    "names": { 
+      "nameArbalist": "Heavenly Connection Martial Uniform Gloves/Boots",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Boots.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Gloves/Boots",
+    "tier": "1",
+    "rarity": "Legendary",
+    "recipe": [ 
+        { "name" : "[L] Steel", "rarity": "Legendary", "amount": 300 }, 
+        { "name" : "[L] Quintessence", "rarity": "Legendary", "amount": 100 }, 
+        { "name" : "[L] Exorcism Bauble", "rarity": "Legendary", "amount": 100 }, 
+        { "name" : "[L] Dragon Leather", "rarity": "Legendary", "amount": 1 }, 
+        { "name" : "Copper Coin", "amount": 5000000 }, 
+        { "name" : "Dark Steel", "amount": 500000 }
+    ]
+    },
+    {
+    "names": { 
+      "nameArbalist": "Celestial Martial Uniform Gloves/Boots",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Boots.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Gloves/Boots",
+    "tier": "2",
+    "rarity": "Legendary",
+    "recipe": [ 
+        { "name" : "[L] Steel", "rarity": "Legendary", "amount": 600 }, 
+        { "name" : "[L] Quintessence", "rarity": "Legendary", "amount": 200 }, 
+        { "name" : "[L] Exorcism Bauble", "rarity": "Legendary", "amount": 200 }, 
+        { "name" : "[L] Dragon Leather", "rarity": "Legendary", "amount": 2 }, 
+        { "name" : "Copper Coin", "amount": 20000000 }, 
+        { "name" : "Dark Steel", "amount": 2000000 }
+    ]
+    },
+    {
+    "names": { 
+      "nameArbalist": "Shineworld Secret Outfit Gloves/Boots",
+      "nameLancer": "",
+      "nameSorcerer": "",
+      "nameTaoist": "",
+      "nameWarrior": ""
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Boots.png" ],
+      "imageLancer": [ "", "" ],
+      "imageSorcerer": [ "", "" ],
+      "imageTaoist": [ "", "" ],
+      "imageWarrior": [ "", "" ]
+    },
+    "category": "Gloves/Boots",
+    "tier": "3",
+    "rarity": "Legendary",
+    "recipe": [ 
+        { "name" : "[L] Steel", "rarity": "Legendary", "amount": 1200 }, 
+        { "name" : "[L] Quintessence", "rarity": "Legendary", "amount": 400 }, 
+        { "name" : "[L] Exorcism Bauble", "rarity": "Legendary", "amount": 400 }, 
+        { "name" : "[L] Dragon Leather", "rarity": "Legendary", "amount": 4 }, 
+        { "name" : "Copper Coin", "amount": 55000000 }, 
+        { "name" : "Dark Steel", "amount": 5500000 }
+    ]
+    },
+    {
+      "names": { 
+        "nameArbalist": "Skyweb Secret Outfit Gloves/Boots",
+        "nameLancer": "",
+        "nameSorcerer": "",
+        "nameTaoist": "",
+        "nameWarrior": ""
+      },
+      "images": {
+        "imageArbalist": [ "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Boots.png" ],
+        "imageLancer": [ "", "" ],
+        "imageSorcerer": [ "", "" ],
+        "imageTaoist": [ "", "" ],
+        "imageWarrior": [ "", "" ]
+      },
+      "category": "Gloves/Boots",
+      "tier": "4",
+      "rarity": "Legendary",
+      "recipe": [ 
+          { "name" : "[L] Steel", "rarity": "Legendary", "amount": 2400 }, 
+          { "name" : "[L] Quintessence", "rarity": "Legendary", "amount": 800 }, 
+          { "name" : "[L] Exorcism Bauble", "rarity": "Legendary", "amount": 800 }, 
+          { "name" : "[L] Dragon Leather", "rarity": "Legendary", "amount": 8 }, 
+          { "name" : "Copper Coin", "amount": 130000000 }, 
+          { "name" : "Dark Steel", "amount": 13000000 }
+      ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "Desireless Necklace/Bracelet",
+      "imageSecondary": [ "./Icons/Jewels/Desireless_Necklace.png", "./Icons/Jewels/Desireless_Bracelet.png" ],
+      "category": "Necklace/Bracelet",
+      "tier": "1",
+      "rarity": "Uncommon",
+      "recipe": [ 
+        { "name" : "[UC] Platinum", "rarity": "Uncommon", "amount": 40 }, 
+        { "name" : "[UC] Illuminating Fragment", "rarity": "Uncommon", "amount": 4 }, 
+        { "name" : "[UC] Anima Stone", "rarity": "Uncommon", "amount": 1 }, 
+        { "name" : "[UC] Dragon Horn", "rarity": "Uncommon", "amount": 1 }, 
+        { "name" : "Copper Coin", "amount": 1000 }, 
+        { "name" : "Dark Steel", "amount": 1000 }
+      ]
+    },
+    {
+      "name": "Nethergate Necklace/Bracelet",
+      "imageSecondary": [ "./Icons/Jewels/Nethergate_Necklace.png", "./Icons/Jewels/Nethergate_Bracelet.png" ],
+      "category": "Necklace/Bracelet",
+      "tier": "1",
+      "rarity": "Uncommon",
+      "recipe": [ 
+        { "name" : "[UC] Platinum", "rarity": "Uncommon", "amount": 40 }, 
+        { "name" : "[UC] Illuminating Fragment", "rarity": "Uncommon", "amount": 2 }, 
+        { "name" : "[UC] Anima Stone", "rarity": "Uncommon", "amount": 2 }, 
+        { "name" : "[UC] Dragon Horn", "rarity": "Uncommon", "amount": 1 }, 
+        { "name" : "Copper Coin", "amount": 1000 }, 
+        { "name" : "Dark Steel", "amount": 1000 }
+      ]
+    },
+    {
+      "name": "Transience Necklace/Bracelet",
+      "imageSecondary": [ "./Icons/Jewels/Desireless_Necklace.png", "./Icons/Jewels/Desireless_Bracelet.png" ],
+      "category": "Necklace/Bracelet",
+      "tier": "2",
+      "rarity": "Uncommon",
+      "recipe": [ 
+        { "name" : "[UC] Platinum", "rarity": "Uncommon", "amount": 80 }, 
+        { "name" : "[UC] Illuminating Fragment", "rarity": "Uncommon", "amount": 8 }, 
+        { "name" : "[UC] Anima Stone", "rarity": "Uncommon", "amount": 2 }, 
+        { "name" : "[UC] Dragon Horn", "rarity": "Uncommon", "amount": 2 }, 
+        { "name" : "Copper Coin", "amount": 7000 }, 
+        { "name" : "Dark Steel", "amount": 4000 }
+      ]
+    },
+    {
+      "name": "Evil Slayer Necklace/Bracelet",
+      "imageSecondary": [ "./Icons/Jewels/Nethergate_Necklace.png", "./Icons/Jewels/Nethergate_Bracelet.png" ],
+      "category": "Necklace/Bracelet",
+      "tier": "2",
+      "rarity": "Uncommon",
+      "recipe": [ 
+        { "name" : "[UC] Platinum", "rarity": "Uncommon", "amount": 80 }, 
+        { "name" : "[UC] Illuminating Fragment", "rarity": "Uncommon", "amount": 4 }, 
+        { "name" : "[UC] Anima Stone", "rarity": "Uncommon", "amount": 4 }, 
+        { "name" : "[UC] Dragon Horn", "rarity": "Uncommon", "amount": 2 }, 
+        { "name" : "Copper Coin", "amount": 7000 }, 
+        { "name" : "Dark Steel", "amount": 4000 }
+      ]
+    },
+    {
+      "name": "Arhat Necklace/Bracelet",
+      "imageSecondary": [ "./Icons/Jewels/Desireless_Necklace.png", "./Icons/Jewels/Desireless_Bracelet.png" ],
+      "category": "Necklace/Bracelet",
+      "tier": "3",
+      "rarity": "Uncommon",
+      "recipe": [ 
+        { "name" : "[UC] Platinum", "rarity": "Uncommon", "amount": 160 }, 
+        { "name" : "[UC] Illuminating Fragment", "rarity": "Uncommon", "amount": 16 }, 
+        { "name" : "[UC] Anima Stone", "rarity": "Uncommon", "amount": 4 }, 
+        { "name" : "[UC] Dragon Horn", "rarity": "Uncommon", "amount": 4 }, 
+        { "name" : "Copper Coin", "amount": 24000 }, 
+        { "name" : "Dark Steel", "amount": 11000 }
+      ]
+    },
+    {
+      "name": "Antidemon Necklace/Bracelet",
+      "imageSecondary": [ "./Icons/Jewels/Nethergate_Necklace.png", "./Icons/Jewels/Nethergate_Bracelet.png" ],
+      "category": "Necklace/Bracelet",
+      "tier": "3",
+      "rarity": "Uncommon",
+      "recipe": [ 
+        { "name" : "[UC] Platinum", "rarity": "Uncommon", "amount": 160 }, 
+        { "name" : "[UC] Illuminating Fragment", "rarity": "Uncommon", "amount": 8 }, 
+        { "name" : "[UC] Anima Stone", "rarity": "Uncommon", "amount": 8 }, 
+        { "name" : "[UC] Dragon Horn", "rarity": "Uncommon", "amount": 4 }, 
+        { "name" : "Copper Coin", "amount": 24000 }, 
+        { "name" : "Dark Steel", "amount": 11000 }
+      ]
+    },
+    {
+      "name": "Divinity Necklace/Bracelet",
+      "imageSecondary": [ "./Icons/Jewels/Desireless_Necklace.png", "./Icons/Jewels/Desireless_Bracelet.png" ],
+      "category": "Necklace/Bracelet",
+      "tier": "4",
+      "rarity": "Uncommon",
+      "recipe": [ 
+        { "name" : "[UC] Platinum", "rarity": "Uncommon", "amount": 320 }, 
+        { "name" : "[UC] Illuminating Fragment", "rarity": "Uncommon", "amount": 32 }, 
+        { "name" : "[UC] Anima Stone", "rarity": "Uncommon", "amount": 8 }, 
+        { "name" : "[UC] Dragon Horn", "rarity": "Uncommon", "amount": 8 }, 
+        { "name" : "Copper Coin", "amount": 63000 }, 
+        { "name" : "Dark Steel", "amount": 26000 }
+      ]
+    },
+    {
+      "name":"Starlight Necklace/Bracelet",
+      "imageSecondary": [ "./Icons/Jewels/Nethergate_Necklace.png", "./Icons/Jewels/Nethergate_Bracelet.png" ],
+      "category": "Necklace/Bracelet",
+      "tier": "4",
+      "rarity": "Uncommon",
+      "recipe": [ 
+        { "name" : "[UC] Platinum", "rarity": "Uncommon", "amount": 320 }, 
+        { "name" : "[UC] Illuminating Fragment", "rarity": "Uncommon", "amount": 16 }, 
+        { "name" : "[UC] Anima Stone", "rarity": "Uncommon", "amount": 16 }, 
+        { "name" : "[UC] Dragon Horn", "rarity": "Uncommon", "amount": 8 }, 
+        { "name" : "Copper Coin", "amount": 63000 }, 
+        { "name" : "Dark Steel", "amount": 26000 }
+      ]
+    },
+
+
+
+
+
+
+    {
+      "name": "Raging Blow Necklace/Bracelet",
+      "imageSecondary": [ "./Icons/Jewels/Raging_Blow_Necklace.png", "./Icons/Jewels/Raging_Blow_Bracelet.png" ],
+      "category": "Necklace/Bracelet",
+      "tier": "1",
+      "rarity": "Rare",
+      "recipe": [ 
+        { "name" : "[R] Platinum", "rarity": "Rare", "amount": 75 }, 
+        { "name" : "[R] Illuminating Fragment", "rarity": "Rare", "amount": 25 }, 
+        { "name" : "[R] Anima Stone", "rarity": "Rare", "amount": 25 }, 
+        { "name" : "[R] Dragon Horn", "rarity": "Rare", "amount": 1 }, 
+        { "name" : "Copper Coin", "amount": 50000 }, 
+        { "name" : "Dark Steel", "amount": 10000 }
+      ]
+    },
+    {
+      "name": "Steadliness Necklace/Bracelet",
+      "imageSecondary": [ "./Icons/Jewels/Steadliness_Necklace.png", "./Icons/Jewels/Steadliness_Bracelet.png" ],
+      "category": "Necklace/Bracelet",
+      "tier": "1",
+      "rarity": "Rare",
+      "recipe": [ 
+        { "name" : "[R] Platinum", "rarity": "Rare", "amount": 75 }, 
+        { "name" : "[R] Illuminating Fragment", "rarity": "Rare", "amount": 25 }, 
+        { "name" : "[R] Anima Stone", "rarity": "Rare", "amount": 25 }, 
+        { "name" : "[R] Dragon Horn", "rarity": "Rare", "amount": 1 }, 
+        { "name" : "Copper Coin", "amount": 50000 }, 
+        { "name" : "Dark Steel", "amount": 10000 }
+      ]
+    },
+    {
+      "name": "Safeguard Necklace/Bracelet",
+      "imageSecondary": [ "./Icons/Jewels/Raging_Blow_Necklace.png", "./Icons/Jewels/Raging_Blow_Bracelet.png" ],
+      "category": "Necklace/Bracelet",
+      "tier": "2",
+      "rarity": "Rare",
+      "recipe": [ 
+        { "name" : "[R] Platinum", "rarity": "Rare", "amount": 150 }, 
+        { "name" : "[R] Illuminating Fragment", "rarity": "Rare", "amount": 50 }, 
+        { "name" : "[R] Anima Stone", "rarity": "Rare", "amount": 50 }, 
+        { "name" : "[R] Dragon Horn", "rarity": "Rare", "amount": 2 }, 
+        { "name" : "Copper Coin", "amount": 200000 }, 
+        { "name" : "Dark Steel", "amount": 35000 }
+      ]
+    },
+    {
+      "name": "Dragon Blood Necklace/Bracelet",
+      "imageSecondary": [ "./Icons/Jewels/Steadliness_Necklace.png", "./Icons/Jewels/Steadliness_Bracelet.png" ],
+      "category": "Necklace/Bracelet",
+      "tier": "2",
+      "rarity": "Rare",
+      "recipe": [ 
+        { "name" : "[R] Platinum", "rarity": "Rare", "amount": 150 }, 
+        { "name" : "[R] Illuminating Fragment", "rarity": "Rare", "amount": 50 }, 
+        { "name" : "[R] Anima Stone", "rarity": "Rare", "amount": 50 }, 
+        { "name" : "[R] Dragon Horn", "rarity": "Rare", "amount": 2 }, 
+        { "name" : "Copper Coin", "amount": 200000 }, 
+        { "name" : "Dark Steel", "amount": 35000 }
+      ]
+    },
+    {
+      "name": "Adamant Necklace/Bracelet",
+      "imageSecondary": [ "./Icons/Jewels/Raging_Blow_Necklace.png", "./Icons/Jewels/Raging_Blow_Bracelet.png" ],
+      "category": "Necklace/Bracelet",
+      "tier": "3",
+      "rarity": "Rare",
+      "recipe": [ 
+        { "name" : "[R] Platinum", "rarity": "Rare", "amount": 300 }, 
+        { "name" : "[R] Illuminating Fragment", "rarity": "Rare", "amount": 100 }, 
+        { "name" : "[R] Anima Stone", "rarity": "Rare", "amount": 100 }, 
+        { "name" : "[R] Dragon Horn", "rarity": "Rare", "amount": 4 }, 
+        { "name" : "Copper Coin", "amount": 550000 }, 
+        { "name" : "Dark Steel", "amount": 90000 }
+      ]
+    },
+    {
+      "name": "Yellow Dragon Necklace/Bracelet",
+      "imageSecondary": [ "./Icons/Jewels/Steadliness_Necklace.png", "./Icons/Jewels/Steadliness_Bracelet.png" ],
+      "category": "Necklace/Bracelet",
+      "tier": "3",
+      "rarity": "Rare",
+      "recipe": [ 
+        { "name" : "[R] Platinum", "rarity": "Rare", "amount": 300 }, 
+        { "name" : "[R] Illuminating Fragment", "rarity": "Rare", "amount": 100 }, 
+        { "name" : "[R] Anima Stone", "rarity": "Rare", "amount": 100 }, 
+        { "name" : "[R] Dragon Horn", "rarity": "Rare", "amount": 4 }, 
+        { "name" : "Copper Coin", "amount": 550000 }, 
+        { "name" : "Dark Steel", "amount": 90000 }
+      ]
+    },
+    {
+      "name": "Moonlight Necklace/Bracelet",
+      "imageSecondary": [ "./Icons/Jewels/Raging_Blow_Necklace.png", "./Icons/Jewels/Raging_Blow_Bracelet.png" ],
+      "category": "Necklace/Bracelet",
+      "tier": "4",
+      "rarity": "Rare",
+      "recipe": [ 
+        { "name" : "[R] Platinum", "rarity": "Rare", "amount": 600 }, 
+        { "name" : "[R] Illuminating Fragment", "rarity": "Rare", "amount": 200 }, 
+        { "name" : "[R] Anima Stone", "rarity": "Rare", "amount": 200 }, 
+        { "name" : "[R] Dragon Horn", "rarity": "Rare", "amount": 8 }, 
+        { "name" : "Copper Coin", "amount": 1300000 }, 
+        { "name" : "Dark Steel", "amount": 205000 }
+      ]
+    },
+    {
+      "name": "Moongfang Necklace/Bracelet",
+      "imageSecondary": [ "./Icons/Jewels/Steadliness_Necklace.png", "./Icons/Jewels/Steadliness_Bracelet.png" ],
+      "category": "Necklace/Bracelet",
+      "tier": "4",
+      "rarity": "Rare",
+      "recipe": [ 
+        { "name" : "[R] Platinum", "rarity": "Rare", "amount": 600 }, 
+        { "name" : "[R] Illuminating Fragment", "rarity": "Rare", "amount": 200 }, 
+        { "name" : "[R] Anima Stone", "rarity": "Rare", "amount": 200 }, 
+        { "name" : "[R] Dragon Horn", "rarity": "Rare", "amount": 8 }, 
+        { "name" : "Copper Coin", "amount": 1300000 }, 
+        { "name" : "Dark Steel", "amount": 205000 }
+      ]
+    },
+
+
+
+
+
+
+    {
+      "name": "Lunisolar Necklace/Bracelet",
+      "imageSecondary": [ "./Icons/Jewels/Lunisolar_Necklace.png", "./Icons/Jewels/Lunisolar_Bracelet.png" ],
+      "category": "Necklace/Bracelet",
+      "tier": "1",
+      "rarity": "Epic",
+      "recipe": [ 
+        { "name" : "[E] Platinum", "rarity": "Epic", "amount": 300 }, 
+        { "name" : "[E] Illuminating Fragment", "rarity": "Epic", "amount": 100 }, 
+        { "name" : "[E] Anima Stone", "rarity": "Epic", "amount": 100 }, 
+        { "name" : "[E] Dragon Horn", "rarity": "Epic", "amount": 1 }, 
+        { "name" : "Copper Coin", "amount": 800000 }, 
+        { "name" : "Dark Steel", "amount": 100000 }
+      ]
+    },
+    {
+      "name": "Fallen Sun Necklace/Bracelet",
+      "imageSecondary": [ "./Icons/Jewels/Fallen_Sun_Necklace.png", "./Icons/Jewels/Fallen_Sun_Bracelet.png" ],
+      "category": "Necklace/Bracelet",
+      "tier": "1",
+      "rarity": "Epic",
+      "recipe": [ 
+        { "name" : "[E] Platinum", "rarity": "Epic", "amount": 300 }, 
+        { "name" : "[E] Illuminating Fragment", "rarity": "Epic", "amount": 100 }, 
+        { "name" : "[E] Anima Stone", "rarity": "Epic", "amount": 100 }, 
+        { "name" : "[E] Dragon Horn", "rarity": "Epic", "amount": 1 }, 
+        { "name" : "Copper Coin", "amount": 800000 }, 
+        { "name" : "Dark Steel", "amount": 100000 }
+      ]
+    },
+    {
+      "name": "Vast Heaven Necklace/Bracelet",
+      "imageSecondary": [ "./Icons/Jewels/Lunisolar_Necklace.png", "./Icons/Jewels/Lunisolar_Bracelet.png" ],
+      "category": "Necklace/Bracelet",
+      "tier": "2",
+      "rarity": "Epic",
+      "recipe": [ 
+        { "name" : "[E] Platinum", "rarity": "Epic", "amount": 600 }, 
+        { "name" : "[E] Illuminating Fragment", "rarity": "Epic", "amount": 200 }, 
+        { "name" : "[E] Anima Stone", "rarity": "Epic", "amount": 200 }, 
+        { "name" : "[E] Dragon Horn", "rarity": "Epic", "amount": 2 }, 
+        { "name" : "Copper Coin", "amount": 3200000 }, 
+        { "name" : "Dark Steel", "amount": 400000 }
+      ]
+    },
+    {
+      "name": "Heaven Defiance Necklace/Bracelet",
+      "imageSecondary": [ "./Icons/Jewels/Fallen_Sun_Necklace.png", "./Icons/Jewels/Fallen_Sun_Bracelet.png" ],
+      "category": "Necklace/Bracelet",
+      "tier": "2",
+      "rarity": "Epic",
+      "recipe": [ 
+        { "name" : "[E] Platinum", "rarity": "Epic", "amount": 600 }, 
+        { "name" : "[E] Illuminating Fragment", "rarity": "Epic", "amount": 200 }, 
+        { "name" : "[E] Anima Stone", "rarity": "Epic", "amount": 200 }, 
+        { "name" : "[E] Dragon Horn", "rarity": "Epic", "amount": 2 }, 
+        { "name" : "Copper Coin", "amount": 3200000 }, 
+        { "name" : "Dark Steel", "amount": 400000 }
+      ]
+    },
+    {
+      "name": "Pacification Necklace/Bracelet",
+      "imageSecondary": [ "./Icons/Jewels/Lunisolar_Necklace.png", "./Icons/Jewels/Lunisolar_Bracelet.png" ],
+      "category": "Necklace/Bracelet",
+      "tier": "3",
+      "rarity": "Epic",
+      "recipe": [ 
+        { "name" : "[E] Platinum", "rarity": "Epic", "amount": 1200 }, 
+        { "name" : "[E] Illuminating Fragment", "rarity": "Epic", "amount": 400 }, 
+        { "name" : "[E] Anima Stone", "rarity": "Epic", "amount": 400 }, 
+        { "name" : "[E] Dragon Horn", "rarity": "Epic", "amount": 4 }, 
+        { "name" : "Copper Coin", "amount": 8800000 }, 
+        { "name" : "Dark Steel", "amount": 1600000 }
+      ]
+    },
+    {
+      "name": "Evocation Necklace/Bracelet",
+      "imageSecondary": [ "./Icons/Jewels/Fallen_Sun_Necklace.png", "./Icons/Jewels/Fallen_Sun_Bracelet.png" ],
+      "category": "Necklace/Bracelet",
+      "tier": "3",
+      "rarity": "Epic",
+      "recipe": [ 
+        { "name" : "[E] Platinum", "rarity": "Epic", "amount": 1200 }, 
+        { "name" : "[E] Illuminating Fragment", "rarity": "Epic", "amount": 400 }, 
+        { "name" : "[E] Anima Stone", "rarity": "Epic", "amount": 400 }, 
+        { "name" : "[E] Dragon Horn", "rarity": "Epic", "amount": 4 }, 
+        { "name" : "Copper Coin", "amount": 8800000 }, 
+        { "name" : "Dark Steel", "amount": 1600000 }
+      ]
+    },
+    {
+      "name": "Spacetime Necklace/Bracelet",
+      "imageSecondary": [ "./Icons/Jewels/Lunisolar_Necklace.png", "./Icons/Jewels/Lunisolar_Bracelet.png" ],
+      "category": "Necklace/Bracelet",
+      "tier": "4",
+      "rarity": "Epic",
+      "recipe": [ 
+        { "name" : "[E] Platinum", "rarity": "Epic", "amount": 2400 }, 
+        { "name" : "[E] Illuminating Fragment", "rarity": "Epic", "amount": 800 }, 
+        { "name" : "[E] Anima Stone", "rarity": "Epic", "amount": 800 }, 
+        { "name" : "[E] Dragon Horn", "rarity": "Epic", "amount": 8 }, 
+        { "name" : "Copper Coin", "amount": 20800000 }, 
+        { "name" : "Dark Steel", "amount": 3200000 }
+      ]
+    },
+    {
+      "name": "Chakravarti Necklace/Bracelet",
+      "imageSecondary": [ "./Icons/Jewels/Fallen_Sun_Necklace.png", "./Icons/Jewels/Fallen_Sun_Bracelet.png" ],
+      "category": "Necklace/Bracelet",
+      "tier": "4",
+      "rarity": "Epic",
+      "recipe": [ 
+        { "name" : "[E] Platinum", "rarity": "Epic", "amount": 2400 }, 
+        { "name" : "[E] Illuminating Fragment", "rarity": "Epic", "amount": 800 }, 
+        { "name" : "[E] Anima Stone", "rarity": "Epic", "amount": 800 }, 
+        { "name" : "[E] Dragon Horn", "rarity": "Epic", "amount": 8 }, 
+        { "name" : "Copper Coin", "amount": 20800000 }, 
+        { "name" : "Dark Steel", "amount": 3200000 }
+      ]
+    },
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "Heavenly Connection Necklace/Bracelet",
+      "imageSecondary": [ "./Icons/Jewels/Heavenly_Connection_Necklace.png", "./Icons/Jewels/Heavenly_Connection_Bracelet.png" ],
+      "category": "Necklace/Bracelet",
+      "tier": "1",
+      "rarity": "Legendary",
+      "recipe": [ 
+        { "name" : "[L] Platinum", "rarity": "Legendary", "amount": 300 }, 
+        { "name" : "[L] Illuminating Fragment", "rarity": "Legendary", "amount": 100 }, 
+        { "name" : "[L] Anima Stone", "rarity": "Legendary", "amount": 100 }, 
+        { "name" : "[L] Dragon Horn", "rarity": "Legendary", "amount": 1 }, 
+        { "name" : "Copper Coin", "amount": 10000000 }, 
+        { "name" : "Dark Steel", "amount": 1000000 }
+      ]
+    },
+    {
+      "name": "Celestial Necklace/Bracelet",
+      "imageSecondary": [ "./Icons/Jewels/Heavenly_Connection_Necklace.png", "./Icons/Jewels/Heavenly_Connection_Bracelet.png" ],
+      "category": "Necklace/Bracelet",
+      "tier": "2",
+      "rarity": "Legendary",
+      "recipe": [ 
+        { "name" : "[L] Platinum", "rarity": "Legendary", "amount": 600 }, 
+        { "name" : "[L] Illuminating Fragment", "rarity": "Legendary", "amount": 200 }, 
+        { "name" : "[L] Anima Stone", "rarity": "Legendary", "amount": 200 }, 
+        { "name" : "[L] Dragon Horn", "rarity": "Legendary", "amount": 2 }, 
+        { "name" : "Copper Coin", "amount": 40000000 }, 
+        { "name" : "Dark Steel", "amount": 4000000 }
+      ]
+    },
+    {
+      "name": "Shineworld Necklace/Bracelet",
+      "imageSecondary": [ "./Icons/Jewels/Heavenly_Connection_Necklace.png", "./Icons/Jewels/Heavenly_Connection_Bracelet.png" ],
+      "category": "Necklace/Bracelet",
+      "tier": "3",
+      "rarity": "Legendary",
+      "recipe": [ 
+        { "name" : "[L] Platinum", "rarity": "Legendary", "amount": 1200 }, 
+        { "name" : "[L] Illuminating Fragment", "rarity": "Legendary", "amount": 400 }, 
+        { "name" : "[L] Anima Stone", "rarity": "Legendary", "amount": 400 }, 
+        { "name" : "[L] Dragon Horn", "rarity": "Legendary", "amount": 4 }, 
+        { "name" : "Copper Coin", "amount": 110000000 }, 
+        { "name" : "Dark Steel", "amount": 11000000 }
+      ]
+    },
+    {
+      "name": "Mythic Necklace/Bracelet",
+      "imageSecondary": [ "./Icons/Jewels/Heavenly_Connection_Necklace.png", "./Icons/Jewels/Heavenly_Connection_Bracelet.png" ],
+      "category": "Necklace/Bracelet",
+      "tier": "4",
+      "rarity": "Legendary",
+      "recipe": [ 
+        { "name" : "[L] Platinum", "rarity": "Legendary", "amount": 2400 }, 
+        { "name" : "[L] Illuminating Fragment", "rarity": "Legendary", "amount": 800 }, 
+        { "name" : "[L] Anima Stone", "rarity": "Legendary", "amount": 800 }, 
+        { "name" : "[L] Dragon Horn", "rarity": "Legendary", "amount": 8 }, 
+        { "name" : "Copper Coin", "amount": 260000000 }, 
+        { "name" : "Dark Steel", "amount": 26000000 }
+      ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "Desireless Earrings",
+      "image": "./Icons/Jewels/Desireless_Earrings.png",
+      "category": "Earrings",
+      "tier": "1",
+      "rarity": "Uncommon",
+      "recipe": [ 
+        { "name" : "[UC] Platinum", "rarity": "Uncommon", "amount": 40 }, 
+        { "name" : "[UC] Illuminating Fragment", "rarity": "Uncommon", "amount": 4 }, 
+        { "name" : "[UC] Anima Stone", "rarity": "Uncommon", "amount": 1 }, 
+        { "name" : "[UC] Dragon Eye", "rarity": "Uncommon", "amount": 1 }, 
+        { "name" : "Copper Coin", "amount": 1000 }, 
+        { "name" : "Dark Steel", "amount": 1000 }
+      ]
+    },
+    {
+      "name": "Nethergate Earrings",
+      "image": "./Icons/Jewels/Nethergate_Earrings.png",
+      "category": "Earrings",
+      "tier": "1",
+      "rarity": "Uncommon",
+      "recipe": [ 
+        { "name" : "[UC] Platinum", "rarity": "Uncommon", "amount": 40 }, 
+        { "name" : "[UC] Illuminating Fragment", "rarity": "Uncommon", "amount": 2 }, 
+        { "name" : "[UC] Anima Stone", "rarity": "Uncommon", "amount": 2 }, 
+        { "name" : "[UC] Dragon Eye", "rarity": "Uncommon", "amount": 1 }, 
+        { "name" : "Copper Coin", "amount": 1000 }, 
+        { "name" : "Dark Steel", "amount": 1000 }
+      ]
+    },
+    {
+      "name": "Transience Earrings",
+      "image": "./Icons/Jewels/Desireless_Earrings.png",
+      "category": "Earrings",
+      "tier": "2",
+      "rarity": "Uncommon",
+      "recipe": [ 
+        { "name" : "[UC] Platinum", "rarity": "Uncommon", "amount": 80 }, 
+        { "name" : "[UC] Illuminating Fragment", "rarity": "Uncommon", "amount": 8 }, 
+        { "name" : "[UC] Anima Stone", "rarity": "Uncommon", "amount": 2 }, 
+        { "name" : "[UC] Dragon Eye", "rarity": "Uncommon", "amount": 2 }, 
+        { "name" : "Copper Coin", "amount": 7000 }, 
+        { "name" : "Dark Steel", "amount": 7000 }
+      ]
+    },
+    {
+      "name": "Evil Slayer Earrings",
+      "image": "./Icons/Jewels/Nethergate_Earrings.png",
+      "category": "Earrings",
+      "tier": "2",
+      "rarity": "Uncommon",
+      "recipe": [ 
+        { "name" : "[UC] Platinum", "rarity": "Uncommon", "amount": 80 }, 
+        { "name" : "[UC] Illuminating Fragment", "rarity": "Uncommon", "amount": 4 }, 
+        { "name" : "[UC] Anima Stone", "rarity": "Uncommon", "amount": 4 }, 
+        { "name" : "[UC] Dragon Eye", "rarity": "Uncommon", "amount": 2 }, 
+        { "name" : "Copper Coin", "amount": 7000 }, 
+        { "name" : "Dark Steel", "amount": 7000 }
+      ]
+    },
+    {
+      "name": "Arhat Earrings",
+      "image": "./Icons/Jewels/Desireless_Earrings.png",
+      "category": "Earrings",
+      "tier": "3",
+      "rarity": "Uncommon",
+      "recipe": [ 
+        { "name" : "[UC] Platinum", "rarity": "Uncommon", "amount": 160 }, 
+        { "name" : "[UC] Illuminating Fragment", "rarity": "Uncommon", "amount": 16 }, 
+        { "name" : "[UC] Anima Stone", "rarity": "Uncommon", "amount": 4 }, 
+        { "name" : "[UC] Dragon Eye", "rarity": "Uncommon", "amount": 4 }, 
+        { "name" : "Copper Coin", "amount": 24000 }, 
+        { "name" : "Dark Steel", "amount": 24000 }
+      ]
+    },
+    {
+      "name": "Antidemon Earrings",
+      "image": "./Icons/Jewels/Nethergate_Earrings.png",
+      "category": "Earrings",
+      "tier": "3",
+      "rarity": "Uncommon",
+      "recipe": [ 
+        { "name" : "[UC] Platinum", "rarity": "Uncommon", "amount": 160 }, 
+        { "name" : "[UC] Illuminating Fragment", "rarity": "Uncommon", "amount": 8 }, 
+        { "name" : "[UC] Anima Stone", "rarity": "Uncommon", "amount": 8 }, 
+        { "name" : "[UC] Dragon Eye", "rarity": "Uncommon", "amount": 4 }, 
+        { "name" : "Copper Coin", "amount": 24000 }, 
+        { "name" : "Dark Steel", "amount": 24000 }
+      ]
+    },
+    {
+      "name": "Arhat Earrings",
+      "image": "./Icons/Jewels/Desireless_Earrings.png",
+      "category": "Earrings",
+      "tier": "4",
+      "rarity": "Uncommon",
+      "recipe": [ 
+        { "name" : "[UC] Platinum", "rarity": "Uncommon", "amount": 320 }, 
+        { "name" : "[UC] Illuminating Fragment", "rarity": "Uncommon", "amount": 32 }, 
+        { "name" : "[UC] Anima Stone", "rarity": "Uncommon", "amount": 8 }, 
+        { "name" : "[UC] Dragon Eye", "rarity": "Uncommon", "amount": 8 }, 
+        { "name" : "Copper Coin", "amount": 63000 }, 
+        { "name" : "Dark Steel", "amount": 63000 }
+      ]
+    },
+    {
+      "name": "Antidemon Earrings",
+      "image": "./Icons/Jewels/Nethergate_Earrings.png",
+      "category": "Earrings",
+      "tier": "4",
+      "rarity": "Uncommon",
+      "recipe": [ 
+        { "name" : "[UC] Platinum", "rarity": "Uncommon", "amount": 320 }, 
+        { "name" : "[UC] Illuminating Fragment", "rarity": "Uncommon", "amount": 16 }, 
+        { "name" : "[UC] Anima Stone", "rarity": "Uncommon", "amount": 16 }, 
+        { "name" : "[UC] Dragon Eye", "rarity": "Uncommon", "amount": 8 }, 
+        { "name" : "Copper Coin", "amount": 63000 }, 
+        { "name" : "Dark Steel", "amount": 63000 }
+      ]
+    },
+
+
+
+
+
+
+
+
+
+    {
+      "name": "Raging Blow Earrings",
+      "image": "./Icons/Jewels/Raging_Blow_Earrings.png",
+      "category": "Earrings",
+      "tier": "1",
+      "rarity": "Rare",
+      "recipe": [ 
+        { "name" : "[R] Platinum", "rarity": "Rare", "amount": 75 }, 
+        { "name" : "[R] Illuminating Fragment", "rarity": "Rare", "amount": 25 }, 
+        { "name" : "[R] Anima Stone", "rarity": "Rare", "amount": 25 }, 
+        { "name" : "[R] Dragon Eye", "rarity": "Rare", "amount": 1 }, 
+        { "name" : "Copper Coin", "amount": 50000 }, 
+        { "name" : "Dark Steel", "amount": 50000 }
+      ]
+    },
+    {
+      "name": "Steadliness Earrings",
+      "image": "./Icons/Jewels/Steadliness_Earrings.png",
+      "category": "Earrings",
+      "tier": "1",
+      "rarity": "Rare",
+      "recipe": [ 
+        { "name" : "[R] Platinum", "rarity": "Rare", "amount": 75 }, 
+        { "name" : "[R] Illuminating Fragment", "rarity": "Rare", "amount": 25 }, 
+        { "name" : "[R] Anima Stone", "rarity": "Rare", "amount": 25 }, 
+        { "name" : "[R] Dragon Eye", "rarity": "Rare", "amount": 1 }, 
+        { "name" : "Copper Coin", "amount": 50000 }, 
+        { "name" : "Dark Steel", "amount": 50000 }
+      ]
+    },
+    {
+      "name": "Safeguard Earrings",
+      "image": "./Icons/Jewels/Raging_Blow_Earrings.png",
+      "category": "Earrings",
+      "tier": "2",
+      "rarity": "Rare",
+      "recipe": [ 
+        { "name" : "[R] Platinum", "rarity": "Rare", "amount": 150 }, 
+        { "name" : "[R] Illuminating Fragment", "rarity": "Rare", "amount": 50 }, 
+        { "name" : "[R] Anima Stone", "rarity": "Rare", "amount": 50 }, 
+        { "name" : "[R] Dragon Eye", "rarity": "Rare", "amount": 2 }, 
+        { "name" : "Copper Coin", "amount": 200000 }, 
+        { "name" : "Dark Steel", "amount": 200000 }
+      ]
+    },
+    {
+      "name": "Dragon Blood Earrings",
+      "image": "./Icons/Jewels/Steadliness_Earrings.png",
+      "category": "Earrings",
+      "tier": "2",
+      "rarity": "Rare",
+      "recipe": [ 
+        { "name" : "[R] Platinum", "rarity": "Rare", "amount": 150 }, 
+        { "name" : "[R] Illuminating Fragment", "rarity": "Rare", "amount": 50 }, 
+        { "name" : "[R] Anima Stone", "rarity": "Rare", "amount": 50 }, 
+        { "name" : "[R] Dragon Eye", "rarity": "Rare", "amount": 2 }, 
+        { "name" : "Copper Coin", "amount": 200000 }, 
+        { "name" : "Dark Steel", "amount": 200000 }
+      ]
+    },
+    {
+      "name": "Adamant Earrings",
+      "image": "./Icons/Jewels/Raging_Blow_Earrings.png",
+      "category": "Earrings",
+      "tier": "3",
+      "rarity": "Rare",
+      "recipe": [ 
+        { "name" : "[R] Platinum", "rarity": "Rare", "amount": 300 }, 
+        { "name" : "[R] Illuminating Fragment", "rarity": "Rare", "amount": 100 }, 
+        { "name" : "[R] Anima Stone", "rarity": "Rare", "amount": 100 }, 
+        { "name" : "[R] Dragon Eye", "rarity": "Rare", "amount": 4 }, 
+        { "name" : "Copper Coin", "amount": 550000 }, 
+        { "name" : "Dark Steel", "amount": 550000 }
+      ]
+    },
+    {
+      "name": "Yellow Dragon Earrings",
+      "image": "./Icons/Jewels/Steadliness_Earrings.png",
+      "category": "Earrings",
+      "tier": "3",
+      "rarity": "Rare",
+      "recipe": [ 
+        { "name" : "[R] Platinum", "rarity": "Rare", "amount": 300 }, 
+        { "name" : "[R] Illuminating Fragment", "rarity": "Rare", "amount": 100 }, 
+        { "name" : "[R] Anima Stone", "rarity": "Rare", "amount": 100 }, 
+        { "name" : "[R] Dragon Eye", "rarity": "Rare", "amount": 4 }, 
+        { "name" : "Copper Coin", "amount": 550000 }, 
+        { "name" : "Dark Steel", "amount": 550000 }
+      ]
+    },
+    {
+      "name": "Moonlight Earrings",
+      "image": "./Icons/Jewels/Raging_Blow_Earrings.png",
+      "category": "Earrings",
+      "tier": "4",
+      "rarity": "Rare",
+      "recipe": [ 
+        { "name" : "[R] Platinum", "rarity": "Rare", "amount": 600 }, 
+        { "name" : "[R] Illuminating Fragment", "rarity": "Rare", "amount": 200 }, 
+        { "name" : "[R] Anima Stone", "rarity": "Rare", "amount": 200 }, 
+        { "name" : "[R] Dragon Eye", "rarity": "Rare", "amount": 8 }, 
+        { "name" : "Copper Coin", "amount": 1300000 }, 
+        { "name" : "Dark Steel", "amount": 1300000 }
+      ]
+    },
+    {
+      "name": "Moonfang Earrings",
+      "image": "./Icons/Jewels/Steadliness_Earrings.png",
+      "category": "Earrings",
+      "tier": "4",
+      "rarity": "Rare",
+      "recipe": [ 
+        { "name" : "[R] Platinum", "rarity": "Rare", "amount": 600 }, 
+        { "name" : "[R] Illuminating Fragment", "rarity": "Rare", "amount": 200 }, 
+        { "name" : "[R] Anima Stone", "rarity": "Rare", "amount": 200 }, 
+        { "name" : "[R] Dragon Eye", "rarity": "Rare", "amount": 8 }, 
+        { "name" : "Copper Coin", "amount": 1300000 }, 
+        { "name" : "Dark Steel", "amount": 1300000 }
+      ]
+    },
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "Raging Blow Ring",
+      "image": "./Icons/Jewels/Raging_Blow_Ring.png",
+      "category": "Ring",
+      "tier": "1",
+      "rarity": "Rare",
+      "recipe": [ 
+        { "name" : "[R] Platinum", "rarity": "Rare", "amount": 75 }, 
+        { "name" : "[R] Illuminating Fragment", "rarity": "Rare", "amount": 25 }, 
+        { "name" : "[R] Anima Stone", "rarity": "Rare", "amount": 25 }, 
+        { "name" : "[R] Dragon Horn", "rarity": "Rare", "amount": 1 }, 
+        { "name" : "Copper Coin", "amount": 50000 }, 
+        { "name" : "Dark Steel", "amount": 10000 }
+      ]
+    },
+    {
+      "name": "Steadliness Ring",
+      "image": "./Icons/Jewels/Steadliness_Ring.png",
+      "category": "Ring",
+      "tier": "1",
+      "rarity": "Rare",
+      "recipe": [ 
+        { "name" : "[R] Platinum", "rarity": "Rare", "amount": 75 }, 
+        { "name" : "[R] Illuminating Fragment", "rarity": "Rare", "amount": 25 }, 
+        { "name" : "[R] Anima Stone", "rarity": "Rare", "amount": 25 }, 
+        { "name" : "[R] Dragon Horn", "rarity": "Rare", "amount": 1 }, 
+        { "name" : "Copper Coin", "amount": 50000 }, 
+        { "name" : "Dark Steel", "amount": 10000 }
+      ]
+    },
+    {
+      "name": "Safeguard Ring",
+      "image": "./Icons/Jewels/Raging_Blow_Ring.png",
+      "category": "Ring",
+      "tier": "2",
+      "rarity": "Rare",
+      "recipe": [ 
+        { "name" : "[R] Platinum", "rarity": "Rare", "amount": 150 }, 
+        { "name" : "[R] Illuminating Fragment", "rarity": "Rare", "amount": 50 }, 
+        { "name" : "[R] Anima Stone", "rarity": "Rare", "amount": 50 }, 
+        { "name" : "[R] Dragon Horn", "rarity": "Rare", "amount": 2 }, 
+        { "name" : "Copper Coin", "amount": 200000 }, 
+        { "name" : "Dark Steel", "amount": 35000 }
+      ]
+    },
+    {
+      "name": "Dragon Blood Ring",
+      "image": "./Icons/Jewels/Steadliness_Ring.png",
+      "category": "Ring",
+      "tier": "2",
+      "rarity": "Rare",
+      "recipe": [ 
+        { "name" : "[R] Platinum", "rarity": "Rare", "amount": 150 }, 
+        { "name" : "[R] Illuminating Fragment", "rarity": "Rare", "amount": 50 }, 
+        { "name" : "[R] Anima Stone", "rarity": "Rare", "amount": 50 }, 
+        { "name" : "[R] Dragon Horn", "rarity": "Rare", "amount": 2 }, 
+        { "name" : "Copper Coin", "amount": 200000 }, 
+        { "name" : "Dark Steel", "amount": 35000 }
+      ]
+    },
+    {
+      "name": "Adamant Ring",
+      "image": "./Icons/Jewels/Raging_Blow_Ring.png",
+      "category": "Ring",
+      "tier": "3",
+      "rarity": "Rare",
+      "recipe": [ 
+        { "name" : "[R] Platinum", "rarity": "Rare", "amount": 300 }, 
+        { "name" : "[R] Illuminating Fragment", "rarity": "Rare", "amount": 100 }, 
+        { "name" : "[R] Anima Stone", "rarity": "Rare", "amount": 100 }, 
+        { "name" : "[R] Dragon Horn", "rarity": "Rare", "amount": 4 }, 
+        { "name" : "Copper Coin", "amount": 550000 }, 
+        { "name" : "Dark Steel", "amount": 90000 }
+      ]
+    },
+    {
+      "name": "Yellow Dragon Ring",
+      "image": "./Icons/Jewels/Steadliness_Ring.png",
+      "category": "Ring",
+      "tier": "3",
+      "rarity": "Rare",
+      "recipe": [ 
+        { "name" : "[R] Platinum", "rarity": "Rare", "amount": 300 }, 
+        { "name" : "[R] Illuminating Fragment", "rarity": "Rare", "amount": 100 }, 
+        { "name" : "[R] Anima Stone", "rarity": "Rare", "amount": 100 }, 
+        { "name" : "[R] Dragon Horn", "rarity": "Rare", "amount": 4 }, 
+        { "name" : "Copper Coin", "amount": 550000 }, 
+        { "name" : "Dark Steel", "amount": 90000 }
+      ]
+    },
+    {
+      "name": "Moonlight Ring",
+      "image": "./Icons/Jewels/Raging_Blow_Ring.png",
+      "category": "Ring",
+      "tier": "4",
+      "rarity": "Rare",
+      "recipe": [ 
+        { "name" : "[R] Platinum", "rarity": "Rare", "amount": 600 }, 
+        { "name" : "[R] Illuminating Fragment", "rarity": "Rare", "amount": 200 }, 
+        { "name" : "[R] Anima Stone", "rarity": "Rare", "amount": 200 }, 
+        { "name" : "[R] Dragon Horn", "rarity": "Rare", "amount": 8 }, 
+        { "name" : "Copper Coin", "amount": 1300000 }, 
+        { "name" : "Dark Steel", "amount": 205000 }
+      ]
+    },
+    {
+      "name": "Moonfang Ring",
+      "image": "./Icons/Jewels/Steadliness_Ring.png",
+      "category": "Ring",
+      "tier": "4",
+      "rarity": "Rare",
+      "recipe": [ 
+        { "name" : "[R] Platinum", "rarity": "Rare", "amount": 600 }, 
+        { "name" : "[R] Illuminating Fragment", "rarity": "Rare", "amount": 200 }, 
+        { "name" : "[R] Anima Stone", "rarity": "Rare", "amount": 200 }, 
+        { "name" : "[R] Dragon Horn", "rarity": "Rare", "amount": 8 }, 
+        { "name" : "Copper Coin", "amount": 1300000 }, 
+        { "name" : "Dark Steel", "amount": 205000 }
+      ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "Lunisolar Earrings",
+      "image": "./Icons/Jewels/Lunisolar_Earrings.png",
+      "category": "Earrings",
+      "tier": "1",
+      "rarity": "Epic",
+      "recipe": [ 
+        { "name" : "[E] Platinum", "rarity": "Epic", "amount": 300 }, 
+        { "name" : "[E] Illuminating Fragment", "rarity": "Epic", "amount": 100 }, 
+        { "name" : "[E] Anima Stone", "rarity": "Epic", "amount": 100 }, 
+        { "name" : "[E] Dragon Eye", "rarity": "Epic", "amount": 1 }, 
+        { "name" : "Copper Coin", "amount": 800000 }, 
+        { "name" : "Dark Steel", "amount": 800000 }
+      ]
+    },
+    {
+      "name": "Fallen Sun Earrings",
+      "image": "./Icons/Jewels/Fallen_Sun_Earrings.png",
+      "category": "Earrings",
+      "tier": "1",
+      "rarity": "Epic",
+      "recipe": [ 
+        { "name" : "[E] Platinum", "rarity": "Epic", "amount": 300 }, 
+        { "name" : "[E] Illuminating Fragment", "rarity": "Epic", "amount": 100 }, 
+        { "name" : "[E] Anima Stone", "rarity": "Epic", "amount": 100 }, 
+        { "name" : "[E] Dragon Eye", "rarity": "Epic", "amount": 1 }, 
+        { "name" : "Copper Coin", "amount": 800000 }, 
+        { "name" : "Dark Steel", "amount": 800000 }
+      ]
+    },
+    {
+      "name": "Vast Heaven Earrings",
+      "image": "./Icons/Jewels/Lunisolar_Earrings.png",
+      "category": "Earrings",
+      "tier": "2",
+      "rarity": "Epic",
+      "recipe": [ 
+        { "name" : "[E] Platinum", "rarity": "Epic", "amount": 600 }, 
+        { "name" : "[E] Illuminating Fragment", "rarity": "Epic", "amount": 200 }, 
+        { "name" : "[E] Anima Stone", "rarity": "Epic", "amount": 200 }, 
+        { "name" : "[E] Dragon Eye", "rarity": "Epic", "amount": 2 }, 
+        { "name" : "Copper Coin", "amount": 3200000 }, 
+        { "name" : "Dark Steel", "amount": 3200000 }
+      ]
+    },
+    {
+      "name": "Heaven Defiance Earrings",
+      "image":"./Icons/Jewels/Fallen_Sun_Earrings.png",
+      "category": "Earrings",
+      "tier": "2",
+      "rarity": "Epic",
+      "recipe": [ 
+        { "name" : "[E] Platinum", "rarity": "Epic", "amount": 600 }, 
+        { "name" : "[E] Illuminating Fragment", "rarity": "Epic", "amount": 200 }, 
+        { "name" : "[E] Anima Stone", "rarity": "Epic", "amount": 200 }, 
+        { "name" : "[E] Dragon Eye", "rarity": "Epic", "amount": 2 }, 
+        { "name" : "Copper Coin", "amount": 3200000 }, 
+        { "name" : "Dark Steel", "amount": 3200000 }
+      ]
+    },
+    {
+      "name": "Pacification Earrings",
+      "image": "./Icons/Jewels/Lunisolar_Earrings.png",
+      "category": "Earrings",
+      "tier": "3",
+      "rarity": "Epic",
+      "recipe": [ 
+        { "name" : "[E] Platinum", "rarity": "Epic", "amount": 1200 }, 
+        { "name" : "[E] Illuminating Fragment", "rarity": "Epic", "amount": 400 }, 
+        { "name" : "[E] Anima Stone", "rarity": "Epic", "amount": 400 }, 
+        { "name" : "[E] Dragon Eye", "rarity": "Epic", "amount": 4 }, 
+        { "name" : "Copper Coin", "amount": 8800000 }, 
+        { "name" : "Dark Steel", "amount": 8800000 }
+      ]
+    },
+    {
+      "name": "Evocation Earrings",
+      "image": "./Icons/Jewels/Fallen_Sun_Earrings.png",
+      "category": "Earrings",
+      "tier": "3",
+      "rarity": "Epic",
+      "recipe": [ 
+        { "name" : "[E] Platinum", "rarity": "Epic", "amount": 1200 }, 
+        { "name" : "[E] Illuminating Fragment", "rarity": "Epic", "amount": 400 }, 
+        { "name" : "[E] Anima Stone", "rarity": "Epic", "amount": 400 }, 
+        { "name" : "[E] Dragon Eye", "rarity": "Epic", "amount": 4 }, 
+        { "name" : "Copper Coin", "amount": 8800000 }, 
+        { "name" : "Dark Steel", "amount": 8800000 }
+      ]
+    },
+    {
+      "name": "Spacetime Earrings",
+      "image": "./Icons/Jewels/Lunisolar_Earrings.png",
+      "category": "Earrings",
+      "tier": "4",
+      "rarity": "Epic",
+      "recipe": [ 
+        { "name" : "[E] Platinum", "rarity": "Epic", "amount": 2400 }, 
+        { "name" : "[E] Illuminating Fragment", "rarity": "Epic", "amount": 800 }, 
+        { "name" : "[E] Anima Stone", "rarity": "Epic", "amount": 800 }, 
+        { "name" : "[E] Dragon Eye", "rarity": "Epic", "amount": 8 }, 
+        { "name" : "Copper Coin", "amount": 20800000 }, 
+        { "name" : "Dark Steel", "amount": 20800000 }
+      ]
+    },
+    {
+      "name": "Chakravarti Earrings",
+      "image": "./Icons/Jewels/Fallen_Sun_Earrings.png",
+      "category": "Earrings",
+      "tier": "4",
+      "rarity": "Epic",
+      "recipe": [ 
+        { "name" : "[E] Platinum", "rarity": "Epic", "amount": 2400 }, 
+        { "name" : "[E] Illuminating Fragment", "rarity": "Epic", "amount": 800 }, 
+        { "name" : "[E] Anima Stone", "rarity": "Epic", "amount": 800 }, 
+        { "name" : "[E] Dragon Eye", "rarity": "Epic", "amount": 8 }, 
+        { "name" : "Copper Coin", "amount": 20800000 }, 
+        { "name" : "Dark Steel", "amount": 20800000 }
+      ]
+    },
+
+
+
+
+
+
+    {
+      "name": "Lunisolar Ring",
+      "image": "./Icons/Jewels/Lunisolar_Ring.png",
+      "category": "Ring",
+      "tier": "1",
+      "rarity": "Epic",
+      "recipe": [ 
+        { "name" : "[E] Platinum", "rarity": "Epic", "amount": 300 }, 
+        { "name" : "[E] Illuminating Fragment", "rarity": "Epic", "amount": 100 }, 
+        { "name" : "[E] Anima Stone", "rarity": "Epic", "amount": 100 }, 
+        { "name" : "[E] Dragon Horn", "rarity": "Epic", "amount": 1 }, 
+        { "name" : "Copper Coin", "amount": 800000 }, 
+        { "name" : "Dark Steel", "amount": 100000 }
+      ]
+    },
+    {
+      "name": "Fallen Sun Ring",
+      "image": "./Icons/Jewels/Fallen_Sun_Ring.png",
+      "category": "Ring",
+      "tier": "1",
+      "rarity": "Epic",
+      "recipe": [ 
+        { "name" : "[E] Platinum", "rarity": "Epic", "amount": 300 }, 
+        { "name" : "[E] Illuminating Fragment", "rarity": "Epic", "amount": 100 }, 
+        { "name" : "[E] Anima Stone", "rarity": "Epic", "amount": 100 }, 
+        { "name" : "[E] Dragon Horn", "rarity": "Epic", "amount": 1 }, 
+        { "name" : "Copper Coin", "amount": 800000 }, 
+        { "name" : "Dark Steel", "amount": 100000 }
+      ]
+    },
+    {
+      "name": "Vast Heaven Ring",
+      "image": "./Icons/Jewels/Lunisolar_Ring.png",
+      "category": "Ring",
+      "tier": "2",
+      "rarity": "Epic",
+      "recipe": [ 
+        { "name" : "[E] Platinum", "rarity": "Epic", "amount": 600 }, 
+        { "name" : "[E] Illuminating Fragment", "rarity": "Epic", "amount": 200 }, 
+        { "name" : "[E] Anima Stone", "rarity": "Epic", "amount": 200 }, 
+        { "name" : "[E] Dragon Horn", "rarity": "Epic", "amount": 2 }, 
+        { "name" : "Copper Coin", "amount": 3200000 }, 
+        { "name" : "Dark Steel", "amount": 400000 }
+      ]
+    },
+    {
+      "name": "Heaven Defiance Ring",
+      "image": "./Icons/Jewels/Fallen_Sun_Ring.png",
+      "category": "Ring",
+      "tier": "2",
+      "rarity": "Epic",
+      "recipe": [ 
+        { "name" : "[E] Platinum", "rarity": "Epic", "amount": 600 }, 
+        { "name" : "[E] Illuminating Fragment", "rarity": "Epic", "amount": 200 }, 
+        { "name" : "[E] Anima Stone", "rarity": "Epic", "amount": 200 }, 
+        { "name" : "[E] Dragon Horn", "rarity": "Epic", "amount": 2 }, 
+        { "name" : "Copper Coin", "amount": 3200000 }, 
+        { "name" : "Dark Steel", "amount": 400000 }
+      ]
+    },
+    {
+      "name": "Pacification Ring",
+      "image": "./Icons/Jewels/Lunisolar_Ring.png",
+      "category": "Ring",
+      "tier": "3",
+      "rarity": "Epic",
+      "recipe": [ 
+        { "name" : "[E] Platinum", "rarity": "Epic", "amount": 1200 }, 
+        { "name" : "[E] Illuminating Fragment", "rarity": "Epic", "amount": 400 }, 
+        { "name" : "[E] Anima Stone", "rarity": "Epic", "amount": 400 }, 
+        { "name" : "[E] Dragon Horn", "rarity": "Epic", "amount": 4 }, 
+        { "name" : "Copper Coin", "amount": 8800000 }, 
+        { "name" : "Dark Steel", "amount": 1600000 }
+      ]
+    },
+    {
+      "name": "Evocation Ring",
+      "image": "./Icons/Jewels/Fallen_Sun_Ring.png",
+      "category": "Ring",
+      "tier": "3",
+      "rarity": "Epic",
+      "recipe": [ 
+        { "name" : "[E] Platinum", "rarity": "Epic", "amount": 1200 }, 
+        { "name" : "[E] Illuminating Fragment", "rarity": "Epic", "amount": 400 }, 
+        { "name" : "[E] Anima Stone", "rarity": "Epic", "amount": 400 }, 
+        { "name" : "[E] Dragon Horn", "rarity": "Epic", "amount": 4 }, 
+        { "name" : "Copper Coin", "amount": 8800000 }, 
+        { "name" : "Dark Steel", "amount": 1600000 }
+      ]
+    },
+    {
+      "name": "Spacetime Ring",
+      "image": "./Icons/Jewels/Lunisolar_Ring.png",
+      "category": "Ring",
+      "tier": "4",
+      "rarity": "Epic",
+      "recipe": [ 
+        { "name" : "[E] Platinum", "rarity": "Epic", "amount": 2400 }, 
+        { "name" : "[E] Illuminating Fragment", "rarity": "Epic", "amount": 800 }, 
+        { "name" : "[E] Anima Stone", "rarity": "Epic", "amount": 800 }, 
+        { "name" : "[E] Dragon Horn", "rarity": "Epic", "amount": 8 }, 
+        { "name" : "Copper Coin", "amount": 20800000 }, 
+        { "name" : "Dark Steel", "amount": 3200000 }
+      ]
+    },
+    {
+      "name": "Chakravarti Ring",
+      "image": "./Icons/Jewels/Fallen_Sun_Ring.png",
+      "category": "Ring",
+      "tier": "4",
+      "rarity": "Epic",
+      "recipe": [ 
+        { "name" : "[E] Platinum", "rarity": "Epic", "amount": 2400 }, 
+        { "name" : "[E] Illuminating Fragment", "rarity": "Epic", "amount": 800 }, 
+        { "name" : "[E] Anima Stone", "rarity": "Epic", "amount": 800 }, 
+        { "name" : "[E] Dragon Horn", "rarity": "Epic", "amount": 8 }, 
+        { "name" : "Copper Coin", "amount": 20800000 }, 
+        { "name" : "Dark Steel", "amount": 3200000 }
+      ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+    {
+      "name": "Heavenly Connection Earrings",
+      "image": "./Icons/Jewels/Heavenly_Connection_Earrings.png",
+      "category": "Earrings",
+      "tier": "1",
+      "rarity": "Legendary",
+      "recipe": [ 
+        { "name" : "[L] Platinum", "rarity": "Legendary", "amount": 300 }, 
+        { "name" : "[L] Illuminating Fragment", "rarity": "Legendary", "amount": 100 }, 
+        { "name" : "[L] Anima Stone", "rarity": "Legendary", "amount": 100 }, 
+        { "name" : "[L] Dragon Eye", "rarity": "Legendary", "amount": 1 }, 
+        { "name" : "Copper Coin", "amount": 10000000 }, 
+        { "name" : "Dark Steel", "amount": 10000000 }
+      ]
+    },
+    {
+      "name": "Celestial Earrings",
+      "image": "./Icons/Jewels/Heavenly_Connection_Earrings.png",
+      "category": "Earrings",
+      "tier": "2",
+      "rarity": "Legendary",
+      "recipe": [ 
+        { "name" : "[L] Platinum", "rarity": "Legendary", "amount": 600 }, 
+        { "name" : "[L] Illuminating Fragment", "rarity": "Legendary", "amount": 200 }, 
+        { "name" : "[L] Anima Stone", "rarity": "Legendary", "amount": 200 }, 
+        { "name" : "[L] Dragon Eye", "rarity": "Legendary", "amount": 2 }, 
+        { "name" : "Copper Coin", "amount": 40000000 }, 
+        { "name" : "Dark Steel", "amount": 40000000 }
+      ]
+    },
+    {
+      "name": "Shineworld Earrings",
+      "image": "./Icons/Jewels/Heavenly_Connection_Earrings.png",
+      "category": "Earrings",
+      "tier": "3",
+      "rarity": "Legendary",
+      "recipe": [ 
+        { "name" : "[L] Platinum", "rarity": "Legendary", "amount": 1200 }, 
+        { "name" : "[L] Illuminating Fragment", "rarity": "Legendary", "amount": 400 }, 
+        { "name" : "[L] Anima Stone", "rarity": "Legendary", "amount": 400 }, 
+        { "name" : "[L] Dragon Eye", "rarity": "Legendary", "amount": 4 }, 
+        { "name" : "Copper Coin", "amount": 110000000 }, 
+        { "name" : "Dark Steel", "amount": 110000000 }
+      ]
+    },
+    {
+      "name": "Mythic Earrings",
+      "image": "./Icons/Jewels/Heavenly_Connection_Earrings.png",
+      "category": "Earrings",
+      "tier": "4",
+      "rarity": "Legendary",
+      "recipe": [ 
+        { "name" : "[L] Platinum", "rarity": "Legendary", "amount": 2400 }, 
+        { "name" : "[L] Illuminating Fragment", "rarity": "Legendary", "amount": 800 }, 
+        { "name" : "[L] Anima Stone", "rarity": "Legendary", "amount": 800 }, 
+        { "name" : "[L] Dragon Eye", "rarity": "Legendary", "amount": 8 }, 
+        { "name" : "Copper Coin", "amount": 260000000 }, 
+        { "name" : "Dark Steel", "amount": 260000000 }
+      ]
+    },
+    {
+      "name": "Heavenly Connection Ring",
+      "image": "./Icons/Jewels/Heavenly_Connection_Ring.png",
+      "category": "Ring",
+      "tier": "1",
+      "rarity": "Legendary",
+      "recipe": [ 
+        { "name" : "[L] Platinum", "rarity": "Legendary", "amount": 300 }, 
+        { "name" : "[L] Illuminating Fragment", "rarity": "Legendary", "amount": 100 }, 
+        { "name" : "[L] Anima Stone", "rarity": "Legendary", "amount": 100 }, 
+        { "name" : "[L] Dragon Horn", "rarity": "Legendary", "amount": 1 }, 
+        { "name" : "Copper Coin", "amount": 10000000 }, 
+        { "name" : "Dark Steel", "amount": 1000000 }
+      ]
+    },
+    {
+      "name": "Celestial Ring",
+      "image": "./Icons/Jewels/Heavenly_Connection_Ring.png",
+      "category": "Ring",
+      "tier": "2",
+      "rarity": "Legendary",
+      "recipe": [ 
+        { "name" : "[L] Platinum", "rarity": "Legendary", "amount": 600 }, 
+        { "name" : "[L] Illuminating Fragment", "rarity": "Legendary", "amount": 200 }, 
+        { "name" : "[L] Anima Stone", "rarity": "Legendary", "amount": 200 }, 
+        { "name" : "[L] Dragon Horn", "rarity": "Legendary", "amount": 2 }, 
+        { "name" : "Copper Coin", "amount": 40000000 }, 
+        { "name" : "Dark Steel", "amount": 4000000 }
+      ]
+    },
+    {
+      "name": "Shineworld Ring",
+      "image": "./Icons/Jewels/Heavenly_Connection_Ring.png",
+      "category": "Ring",
+      "tier": "3",
+      "rarity": "Legendary",
+      "recipe": [ 
+        { "name" : "[L] Platinum", "rarity": "Legendary", "amount": 1200 }, 
+        { "name" : "[L] Illuminating Fragment", "rarity": "Legendary", "amount": 400 }, 
+        { "name" : "[L] Anima Stone", "rarity": "Legendary", "amount": 400 }, 
+        { "name" : "[L] Dragon Horn", "rarity": "Legendary", "amount": 4 }, 
+        { "name" : "Copper Coin", "amount": 110000000 }, 
+        { "name" : "Dark Steel", "amount": 11000000 }
+      ]
+    },
+    {
+      "name": "Mythic Ring",
+      "image": "./Icons/Jewels/Heavenly_Connection_Ring.png",
+      "category": "Ring",
+      "tier": "4",
+      "rarity": "Legendary",
+      "recipe": [ 
+        { "name" : "[L] Platinum", "rarity": "Legendary", "amount": 2400 }, 
+        { "name" : "[L] Illuminating Fragment", "rarity": "Legendary", "amount": 800 }, 
+        { "name" : "[L] Anima Stone", "rarity": "Legendary", "amount": 800 }, 
+        { "name" : "[L] Dragon Horn", "rarity": "Legendary", "amount": 8 }, 
+        { "name" : "Copper Coin", "amount": 260000000 }, 
+        { "name" : "Dark Steel", "amount": 26000000 }
+      ]
+    }
+  
 ]

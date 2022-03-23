@@ -1,19 +1,15 @@
 import React, { useState } from "react";
 
-import handleMap from '../../Utils/classSelectHandler.js'
+// import handleMap from '../../Utils/classSelectHandler.js'
+import itemsList from '../../Data/ItemsList.json'
 
 import Classes from "./Classes";
 import ItemUi from "./ItemUi";
 
 import "./Sidebar.css";
 
-const Sidebar = ({ filter, inventory, inventoryContent, setInventoryContent, itemClass, setItemClass }) => {
+const Sidebar = ({ filter, inventory, inventoryContent, setInventoryContent, itemClass, setItemClass, icon, setIcon }) => {
   const [search, setSearch] = useState("");
-  const [icon, setIcon] = useState(false)
-
-  setTimeout(() => {
-    setIcon(!icon)
-  }, 1000);
 
   return (
     <div className="ItemList">
@@ -25,12 +21,26 @@ const Sidebar = ({ filter, inventory, inventoryContent, setInventoryContent, ite
         />
       </div>
       <div className="ItemDisplay">
-        {handleMap(itemClass).map((itemInfo, index) => {
-          const { name, image, category, rarity, recipe,  tier, imageSecondary } = itemInfo;
+        {itemsList.map((itemInfo, index) => {
+          const { name, image, category, rarity, recipe,  tier, imageSecondary, names, images } = itemInfo;
+
+          // !name && console.log(Object.keys(names))
+          // !name && console.log(itemClass)
+          let nameSet
+          let imageSet
+          
+          if ( !name ) {
+            nameSet = names[`name${itemClass}`]
+            imageSet = images[`image${itemClass}`]
+          }
+
 
           return (
-            name.toLocaleLowerCase().includes(search.toLocaleLowerCase()) &&
-            filter.includes(category) && filter.includes(rarity) && (
+           ( name ?
+            name?.toLocaleLowerCase().includes(search.toLocaleLowerCase()) 
+              : 
+            nameSet?.toLocaleLowerCase().includes(search.toLocaleLowerCase()) 
+           ) && filter.includes(category) && filter.includes(rarity) && (
               <ItemUi
                 key={index}
                 index={index}
@@ -46,6 +56,8 @@ const Sidebar = ({ filter, inventory, inventoryContent, setInventoryContent, ite
                 inventoryContent={inventoryContent}
                 setInventoryContent={setInventoryContent}
                 icon={icon}
+                nameSet={nameSet}
+                imageSet={imageSet}
               />
             )
           );

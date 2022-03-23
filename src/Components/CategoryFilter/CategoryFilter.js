@@ -6,7 +6,7 @@ import ItemsListArbalist from '../../Data/ItemsListArbalist.json'
 const rarity = Array.from(new Set(ItemsListArbalist.map((item, index) => ItemsListArbalist[index].rarity)))
 const category = Array.from(new Set(ItemsListArbalist.map((item, index) => ItemsListArbalist[index].category)))
 
-let allCategories = ["Weapon Primary", "Epic"]
+let allCategories = ["Necklace/Bracelet", "Epic"]
 
 // rarity.map((item) => allCategories.push(item) )
 // category.map((item) => allCategories.push(item) )

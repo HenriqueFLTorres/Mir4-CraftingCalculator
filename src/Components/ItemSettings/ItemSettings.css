@@ -59,8 +59,6 @@
     margin-top: 6%;
     margin-bottom: 5%;
 
-    border-radius: 1vh;
-
     background-size: cover;
     background-repeat: no-repeat;
 
@@ -79,9 +77,10 @@
 }
 
 .ISFrame .Tier {
-    height: 30%;
+    height: 40%;
     width: auto;
-    transform: translateX(-120%) translateY(-10%) scale(1);
+    font-family: Roboto, sans-serif;;
+    transform: translateX(-95%) translateY(-15%) scale(1);
 }
 
 .ISFrame:hover {
@@ -255,24 +254,29 @@
     background-color: var(--secondary-color);
 }
 
+.RIFrame.Common, .RIFrame.Uncommon, .RIFrame.Rare, .RIFrame.Epic, .RIFrame.Legendary {
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 .RIFrame.Common {
-    background: linear-gradient(180deg, rgba(57,61,62,1) 0%, rgba(107,120,126,1) 100%);
+    background-image: url(../../../public/ItemFrames/Circle_Common.png);
 }
 
 .RIFrame.Uncommon {
-    background: linear-gradient(180deg, rgba(19,58,43,1) 0%, rgba(48,139,104,1) 100%);
+    background-image: url(../../../public/ItemFrames/Circle_Uncommon.png);
 }
 
 .RIFrame.Rare {
-    background: linear-gradient(180deg, rgba(16,42,67,1) 0%, rgba(40,86,150,1) 100%);
+    background-image: url(../../../public/ItemFrames/Circle_Rare.png);
 }
 
 .RIFrame.Epic {
-    background: linear-gradient(180deg, rgba(48,5,16,1) 0%, rgba(168,33,31,1) 100%);
+    background-image: url(../../../public/ItemFrames/Circle_Epic.png);
 }
 
 .RIFrame.Legendary {
-    background: linear-gradient(180deg, rgba(111,74,4,1) 0%, rgba(213,190,23,1) 100%);
+    background-image: url(../../../public/ItemFrames/Circle_Legendary.png);
 }
 
 
@@ -327,8 +331,6 @@
     .ISFrame {
         width: clamp(0.1rem, 4vh + 1rem, 130px);
         height: clamp(0.1rem, 4vh + 1rem, 130px);
-
-        border-radius: 0.2vh;
     }
 
     .ValueChanger {
@@ -419,7 +421,6 @@
         width: clamp(0.1rem, 6vw + 1rem, 130px);
         height: clamp(0.1rem, 6vw + 1rem, 130px);
 
-        border-radius: 0.2vh;
         margin-bottom: 10%;
     }
 

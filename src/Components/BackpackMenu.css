@@ -18,15 +18,16 @@
 }
 
 .BackpackButton {
-    width: clamp(0.1rem, 6vw + 1rem ,200rem);
-    height: clamp(0.1rem, 6vw + 1rem ,200rem);
-    opacity: 0;
+    width: clamp(0.1rem, 5vw + 1rem ,200rem);
+    height: clamp(0.1rem, 5vw + 1rem ,200rem);
+    opacity: 1;
 
     padding: 1vw;
 
     border-radius: 1vw;
     border-top-right-radius: 0;
     border-bottom-right-radius: 0;
+    cursor: pointer;
 
     background-color: var(--dark-color);
     transform: translateY(10vh) translateX(54vw);
@@ -135,7 +136,7 @@
     justify-content: center;
     align-items: center;
 
-    border-radius: .5vw;
+    border-radius: 100%;
 
     margin-block: 10%;
 
@@ -160,24 +161,29 @@
     background-color: var(--secondary-color);
 }
 
+.BPFrame.Common, .BPFrame.Uncommon, .BPFrame.Rare, .BPFrame.Epic, .BPFrame.Legendary {
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 .BPFrame.Common {
-    background: linear-gradient(180deg, rgba(57,61,62,1) 0%, rgba(107,120,126,1) 100%);
+    background-image: url(../../public/ItemFrames/Circle_Common.png);
 }
 
 .BPFrame.Uncommon {
-    background: linear-gradient(180deg, rgba(19,58,43,1) 0%, rgba(48,139,104,1) 100%);
+    background-image: url(../../public/ItemFrames/Circle_Uncommon.png);
 }
 
 .BPFrame.Rare {
-    background: linear-gradient(180deg, rgba(16,42,67,1) 0%, rgba(40,86,150,1) 100%);
+    background-image: url(../../public/ItemFrames/Circle_Rare.png);
 }
 
 .BPFrame.Epic {
-    background: linear-gradient(180deg, rgba(48,5,16,1) 0%, rgba(168,33,31,1) 100%);
+    background-image: url(../../public/ItemFrames/Circle_Epic.png);
 }
 
 .BPFrame.Legendary {
-    background: linear-gradient(180deg, rgba(111,74,4,1) 0%, rgba(213,190,23,1) 100%);
+    background-image: url(../../public/ItemFrames/Circle_Legendary.png);
 }
 
 

@@ -4058,6 +4058,33 @@
         { "name" : "Copper Coin", "amount": 1300000 }, 
         { "name" : "Dark Steel", "amount": 205000 }
       ]
+    },
+    {
+      "names": { 
+        "nameArbalist": "Moonfang Ring",
+        "nameLancer": "",
+        "nameSorcerer": "",
+        "nameTaoist": "",
+        "nameWarrior": ""
+      },
+      "images": {
+        "imageArbalist": [ "./Icons/Jewels/Steadliness_Ring.png", "./Icons/Jewels/Steadliness_Ring.png" ],
+        "imageLancer": [ "", "" ],
+        "imageSorcerer": [ "", "" ],
+        "imageTaoist": [ "", "" ],
+        "imageWarrior": [ "", "" ]
+      },
+      "category": "Ring",
+      "tier": "4",
+      "rarity": "Rare",
+      "recipe": [ 
+        { "name" : "[R] Platinum", "rarity": "Rare", "amount": 600 }, 
+        { "name" : "[R] Illuminating Fragment", "rarity": "Rare", "amount": 200 }, 
+        { "name" : "[R] Anima Stone", "rarity": "Rare", "amount": 200 }, 
+        { "name" : "[R] Dragon Horn", "rarity": "Rare", "amount": 8 }, 
+        { "name" : "Copper Coin", "amount": 1300000 }, 
+        { "name" : "Dark Steel", "amount": 205000 }
+      ]
     }
   
 ]

@@ -1,15 +1,15 @@
 import React, { useEffect } from 'react';
 import './CategoryFilter.css';
 
-import ItemsListArbalist from '../../Data/ItemsListArbalist.json'
+import ItemsList from '../../Data/ItemsList.json'
 
-const rarity = Array.from(new Set(ItemsListArbalist.map((item, index) => ItemsListArbalist[index].rarity)))
-const category = Array.from(new Set(ItemsListArbalist.map((item, index) => ItemsListArbalist[index].category)))
+const rarity = Array.from(new Set(ItemsList.map((item, index) => ItemsList[index].rarity)))
+const category = Array.from(new Set(ItemsList.map((item, index) => ItemsList[index].category)))
 
-let allCategories = ["Necklace/Bracelet", "Epic"]
+let allCategories = []
 
-// rarity.map((item) => allCategories.push(item) )
-// category.map((item) => allCategories.push(item) )
+rarity.map((item) => allCategories.push(item) )
+category.map((item) => allCategories.push(item) )
 
 
 const CategoryFilter = ({ filter, setFilter }) => {
@@ -52,6 +52,7 @@ const CategoryFilter = ({ filter, setFilter }) => {
                 }
               }}
         >
+          <img className='CategoryImg' src={`./Icons/category/${categoryItem.replace(/\//g, "&")}.png`} alt={categoryItem}/>
           <h3 className='RarityTitle'>{categoryItem}</h3>
         </div>
       ))}

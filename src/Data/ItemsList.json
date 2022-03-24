@@ -1356,14 +1356,14 @@
     "names": { 
       "nameArbalist": "Quiver",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Leaf Fan",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Quiver.png" ],
       "imageLancer": [ "" ],
-      "imageSorcerer": [ "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Leaf_Fan.png" ],
       "imageTaoist": [ "" ],
       "imageWarrior": [ "" ]
     },
@@ -1383,14 +1383,14 @@
     "names": { 
       "nameArbalist": "Leather Quiver",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Flower Fan",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Leather_Quiver.png" ],
       "imageLancer": [ "" ],
-      "imageSorcerer": [ "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Flower_Fan.png" ],
       "imageTaoist": [ "" ],
       "imageWarrior": [ "" ]
     },
@@ -1410,14 +1410,14 @@
     "names": { 
       "nameArbalist": "Bamboo Quiver",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Blue Leaf Fan",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Quiver.png" ],
       "imageLancer": [ "" ],
-      "imageSorcerer": [ "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Leaf_Fan.png" ],
       "imageTaoist": [ "" ],
       "imageWarrior": [ "" ]
     },
@@ -1437,14 +1437,14 @@
     "names": { 
       "nameArbalist": "Wolf Leather Quiver",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Red Scale Fan",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Leather_Quiver.png" ],
       "imageLancer": [ "" ],
-      "imageSorcerer": [ "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Flower_Fan.png" ],
       "imageTaoist": [ "" ],
       "imageWarrior": [ "" ]
     },
@@ -1464,14 +1464,14 @@
     "names": { 
       "nameArbalist": "Iron Quiver",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Myriad Leaf Fan",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Quiver.png" ],
       "imageLancer": [ "" ],
-      "imageSorcerer": [ "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Leaf_Fan.png" ],
       "imageTaoist": [ "" ],
       "imageWarrior": [ "" ]
     },
@@ -1491,14 +1491,14 @@
     "names": { 
       "nameArbalist": "Tiger Leather Quiver",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Red Butterfly Fan",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Leather_Quiver.png" ],
       "imageLancer": [ "" ],
-      "imageSorcerer": [ "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Flower_Fan.png" ],
       "imageTaoist": [ "" ],
       "imageWarrior": [ "" ]
     },
@@ -1518,14 +1518,14 @@
     "names": { 
       "nameArbalist": "Adamant Quiver",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Musa Leaf Fan",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Quiver.png" ],
       "imageLancer": [ "" ],
-      "imageSorcerer": [ "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Leaf_Fan.png" ],
       "imageTaoist": [ "" ],
       "imageWarrior": [ "" ]
     },
@@ -1545,14 +1545,14 @@
     "names": { 
       "nameArbalist": "White Tiger Quiver",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Flower Butterfly Fan",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Leather_Quiver.png" ],
       "imageLancer": [ "" ],
-      "imageSorcerer": [ "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Flower_Fan.png" ],
       "imageTaoist": [ "" ],
       "imageWarrior": [ "" ]
     },
@@ -1578,14 +1578,14 @@
     "names": { 
       "nameArbalist": "Horn Bow",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Mistletoe Cane",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Horn_Bow.png" ],
       "imageLancer": [ "" ],
-      "imageSorcerer": [ "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Mistletoe_Cane.png" ],
       "imageTaoist": [ "" ],
       "imageWarrior": [ "" ]
     },
@@ -1605,14 +1605,14 @@
     "names": { 
       "nameArbalist": "Devilface Bow",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Dragonian Longstaff",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Devilface_Bow.png" ],
       "imageLancer": [ "" ],
-      "imageSorcerer": [ "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Dragonian_Longstaff.png" ],
       "imageTaoist": [ "" ],
       "imageWarrior": [ "" ]
     },
@@ -1632,14 +1632,14 @@
     "names": { 
       "nameArbalist": "Oxhorn Bow",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Flame Longstaff",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Horn_Bow.png" ],
       "imageLancer": [ "" ],
-      "imageSorcerer": [ "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Mistletoe_Cane.png" ],
       "imageTaoist": [ "" ],
       "imageWarrior": [ "" ]
     },
@@ -1659,14 +1659,14 @@
     "names": { 
       "nameArbalist": "Revenant Bow",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Dragon Jade Longstaff",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Devilface_Bow.png" ],
       "imageLancer": [ "" ],
-      "imageSorcerer": [ "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Dragonian_Longstaff.png" ],
       "imageTaoist": [ "" ],
       "imageWarrior": [ "" ]
     },
@@ -1686,14 +1686,14 @@
     "names": { 
       "nameArbalist": "Ironhorn Bow",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Blazing Longstaff",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Horn_Bow.png" ],
       "imageLancer": [ "" ],
-      "imageSorcerer": [ "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Mistletoe_Cane.png" ],
       "imageTaoist": [ "" ],
       "imageWarrior": [ "" ]
     },
@@ -1713,14 +1713,14 @@
     "names": { 
       "nameArbalist": "Mara Bow",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Dark Jade Longstaff",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Devilface_Bow.png" ],
       "imageLancer": [ "" ],
-      "imageSorcerer": [ "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Dragonian_Longstaff.png" ],
       "imageTaoist": [ "" ],
       "imageWarrior": [ "" ]
     },
@@ -1740,14 +1740,14 @@
     "names": { 
       "nameArbalist": "Dragon Horn Bow",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Demonic Flame Longstaff",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Horn_Bow.png" ],
       "imageLancer": [ "" ],
-      "imageSorcerer": [ "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Mistletoe_Cane.png" ],
       "imageTaoist": [ "" ],
       "imageWarrior": [ "" ]
     },
@@ -1767,14 +1767,14 @@
     "names": { 
       "nameArbalist": "Hell Horse Bow",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Twin Snakes Longstaff",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Devilface_Bow.png" ],
       "imageLancer": [ "" ],
-      "imageSorcerer": [ "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Dragonian_Longstaff.png" ],
       "imageTaoist": [ "" ],
       "imageWarrior": [ "" ]
     },
@@ -1819,14 +1819,14 @@
     "names": { 
       "nameArbalist": "Miri Quiver & Small Dragon Quiver",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Fire Leaves Fan & Crimsonsteel Fan",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Miri_Quiver.png", "./Icons/Arbalist/Small_Dragon_Quiver.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Five_Leaves_Fan.png", "./Icons/Sorcerer/Crimsonsteel_Fan.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -1846,14 +1846,14 @@
     "names": { 
       "nameArbalist": "Pakua Quiver & Flying Dragon Quiver",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Red Maple Fan & Enhanced Crimsonsteel Fan",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Miri_Quiver.png", "./Icons/Arbalist/Small_Dragon_Quiver.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Five_Leaves_Fan.png", "./Icons/Sorcerer/Crimsonsteel_Fan.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -1873,14 +1873,14 @@
     "names": { 
       "nameArbalist": "Redmoon Quiver & Yellow Dragon Quiver",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Scarlet Bloom Fan & Crimson Scale Fan",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Miri_Quiver.png", "./Icons/Arbalist/Small_Dragon_Quiver.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Five_Leaves_Fan.png", "./Icons/Sorcerer/Crimsonsteel_Fan.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -1900,14 +1900,14 @@
     "names": { 
       "nameArbalist": "Moonlight Quiver & Moonfang Quiver",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Flower Feather Fan & Dragon and Phoenix Adamant Fan",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Miri_Quiver.png", "./Icons/Arbalist/Small_Dragon_Quiver.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Five_Leaves_Fan.png", "./Icons/Sorcerer/Crimsonsteel_Fan.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -1933,14 +1933,14 @@
     "names": { 
       "nameArbalist": "Miri Bow & Dragonling Bow",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Blue Striker Staff & Demon Hooked Spear",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Miri_Bow.png", "./Icons/Arbalist/Dragonling_Bow.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Blue_Striker_Staff.png", "./Icons/Sorcerer/Demon_Hooked_Spear.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -1960,14 +1960,14 @@
     "names": { 
       "nameArbalist": "Pakua Miri Bow & Flying Dragon Bow",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Yellow Dragon Staff & Dragon Hooked Spear",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Miri_Bow.png", "./Icons/Arbalist/Dragonling_Bow.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Blue_Striker_Staff.png", "./Icons/Sorcerer/Demon_Hooked_Spear.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -1987,14 +1987,14 @@
     "names": { 
       "nameArbalist": "Redmoon Ballista & Yellow Dragon Shot",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Yellow Dragon Longstaff & Lightning Hooked Spear",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Miri_Bow.png", "./Icons/Arbalist/Dragonling_Bow.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Blue_Striker_Staff.png", "./Icons/Sorcerer/Demon_Hooked_Spear.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -2014,14 +2014,14 @@
     "names": { 
       "nameArbalist": "Moonlight Ballista & Moonfang Dragon Shot",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Moonlight Sky Staff & Heavenly Thunder Dragon Hooked Spear",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Miri_Bow.png", "./Icons/Arbalist/Dragonling_Bow.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Blue_Striker_Staff.png", "./Icons/Sorcerer/Demon_Hooked_Spear.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -2049,14 +2049,14 @@
     "names": { 
       "nameArbalist": "Dual Quiver & Changhae Quiver",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Bamboo Fan & Sapphire Fan",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Dual_Quiver.png", "./Icons/Arbalist/Changhae_Quiver.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Bamboo_Fan.png", "./Icons/Sorcerer/Sapphire_Fan.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -2076,14 +2076,14 @@
     "names": { 
       "nameArbalist": "Dipole Quiver & Firmament Quiver",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Serving Bamboo Fan & Sapphire Wing Fan",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Dual_Quiver.png", "./Icons/Arbalist/Changhae_Quiver.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Bamboo_Fan.png", "./Icons/Sorcerer/Sapphire_Fan.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -2103,14 +2103,14 @@
     "names": { 
       "nameArbalist": "Two Dragons Quiver & Blue Sky Piercing Quiver",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Tainted Bamboo Fan & Dragon Wing Fan",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Dual_Quiver.png", "./Icons/Arbalist/Changhae_Quiver.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Bamboo_Fan.png", "./Icons/Sorcerer/Sapphire_Fan.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -2130,14 +2130,14 @@
     "names": { 
       "nameArbalist": "Two Moons Quiver & Ascending Dragon Quiver",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Black CLoud Bamboo Fan & Taji Dragon Wing Fan",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Dual_Quiver.png", "./Icons/Arbalist/Changhae_Quiver.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Bamboo_Fan.png", "./Icons/Sorcerer/Sapphire_Fan.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -2161,14 +2161,14 @@
     "names": { 
       "nameArbalist": "New Moon Bow & Starved Wolf Bow",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Green Jade Twin Dragons Staff & Dragon Fang Staff",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/New_Moon_Bow.png", "./Icons/Arbalist/Starved_Wolf_Bow.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Green_Jade_Twin_Dragons_Staff.png", "./Icons/Sorcerer/Dragon_Fang_Staff.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -2188,14 +2188,14 @@
     "names": { 
       "nameArbalist": "Half-Moon Bow & Morang Bow",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Venomblood Longstaff & Dragon Fang Goldstaff",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/New_Moon_Bow.png", "./Icons/Arbalist/Starved_Wolf_Bow.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Green_Jade_Twin_Dragons_Staff.png", "./Icons/Sorcerer/Dragon_Fang_Staff.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -2215,14 +2215,14 @@
     "names": { 
       "nameArbalist": "Full Moon Sky Bow & Illusion Bow",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Skyquake Goldstaff & Blue Teardrops Goldstaff",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/New_Moon_Bow.png", "./Icons/Arbalist/Starved_Wolf_Bow.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Green_Jade_Twin_Dragons_Staff.png", "./Icons/Sorcerer/Dragon_Fang_Staff.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -2242,14 +2242,14 @@
     "names": { 
       "nameArbalist": "Beyond Spacetime Bow & Marang Tiger Shot",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Spacetime Heavenly Staff & True Demon Goldstaff",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/New_Moon_Bow.png", "./Icons/Arbalist/Starved_Wolf_Bow.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Green_Jade_Twin_Dragons_Staff.png", "./Icons/Sorcerer/Dragon_Fang_Staff.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -2278,14 +2278,14 @@
     "names": { 
       "nameArbalist": "Demonic Dragon Quiver",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Heavenly Wood Dragon Fan",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Demonic_Dragon_Quiver.png" ],
       "imageLancer": [ "" ],
-      "imageSorcerer": [ "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Heavenly_Wood_Dragon_Fan.png" ],
       "imageTaoist": [ "" ],
       "imageWarrior": [ "" ]
     },
@@ -2305,14 +2305,14 @@
     "names": { 
       "nameArbalist": "Darksteel Mara Quiver",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Sea King Dragon Fan",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Demonic_Dragon_Quiver.png" ],
       "imageLancer": [ "" ],
-      "imageSorcerer": [ "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Heavenly_Wood_Dragon_Fan.png" ],
       "imageTaoist": [ "" ],
       "imageWarrior": [ "" ]
     },
@@ -2332,14 +2332,14 @@
     "names": { 
       "nameArbalist": "Yellow Dragon Dipole Quiver",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Hyemyung's Fan",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Demonic_Dragon_Quiver.png" ],
       "imageLancer": [ "" ],
-      "imageSorcerer": [ "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Heavenly_Wood_Dragon_Fan.png" ],
       "imageTaoist": [ "" ],
       "imageWarrior": [ "" ]
     },
@@ -2359,14 +2359,14 @@
     "names": { 
       "nameArbalist": "Vermilion Bird Godly Quiver",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Divine Feather Fan",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Demonic_Dragon_Quiver.png" ],
       "imageLancer": [ "" ],
-      "imageSorcerer": [ "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Heavenly_Wood_Dragon_Fan.png" ],
       "imageTaoist": [ "" ],
       "imageWarrior": [ "" ]
     },
@@ -2389,14 +2389,14 @@
     "names": { 
       "nameArbalist": "Demonic Dragon Horn Bow",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Heavenly Wooden Staff",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Demonic_Dragon_Horn_Bow.png" ],
       "imageLancer": [ "" ],
-      "imageSorcerer": [ "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Heavenly_Wooden_Staff.png" ],
       "imageTaoist": [ "" ],
       "imageWarrior": [ "" ]
     },
@@ -2416,14 +2416,14 @@
     "names": { 
       "nameArbalist": "Darksteel Mara Bow",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Dragon King Staff",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Darksteel_Mara_Bow.png" ],
       "imageLancer": [ "" ],
-      "imageSorcerer": [ "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Dragon_King_Staff.png" ],
       "imageTaoist": [ "" ],
       "imageWarrior": [ "" ]
     },
@@ -2443,14 +2443,14 @@
     "names": { 
       "nameArbalist": "Yellow Dragon Dipole Bow",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "The Enlightened Longstaff",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Yellow_Dragon_Dipole_Bow.png" ],
       "imageLancer": [ "" ],
-      "imageSorcerer": [ "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/The_Enlightened_Longstaff.png" ],
       "imageTaoist": [ "" ],
       "imageWarrior": [ "" ]
     },
@@ -2470,14 +2470,14 @@
     "names": { 
       "nameArbalist": "Vermilion Bird Godly Bow",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Heavenly Wing Staff",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Vermilion_Bird_Godly_Bow.png" ],
       "imageLancer": [ "" ],
-      "imageSorcerer": [ "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Heavenly_Wing_Staff.png" ],
       "imageTaoist": [ "" ],
       "imageWarrior": [ "" ]
     },
@@ -2584,16 +2584,16 @@
 
   {
     "names": { 
-      "nameArbalist": "Silk Outfit Top/Bottom",
+      "nameArbalist": "Silk Outfit",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Silk Demon Outfit",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Silk_Outfit_Top.png", "./Icons/Arbalist/Silk_Outfit_Bottom.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Silk_Demon_Outfit_Top.png", "./Icons/Sorcerer/Silk_Demon_Outfit_Bottom.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -2611,16 +2611,16 @@
   },
   {
     "names": { 
-      "nameArbalist": "Covert Outfit Top/Bottom",
+      "nameArbalist": "Covert Outfit",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Scarlet Fire Demon Outfit",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Covert_Outfit_Top.png", "./Icons/Arbalist/Covert_Outfit_Bottom.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Scarlet_Fire_Demon_Outfit_Top.png", "./Icons/Sorcerer/Scarlet_Fire_Demon_Outfit_Bottom.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -2638,16 +2638,16 @@
   },
   {
     "names": { 
-      "nameArbalist": "Afterimage Outfit Top/Bottom",
+      "nameArbalist": "Afterimage Outfit",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Flame Demon Outfit",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Silk_Outfit_Top.png", "./Icons/Arbalist/Silk_Outfit_Bottom.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Silk_Demon_Outfit_Top.png", "./Icons/Sorcerer/Silk_Demon_Outfit_Bottom.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -2665,16 +2665,16 @@
   },
   {
     "names": { 
-      "nameArbalist": "Incognito Outfit Top/Bottom",
+      "nameArbalist": "Incognito Outfit",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Blazing Fire Demon Outfit",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Covert_Outfit_Top.png", "./Icons/Arbalist/Covert_Outfit_Bottom.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Scarlet_Fire_Demon_Outfit_Top.png", "./Icons/Sorcerer/Scarlet_Fire_Demon_Outfit_Bottom.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -2692,16 +2692,16 @@
   },
   {
     "names": { 
-      "nameArbalist": "Shadow Outfit Top/Bottom",
+      "nameArbalist": "Shadow Outfit",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Infernal Abomination Outfit",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Silk_Outfit_Top.png", "./Icons/Arbalist/Silk_Outfit_Bottom.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Silk_Demon_Outfit_Top.png", "./Icons/Sorcerer/Silk_Demon_Outfit_Bottom.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -2719,16 +2719,16 @@
   },
   {
     "names": { 
-      "nameArbalist": "Disguised Outfit Top/Bottom",
+      "nameArbalist": "Disguised Outfit",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Violet Lightning Demon Outfit",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Covert_Outfit_Top.png", "./Icons/Arbalist/Covert_Outfit_Bottom.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Scarlet_Fire_Demon_Outfit_Top.png", "./Icons/Sorcerer/Scarlet_Fire_Demon_Outfit_Bottom.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -2746,16 +2746,16 @@
   },
   {
     "names": { 
-      "nameArbalist": "Secret Outfit Top/Bottom",
+      "nameArbalist": "Secret Outfit",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Crimson Fire Demon Outfit",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Silk_Outfit_Top.png", "./Icons/Arbalist/Silk_Outfit_Bottom.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Silk_Demon_Outfit_Top.png", "./Icons/Sorcerer/Silk_Demon_Outfit_Bottom.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -2773,16 +2773,16 @@
   },
   {
     "names": { 
-      "nameArbalist": "Undercover Outfit Top/Bottom",
+      "nameArbalist": "Undercover Outfit",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Spark Demon Outfit",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Covert_Outfit_Top.png", "./Icons/Arbalist/Covert_Outfit_Bottom.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Scarlet_Fire_Demon_Outfit_Top.png", "./Icons/Sorcerer/Scarlet_Fire_Demon_Outfit_Bottom.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -2806,16 +2806,16 @@
 
   {
     "names": { 
-      "nameArbalist": "Phantom Martial Uniform Top/Bottom",
+      "nameArbalist": "Phantom Martial Uniform",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Ghastly Dragon Demon Outift",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Phantom_Martial_Uniform_Top.png", "./Icons/Arbalist/Phantom_Martial_Uniform_Bottom.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Ghastly_Dragon_Outfit_Top.png", "./Icons/Sorcerer/Ghastly_Dragon_Demon_Outfit_Bottom.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -2833,16 +2833,16 @@
   },
   {
     "names": { 
-      "nameArbalist": "White Snake Martial Uniform Top/Bottom",
+      "nameArbalist": "White Snake Martial Uniform",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Sorcery Spell Uniform",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/White_Snake_Martial_Uniform_Top.png", "./Icons/Arbalist/White_Snake_Martial_Uniform_Bottom.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Sorcery_Spell_Uniform_Top.png", "./Icons/Sorcerer/Sorcery_Spell_Uniform_Bottom.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -2860,16 +2860,16 @@
   },
   {
     "names": { 
-      "nameArbalist": "Soulgeist Martial Uniform Top/Bottom",
+      "nameArbalist": "Soulgeist Martial Uniform",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Ghastly Viperbeast Outfit",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Phantom_Martial_Uniform_Top.png", "./Icons/Arbalist/Phantom_Martial_Uniform_Bottom.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Ghastly_Dragon_Outfit_Top.png", "./Icons/Sorcerer/Ghastly_Dragon_Demon_Outfit_Bottom.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -2887,16 +2887,16 @@
   },
   {
     "names": { 
-      "nameArbalist": "Boundless Martial Uniform Top/Bottom",
+      "nameArbalist": "Boundless Martial Uniform",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Demon Repeller Uniform",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/White_Snake_Martial_Uniform_Top.png", "./Icons/Arbalist/White_Snake_Martial_Uniform_Bottom.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Sorcery_Spell_Uniform_Top.png", "./Icons/Sorcerer/Sorcery_Spell_Uniform_Bottom.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -2916,14 +2916,14 @@
     "names": { 
       "nameArbalist": "White Lotus Martial Uniform Top/Bottom",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Hundred Perfection Uniform",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Phantom_Martial_Uniform_Top.png", "./Icons/Arbalist/Phantom_Martial_Uniform_Bottom.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Ghastly_Dragon_Outfit_Top.png", "./Icons/Sorcerer/Ghastly_Dragon_Demon_Outfit_Bottom.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -2943,14 +2943,14 @@
     "names": { 
       "nameArbalist": "Yellow Dragon Martial Uniform Top/Bottom",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Yellow Dragon Casting Outfit Top/Bottom",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/White_Snake_Martial_Uniform_Top.png", "./Icons/Arbalist/White_Snake_Martial_Uniform_Bottom.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Sorcery_Spell_Uniform_Top.png", "./Icons/Sorcerer/Sorcery_Spell_Uniform_Bottom.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -2970,14 +2970,14 @@
     "names": { 
       "nameArbalist": "Pacification Martial Uniform Top/Bottom",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Pacification Casting Uniform Top/Bottom",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Phantom_Martial_Uniform_Top.png", "./Icons/Arbalist/Phantom_Martial_Uniform_Bottom.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Ghastly_Dragon_Outfit_Top.png", "./Icons/Sorcerer/Ghastly_Dragon_Demon_Outfit_Bottom.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -2997,14 +2997,14 @@
     "names": { 
       "nameArbalist": "Shadowsteel Martial Uniform Top/Bottom",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Shadowseteel Casting Outfit Top/Bottom",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/White_Snake_Martial_Uniform_Top.png", "./Icons/Arbalist/White_Snake_Martial_Uniform_Bottom.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Sorcery_Spell_Uniform_Top.png", "./Icons/Sorcerer/Sorcery_Spell_Uniform_Bottom.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3039,14 +3039,14 @@
     "names": { 
       "nameArbalist": "Murder Martial Uniform Top/Bottom",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Ultimate Mana Outfit Top/Bottom",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Murder_Martial_Uniform_Top.png", "./Icons/Arbalist/Murder_Martial_Uniform_Bottom.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Ultimate_Mana_Outfit_Top.png", "./Icons/Sorcerer/Ultimate_Mana_Outfit_Bottom.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3066,14 +3066,14 @@
     "names": { 
       "nameArbalist": "Dark Cloud Martial Uniform Top/Bottom",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Evil Absorber Uniform Top/Bottom",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Top.png", "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Bottom.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Evil_Absorber_Uniform_Top.png", "./Icons/Sorcerer/Evil_Absorber_Uniform_Bottom.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3093,14 +3093,14 @@
     "names": { 
       "nameArbalist": "Deep Secret Martial Uniform Top/Bottom",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Sould Subjugator Uniform Top/Bottom",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Murder_Martial_Uniform_Top.png", "./Icons/Arbalist/Murder_Martial_Uniform_Bottom.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Ultimate_Mana_Outfit_Top.png", "./Icons/Sorcerer/Ultimate_Mana_Outfit_Bottom.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3120,14 +3120,14 @@
     "names": { 
       "nameArbalist": "Dark King Cloud Martial Uniform Top/Bottom",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Forbidden Spell Uniform Top/Bottom",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Top.png", "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Bottom.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Evil_Absorber_Uniform_Top.png", "./Icons/Sorcerer/Evil_Absorber_Uniform_Bottom.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3147,14 +3147,14 @@
     "names": { 
       "nameArbalist": "Complete Secret Martial Uniform Top/Bottom",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Empress Scale Uniform Top/Bottom",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Murder_Martial_Uniform_Top.png", "./Icons/Arbalist/Murder_Martial_Uniform_Bottom.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Ultimate_Mana_Outfit_Top.png", "./Icons/Sorcerer/Ultimate_Mana_Outfit_Bottom.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3174,14 +3174,14 @@
     "names": { 
       "nameArbalist": "Dark Heaven Cloud Martial Uniform Top/Bottom",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Sky Secret Outfit Top/Bottom",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Top.png", "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Bottom.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Evil_Absorber_Uniform_Top.png", "./Icons/Sorcerer/Evil_Absorber_Uniform_Bottom.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3201,14 +3201,14 @@
     "names": { 
       "nameArbalist": "Spirit Suppression Martial Uniform Top/Bottom",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Advancing Desire Uniform Top/Bottom",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Murder_Martial_Uniform_Top.png", "./Icons/Arbalist/Murder_Martial_Uniform_Bottom.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Ultimate_Mana_Outfit_Top.png", "./Icons/Sorcerer/Ultimate_Mana_Outfit_Bottom.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3228,14 +3228,14 @@
     "names": { 
       "nameArbalist": "Countless Evil Cloud Martial Uniform Top/Bottom",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Dawnsoarer Outift Top/Bottom",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Top.png", "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Bottom.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Evil_Absorber_Uniform_Top.png", "./Icons/Sorcerer/Evil_Absorber_Uniform_Bottom.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3261,14 +3261,14 @@
     "names": { 
       "nameArbalist": "Heavenly Connection Martial Uniform Top/Bottom",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "All Creation Outfit Top/Bottom",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Top.png", "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Bottom.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/All_Creation_Outfit_Top.png", "./Icons/Sorcerer/All_Creation_Outfit_Bottom.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3288,14 +3288,14 @@
     "names": { 
       "nameArbalist": "Celestial Martial Uniform Top/Bottom",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Heavenly Dragon Outfit Top/Bottom",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Top.png", "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Bottom.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/All_Creation_Outfit_Top.png", "./Icons/Sorcerer/All_Creation_Outfit_Bottom.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3315,14 +3315,14 @@
     "names": { 
       "nameArbalist": "Shineworld Secret Outfit Top/Bottom",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Shineworld Dragon Outfit Top/Bottom",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Top.png", "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Bottom.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/All_Creation_Outfit_Top.png", "./Icons/Sorcerer/All_Creation_Outfit_Bottom.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3342,14 +3342,14 @@
     "names": { 
       "nameArbalist": "Skyweb Secret Outfit Top/Bottom",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Mana Treasure Outfit Top/Bottom",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Top.png", "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Bottom.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/All_Creation_Outfit_Top.png", "./Icons/Sorcerer/All_Creation_Outfit_Bottom.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3404,14 +3404,14 @@
     "names": { 
       "nameArbalist": "Silk Outfit Gloves/Boots",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Silk Demon Gloves/Boots",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Silk_Outfit_Gloves.png", "./Icons/Arbalist/Silk_Outfit_Boots.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Silk_Demon_Gloves.png", "./Icons/Sorcerer/Silk_Demon_Boots.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3431,14 +3431,14 @@
     "names": { 
       "nameArbalist": "Covert Outfit Gloves/Boots",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Scarlet Fire Demon Boots",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Covert_Outfit_Gloves.png", "./Icons/Arbalist/Covert_Outfit_Boots.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Scarlet_Fire_Demon_Gloves.png", "./Icons/Sorcerer/Scarlet_Fire_Demon_Boots.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3458,14 +3458,14 @@
     "names": { 
       "nameArbalist": "Afterimage Outfit Gloves/Boots",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Flame Demon Gloves/Boots",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Silk_Outfit_Gloves.png", "./Icons/Arbalist/Silk_Outfit_Boots.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Silk_Demon_Gloves.png", "./Icons/Sorcerer/Silk_Demon_Boots.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3485,14 +3485,14 @@
     "names": { 
       "nameArbalist": "Incognito Outfit Gloves/Boots",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Blazing Fire Demon Gloves/Boots",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Covert_Outfit_Gloves.png", "./Icons/Arbalist/Covert_Outfit_Boots.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Scarlet_Fire_Demon_Gloves.png", "./Icons/Sorcerer/Scarlet_Fire_Demon_Boots.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3512,14 +3512,14 @@
     "names": { 
       "nameArbalist": "Shadow Outfit Gloves/Boots",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Infernal Abomination Gloves/Boots",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Silk_Outfit_Gloves.png", "./Icons/Arbalist/Silk_Outfit_Boots.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Silk_Demon_Gloves.png", "./Icons/Sorcerer/Silk_Demon_Boots.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3539,14 +3539,14 @@
     "names": { 
       "nameArbalist": "Disguised Outfit Gloves/Boots",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Violet Lightning Demon Gloves/Boots",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Covert_Outfit_Gloves.png", "./Icons/Arbalist/Covert_Outfit_Boots.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Scarlet_Fire_Demon_Gloves.png", "./Icons/Sorcerer/Scarlet_Fire_Demon_Boots.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3566,14 +3566,14 @@
     "names": { 
       "nameArbalist": "Secret Outfit Gloves/Boots",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Crimson Fire Demon Gloves/Boots",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Silk_Outfit_Gloves.png", "./Icons/Arbalist/Silk_Outfit_Boots.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Silk_Demon_Gloves.png", "./Icons/Sorcerer/Silk_Demon_Boots.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3593,14 +3593,14 @@
     "names": { 
       "nameArbalist": "Undercover Outfit Gloves/Boots",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Spark Demon Gloves/Boots",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Covert_Outfit_Gloves.png", "./Icons/Arbalist/Covert_Outfit_Boots.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Scarlet_Fire_Demon_Gloves.png", "./Icons/Sorcerer/Scarlet_Fire_Demon_Boots.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3626,14 +3626,14 @@
     "names": { 
       "nameArbalist": "Phantom Martial Uniform Gloves/Boots",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Ghastly Dragon Demon Gloves/Boots",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Phantom_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Phantom_Martial_Uniform_Boots.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Ghastly_Dragon_Demon_Gloves.png", "./Icons/Sorcerer/Ghastly_Dragon_Demon_Boots.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3653,14 +3653,14 @@
     "names": { 
       "nameArbalist": "White Snake Martial Uniform Gloves/Boots",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Sorcery Spell Gloves/Boots",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/White_Snake_Martial_Uniform_Gloves.png", "./Icons/Arbalist/White_Snake_Martial_Uniform_Boots.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Sorcery_Spell_Gloves.png", "./Icons/Sorcerer/Sorcery_Spell_Boots.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3680,14 +3680,14 @@
     "names": { 
       "nameArbalist": "Soulgeist Martial Uniform Gloves/Boots",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Ghastly Viperbeast Gloves/Boots",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Phantom_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Phantom_Martial_Uniform_Boots.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Ghastly_Dragon_Demon_Gloves.png", "./Icons/Sorcerer/Ghastly_Dragon_Demon_Boots.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3707,14 +3707,14 @@
     "names": { 
       "nameArbalist": "Boundless Martial Uniform Gloves/Boots",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Demon Repeller Gloves/Boots",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/White_Snake_Martial_Uniform_Gloves.png", "./Icons/Arbalist/White_Snake_Martial_Uniform_Boots.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Sorcery_Spell_Gloves.png", "./Icons/Sorcerer/Sorcery_Spell_Boots.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3734,14 +3734,14 @@
     "names": { 
       "nameArbalist": "White Lotus Martial Uniform Gloves/Boots",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Hundred Perfection Gloves/Boots",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Phantom_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Phantom_Martial_Uniform_Boots.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Ghastly_Dragon_Demon_Gloves.png", "./Icons/Sorcerer/Ghastly_Dragon_Demon_Boots.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3761,14 +3761,14 @@
     "names": { 
       "nameArbalist": "Yellow Dragon Martial Uniform Gloves/Boots",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Yellow Dragon Casting Gloves/Boots",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/White_Snake_Martial_Uniform_Gloves.png", "./Icons/Arbalist/White_Snake_Martial_Uniform_Boots.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Sorcery_Spell_Gloves.png", "./Icons/Sorcerer/Sorcery_Spell_Boots.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3788,14 +3788,14 @@
     "names": { 
       "nameArbalist": "Pacification Martial Uniform Gloves/Boots",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Pacification Casting Gloves/Boots",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Phantom_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Phantom_Martial_Uniform_Boots.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Ghastly_Dragon_Demon_Gloves.png", "./Icons/Sorcerer/Ghastly_Dragon_Demon_Boots.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3815,14 +3815,14 @@
     "names": { 
       "nameArbalist": "Shadowsteel Martial Uniform Gloves/Boots",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Shadowsteel Casting Gloves/Boots",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/White_Snake_Martial_Uniform_Gloves.png", "./Icons/Arbalist/White_Snake_Martial_Uniform_Boots.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Sorcery_Spell_Gloves.png", "./Icons/Sorcerer/Sorcery_Spell_Boots.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3857,14 +3857,14 @@
     "names": { 
       "nameArbalist": "Murder Martial Uniform Gloves/Boots",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Ultimate Mana Gloves/Boots",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Murder_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Murder_Martial_Uniform_Boots.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Ultimate_Mana_Gloves.png", "./Icons/Sorcerer/Ultimate_Mana_Boots.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3884,14 +3884,14 @@
     "names": { 
       "nameArbalist": "Dark Cloud Martial Uniform Gloves/Boots",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Evil Absorber Gloves/Boots",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Boots.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Evil_Absorber_Gloves.png", "./Icons/Sorcerer/Evil_Absorber_Boots.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3911,14 +3911,14 @@
     "names": { 
       "nameArbalist": "Deep Secret Martial Uniform Gloves/Boots",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Soul Subjugator Gloves/Boots",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Murder_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Murder_Martial_Uniform_Boots.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Ultimate_Mana_Gloves.png", "./Icons/Sorcerer/Ultimate_Mana_Boots.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3938,14 +3938,14 @@
     "names": { 
       "nameArbalist": "Dark King Cloud Martial Uniform Gloves/Boots",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Forbidden Spell Gloves/Boots",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Boots.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Evil_Absorber_Gloves.png", "./Icons/Sorcerer/Evil_Absorber_Boots.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3965,14 +3965,14 @@
     "names": { 
       "nameArbalist": "Complete Secret Martial Uniform Gloves/Boots",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Empress Scale Gloves/Boots",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Murder_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Murder_Martial_Uniform_Boots.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Ultimate_Mana_Gloves.png", "./Icons/Sorcerer/Ultimate_Mana_Boots.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -3992,14 +3992,14 @@
     "names": { 
       "nameArbalist": "Dark Heaven Cloud Martial Uniform Gloves/Boots",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Sky Secret Gloves/Boots",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Boots.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Evil_Absorber_Gloves.png", "./Icons/Sorcerer/Evil_Absorber_Boots.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -4019,14 +4019,14 @@
     "names": { 
       "nameArbalist": "Spirit Suppression Martial Uniform Gloves/Boots",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Advancing Desire Gloves/Boots",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Murder_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Murder_Martial_Uniform_Boots.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Ultimate_Mana_Gloves.png", "./Icons/Sorcerer/Ultimate_Mana_Boots.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -4046,14 +4046,14 @@
     "names": { 
       "nameArbalist": "Countless Evil Cloud Martial Uniform Gloves/Boots",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Dawnsoarer Gloves/Boots",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Boots.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/Evil_Absorber_Gloves.png", "./Icons/Sorcerer/Evil_Absorber_Boots.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -4079,14 +4079,14 @@
     "names": { 
       "nameArbalist": "Heavenly Connection Martial Uniform Gloves/Boots",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "All Creation Gloves/Boots",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Boots.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/All_Creation_Gloves.png", "./Icons/Sorcerer/All_Creation_Boots.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -4106,14 +4106,14 @@
     "names": { 
       "nameArbalist": "Celestial Martial Uniform Gloves/Boots",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Heavenly Dragon Gloves/Boots",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Boots.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/All_Creation_Gloves.png", "./Icons/Sorcerer/All_Creation_Boots.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -4133,14 +4133,14 @@
     "names": { 
       "nameArbalist": "Shineworld Secret Outfit Gloves/Boots",
       "nameLancer": "",
-      "nameSorcerer": "",
+      "nameSorcerer": "Shineworld Dragon Gloves/Boots",
       "nameTaoist": "",
       "nameWarrior": ""
     },
     "images": {
       "imageArbalist": [ "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Boots.png" ],
       "imageLancer": [ "", "" ],
-      "imageSorcerer": [ "", "" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/All_Creation_Gloves.png", "./Icons/Sorcerer/All_Creation_Boots.png" ],
       "imageTaoist": [ "", "" ],
       "imageWarrior": [ "", "" ]
     },
@@ -4160,14 +4160,14 @@
       "names": { 
         "nameArbalist": "Skyweb Secret Outfit Gloves/Boots",
         "nameLancer": "",
-        "nameSorcerer": "",
+        "nameSorcerer": "Mana Treasure Gloves/Boots",
         "nameTaoist": "",
         "nameWarrior": ""
       },
       "images": {
         "imageArbalist": [ "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Boots.png" ],
         "imageLancer": [ "", "" ],
-        "imageSorcerer": [ "", "" ],
+        "imageSorcerer": [ "./Icons/Sorcerer/All_Creation_Gloves.png", "./Icons/Sorcerer/All_Creation_Boots.png" ],
         "imageTaoist": [ "", "" ],
         "imageWarrior": [ "", "" ]
       },

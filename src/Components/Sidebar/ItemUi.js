@@ -9,8 +9,6 @@ const ItemUi = ({ name, image, imageS, category, rarity, index, tier, inventory,
   const selected = useSelect();
   const updateSelected = useSelectUpdate();
 
-  console.log(icon);
-
 
   return (
     <div className={`ItemUI${selected.includes(index) ? ' Active' : ''}`} onClick={() =>{

@@ -24,8 +24,6 @@ const Sidebar = ({ filter, inventory, inventoryContent, setInventoryContent, ite
         {itemsList.map((itemInfo, index) => {
           const { name, image, category, rarity, recipe,  tier, imageSecondary, names, images } = itemInfo;
 
-          // !name && console.log(Object.keys(names))
-          // !name && console.log(itemClass)
           let nameSet
           let imageSet
           

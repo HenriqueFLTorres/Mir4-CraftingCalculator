@@ -5,14 +5,15 @@ import './ItemSettings.css'
 
 import itemsList from '../../Data/ItemsList.json'
 import ItemConfigUI from './ItemConfigUI'
+import handleLanguage from '../../Utils/handleLanguage'
 
-const ItemSettings = ({ itemClass, setItemClass, icon }) => {
+const ItemSettings = ({ itemClass, icon, language }) => {
   const selected = useSelect();
   
 
   return (
     <div className='ItemSettings'>
-      {itemsList.map((item, index) => {
+      {handleLanguage(language).map((item, index) => {
         const { name, image, rarity, recipe, tier, names, images, imageSecondary } = item;
 
         let nameSet
@@ -26,7 +27,7 @@ const ItemSettings = ({ itemClass, setItemClass, icon }) => {
 
         
         return ( selected.includes(index) &&
-          <ItemConfigUI key={index} index={index} name={name} image={image} rarity={rarity} recipe={recipe} tier={tier} nameSet={nameSet} imageSet={imageSet} icon={icon} imageS={imageSecondary}  />
+          <ItemConfigUI key={index} index={index} name={name} image={image} rarity={rarity} recipe={recipe} tier={tier} nameSet={nameSet} imageSet={imageSet} icon={icon} imageS={imageSecondary} language={language}  />
         )
       })}
     </div>

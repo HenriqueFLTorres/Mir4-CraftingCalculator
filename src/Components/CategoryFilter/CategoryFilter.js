@@ -2,25 +2,31 @@ import React, { useEffect } from 'react';
 import './CategoryFilter.css';
 
 import ItemsList from '../../Data/ItemsList.json'
+import handleLanguage from '../../Utils/handleLanguage';
 
-const rarity = Array.from(new Set(ItemsList.map((item, index) => ItemsList[index].rarity)))
-const category = Array.from(new Set(ItemsList.map((item, index) => ItemsList[index].category)))
 
 let allCategories = []
 
-rarity.map((item) => allCategories.push(item) )
-category.map((item) => allCategories.push(item) )
 
+const CategoryFilter = ({ filter, setFilter, language }) => {
 
-const CategoryFilter = ({ filter, setFilter }) => {
+  let langReturn = handleLanguage(language)
+
+  let rarity = Array.from(new Set(langReturn.map((item, index) => langReturn[index].rarity)))
+  let category = Array.from(new Set(langReturn.map((item, index) => langReturn[index].category)))
 
   useEffect(() => {
     filter.length === 0 && setFilter(allCategories)
   }, [filter])
 
   useEffect(() => {
+
+    rarity.map((item) => allCategories.push(item) )
+    category.map((item) => allCategories.push(item) )
+
     setFilter(allCategories)
   }, [])
+
 
   return (
     <div className='CategoryFilter' >

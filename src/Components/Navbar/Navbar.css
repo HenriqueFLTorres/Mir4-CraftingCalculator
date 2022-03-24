@@ -103,6 +103,97 @@
 
 
 
+
+
+.Languages {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 150%;
+    width: 10%;
+    margin: 0 5vw;
+
+    transform: translateY(31%);
+}
+
+
+.LanguageDropdown {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    width: 80%;
+    height: 30%;
+
+    cursor: pointer;
+    text-align: center;
+
+    border-radius: 7%;
+    background-color: var(--secondary-color);
+    transform: translateY(20%);
+
+    transition: background-color 350ms ease, width 350ms ease, height 350ms ease, transform 350ms ease;
+}
+
+.Languages.true .LanguageDropdown {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.LanguageDropdown:hover, .Languages.true .LanguageDropdown {
+    background-color: var(--terciary-color);
+    width: 100%;
+    height: 40%;
+    transform: translateY(0%);
+}
+
+.Languages .Choices {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+    height: 0vh;
+    width: 80%;
+    background-color: var(--terciary-color);
+    border-radius: 7%;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    margin-top: 5%;
+
+    transition: 400ms height ease, 400ms width ease;
+}
+
+.Languages.true .Choices {
+    height: 10vh;
+    width: 100%;
+}
+.Languages .Choices > p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    cursor: pointer;
+
+    font-size: 0px;
+    width: 100%;
+    height: 50%;
+
+    transition: 400ms font-size ease, background-color 350ms ease;
+}
+
+.Languages.true .Choices > p {
+    font-size: var(--step-0);
+}
+
+.Choices > p:hover {
+    background-color: var(--unselected);
+}
+
+
+
+
 .ThemeIconContainer {
     display: flex;
     flex-direction: row;

@@ -4,7 +4,7 @@ import backpackCalcDetector from '../../Utils/backpackCalcDetector'
 
 import './Sidebar.css'
 
-const ItemUi = ({ name, image, imageS, category, rarity, index, tier, inventory, inventoryContent, setInventoryContent, icon, nameSet, imageSet }) => {
+const ItemUi = ({ name, image, imageS, category, rarity, index, tier, inventory, inventoryContent, setInventoryContent, icon, nameSet, imageSet, language }) => {
 
   const selected = useSelect();
   const updateSelected = useSelectUpdate();

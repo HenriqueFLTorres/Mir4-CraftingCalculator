@@ -3,7 +3,7 @@ import millify from "millify";
 
 import nameFormatter from "../../Utils/nameFormatter";
 
-const RecipeItem = ({ name, amount, rarity }) => {
+const RecipeItem = ({ name, amount, rarity, language }) => {
     const [onHover, setOnHover] = useState(false)
 
     let bakedName = nameFormatter(name)
@@ -17,7 +17,7 @@ const RecipeItem = ({ name, amount, rarity }) => {
     >
         <h1 className="RIName">{name}</h1>
         <div className={`RIFrame ${ rarity || ''}`}>
-          <img src={`./Icons/${bakedName}.png`} alt={name} />
+          <img src={`./Icons/${language}/${bakedName}.png`} alt={name} />
         </div>
           <h1 className="RIValue">
             {millify(amount)}

@@ -10,7 +10,7 @@ import RecipeItem from './RecipeItem'
 let recipeInfo = []
 
 
-const ItemConfigUI = ({ name, image, rarity, recipe, index, tier, nameSet, imageSet, icon, imageS }) => {
+const ItemConfigUI = ({ name, image, rarity, recipe, index, tier, nameSet, imageSet, icon, imageS, language }) => {
     const [value, setValue] = useState(1)
 
     const selected = useSelect();
@@ -79,7 +79,7 @@ const ItemConfigUI = ({ name, image, rarity, recipe, index, tier, nameSet, image
                 const { name, amount, rarity } = item
                 let totalAmount = amount * value;
 
-                return <RecipeItem key={index} name={name} amount={totalAmount} rarity={rarity} />
+                return <RecipeItem key={index} name={name} amount={totalAmount} rarity={rarity} language={language} />
             })}
 
         </div>

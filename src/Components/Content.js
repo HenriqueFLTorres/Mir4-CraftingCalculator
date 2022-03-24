@@ -12,11 +12,11 @@ import BackpackMenu from './BackpackMenu';
 
 let myBackpack = {"Copper Coin": 0, "Dark Steel": 0, "Energy": 0};
 
-export const Content = () => {
+export const Content = ({ language }) => {
   const [filter, setFilter] = useState([''])
   const [totalRecipe, setTotalRecipe] = useState([])
   const [colapse, setColapse] = useState(false)
-  const [itemClass, setItemClass] = useState("Arbalist")
+  const [itemClass, setItemClass] = useState(language === "PT-BR" ? "Besteiro" : "Arbalist")
   const [icon, setIcon] = useState(false)
 
   setTimeout(() => {
@@ -45,9 +45,9 @@ export const Content = () => {
                 <Arrow className="Colapse"/>
                 <Arrow className="Colapse"/>
             </div>
-            <Sidebar filter={filter} inventory={inventory} inventoryContent={inventoryContent} setInventoryContent={setInventoryContent} setItemClass={setItemClass} itemClass={itemClass} icon={icon} />
-            <CategoryFilter filter={filter} setFilter={setFilter}/>
-            <ItemSettings setItemClass={setItemClass} itemClass={itemClass} icon={icon} setIcon={setIcon}/>
+            <Sidebar filter={filter} inventory={inventory} inventoryContent={inventoryContent} setInventoryContent={setInventoryContent} setItemClass={setItemClass} itemClass={itemClass} icon={icon} language={language} />
+            <CategoryFilter filter={filter} setFilter={setFilter} language={language}/>
+            <ItemSettings itemClass={itemClass} icon={icon} setIcon={setIcon} language={language}/>
             <RecipeResult />
             <BackpackMenu inventory={inventory} setInventory={setInventory} inventoryContent={inventoryContent} myBackpack={myBackpack} icon={icon} itemClass={itemClass} />
           </AcessRecipeContext>

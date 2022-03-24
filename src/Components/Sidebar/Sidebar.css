@@ -245,28 +245,28 @@
 
 
 
-.ImageFrame.Common, .ImageFrame.Uncommon, .ImageFrame.Rare, .ImageFrame.Epic, .ImageFrame.Legendary {
+.ImageFrame.Common, .ImageFrame.Comum, .ImageFrame.Uncommon, .ImageFrame.Incomum, .ImageFrame.Rare, .ImageFrame.Raro, .ImageFrame.Epic, .ImageFrame.Épico, .ImageFrame.Legendary, .ImageFrame.Lendário {
     background-size: cover;
     background-repeat: no-repeat;
 }
 
-.ImageFrame.Common {
+.ImageFrame.Common, .ImageFrame.Comum {
     background-image: url(../../../public/ItemFrames/Circle_Common.png);
 }
 
-.ImageFrame.Uncommon {
+.ImageFrame.Uncommon, .ImageFrame.Incomum {
     background-image: url(../../../public/ItemFrames/Circle_Uncommon.png);
 }
 
-.ImageFrame.Rare {
+.ImageFrame.Rare, .ImageFrame.Raro {
     background-image: url(../../../public/ItemFrames/Circle_Rare.png);
 }
 
-.ImageFrame.Epic {
+.ImageFrame.Epic, .ImageFrame.Épico {
     background-image: url(../../../public/ItemFrames/Circle_Epic.png);
 }
 
-.ImageFrame.Legendary {
+.ImageFrame.Legendary, .ImageFrame.Lendário {
     background-image: url(../../../public/ItemFrames/Circle_Legendary.png);
 }
 

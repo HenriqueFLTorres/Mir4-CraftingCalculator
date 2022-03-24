@@ -1,14 +1,15 @@
 import React, { useState } from "react";
 
 // import handleMap from '../../Utils/classSelectHandler.js'
-import itemsList from '../../Data/ItemsList.json'
+import itemsListPT from '../../Data/ItemsListPT.json'
+import handleLanguage from "../../Utils/handleLanguage";
 
 import Classes from "./Classes";
 import ItemUi from "./ItemUi";
 
 import "./Sidebar.css";
 
-const Sidebar = ({ filter, inventory, inventoryContent, setInventoryContent, itemClass, setItemClass, icon, setIcon }) => {
+const Sidebar = ({ filter, inventory, inventoryContent, setInventoryContent, itemClass, setItemClass, icon, language }) => {
   const [search, setSearch] = useState("");
 
   return (
@@ -21,7 +22,7 @@ const Sidebar = ({ filter, inventory, inventoryContent, setInventoryContent, ite
         />
       </div>
       <div className="ItemDisplay">
-        {itemsList.map((itemInfo, index) => {
+        {itemsListPT.map((itemInfo, index) => {
           const { name, image, category, rarity, recipe,  tier, imageSecondary, names, images } = itemInfo;
 
           let nameSet
@@ -56,9 +57,10 @@ const Sidebar = ({ filter, inventory, inventoryContent, setInventoryContent, ite
                 icon={icon}
                 nameSet={nameSet}
                 imageSet={imageSet}
+                language={language}
               />
             )
-          );
+        );
         })}
       </div>
     </div>

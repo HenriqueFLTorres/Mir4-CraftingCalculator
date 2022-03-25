@@ -1,6 +1,7 @@
 import React from 'react'
 import { useSelect, useSelectUpdate } from '../Hooks/SelectedContext'
 import backpackCalcDetector from '../../Utils/backpackCalcDetector'
+import nameShortener from "../../Utils/nameShortener";
 
 import './Sidebar.css'
 
@@ -32,8 +33,8 @@ const ItemUi = ({ name, image, imageS, category, rarity, index, tier, inventory,
         </div>
         <div className='ItemInfo' data-fullname={name || nameSet} >
             <div className='ItemName'>{
-            name ? ( name?.length > 25 ? `${name.substring(0, 25)}...` : name ) :
-            ( nameSet?.length > 25 ? `${nameSet.substring(0, 25)}...` : nameSet )
+            name ? ( name?.length > 25 ? nameShortener(name) : name ) :
+            nameShortener(nameSet).length > 25 ? `${nameShortener(nameSet).substring(0, 25)}...` : nameShortener(nameSet)
             }</div>
             <div className='ItemCategory'>{category}</div>
             <div className={`ItemRarity ${rarity}`}>{rarity}</div>

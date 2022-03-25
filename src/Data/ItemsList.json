@@ -4823,7 +4823,7 @@
       ]
     },
     {
-      "name": "Arhat Earrings",
+      "name": "Divinity Earrings",
       "image": "./Icons/Jewels/Desireless_Earrings.png",
       "category": "Earrings",
       "tier": "4",
@@ -4838,7 +4838,7 @@
       ]
     },
     {
-      "name": "Antidemon Earrings",
+      "name": "Starlight Earrings",
       "image": "./Icons/Jewels/Nethergate_Earrings.png",
       "category": "Earrings",
       "tier": "4",
@@ -4850,6 +4850,129 @@
         { "name" : "[UC] Dragon Eye", "rarity": "Uncommon", "amount": 8 }, 
         { "name" : "Copper Coin", "amount": 63000 }, 
         { "name" : "Dark Steel", "amount": 63000 }
+      ]
+    },
+
+
+
+    {
+      "name": "Desireless Ring",
+      "image": "./Icons/Jewels/Desireless_Ring.png",
+      "category": "Ring",
+      "tier": "1",
+      "rarity": "Uncommon",
+      "recipe": [ 
+        { "name" : "[UC] Platinum", "rarity": "Uncommon", "amount": 40 }, 
+        { "name" : "[UC] Illuminating Fragment", "rarity": "Uncommon", "amount": 4 }, 
+        { "name" : "[UC] Anima Stone", "rarity": "Uncommon", "amount": 1 }, 
+        { "name" : "[UC] Dragon Horn", "rarity": "Uncommon", "amount": 1 }, 
+        { "name" : "Copper Coin", "amount": 1000 }, 
+        { "name" : "Dark Steel", "amount": 1000 }
+      ]
+    },
+    {
+      "name": "Nethergate Ring",
+      "image": "./Icons/Jewels/Nethergate_Ring.png",
+      "category": "Ring",
+      "tier": "1",
+      "rarity": "Uncommon",
+      "recipe": [ 
+        { "name" : "[UC] Platinum", "rarity": "Uncommon", "amount": 40 }, 
+        { "name" : "[UC] Illuminating Fragment", "rarity": "Uncommon", "amount": 2 }, 
+        { "name" : "[UC] Anima Stone", "rarity": "Uncommon", "amount": 2 }, 
+        { "name" : "[UC] Dragon Horn", "rarity": "Uncommon", "amount": 1 }, 
+        { "name" : "Copper Coin", "amount": 1000 }, 
+        { "name" : "Dark Steel", "amount": 1000 }
+      ]
+    },
+    {
+      "name": "Transience Ring",
+      "image": "./Icons/Jewels/Desireless_Ring.png",
+      "category": "Ring",
+      "tier": "2",
+      "rarity": "Uncommon",
+      "recipe": [ 
+        { "name" : "[UC] Platinum", "rarity": "Uncommon", "amount": 80 }, 
+        { "name" : "[UC] Illuminating Fragment", "rarity": "Uncommon", "amount": 8 }, 
+        { "name" : "[UC] Anima Stone", "rarity": "Uncommon", "amount": 2 }, 
+        { "name" : "[UC] Dragon Horn", "rarity": "Uncommon", "amount": 2 }, 
+        { "name" : "Copper Coin", "amount": 7000 }, 
+        { "name" : "Dark Steel", "amount": 4000 }
+      ]
+    },
+    {
+      "name": "Evil Slayer Ring",
+      "image": "./Icons/Jewels/Nethergate_Ring.png",
+      "category": "Ring",
+      "tier": "2",
+      "rarity": "Uncommon",
+      "recipe": [ 
+        { "name" : "[UC] Platinum", "rarity": "Uncommon", "amount": 80 }, 
+        { "name" : "[UC] Illuminating Fragment", "rarity": "Uncommon", "amount": 4 }, 
+        { "name" : "[UC] Anima Stone", "rarity": "Uncommon", "amount": 4 }, 
+        { "name" : "[UC] Dragon Horn", "rarity": "Uncommon", "amount": 2 }, 
+        { "name" : "Copper Coin", "amount": 7000 }, 
+        { "name" : "Dark Steel", "amount": 4000 }
+      ]
+    },
+    {
+      "name": "Arhat Ring",
+      "image": "./Icons/Jewels/Desireless_Ring.png",
+      "category": "Ring",
+      "tier": "3",
+      "rarity": "Uncommon",
+      "recipe": [ 
+        { "name" : "[UC] Platinum", "rarity": "Uncommon", "amount": 160 }, 
+        { "name" : "[UC] Illuminating Fragment", "rarity": "Uncommon", "amount": 16 }, 
+        { "name" : "[UC] Anima Stone", "rarity": "Uncommon", "amount": 4 }, 
+        { "name" : "[UC] Dragon Horn", "rarity": "Uncommon", "amount": 4 }, 
+        { "name" : "Copper Coin", "amount": 24000 }, 
+        { "name" : "Dark Steel", "amount": 11000 }
+      ]
+    },
+    {
+      "name": "Antidemon Ring",
+      "image": "./Icons/Jewels/Nethergate_Ring.png",
+      "category": "Ring",
+      "tier": "3",
+      "rarity": "Uncommon",
+      "recipe": [ 
+        { "name" : "[UC] Platinum", "rarity": "Uncommon", "amount": 160 }, 
+        { "name" : "[UC] Illuminating Fragment", "rarity": "Uncommon", "amount": 8 }, 
+        { "name" : "[UC] Anima Stone", "rarity": "Uncommon", "amount": 8 }, 
+        { "name" : "[UC] Dragon Horn", "rarity": "Uncommon", "amount": 4 }, 
+        { "name" : "Copper Coin", "amount": 24000 }, 
+        { "name" : "Dark Steel", "amount": 11000 }
+      ]
+    },
+    {
+      "name": "Divinity Ring",
+      "image": "./Icons/Jewels/Desireless_Ring.png",
+      "category": "Ring",
+      "tier": "4",
+      "rarity": "Uncommon",
+      "recipe": [ 
+        { "name" : "[UC] Platinum", "rarity": "Uncommon", "amount": 320 }, 
+        { "name" : "[UC] Illuminating Fragment", "rarity": "Uncommon", "amount": 32 }, 
+        { "name" : "[UC] Anima Stone", "rarity": "Uncommon", "amount": 8 }, 
+        { "name" : "[UC] Dragon Horn", "rarity": "Uncommon", "amount": 8 }, 
+        { "name" : "Copper Coin", "amount": 63000 }, 
+        { "name" : "Dark Steel", "amount": 26000 }
+      ]
+    },
+    {
+      "name": "Starlight Ring",
+      "image": "./Icons/Jewels/Nethergate_Ring.png",
+      "category": "Ring",
+      "tier": "4",
+      "rarity": "Uncommon",
+      "recipe": [ 
+        { "name" : "[UC] Platinum", "rarity": "Uncommon", "amount": 320 }, 
+        { "name" : "[UC] Illuminating Fragment", "rarity": "Uncommon", "amount": 16 }, 
+        { "name" : "[UC] Anima Stone", "rarity": "Uncommon", "amount": 16 }, 
+        { "name" : "[UC] Dragon Horn", "rarity": "Uncommon", "amount": 8 }, 
+        { "name" : "Copper Coin", "amount": 63000 }, 
+        { "name" : "Dark Steel", "amount": 26000 }
       ]
     },
 

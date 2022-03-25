@@ -1,9 +1,7 @@
 import React, { useState } from "react";
 
-// import handleMap from '../../Utils/classSelectHandler.js'
-import itemsListPT from '../../Data/ItemsListPT.json'
 import handleLanguage from "../../Utils/handleLanguage";
-import { nameHandler, imageHandler } from "../../Utils/itemClassDisplayer";
+import { nameHandler, imageHandler } from "../../Utils/itemClassDisplayer"
 
 import Classes from "./Classes";
 import ItemUi from "./ItemUi";
@@ -20,6 +18,7 @@ const Sidebar = ({ filter, inventory, inventoryContent, setInventoryContent, ite
         <input
           className="SearchBar"
           onChange={(e) => setSearch(e.target.value)}
+          spellCheck={false}
         />
       </div>
       <div className="ItemDisplay">
@@ -28,7 +27,6 @@ const Sidebar = ({ filter, inventory, inventoryContent, setInventoryContent, ite
 
           let nameSet
           let imageSet
-
           
           if ( !name ) {
             nameSet = names[nameHandler(itemClass)]

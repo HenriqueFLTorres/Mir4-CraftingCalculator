@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React from 'react'
 
 import './RecipeResult.css'
 import { useRecipe } from '../Hooks/AcessRecipeContext'
@@ -9,7 +9,6 @@ import nameFormatter from '../../Utils/nameFormatter'
 import recipeBGColor from '../../Utils/recipeBGColor'
 
 const RecipeResult = ({ language }) => {
-  
   const recipeInfo = useRecipe();
   let recipe = recipeInfo;
   let result = recipeSum(recipe)
@@ -35,7 +34,7 @@ const RecipeResult = ({ language }) => {
           return (
             <div className={`RecipeCounter`} key={index} data-content={item.value <= 0 ? Math.abs(item.value) : fancyAmount} >
                 <div className='RCFrame' style={{ background: backgroundColor }}>
-                  { language = "PT-BR" ? <img className='RCImage' src={`./Icons/PT-BR/${bakedName}.png`} alt={item.name} /> : <img className='RCImage' src={`./Icons/EN${bakedName}.png`} alt={item.name} /> }
+                  <img className='RCImage' src={`./Icons/${language}/${bakedName}.png`} alt={item.name} />
                   { item.tier && <img className='Tier' src={`./Icons/tier${item.tier}.png`} alt={`tier ${item.tier}`} />  }
                 </div>
                 <h3 className='RCName'>{item.name}</h3>

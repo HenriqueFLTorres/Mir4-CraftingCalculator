@@ -230,3 +230,47 @@
     appearance: none;
     -webkit-appearance: none;
 }
+
+
+.DetailedValue {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transform: translateY(-30%);
+
+    background-color: var(--secondary-color);
+    font-size: var(--step--1);
+    width: 70%;
+    padding: 2.5%;
+
+    text-align: center;
+    border-radius: 50vw;
+
+    transition: opacity 350ms ease, transform 350ms ease;
+}
+
+.DetailedValue::after {
+    display: block;
+    position: absolute;
+    content: attr(data-value);
+
+    padding-top: 5%;
+    background-color: var(--terciary-color);
+    border-radius: 1vw;
+
+    width: 100%;
+    height: 100%;
+
+    transform: scale(0, 1) translateY(100%);
+    transition: transform 350ms ease;
+}
+
+.DetailedValue:hover::after {
+    transform: scale(1, 1) translateY(20%);
+}
+
+.DetailedValue.true {
+    opacity: 1;
+    transform: translateY(-30%);
+}

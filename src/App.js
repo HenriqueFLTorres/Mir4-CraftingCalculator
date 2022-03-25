@@ -3,21 +3,17 @@ import './App.css'
 import { Content } from './Components/Content';
 import Navbar from './Components/Navbar/Navbar';
 
+let languageStorage = localStorage.getItem("Language")
+
 function App() {
-  const [language, setLanguage] = useState("EN")
+  const [language, setLanguage] = useState(languageStorage ? languageStorage : "EN")
 
   useEffect(() => {
     if ( localStorage.getItem("Language") === null ) {
       localStorage.setItem("Language", "EN")
+      setLanguage("EN")
     }
-
-    setLanguage(localStorage.getItem("Language"))
   }, [])
-
-  useEffect(() => {
-    localStorage.setItem("Language", language)
-  }, [language])
-
 
   return (
     <div className='MainBackground'>

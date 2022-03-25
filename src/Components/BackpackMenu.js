@@ -6,7 +6,7 @@ import './BackpackMenu.css'
 import BPItem from './BPItem'
 import DefaultItems from './DefaultItems'
 
-const BackpackMenu = ({ inventory, setInventory, inventoryContent, myBackpack, icon, itemClass }) => {
+const BackpackMenu = ({ inventory, setInventory, inventoryContent, myBackpack, icon, itemClass, language }) => {
   const [refresh, setRefresh] = useState(0)
 
   let parsed = JSON.parse(localStorage.getItem("Backpack"))
@@ -21,7 +21,7 @@ const BackpackMenu = ({ inventory, setInventory, inventoryContent, myBackpack, i
         <Backpack/>
         </div>
         <div className={`BackpackArea${inventory ? ' Active' : ''}`}>
-            <DefaultItems myBackpack={myBackpack}/>
+            <DefaultItems myBackpack={myBackpack} language={language}/>
             { ItemsList.map((item, index) => {
                 const { name, image, category, rarity, tier, imageSecondary, names, images } = item
 

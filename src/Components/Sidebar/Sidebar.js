@@ -3,6 +3,7 @@ import React, { useState } from "react";
 // import handleMap from '../../Utils/classSelectHandler.js'
 import itemsListPT from '../../Data/ItemsListPT.json'
 import handleLanguage from "../../Utils/handleLanguage";
+import { nameHandler, imageHandler } from "../../Utils/itemClassDisplayer";
 
 import Classes from "./Classes";
 import ItemUi from "./ItemUi";
@@ -14,7 +15,7 @@ const Sidebar = ({ filter, inventory, inventoryContent, setInventoryContent, ite
 
   return (
     <div className="ItemList">
-      <Classes itemClass={itemClass} setItemClass={setItemClass} />
+      <Classes itemClass={itemClass} setItemClass={setItemClass} language={language} />
       <div className="SearchContainer">
         <input
           className="SearchBar"
@@ -22,24 +23,20 @@ const Sidebar = ({ filter, inventory, inventoryContent, setInventoryContent, ite
         />
       </div>
       <div className="ItemDisplay">
-        {itemsListPT.map((itemInfo, index) => {
+        {handleLanguage(language).map((itemInfo, index) => {
           const { name, image, category, rarity, recipe,  tier, imageSecondary, names, images } = itemInfo;
 
           let nameSet
           let imageSet
+
           
           if ( !name ) {
-            nameSet = names[`name${itemClass}`]
-            imageSet = images[`image${itemClass}`]
+            nameSet = names[nameHandler(itemClass)]
+            imageSet = images[imageHandler(itemClass)]
           }
 
-
           return (
-           ( name ?
-            name?.toLocaleLowerCase().includes(search.toLocaleLowerCase()) 
-              : 
-            nameSet?.toLocaleLowerCase().includes(search.toLocaleLowerCase()) 
-           ) && filter.includes(category) && filter.includes(rarity) && (
+           filter.includes(category) && filter.includes(rarity) && (
               <ItemUi
                 key={index}
                 index={index}

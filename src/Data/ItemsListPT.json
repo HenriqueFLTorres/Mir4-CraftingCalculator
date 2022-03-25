@@ -1,32 +1,32 @@
 [
   {
     "name": "Raiz de Erva",
-    "image": "./Icons/Herb_Root.png",
+    "image": "./Icons/EN/Herb_Root.png",
     "category": "Remédio",
     "rarity": "Comum",
     "recipe": [ 
       { "name": "Raiz Cortada", "rarity": "Comum", "amount": 10 }, 
-      { "name": "Copper Coin", "amount": 50 } 
+      { "name": "Cobre", "amount": 50 } 
     ]
   },
   {
     "name": "Reishi",
-    "image": "./Icons/Reishi.png",
+    "image": "./Icons/EN/Reishi.png",
     "category": "Remédio",
     "rarity": "Comum",
     "recipe": [ 
       { "name": "Cogumelo Cortado", "rarity": "Comum", "amount": 10 }, 
-      { "name": "Copper Coin", "amount": 50 } 
+      { "name": "Cobre", "amount": 50 } 
     ]
   },
   {
     "name": "Folha de Erva",
-    "image": "./Icons/Herb_Leaf.png",
+    "image": "./Icons/EN/Herb_Leaf.png",
     "category": "Remédio",
     "rarity": "Comum",
     "recipe": [ 
       { "name": "Caule Cortado", "rarity": "Comum", "amount": 20 }, 
-      { "name": "Copper Coin", "amount": 50 } 
+      { "name": "Cobre", "amount": 50 } 
     ]
   },
 
@@ -44,111 +44,111 @@
 
   {
     "name": "[UC] Pedaço de Unichifre",
-    "image": "./Icons/Unihorn_Slice.png",
+    "image": "./Icons/EN/Unihorn_Slice.png",
     "category": "Remédio",
     "rarity": "Incomum",
     "recipe": [ 
       { "name" : "Pedaço de Unichifre", "rarity": "Comum", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 200 }, 
+      { "name" : "Cobre", "amount": 200 }, 
       { "name" : "Energia", "amount": 100 }
     ]
   },
   {
     "name": "[UC] Óleo de Flor",
-    "image": "./Icons/Flower_Oil.png",
+    "image": "./Icons/EN/Flower_Oil.png",
     "category": "Remédio",
     "rarity": "Incomum",
     "recipe": [ 
       { "name" : "Óleo de Flor", "rarity": "Comum", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 200 }, 
+      { "name" : "Cobre", "amount": 200 }, 
       { "name" : "Energia", "amount": 100 }
     ]
   },
   {
     "name": "[UC] Fruta Centenária",
-    "image": "./Icons/Century_Fruit.png",
+    "image": "./Icons/EN/Century_Fruit.png",
     "category": "Remédio",
     "rarity": "Incomum",
     "recipe": [ 
       { "name" : "Fruta Centenária", "rarity": "Comum", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 200 }, 
+      { "name" : "Cobre", "amount": 200 }, 
       { "name" : "Energia", "amount": 100 }
     ]
   },
   {
     "name": "[UC] Grande Pílula de Yang",
-    "image": "./Icons/Greater_Yang_Pill.png",
+    "image": "./Icons/EN/Greater_Yang_Pill.png",
     "category": "Remédio",
     "rarity": "Incomum",
     "recipe": [ 
       { "name" : "Grande Pílula de Yang", "rarity": "Comum", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 200 }, 
+      { "name" : "Cobre", "amount": 200 }, 
       { "name" : "Energia", "amount": 100 }
     ]
   },
   {
     "name": "[UC] Grande Pílula de Yin",
-    "image": "./Icons/Greater_Yin_Pill.png",
+    "image": "./Icons/EN/Greater_Yin_Pill.png",
     "category": "Remédio",
     "rarity": "Incomum",
     "recipe": [ 
       { "name" : "Grande Pílula de Yin", "rarity": "Comum", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 200 }, 
+      { "name" : "Cobre", "amount": 200 }, 
       { "name" : "Energia", "amount": 100 }
     ]
   },
   {
-    "name": "[UC] Pequena Pilula de Yang",
-    "image": "./Icons/Lesser_Yang_pill.png",
+    "name": "[UC] Pequena Pílula de Yang",
+    "image": "./Icons/EN/Lesser_Yang_pill.png",
     "category": "Remédio",
     "rarity": "Incomum",
     "recipe": [ 
-      { "name" : "Pequena Pilula de Yang", "rarity": "Comum", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 200 }, 
+      { "name" : "Pequena Pílula de Yang", "rarity": "Comum", "amount": 20 }, 
+      { "name" : "Cobre", "amount": 200 }, 
       { "name" : "Energia", "amount": 100 }
     ]
   },
   {
     "name": "[UC] Pequena Pílula de Yin",
-    "image": "./Icons/Lesser_Yin_pill.png",
+    "image": "./Icons/EN/Lesser_Yin_pill.png",
     "category": "Remédio",
     "rarity": "Incomum",
     "recipe": [ 
       { "name" : "Pequena Pílula de Yin", "rarity": "Comum", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 200 }, 
+      { "name" : "Cobre", "amount": 200 }, 
       { "name" : "Energia", "amount": 100 }
     ]
   },
   {
     "name": "[UC] Raiz de Erva",
-    "image": "./Icons/Herb_Root.png",
+    "image": "./Icons/EN/Herb_Root.png",
     "category": "Remédio",
     "rarity": "Incomum",
     "recipe": [ 
       { "name" : "Raiz de Erva", "rarity": "Comum", "amount": 10 }, 
-      { "name" : "Copper Coin", "amount": 200 }, 
+      { "name" : "Cobre", "amount": 200 }, 
       { "name" : "Energia", "amount": 100 }
     ]
   },
   {
     "name": "[UC] Reishi",
-    "image": "./Icons/Reishi.png",
+    "image": "./Icons/EN/Reishi.png",
     "category": "Remédio",
     "rarity": "Incomum",
     "recipe": [ 
       { "name" : "Reishi", "rarity": "Comum", "amount": 10 }, 
-      { "name" : "Copper Coin", "amount": 200 }, 
+      { "name" : "Cobre", "amount": 200 }, 
       { "name" : "Energia", "amount": 100 }
     ]
   },
   {
     "name": "[UC] Folha de Erva",
-    "image": "./Icons/Herb_Leaf.png",
+    "image": "./Icons/EN/Herb_Leaf.png",
     "category": "Remédio",
     "rarity": "Incomum",
     "recipe": [ 
       { "name" : "Folha de Erva", "rarity": "Comum", "amount": 10 }, 
-      { "name" : "Copper Coin", "amount": 200 }, 
+      { "name" : "Cobre", "amount": 200 }, 
       { "name" : "Energia", "amount": 100 }
     ]
   },
@@ -164,138 +164,138 @@
 
   {
     "name": "Óleo Raro",
-    "image": "./Icons/Oil.png",
+    "image": "./Icons/EN/Oil.png",
     "category": "Remédio",
     "rarity": "Raro",
     "recipe": [ 
-      { "name" : "Incomum Oil", "rarity": "Incomum", "amount": 10 }, 
+      { "name" : "Óleo Incomum", "rarity": "Incomum", "amount": 10 }, 
       { "name" : "Elixir da Vida", "rarity": "Incomum", "amount": 12 }, 
-      { "name" : "Copper Coin", "amount": 4000 }, 
+      { "name" : "Cobre", "amount": 4000 }, 
       { "name" : "Energia", "amount": 2000 }
     ]
   },
   {
     "name": "[R] Pedaço de Unichifre",
-    "image": "./Icons/Unihorn_Slice.png",
+    "image": "./Icons/EN/Unihorn_Slice.png",
     "category": "Remédio",
     "rarity": "Raro",
     "recipe": [ 
       { "name" : "[UC] Pedaço de Unichifre", "rarity": "Incomum", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 1000 }, 
+      { "name" : "Cobre", "amount": 1000 }, 
       { "name" : "Energia", "amount": 500 }
     ]
   },
   {
     "name": "[R] Óleo de Flor",
-    "image": "./Icons/Flower_Oil.png",
+    "image": "./Icons/EN/Flower_Oil.png",
     "category": "Remédio",
     "rarity": "Raro",
     "recipe": [ 
       { "name" : "[UC] Óleo de Flor", "rarity": "Incomum", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 1000 }, 
+      { "name" : "Cobre", "amount": 1000 }, 
       { "name" : "Energia", "amount": 500 }
     ]
   },
   {
     "name": "[R] Fruta Centenária",
-    "image": "./Icons/Century_Fruit.png",
+    "image": "./Icons/EN/Century_Fruit.png",
     "category": "Remédio",
     "rarity": "Raro",
     "recipe": [ 
       { "name" : "[UC] Fruta Centenária", "rarity": "Incomum", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 1000 }, 
+      { "name" : "Cobre", "amount": 1000 }, 
       { "name" : "Energia", "amount": 500 }
     ]
   },
   {
-    "name": "[R] Panax de Neve Incomum",
-    "image": "./Icons/Snow_Panax.png",
+    "name": "[R] Panax de Neve",
+    "image": "./Icons/EN/Snow_Panax.png",
     "category": "Remédio",
     "rarity": "Raro",
     "recipe": [ 
-      { "name" : "[UC] Panax de Neve Incomum", "rarity": "Incomum", "amount": 10 }, 
+      { "name" : "[UC] Panax de Neve", "rarity": "Incomum", "amount": 10 }, 
       { "name" : "Elixir da Vida", "rarity": "Incomum", "amount": 12 }, 
-      { "name" : "Copper Coin", "amount": 4000 }, 
+      { "name" : "Cobre", "amount": 4000 }, 
       { "name" : "Energia", "amount": 2000 }
     ]
   },
   {
     "name": "[R] Grande Pílula de Yang",
-    "image": "./Icons/Greater_Yang_Pill.png",
+    "image": "./Icons/EN/Greater_Yang_Pill.png",
     "category": "Remédio",
     "rarity": "Raro",
     "recipe": [ 
       { "name" : "[UC] Grande Pílula de Yang", "rarity": "Incomum", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 1000 }, 
+      { "name" : "Cobre", "amount": 1000 }, 
       { "name" : "Energia", "amount": 500 }
     ]
   },
   {
     "name": "[R] Grande Pílula de Yin",
-    "image": "./Icons/Greater_Yin_Pill.png",
+    "image": "./Icons/EN/Greater_Yin_Pill.png",
     "category": "Remédio",
     "rarity": "Raro",
     "recipe": [ 
       { "name" : "[UC] Grande Pílula de Yin", "rarity": "Incomum", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 1000 }, 
+      { "name" : "Cobre", "amount": 1000 }, 
       { "name" : "Energia", "amount": 500 }
     ]
   },
   {
-    "name": "[R] Pequena Pilula de Yang",
-    "image": "./Icons/Lesser_Yang_pill.png",
+    "name": "[R] Pequena Pílula de Yang",
+    "image": "./Icons/EN/Lesser_Yang_pill.png",
     "category": "Remédio",
     "rarity": "Raro",
     "recipe": [ 
-      { "name" : "[UC] Pequena Pilula de Yang", "rarity": "Incomum", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 1000 }, 
+      { "name" : "[UC] Pequena Pílula de Yang", "rarity": "Incomum", "amount": 20 }, 
+      { "name" : "Cobre", "amount": 1000 }, 
       { "name" : "Energia", "amount": 500 }
     ]
   },
   {
     "name": "[R] Pequena Pílula de Yin",
-    "image": "./Icons/Lesser_Yin_pill.png",
+    "image": "./Icons/EN/Lesser_Yin_pill.png",
     "category": "Remédio",
     "rarity": "Raro",
     "recipe": [ 
       { "name" : "[UC] Pequena Pílula de Yin", "rarity": "Incomum", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 1000 }, 
+      { "name" : "Cobre", "amount": 1000 }, 
       { "name" : "Energia", "amount": 500 }
     ]
   },
   {
     "name": "[R] Raiz de Erva",
-    "image": "./Icons/Herb_Root.png",
+    "image": "./Icons/EN/Herb_Root.png",
     "category": "Remédio",
     "rarity": "Raro",
     "recipe": [ 
       { "name" : "[UC] Raiz de Erva", "rarity": "Incomum", "amount": 10 }, 
       { "name" : "Elixir da Vida", "rarity": "Incomum", "amount": 2 }, 
-      { "name" : "Copper Coin", "amount": 1000 }, 
+      { "name" : "Cobre", "amount": 1000 }, 
       { "name" : "Energia", "amount": 500 }
     ]
   },
   {
     "name": "[R] Reishi",
-    "image": "./Icons/Reishi.png",
+    "image": "./Icons/EN/Reishi.png",
     "category": "Remédio",
     "rarity": "Raro",
     "recipe": [ 
       { "name" : "[UC] Reishi", "rarity": "Incomum", "amount": 10 }, 
       { "name" : "Elixir da Vida", "rarity": "Incomum", "amount":  2 }, 
-      { "name" : "Copper Coin", "amount": 1000 }, 
+      { "name" : "Cobre", "amount": 1000 }, 
       { "name" : "Energia", "amount": 500 }
     ]
   },
   {
     "name": "[R] Folha de Erva",
-    "image": "./Icons/Herb_Leaf.png",
+    "image": "./Icons/EN/Herb_Leaf.png",
     "category": "Remédio",
     "rarity": "Raro",
     "recipe": [ 
       { "name" : "[UC] Folha de Erva", "rarity": "Incomum", "amount": 10 }, 
       { "name" : "Elixir da Vida", "rarity": "Incomum", "amount": 2 }, 
-      { "name" : "Copper Coin", "amount": 1000 }, 
+      { "name" : "Cobre", "amount": 1000 }, 
       { "name" : "Energia", "amount": 500 }
     ]
   },
@@ -316,138 +316,138 @@
 
   {
     "name": "Óleo Épico",
-    "image": "./Icons/Oil.png",
+    "image": "./Icons/EN/Oil.png",
     "category": "Remédio",
     "rarity": "Épico",
     "recipe": [ 
-      { "name" : "Incomum Oil", "rarity": "Incomum", "amount": 10 }, 
+      { "name" : "Óleo Raro", "rarity": "Incomum", "amount": 10 }, 
       { "name" : "Elixir da Vida", "rarity": "Incomum", "amount": 50 }, 
-      { "name" : "Copper Coin", "amount": 20000 }, 
+      { "name" : "Cobre", "amount": 20000 }, 
       { "name" : "Energia", "amount": 10000 }
     ]
   },
   {
     "name": "[E] Pedaço de Unichifre",
-    "image": "./Icons/Unihorn_Slice.png",
+    "image": "./Icons/EN/Unihorn_Slice.png",
     "category": "Remédio",
     "rarity": "Épico",
     "recipe": [ 
       { "name" : "[R] Pedaço de Unichifre", "rarity": "Raro", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 10000 }, 
+      { "name" : "Cobre", "amount": 10000 }, 
       { "name" : "Energia", "amount": 2500 }
     ]
   },
   {
     "name": "[E] Óleo de Flor",
-    "image": "./Icons/Flower_Oil.png",
+    "image": "./Icons/EN/Flower_Oil.png",
     "category": "Remédio",
     "rarity": "Épico",
     "recipe": [ 
       { "name" : "[R] Óleo de Flor", "rarity": "Raro", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 10000 }, 
+      { "name" : "Cobre", "amount": 10000 }, 
       { "name" : "Energia", "amount": 2500 }
     ]
   },
   {
     "name": "[E] Fruta Centenária",
-    "image": "./Icons/Century_Fruit.png",
+    "image": "./Icons/EN/Century_Fruit.png",
     "category": "Remédio",
     "rarity": "Épico",
     "recipe": [ 
       { "name" : "[R] Fruta Centenária", "rarity": "Raro", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 10000 }, 
+      { "name" : "Cobre", "amount": 10000 }, 
       { "name" : "Energia", "amount": 2500 }
     ]
   },
   {
-    "name": "[E] Panax de Neve Incomum",
-    "image": "./Icons/Snow_Panax.png",
+    "name": "[E] Panax de Neve",
+    "image": "./Icons/EN/Snow_Panax.png",
     "category": "Remédio",
     "rarity": "Épico",
     "recipe": [ 
-      { "name" : "[R] Panax de Neve Incomum", "rarity": "Raro", "amount": 10 }, 
+      { "name" : "[R] Panax de Neve", "rarity": "Raro", "amount": 10 }, 
       { "name" : "Elixir da Vida", "rarity": "Incomum", "amount": 50 }, 
-      { "name" : "Copper Coin", "amount": 20000 }, 
+      { "name" : "Cobre", "amount": 20000 }, 
       { "name" : "Energia", "amount": 10000 }
     ]
   },
   {
     "name": "[E] Grande Pílula de Yang",
-    "image": "./Icons/Greater_Yang_Pill.png",
+    "image": "./Icons/EN/Greater_Yang_Pill.png",
     "category": "Remédio",
     "rarity": "Épico",
     "recipe": [ 
       { "name" : "[R] Grande Pílula de Yang", "rarity": "Raro", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 10000 }, 
+      { "name" : "Cobre", "amount": 10000 }, 
       { "name" : "Energia", "amount": 2500 }
     ]
   },
   {
     "name": "[E] Grande Pílula de Yin",
-    "image": "./Icons/Greater_Yin_Pill.png",
+    "image": "./Icons/EN/Greater_Yin_Pill.png",
     "category": "Remédio",
     "rarity": "Épico",
     "recipe": [ 
       { "name" : "[R] Grande Pílula de Yin", "rarity": "Raro", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 10000 }, 
+      { "name" : "Cobre", "amount": 10000 }, 
       { "name" : "Energia", "amount": 2500 }
     ]
   },
   {
-    "name": "[E] Pequena Pilula de Yang",
-    "image": "./Icons/Lesser_Yang_pill.png",
+    "name": "[E] Pequena Pílula de Yang",
+    "image": "./Icons/EN/Lesser_Yang_pill.png",
     "category": "Remédio",
     "rarity": "Épico",
     "recipe": [ 
-      { "name" : "[R] Pequena Pilula de Yang", "rarity": "Raro", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 10000 }, 
+      { "name" : "[R] Pequena Pílula de Yang", "rarity": "Raro", "amount": 20 }, 
+      { "name" : "Cobre", "amount": 10000 }, 
       { "name" : "Energia", "amount": 2500 }
     ]
   },
   {
     "name": "[E] Pequena Pílula de Yin",
-    "image": "./Icons/Lesser_Yin_pill.png",
+    "image": "./Icons/EN/Lesser_Yin_pill.png",
     "category": "Remédio",
     "rarity": "Épico",
     "recipe": [ 
       { "name" : "[R] Pequena Pílula de Yin", "rarity": "Raro", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 10000 }, 
+      { "name" : "Cobre", "amount": 10000 }, 
       { "name" : "Energia", "amount": 2500 }
     ]
   },
   {
     "name": "[E] Raiz de Erva",
-    "image": "./Icons/Herb_Root.png",
+    "image": "./Icons/EN/Herb_Root.png",
     "category": "Remédio",
     "rarity": "Épico",
     "recipe": [ 
       { "name" : "[R] Raiz de Erva", "rarity": "Raro", "amount": 10 }, 
       { "name" : "Elixir da Vida", "rarity": "Incomum", "amount": 10 }, 
-      { "name" : "Copper Coin", "amount": 10000 }, 
+      { "name" : "Cobre", "amount": 10000 }, 
       { "name" : "Energia", "amount": 2500 }
     ]
   },
   {
     "name": "[E] Reishi",
-    "image": "./Icons/Reishi.png",
+    "image": "./Icons/EN/Reishi.png",
     "category": "Remédio",
     "rarity": "Épico",
     "recipe": [ 
       { "name" : "[R] Reishi", "rarity": "Raro", "amount": 10 }, 
       { "name" : "Elixir da Vida", "rarity": "Incomum", "amount": 10 }, 
-      { "name" : "Copper Coin", "amount": 10000 }, 
+      { "name" : "Cobre", "amount": 10000 }, 
       { "name" : "Energia", "amount": 2500 }
     ]
   },
   {
     "name": "[E] Folha de Erva",
-    "image": "./Icons/Herb_Leaf.png",
+    "image": "./Icons/EN/Herb_Leaf.png",
     "category": "Remédio",
     "rarity": "Épico",
     "recipe": [ 
       { "name" : "[R] Folha de Erva", "rarity": "Raro", "amount": 10 }, 
       { "name" : "Elixir da Vida", "rarity": "Incomum", "amount": 10 }, 
-      { "name" : "Copper Coin", "amount": 10000 }, 
+      { "name" : "Cobre", "amount": 10000 }, 
       { "name" : "Energia", "amount": 2500 }
     ]
   },
@@ -468,114 +468,114 @@
 
   {
     "name": "[L] Pedaço de Unichifre",
-    "image": "./Icons/Unihorn_Slice.png",
+    "image": "./Icons/EN/Unihorn_Slice.png",
     "category": "Remédio",
     "rarity": "Lendário",
     "recipe": [ 
       { "name" : "[E] Pedaço de Unichifre", "rarity": "Épico", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 50000 }, 
+      { "name" : "Cobre", "amount": 50000 }, 
       { "name" : "Energia", "amount": 12500 }
     ]
   },
   {
     "name": "[L] Óleo de Flor",
-    "image": "./Icons/Flower_Oil.png",
+    "image": "./Icons/EN/Flower_Oil.png",
     "category": "Remédio",
     "rarity": "Lendário",
     "recipe": [ 
       { "name" : "[E] Óleo de Flor", "rarity": "Épico", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 50000 }, 
+      { "name" : "Cobre", "amount": 50000 }, 
       { "name" : "Energia", "amount": 12500 }
     ]
   },
   {
     "name": "[L] Fruta Centenária",
-    "image": "./Icons/Century_Fruit.png",
+    "image": "./Icons/EN/Century_Fruit.png",
     "category": "Remédio",
     "rarity": "Lendário",
     "recipe": [ 
       { "name" : "[E] Fruta Centenária", "rarity": "Épico", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 50000 },
+      { "name" : "Cobre", "amount": 50000 },
       { "name" : "Energia", "amount": 12500 }
     ]
   },
   {
     "name": "[L] Grande Pílula de Yang",
-    "image": "./Icons/Greater_Yang_Pill.png",
+    "image": "./Icons/EN/Greater_Yang_Pill.png",
     "category": "Remédio",
     "rarity": "Lendário",
     "recipe": [ 
       { "name" : "[E] Grande Pílula de Yang", "rarity": "Épico", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 50000 }, 
+      { "name" : "Cobre", "amount": 50000 }, 
       { "name" : "Energia", "amount": 12500 }
     ]
   },
   {
     "name": "[L] Grande Pílula de Yin",
-    "image": "./Icons/Greater_Yin_Pill.png",
+    "image": "./Icons/EN/Greater_Yin_Pill.png",
     "category": "Remédio",
     "rarity": "Lendário",
     "recipe": [ 
       { "name" : "[E] Grande Pílula de Yin", "rarity": "Épico", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 50000 }, 
+      { "name" : "Cobre", "amount": 50000 }, 
       { "name" : "Energia", "amount": 12500 }
     ]
   },
   {
-    "name": "[L] Pequena Pilula de Yang",
-    "image": "./Icons/Lesser_Yang_pill.png",
+    "name": "[L] Pequena Pílula de Yang",
+    "image": "./Icons/EN/Lesser_Yang_pill.png",
     "category": "Remédio",
     "rarity": "Lendário",
     "recipe": [ 
-      { "name" : "[E] Pequena Pilula de Yang", "rarity": "Épico", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 50000 }, 
+      { "name" : "[E] Pequena Pílula de Yang", "rarity": "Épico", "amount": 20 }, 
+      { "name" : "Cobre", "amount": 50000 }, 
       { "name" : "Energia", "amount": 12500 }
     ]
   },
   {
     "name": "[L] Pequena Pílula de Yin",
-    "image": "./Icons/Lesser_Yin_pill.png",
+    "image": "./Icons/EN/Lesser_Yin_pill.png",
     "category": "Remédio",
     "rarity": "Lendário",
     "recipe": [ 
       { "name" : "[E] Pequena Pílula de Yin", "rarity": "Épico", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 50000 }, 
+      { "name" : "Cobre", "amount": 50000 }, 
       { "name" : "Energia", "amount": 12500 }
     ]
   },
   {
     "name": "[L] Raiz de Erva",
-    "image": "./Icons/Herb_Root.png",
+    "image": "./Icons/EN/Herb_Root.png",
     "category": "Remédio",
     "rarity": "Lendário",
     "recipe": [ 
       { "name" : "[E] Raiz de Erva", "rarity": "Épico", "amount": 10 }, 
       { "name" : "Elixir da Vida", "rarity": "Incomum", "amount": 50 }, 
-      { "name" : "Copper Coin", "amount": 50000 }, 
+      { "name" : "Cobre", "amount": 50000 }, 
       { "name" : "Energia", "amount": 12500 }
     ]
   },
   {
     "name": "[L] Reishi",
-    "image": "./Icons/Reishi.png",
+    "image": "./Icons/EN/Reishi.png",
     "category": "Remédio",
     "rarity": "Lendário",
     "recipe": [ 
       { "name" : "[E] Reishi", "rarity": "Épico", "amount": 10 }, 
       { "name" : "Elixir da Vida", "rarity": "Incomum", "amount": 50 }, 
-      { "name" : "Copper Coin", "amount": 50000 }, 
+      { "name" : "Cobre", "amount": 50000 }, 
       { "name" : "Energia", "amount": 12500 }
     ]
   },
   {
     "name": "[L] Folha de Erva",
-    "image": "./Icons/Herb_Leaf.png",
+    "image": "./Icons/EN/Herb_Leaf.png",
     "category": "Remédio",
     "rarity": "Lendário",
     "recipe": [ 
       { "name" : "[E] Folha de Erva", "rarity": "Épico", "amount": 10 }, 
       { "name" : "Elixir da Vida", "rarity": "Incomum", "amount": 50 }, 
-      { "name" : "Copper Coin", "amount": 50000 }, 
+      { "name" : "Cobre", "amount": 50000 }, 
       { "name" : "Energia", "amount": 12500 }
     ]
   },
@@ -640,89 +640,89 @@
 
   {
     "name": "[UC] Aço",
-    "image": "./Icons/Steel.png",
+    "image": "./Icons/EN/Steel.png",
     "category": "Equipamentos",
     "rarity": "Incomum",
     "recipe": [ 
       { "name" : "Minério Quebrado", "rarity": "Comum", "amount": 10 }, 
-      { "name" : "Copper Coin", "amount": 400 }, 
+      { "name" : "Cobre", "amount": 400 }, 
       { "name" : "Aço Negro", "amount": 200 }
     ]
   },
   {
     "name": "[UC] Platina",
-    "image": "./Icons/Platinum.png",
+    "image": "./Icons/EN/Platinum.png",
     "category": "Equipamentos",
     "rarity": "Incomum",
     "recipe": [ 
       { "name" : "Minério Quebrado", "rarity": "Comum", "amount": 10 }, 
-      { "name" : "Copper Coin", "amount": 400 }, 
+      { "name" : "Cobre", "amount": 400 }, 
       { "name" : "Aço Negro", "amount": 200 }
     ]
   },
   {
     "name": "[UC] Esfera Perversa",
-    "image": "./Icons/Evil_Minded_Orb.png",
+    "image": "./Icons/EN/Evil_Minded_Orb.png",
     "category": "Equipamentos",
     "rarity": "Incomum",
     "recipe": [ 
       { "name" : "Esfera Perversa", "rarity": "Comum", "amount": 10 }, 
-      { "name" : "Copper Coin", "amount": 400 }, 
+      { "name" : "Cobre", "amount": 400 }, 
       { "name" : "Aço Negro", "amount": 200 }
     ]
   },
   {
     "name": "[UC] Quintessência",
-    "image": "./Icons/Quintessence.png",
+    "image": "./Icons/EN/Quintessence.png",
     "category": "Equipamentos",
     "rarity": "Incomum",
     "recipe": [ 
       { "name" : "Quintessence", "rarity": "Comum", "amount": 10 }, 
-      { "name" : "Copper Coin", "amount": 400 }, 
+      { "name" : "Cobre", "amount": 400 }, 
       { "name" : "Aço Negro", "amount": 200 }
     ]
   },
   {
     "name": "[UC] Fragmento Iluminante",
-    "image": "./Icons/Illuminating_Fragment.png",
+    "image": "./Icons/EN/Illuminating_Fragment.png",
     "category": "Equipamentos",
     "rarity": "Incomum",
     "recipe": [ 
       { "name" : "Fragmento Iluminante", "rarity": "Comum", "amount": 10 }, 
-      { "name" : "Copper Coin", "amount": 400 }, 
+      { "name" : "Cobre", "amount": 400 }, 
       { "name" : "Aço Negro", "amount": 200 }
     ]
   },
   {
     "name": "[UC] Pedra de Sombra Lunar",
-    "image": "./Icons/Moon_Shadow_Stone.png",
+    "image": "./Icons/EN/Moon_Shadow_Stone.png",
     "category": "Equipamentos",
     "rarity": "Incomum",
     "recipe": [ 
       { "name" : "Pedra de Sombra Lunar", "rarity": "Comum", "amount": 10 }, 
-      { "name" : "Copper Coin", "amount": 400 }, 
+      { "name" : "Cobre", "amount": 400 }, 
       { "name" : "Aço Negro", "amount": 200 }
     ]
   },
   {
     "name": "[UC] Bugiganga de Exorcismo",
-    "image": "./Icons/Exorcism_Bauble.png",
+    "image": "./Icons/EN/Exorcism_Bauble.png",
     "category": "Equipamentos",
     "rarity": "Incomum",
     "recipe": [ 
       { "name" : "Bugiganga de Exorcismo", "rarity": "Comum", "amount": 10 }, 
-      { "name" : "Copper Coin", "amount": 400 }, 
+      { "name" : "Cobre", "amount": 400 }, 
       { "name" : "Aço Negro", "amount": 200 }
     ]
   },
   {
     "name": "[UC] Pedra de Anima",
-    "image": "./Icons/Anima_Stone.png",
+    "image": "./Icons/EN/Anima_Stone.png",
     "category": "Equipamentos",
     "rarity": "Incomum",
     "recipe": [ 
       { "name" : "Pedra de Anima", "rarity": "Comum", "amount": 10 }, 
-      { "name" : "Copper Coin", "amount": 400 }, 
+      { "name" : "Cobre", "amount": 400 }, 
       { "name" : "Aço Negro", "amount": 200 }
     ]
   },
@@ -742,97 +742,97 @@
 
   {
     "name": "[R] Aço",
-    "image": "./Icons/Steel.png",
+    "image": "./Icons/EN/Steel.png",
     "category": "Equipamentos",
     "rarity": "Raro",
     "recipe": [ 
       { "name" : "[UC] Aço", "rarity": "Incomum", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 2 }, 
-      { "name" : "Copper Coin", "amount": 2000 }, 
+      { "name" : "Cobre", "amount": 2000 }, 
       { "name" : "Aço Negro", "amount": 1000 }
     ]
   },
   {
     "name": "[R] Platina",
-    "image": "./Icons/Platinum.png",
+    "image": "./Icons/EN/Platinum.png",
     "category": "Equipamentos",
     "rarity": "Raro",
     "recipe": [ 
       { "name" : "[UC] Platina", "rarity": "Incomum", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 2 }, 
-      { "name" : "Copper Coin", "amount": 2000 }, 
+      { "name" : "Cobre", "amount": 2000 }, 
       { "name" : "Aço Negro", "amount": 1000 }
     ]
   },
   {
     "name": "[R] Esfera Perversa",
-    "image": "./Icons/Evil_Minded_Orb.png",
+    "image": "./Icons/EN/Evil_Minded_Orb.png",
     "category": "Equipamentos",
     "rarity": "Raro",
     "recipe": [ 
       { "name" : "[UC] Esfera Perversa", "rarity": "Incomum", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 2 }, 
-      { "name" : "Copper Coin", "amount": 2000 }, 
+      { "name" : "Cobre", "amount": 2000 }, 
       { "name" : "Aço Negro", "amount": 1000 }
     ]
   },
   {
     "name": "[R] Quintessência",
-    "image": "./Icons/Quintessence.png",
+    "image": "./Icons/EN/Quintessence.png",
     "category": "Equipamentos",
     "rarity": "Raro",
     "recipe": [ 
       { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 2 }, 
-      { "name" : "Copper Coin", "amount": 2000 }, 
+      { "name" : "Cobre", "amount": 2000 }, 
       { "name" : "Aço Negro", "amount": 1000 }
     ]
   },
   {
     "name": "[R] Fragmento Iluminante",
-    "image": "./Icons/Illuminating_Fragment.png",
+    "image": "./Icons/EN/Illuminating_Fragment.png",
     "category": "Equipamentos",
     "rarity": "Raro",
     "recipe": [ 
       { "name" : "[UC] Fragmento Iluminante", "rarity": "Incomum", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 2 }, 
-      { "name" : "Copper Coin", "amount": 2000 }, 
+      { "name" : "Cobre", "amount": 2000 }, 
       { "name" : "Aço Negro", "amount": 1000 }
     ]
   },
   {
     "name": "[R] Pedra de Sombra Lunar",
-    "image": "./Icons/Moon_Shadow_Stone.png",
+    "image": "./Icons/EN/Moon_Shadow_Stone.png",
     "category": "Equipamentos",
     "rarity": "Raro",
     "recipe": [ 
       { "name" : "[UC] Pedra de Sombra Lunar", "rarity": "Incomum", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 2 }, 
-      { "name" : "Copper Coin", "amount": 2000 }, 
+      { "name" : "Cobre", "amount": 2000 }, 
       { "name" : "Aço Negro", "amount": 1000 }
     ]
   },
   {
     "name": "[R] Bugiganga de Exorcismo",
-    "image": "./Icons/Exorcism_Bauble.png",
+    "image": "./Icons/EN/Exorcism_Bauble.png",
     "category": "Equipamentos",
     "rarity": "Raro",
     "recipe": [ 
       { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 2 }, 
-      { "name" : "Copper Coin", "amount": 2000 }, 
+      { "name" : "Cobre", "amount": 2000 }, 
       { "name" : "Aço Negro", "amount": 1000 }
     ]
   },
   {
     "name": "[R] Pedra de Anima",
-    "image": "./Icons/Anima_Stone.png",
+    "image": "./Icons/EN/Anima_Stone.png",
     "category": "Equipamentos",
     "rarity": "Raro",
     "recipe": [ 
       { "name" : "[UC] Pedra de Anima", "rarity": "Incomum", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 2 }, 
-      { "name" : "Copper Coin", "amount": 2000 }, 
+      { "name" : "Cobre", "amount": 2000 }, 
       { "name" : "Aço Negro", "amount": 1000 }
     ]
   },
@@ -843,97 +843,97 @@
 
   {
     "name": "[E] Aço",
-    "image": "./Icons/Steel.png",
+    "image": "./Icons/EN/Steel.png",
     "category": "Equipamentos",
     "rarity": "Épico",
     "recipe": [ 
       { "name" : "[R] Aço", "rarity": "Raro", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 25 }, 
-      { "name" : "Copper Coin", "amount": 20000 }, 
+      { "name" : "Cobre", "amount": 20000 }, 
       { "name" : "Aço Negro", "amount": 5000 }
     ]
   },
   {
     "name": "[E] Platina",
-    "image": "./Icons/Platinum.png",
+    "image": "./Icons/EN/Platinum.png",
     "category": "Equipamentos",
     "rarity": "Épico",
     "recipe": [ 
       { "name" : "[R] Platina", "rarity": "Raro", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 25 }, 
-      { "name" : "Copper Coin", "amount": 20000 }, 
+      { "name" : "Cobre", "amount": 20000 }, 
       { "name" : "Aço Negro", "amount": 5000 }
     ]
   },
   {
     "name": "[E] Esfera Perversa",
-    "image": "./Icons/Evil_Minded_Orb.png",
+    "image": "./Icons/EN/Evil_Minded_Orb.png",
     "category": "Equipamentos",
     "rarity": "Épico",
     "recipe": [ 
       { "name" : "[R] Esfera Perversa", "rarity": "Raro", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 25 }, 
-      { "name" : "Copper Coin", "amount": 20000 }, 
+      { "name" : "Cobre", "amount": 20000 }, 
       { "name" : "Aço Negro", "amount": 5000 }
     ]
   },
   {
     "name": "[E] Quintessência",
-    "image": "./Icons/Quintessence.png",
+    "image": "./Icons/EN/Quintessence.png",
     "category": "Equipamentos",
     "rarity": "Épico",
     "recipe": [ 
       { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 25 }, 
-      { "name" : "Copper Coin", "amount": 20000 }, 
+      { "name" : "Cobre", "amount": 20000 }, 
       { "name" : "Aço Negro", "amount": 5000 }
     ]
   },
   {
     "name": "[E] Fragmento Iluminante",
-    "image": "./Icons/Illuminating_Fragment.png",
+    "image": "./Icons/EN/Illuminating_Fragment.png",
     "category": "Equipamentos",
     "rarity": "Épico",
     "recipe": [ 
       { "name" : "[R] Fragmento Iluminante", "rarity": "Raro", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 25 }, 
-      { "name" : "Copper Coin", "amount": 20000 }, 
+      { "name" : "Cobre", "amount": 20000 }, 
       { "name" : "Aço Negro", "amount": 5000 }
     ]
   },
   {
     "name": "[E] Pedra de Sombra Lunar",
-    "image": "./Icons/Moon_Shadow_Stone.png",
+    "image": "./Icons/EN/Moon_Shadow_Stone.png",
     "category": "Equipamentos",
     "rarity": "Épico",
     "recipe": [ 
       { "name" : "[R] Pedra de Sombra Lunar", "rarity": "Raro", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 25 }, 
-      { "name" : "Copper Coin", "amount": 20000 }, 
+      { "name" : "Cobre", "amount": 20000 }, 
       { "name" : "Aço Negro", "amount": 5000 }
     ]
   },
   {
     "name": "[E] Bugiganga de Exorcismo",
-    "image": "./Icons/Exorcism_Bauble.png",
+    "image": "./Icons/EN/Exorcism_Bauble.png",
     "category": "Equipamentos",
     "rarity": "Épico",
     "recipe": [ 
       { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 25 }, 
-      { "name" : "Copper Coin", "amount": 20000 }, 
+      { "name" : "Cobre", "amount": 20000 }, 
       { "name" : "Aço Negro", "amount": 5000 }
     ]
   },
   {
     "name": "[E] Pedra de Anima",
-    "image": "./Icons/Anima_Stone.png",
+    "image": "./Icons/EN/Anima_Stone.png",
     "category": "Equipamentos",
     "rarity": "Épico",
     "recipe": [ 
       { "name" : "[R] Pedra de Anima", "rarity": "Raro", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 25 }, 
-      { "name" : "Copper Coin", "amount": 20000 }, 
+      { "name" : "Cobre", "amount": 20000 }, 
       { "name" : "Aço Negro", "amount": 5000 }
     ]
   },
@@ -946,97 +946,97 @@
 
   {
     "name": "[L] Aço",
-    "image": "./Icons/Steel.png",
+    "image": "./Icons/EN/Steel.png",
     "category": "Equipamentos",
     "rarity": "Lendário",
     "recipe": [ 
       { "name" : "[E] Aço", "rarity": "Épico", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 125 }, 
-      { "name" : "Copper Coin", "amount": 100000 }, 
+      { "name" : "Cobre", "amount": 100000 }, 
       { "name" : "Aço Negro", "amount": 25000 }
     ]
   },
   {
     "name": "[L] Platina",
-    "image": "./Icons/Platinum.png",
+    "image": "./Icons/EN/Platinum.png",
     "category": "Equipamentos",
     "rarity": "Lendário",
     "recipe": [ 
       { "name" : "[E] Platina", "rarity": "Épico", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 125 }, 
-      { "name" : "Copper Coin", "amount": 100000 }, 
+      { "name" : "Cobre", "amount": 100000 }, 
       { "name" : "Aço Negro", "amount": 25000 }
     ]
   },
   {
     "name": "[L] Esfera Perversa",
-    "image": "./Icons/Evil_Minded_Orb.png",
+    "image": "./Icons/EN/Evil_Minded_Orb.png",
     "category": "Equipamentos",
     "rarity": "Lendário",
     "recipe": [ 
       { "name" : "[E] Esfera Perversa", "rarity": "Épico", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 125 }, 
-      { "name" : "Copper Coin", "amount": 100000 }, 
+      { "name" : "Cobre", "amount": 100000 }, 
       { "name" : "Aço Negro", "amount": 25000 }
     ]
   },
   {
     "name": "[L] Quintessência",
-    "image": "./Icons/Quintessence.png",
+    "image": "./Icons/EN/Quintessence.png",
     "category": "Equipamentos",
     "rarity": "Lendário",
     "recipe": [ 
       { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 125 }, 
-      { "name" : "Copper Coin", "amount": 100000 }, 
+      { "name" : "Cobre", "amount": 100000 }, 
       { "name" : "Aço Negro", "amount": 25000 }
     ]
   },
   {
     "name": "[L] Fragmento Iluminante",
-    "image": "./Icons/Illuminating_Fragment.png",
+    "image": "./Icons/EN/Illuminating_Fragment.png",
     "category": "Equipamentos",
     "rarity": "Lendário",
     "recipe": [ 
       { "name" : "[E] Fragmento Iluminante", "rarity": "Épico", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 125 }, 
-      { "name" : "Copper Coin", "amount": 100000 }, 
+      { "name" : "Cobre", "amount": 100000 }, 
       { "name" : "Aço Negro", "amount": 25000 }
     ]
   },
   {
     "name": "[L] Pedra de Sombra Lunar",
-    "image": "./Icons/Moon_Shadow_Stone.png",
+    "image": "./Icons/EN/Moon_Shadow_Stone.png",
     "category": "Equipamentos",
     "rarity": "Lendário",
     "recipe": [ 
       { "name" : "[E] Pedra de Sombra Lunar", "rarity": "Épico", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 125 }, 
-      { "name" : "Copper Coin", "amount": 100000 }, 
+      { "name" : "Cobre", "amount": 100000 }, 
       { "name" : "Aço Negro", "amount": 25000 }
     ]
   },
   {
     "name": "[L] Bugiganga de Exorcismo",
-    "image": "./Icons/Exorcism_Bauble.png",
+    "image": "./Icons/EN/Exorcism_Bauble.png",
     "category": "Equipamentos",
     "rarity": "Lendário",
     "recipe": [ 
       { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 125 }, 
-      { "name" : "Copper Coin", "amount": 100000 }, 
+      { "name" : "Cobre", "amount": 100000 }, 
       { "name" : "Aço Negro", "amount": 25000 }
     ]
   },
   {
     "name": "[L] Pedra de Anima",
-    "image": "./Icons/Anima_Stone.png",
+    "image": "./Icons/EN/Anima_Stone.png",
     "category": "Equipamentos",
     "rarity": "Lendário",
     "recipe": [ 
       { "name" : "[E] Pedra de Anima", "rarity": "Épico", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 25 }, 
-      { "name" : "Copper Coin", "amount": 100000 }, 
+      { "name" : "Cobre", "amount": 100000 }, 
       { "name" : "Aço Negro", "amount": 25000 }
     ]
   },
@@ -1088,45 +1088,45 @@
 
   {
     "name": "[UC] Pedra Mágica Lunar",
-    "image": "./Icons/Moonlight_Magic_Stone.png",
+    "image": "./Icons/EN/Moonlight_Magic_Stone.png",
     "category": "Promoções",
     "rarity": "Incomum",
     "recipe": [ 
       { "name" : "Pedra Mágica Lunar", "rarity": "Comum", "amount": 10 }, 
-      { "name" : "Copper Coin", "amount": 400 }, 
+      { "name" : "Cobre", "amount": 400 }, 
       { "name" : "Aço Negro", "amount": 200 }
     ]
   },
   {
     "name": "[UC] Pedra do Diabo Azul",
-    "image": "./Icons/Blue_Devil_Stone.png",
+    "image": "./Icons/EN/Blue_Devil_Stone.png",
     "category": "Promoções",
     "rarity": "Incomum",
     "recipe": [ 
       { "name" : "Pedra do Diabo Azul", "rarity": "Comum", "amount": 10 }, 
-      { "name" : "Copper Coin", "amount": 400 }, 
+      { "name" : "Cobre", "amount": 400 }, 
       { "name" : "Aço Negro", "amount": 200 }
     ]
   },
   {
     "name": "[UC] Água Purificada",
-    "image": "./Icons/Purified_Water.png",
+    "image": "./Icons/EN/Purified_Water.png",
     "category": "Promoções",
     "rarity": "Incomum",
     "recipe": [ 
       { "name" : "Água Purificada", "rarity": "Comum", "amount": 10 }, 
-      { "name" : "Copper Coin", "amount": 400 }, 
+      { "name" : "Cobre", "amount": 400 }, 
       { "name" : "Energia", "amount": 200 }
     ]
   },
   {
     "name": "[UC] Pílula de Virtude",
-    "image": "./Icons/Virtue_Pill.png",
+    "image": "./Icons/EN/Virtue_Pill.png",
     "category": "Promoções",
     "rarity": "Incomum",
     "recipe": [ 
       { "name" : "Pílula de Virtude", "rarity": "Comum", "amount": 10 }, 
-      { "name" : "Copper Coin", "amount": 400 }, 
+      { "name" : "Cobre", "amount": 400 }, 
       { "name" : "Energia", "amount": 200 }
     ]
   },
@@ -1139,49 +1139,49 @@
 
   {
     "name": "[R] Pedra Mágica Lunar",
-    "image": "./Icons/Moonlight_Magic_Stone.png",
+    "image": "./Icons/EN/Moonlight_Magic_Stone.png",
     "category": "Promoções",
     "rarity": "Raro",
     "recipe": [ 
       { "name" : "[UC] Pedra Mágica Lunar", "rarity": "Incomum", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 5 }, 
-      { "name" : "Copper Coin", "amount": 2000 }, 
+      { "name" : "Cobre", "amount": 2000 }, 
       { "name" : "Aço Negro", "amount": 1000 }
     ]
   },
   {
     "name": "[R] Pedra do Diabo Azul",
-    "image": "./Icons/Blue_Devil_Stone.png",
+    "image": "./Icons/EN/Blue_Devil_Stone.png",
     "category": "Promoções",
     "rarity": "Raro",
     "recipe": [ 
       { "name" : "[UC] Pedra do Diabo Azul", "rarity": "Incomum", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 5 }, 
-      { "name" : "Copper Coin", "amount": 2000 }, 
+      { "name" : "Cobre", "amount": 2000 }, 
       { "name" : "Aço Negro", "amount": 1000 }
     ]
   },
   {
     "name": "[R] Água Purificada",
-    "image": "./Icons/Purified_Water.png",
+    "image": "./Icons/EN/Purified_Water.png",
     "category": "Promoções",
     "rarity": "Raro",
     "recipe": [ 
       { "name" : "[UC] Água Purificada", "rarity": "Incomum", "amount": 10 }, 
       { "name" : "Elixir da Vida", "rarity": "Incomum", "amount": 10 }, 
-      { "name" : "Copper Coin", "amount": 2000 }, 
+      { "name" : "Cobre", "amount": 2000 }, 
       { "name" : "Energia", "amount": 1000 }
     ]
   },
   {
-    "name": "Rare Pílula de Virtude",
-    "image": "./Icons/Virtue_Pill.png",
+    "name": "Pílula de Virtude Rara",
+    "image": "./Icons/EN/Virtue_Pill.png",
     "category": "Promoções",
     "rarity": "Raro",
     "recipe": [ 
       { "name" : "[UC] Pílula de Virtude", "rarity": "Incomum", "amount": 10 }, 
       { "name" : "Elixir da Vida", "rarity": "Incomum", "amount": 10 }, 
-      { "name" : "Copper Coin", "amount": 2000 }, 
+      { "name" : "Cobre", "amount": 2000 }, 
       { "name" : "Energia", "amount": 1000 }
     ]
   },
@@ -1193,49 +1193,49 @@
 
   {
     "name": "[E] Pedra Mágica Lunar",
-    "image": "./Icons/Moonlight_Magic_Stone.png",
+    "image": "./Icons/EN/Moonlight_Magic_Stone.png",
     "category": "Promoções",
     "rarity": "Épico",
     "recipe": [ 
       { "name" : "[R] Pedra Mágica Lunar", "rarity": "Raro", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 20000 }, 
+      { "name" : "Cobre", "amount": 20000 }, 
       { "name" : "Aço Negro", "amount": 5000 }
     ]
   },
   {
     "name": "[E] Pedra do Diabo Azul",
-    "image": "./Icons/Blue_Devil_Stone.png",
+    "image": "./Icons/EN/Blue_Devil_Stone.png",
     "category": "Promoções",
     "rarity": "Épico",
     "recipe": [ 
       { "name" : "[R] Pedra do Diabo Azul", "rarity": "Raro", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 20 }, 
-      { "name" : "Copper Coin", "amount": 20000 }, 
+      { "name" : "Cobre", "amount": 20000 }, 
       { "name" : "Aço Negro", "amount": 5000 }
     ]
   },
   {
     "name": "[E] Água Purificada",
-    "image": "./Icons/Purified_Water.png",
+    "image": "./Icons/EN/Purified_Water.png",
     "category": "Promoções",
     "rarity": "Épico",
     "recipe": [ 
       { "name" : "[R] Água Purificada", "rarity": "Raro", "amount": 10 }, 
       { "name" : "Elixir da Vida", "rarity": "Incomum", "amount": 40 }, 
-      { "name" : "Copper Coin", "amount": 20000 }, 
+      { "name" : "Cobre", "amount": 20000 }, 
       { "name" : "Energia", "amount": 5000 }
     ]
   },
   {
-    "name": "Epic Pílula de Virtude",
-    "image": "./Icons/Virtue_Pill.png",
+    "name": "Pílula de Virtude Épica",
+    "image": "./Icons/EN/Virtue_Pill.png",
     "category": "Promoções",
     "rarity": "Épico",
     "recipe": [ 
-      { "name" : "Rare Pílula de Virtude", "rarity": "Raro", "amount": 10 }, 
+      { "name" : "Pílula de Virtude Rara", "rarity": "Raro", "amount": 10 }, 
       { "name" : "Elixir da Vida", "rarity": "Incomum", "amount": 40 }, 
-      { "name" : "Copper Coin", "amount": 20000 }, 
+      { "name" : "Cobre", "amount": 20000 }, 
       { "name" : "Energia", "amount": 5000 }
     ]
   },
@@ -1246,49 +1246,49 @@
 
   {
     "name": "[L] Pedra Mágica Lunar",
-    "image": "./Icons/Moonlight_Magic_Stone.png",
+    "image": "./Icons/EN/Moonlight_Magic_Stone.png",
     "category": "Promoções",
     "rarity": "Lendário",
     "recipe": [ 
       { "name" : "[E] Pedra Mágica Lunar", "rarity": "Épico", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 60 }, 
-      { "name" : "Copper Coin", "amount": 100000 }, 
+      { "name" : "Cobre", "amount": 100000 }, 
       { "name" : "Aço Negro", "amount": 25000 }
     ]
   },
   {
     "name": "[L] Pedra do Diabo Azul",
-    "image": "./Icons/Blue_Devil_Stone.png",
+    "image": "./Icons/EN/Blue_Devil_Stone.png",
     "category": "Promoções",
     "rarity": "Lendário",
     "recipe": [ 
       { "name" : "[E] Pedra do Diabo Azul", "rarity": "Épico", "amount": 10 }, 
       { "name" : "Pó Brilhante", "rarity": "Incomum", "amount": 60 }, 
-      { "name" : "Copper Coin", "amount": 100000 }, 
+      { "name" : "Cobre", "amount": 100000 }, 
       { "name" : "Aço Negro", "amount": 25000 }
     ]
   },
   {
     "name": "[L] Água Purificada",
-    "image": "./Icons/Purified_Water.png",
+    "image": "./Icons/EN/Purified_Water.png",
     "category": "Promoções",
     "rarity": "Lendário",
     "recipe": [ 
       { "name" : "[E] Água Purificada", "rarity": "Épico", "amount": 10 }, 
       { "name" : "Elixir da Vida", "rarity": "Incomum", "amount": 120 }, 
-      { "name" : "Copper Coin", "amount": 100000 }, 
+      { "name" : "Cobre", "amount": 100000 }, 
       { "name" : "Energia", "amount": 25000 }
     ]
   },
   {
-    "name": "Legendary Pílula de Virtude",
-    "image": "./Icons/Virtue_Pill.png",
+    "name": "Pílula de Virtude Lendária",
+    "image": "./Icons/EN/Virtue_Pill.png",
     "category": "Promoções",
     "rarity": "Lendário",
     "recipe": [ 
-      { "name" : "Epic Pílula de Virtude", "rarity": "Épico", "amount": 10 }, 
+      { "name" : "Pílula de Virtude Épica", "rarity": "Épico", "amount": 10 }, 
       { "name" : "Elixir da Vida", "rarity": "Incomum", "amount": 120 }, 
-      { "name" : "Copper Coin", "amount": 100000 }, 
+      { "name" : "Cobre", "amount": 100000 }, 
       { "name" : "Energia", "amount": 25000 }
     ]
   },
@@ -1375,7 +1375,7 @@
       { "name" : "[UC] Esfera Perversa", "rarity": "Incomum", "amount": 4 }, 
       { "name" : "[UC] Pedra de Sombra Lunar", "rarity": "Incomum", "amount": 1 }, 
       { "name" : "[UC] Garra de Dragão", "rarity": "Incomum", "amount": 1 }, 
-      { "name" : "Copper Coin", "amount": 1000 }, 
+      { "name" : "Cobre", "amount": 1000 }, 
       { "name" : "Aço Negro", "amount": 1000 }
     ]
   },
@@ -1402,7 +1402,7 @@
       { "name" : "[UC] Esfera Perversa", "rarity": "Incomum", "amount": 2 }, 
       { "name" : "[UC] Pedra de Sombra Lunar", "rarity": "Incomum", "amount": 2 }, 
       { "name" : "[UC] Garra de Dragão", "rarity": "Incomum", "amount": 1 }, 
-      { "name" : "Copper Coin", "amount": 1000 }, 
+      { "name" : "Cobre", "amount": 1000 }, 
       { "name" : "Aço Negro", "amount": 1000 }
     ]
   },
@@ -1429,7 +1429,7 @@
       { "name" : "[UC] Esfera Perversa", "rarity": "Incomum", "amount": 8 }, 
       { "name" : "[UC] Pedra de Sombra Lunar", "rarity": "Incomum", "amount": 2 }, 
       { "name" : "[UC] Garra de Dragão", "rarity": "Incomum", "amount": 2 }, 
-      { "name" : "Copper Coin", "amount": 7000 }, 
+      { "name" : "Cobre", "amount": 7000 }, 
       { "name" : "Aço Negro", "amount": 7000 }
     ]
   },
@@ -1456,7 +1456,7 @@
       { "name" : "[UC] Esfera Perversa", "rarity": "Incomum", "amount": 4 }, 
       { "name" : "[UC] Pedra de Sombra Lunar", "rarity": "Incomum", "amount": 4 }, 
       { "name" : "[UC] Garra de Dragão", "rarity": "Incomum", "amount": 2 }, 
-      { "name" : "Copper Coin", "amount": 7000 }, 
+      { "name" : "Cobre", "amount": 7000 }, 
       { "name" : "Aço Negro", "amount": 7000 }
     ]
   },
@@ -1483,7 +1483,7 @@
       { "name" : "[UC] Esfera Perversa", "rarity": "Incomum", "amount": 16 }, 
       { "name" : "[UC] Pedra de Sombra Lunar", "rarity": "Incomum", "amount": 4 }, 
       { "name" : "[UC] Garra de Dragão", "rarity": "Incomum", "amount": 4 }, 
-      { "name" : "Copper Coin", "amount": 24000 }, 
+      { "name" : "Cobre", "amount": 24000 }, 
       { "name" : "Aço Negro", "amount": 24000 }
     ]
   },
@@ -1510,7 +1510,7 @@
       { "name" : "[UC] Esfera Perversa", "rarity": "Incomum", "amount": 8 }, 
       { "name" : "[UC] Pedra de Sombra Lunar", "rarity": "Incomum", "amount": 8 }, 
       { "name" : "[UC] Garra de Dragão", "rarity": "Incomum", "amount": 4 }, 
-      { "name" : "Copper Coin", "amount": 24000 }, 
+      { "name" : "Cobre", "amount": 24000 }, 
       { "name" : "Aço Negro", "amount": 24000 }
     ]
   },
@@ -1537,7 +1537,7 @@
       { "name" : "[UC] Esfera Perversa", "rarity": "Incomum", "amount": 32 }, 
       { "name" : "[UC] Pedra de Sombra Lunar", "rarity": "Incomum", "amount": 8 }, 
       { "name" : "[UC] Garra de Dragão", "rarity": "Incomum", "amount": 8 }, 
-      { "name" : "Copper Coin", "amount": 63000 }, 
+      { "name" : "Cobre", "amount": 63000 }, 
       { "name" : "Aço Negro", "amount": 63000 }
     ]
   },
@@ -1564,7 +1564,7 @@
       { "name" : "[UC] Esfera Perversa", "rarity": "Incomum", "amount": 16 }, 
       { "name" : "[UC] Pedra de Sombra Lunar", "rarity": "Incomum", "amount": 16 }, 
       { "name" : "[UC] Garra de Dragão", "rarity": "Incomum", "amount": 8 }, 
-      { "name" : "Copper Coin", "amount": 63000 }, 
+      { "name" : "Cobre", "amount": 63000 }, 
       { "name" : "Aço Negro", "amount": 63000 }
     ]
   },
@@ -1597,7 +1597,7 @@
       { "name" : "[UC] Esfera Perversa", "rarity": "Incomum", "amount": 4 }, 
       { "name" : "[UC] Pedra de Sombra Lunar", "rarity": "Incomum", "amount": 1 }, 
       { "name" : "[UC] Escama de Dragão", "rarity": "Incomum", "amount": 1 }, 
-      { "name" : "Copper Coin", "amount": 1000 }, 
+      { "name" : "Cobre", "amount": 1000 }, 
       { "name" : "Aço Negro", "amount": 1000 }
     ]
   },
@@ -1624,7 +1624,7 @@
       { "name" : "[UC] Esfera Perversa", "rarity": "Incomum", "amount": 2 }, 
       { "name" : "[UC] Pedra de Sombra Lunar", "rarity": "Incomum", "amount": 2 }, 
       { "name" : "[UC] Escama de Dragão", "rarity": "Incomum", "amount": 1 }, 
-      { "name" : "Copper Coin", "amount": 1000 }, 
+      { "name" : "Cobre", "amount": 1000 }, 
       { "name" : "Aço Negro", "amount": 1000 }
     ]
   },
@@ -1651,7 +1651,7 @@
       { "name" : "[UC] Esfera Perversa", "rarity": "Incomum", "amount": 8 }, 
       { "name" : "[UC] Pedra de Sombra Lunar", "rarity": "Incomum", "amount": 2 }, 
       { "name" : "[UC] Escama de Dragão", "rarity": "Incomum", "amount": 2 }, 
-      { "name" : "Copper Coin", "amount": 7000 }, 
+      { "name" : "Cobre", "amount": 7000 }, 
       { "name" : "Aço Negro", "amount": 4000 }
     ]
   },
@@ -1678,7 +1678,7 @@
       { "name" : "[UC] Esfera Perversa", "rarity": "Incomum", "amount": 4 }, 
       { "name" : "[UC] Pedra de Sombra Lunar", "rarity": "Incomum", "amount": 4 }, 
       { "name" : "[UC] Escama de Dragão", "rarity": "Incomum", "amount": 2 }, 
-      { "name" : "Copper Coin", "amount": 7000 }, 
+      { "name" : "Cobre", "amount": 7000 }, 
       { "name" : "Aço Negro", "amount": 4000 }
     ]
   },
@@ -1705,7 +1705,7 @@
       { "name" : "[UC] Esfera Perversa", "rarity": "Incomum", "amount": 16 }, 
       { "name" : "[UC] Pedra de Sombra Lunar", "rarity": "Incomum", "amount": 4 }, 
       { "name" : "[UC] Escama de Dragão", "rarity": "Incomum", "amount": 4 }, 
-      { "name" : "Copper Coin", "amount": 24000 }, 
+      { "name" : "Cobre", "amount": 24000 }, 
       { "name" : "Aço Negro", "amount": 11000 }
     ]
   },
@@ -1732,7 +1732,7 @@
       { "name" : "[UC] Esfera Perversa", "rarity": "Incomum", "amount": 8 }, 
       { "name" : "[UC] Pedra de Sombra Lunar", "rarity": "Incomum", "amount": 8 }, 
       { "name" : "[UC] Escama de Dragão", "rarity": "Incomum", "amount": 4 }, 
-      { "name" : "Copper Coin", "amount": 24000 }, 
+      { "name" : "Cobre", "amount": 24000 }, 
       { "name" : "Aço Negro", "amount": 11000 }
     ]
   },
@@ -1759,7 +1759,7 @@
       { "name" : "[UC] Esfera Perversa", "rarity": "Incomum", "amount": 32 }, 
       { "name" : "[UC] Pedra de Sombra Lunar", "rarity": "Incomum", "amount": 8 }, 
       { "name" : "[UC] Escama de Dragão", "rarity": "Incomum", "amount": 8 }, 
-      { "name" : "Copper Coin", "amount": 63000 }, 
+      { "name" : "Cobre", "amount": 63000 }, 
       { "name" : "Aço Negro", "amount": 26000 }
     ]
   },
@@ -1786,7 +1786,7 @@
       { "name" : "[UC] Esfera Perversa", "rarity": "Incomum", "amount": 16 }, 
       { "name" : "[UC] Pedra de Sombra Lunar", "rarity": "Incomum", "amount": 16 }, 
       { "name" : "[UC] Escama de Dragão", "rarity": "Incomum", "amount": 8 }, 
-      { "name" : "Copper Coin", "amount": 63000 }, 
+      { "name" : "Cobre", "amount": 63000 }, 
       { "name" : "Aço Negro", "amount": 26000 }
     ]
   },
@@ -1838,7 +1838,7 @@
       { "name" : "[R] Esfera Perversa", "rarity": "Raro", "amount": 25 }, 
       { "name" : "[R] Pedra de Sombra Lunar", "rarity": "Raro", "amount": 25 }, 
       { "name" : "[R] Garra de Dragão", "rarity": "Raro", "amount": 1 }, 
-      { "name" : "Copper Coin", "amount": 50000 }, 
+      { "name" : "Cobre", "amount": 50000 }, 
       { "name" : "Aço Negro", "amount": 50000 }
     ]
   },
@@ -1865,7 +1865,7 @@
       { "name" : "[R] Esfera Perversa", "rarity": "Raro", "amount": 50 }, 
       { "name" : "[R] Pedra de Sombra Lunar", "rarity": "Raro", "amount": 50 }, 
       { "name" : "[R] Garra de Dragão", "rarity": "Raro", "amount": 2 }, 
-      { "name" : "Copper Coin", "amount": 200000 }, 
+      { "name" : "Cobre", "amount": 200000 }, 
       { "name" : "Aço Negro", "amount": 200000 }
     ]
   },
@@ -1892,7 +1892,7 @@
       { "name" : "[R] Esfera Perversa", "rarity": "Raro", "amount": 100 }, 
       { "name" : "[R] Pedra de Sombra Lunar", "rarity": "Raro", "amount": 100 }, 
       { "name" : "[R] Garra de Dragão", "rarity": "Raro", "amount": 4 }, 
-      { "name" : "Copper Coin", "amount": 550000 }, 
+      { "name" : "Cobre", "amount": 550000 }, 
       { "name" : "Aço Negro", "amount": 550000 }
     ]
   },
@@ -1919,7 +1919,7 @@
       { "name" : "[R] Esfera Perversa", "rarity": "Raro", "amount": 200 }, 
       { "name" : "[R] Pedra de Sombra Lunar", "rarity": "Raro", "amount": 200 }, 
       { "name" : "[R] Garra de Dragão", "rarity": "Raro", "amount": 8 }, 
-      { "name" : "Copper Coin", "amount": 1300000 }, 
+      { "name" : "Cobre", "amount": 1300000 }, 
       { "name" : "Aço Negro", "amount": 1300000 }
     ]
   },
@@ -1952,7 +1952,7 @@
       { "name" : "[R] Esfera Perversa", "rarity": "Raro", "amount": 25 }, 
       { "name" : "[R] Pedra de Sombra Lunar", "rarity": "Raro", "amount": 25 }, 
       { "name" : "[R] Escama de Dragão", "rarity": "Raro", "amount": 1 }, 
-      { "name" : "Copper Coin", "amount": 50000 }, 
+      { "name" : "Cobre", "amount": 50000 }, 
       { "name" : "Aço Negro", "amount": 10000 }
     ]
   },
@@ -1979,7 +1979,7 @@
       { "name" : "[R] Esfera Perversa", "rarity": "Raro", "amount": 50 }, 
       { "name" : "[R] Pedra de Sombra Lunar", "rarity": "Raro", "amount": 50 }, 
       { "name" : "[R] Escama de Dragão", "rarity": "Raro", "amount": 2 }, 
-      { "name" : "Copper Coin", "amount": 200000 }, 
+      { "name" : "Cobre", "amount": 200000 }, 
       { "name" : "Aço Negro", "amount": 35000 }
     ]
   },
@@ -2006,7 +2006,7 @@
       { "name" : "[R] Esfera Perversa", "rarity": "Raro", "amount": 100 }, 
       { "name" : "[R] Pedra de Sombra Lunar", "rarity": "Raro", "amount": 100 }, 
       { "name" : "[R] Escama de Dragão", "rarity": "Raro", "amount": 4 }, 
-      { "name" : "Copper Coin", "amount": 550000 }, 
+      { "name" : "Cobre", "amount": 550000 }, 
       { "name" : "Aço Negro", "amount": 90000 }
     ]
   },
@@ -2033,7 +2033,7 @@
       { "name" : "[R] Esfera Perversa", "rarity": "Raro", "amount": 200 }, 
       { "name" : "[R] Pedra de Sombra Lunar", "rarity": "Raro", "amount": 200 }, 
       { "name" : "[R] Escama de Dragão", "rarity": "Raro", "amount": 8 }, 
-      { "name" : "Copper Coin", "amount": 1300000 }, 
+      { "name" : "Cobre", "amount": 1300000 }, 
       { "name" : "Aço Negro", "amount": 205000 }
     ]
   },
@@ -2068,7 +2068,7 @@
       { "name" : "[E] Esfera Perversa", "rarity": "Épico", "amount": 100 }, 
       { "name" : "[E] Pedra de Sombra Lunar", "rarity": "Épico", "amount": 100 }, 
       { "name" : "[E] Garra de Dragão", "rarity": "Épico", "amount": 1 }, 
-      { "name" : "Copper Coin", "amount": 800000 }, 
+      { "name" : "Cobre", "amount": 800000 }, 
       { "name" : "Aço Negro", "amount": 800000 }
     ]
   },
@@ -2095,7 +2095,7 @@
       { "name" : "[E] Esfera Perversa", "rarity": "Épico", "amount": 200 }, 
       { "name" : "[E] Pedra de Sombra Lunar", "rarity": "Épico", "amount": 200 }, 
       { "name" : "[E] Garra de Dragão", "rarity": "Épico", "amount": 2 }, 
-      { "name" : "Copper Coin", "amount": 3200000 }, 
+      { "name" : "Cobre", "amount": 3200000 }, 
       { "name" : "Aço Negro", "amount": 3200000 }
     ]
   },
@@ -2122,7 +2122,7 @@
       { "name" : "[E] Esfera Perversa", "rarity": "Épico", "amount": 400 }, 
       { "name" : "[E] Pedra de Sombra Lunar", "rarity": "Épico", "amount": 400 }, 
       { "name" : "[E] Garra de Dragão", "rarity": "Épico", "amount": 4 }, 
-      { "name" : "Copper Coin", "amount": 8800000 }, 
+      { "name" : "Cobre", "amount": 8800000 }, 
       { "name" : "Aço Negro", "amount": 8800000 }
     ]
   },
@@ -2149,7 +2149,7 @@
       { "name" : "[E] Esfera Perversa", "rarity": "Épico", "amount": 800 }, 
       { "name" : "[E] Pedra de Sombra Lunar", "rarity": "Épico", "amount": 800 }, 
       { "name" : "[E] Garra de Dragão", "rarity": "Épico", "amount": 8 }, 
-      { "name" : "Copper Coin", "amount": 20800000 }, 
+      { "name" : "Cobre", "amount": 20800000 }, 
       { "name" : "Aço Negro", "amount": 20800000 }
     ]
   },
@@ -2180,7 +2180,7 @@
       { "name" : "[E] Esfera Perversa", "rarity": "Épico", "amount": 100 }, 
       { "name" : "[E] Pedra de Sombra Lunar", "rarity": "Épico", "amount": 100 }, 
       { "name" : "[E] Escama de Dragão", "rarity": "Épico", "amount": 1 }, 
-      { "name" : "Copper Coin", "amount": 800000 }, 
+      { "name" : "Cobre", "amount": 800000 }, 
       { "name" : "Aço Negro", "amount": 100000 }
     ]
   },
@@ -2207,7 +2207,7 @@
       { "name" : "[E] Esfera Perversa", "rarity": "Épico", "amount": 200 }, 
       { "name" : "[E] Pedra de Sombra Lunar", "rarity": "Épico", "amount": 200 }, 
       { "name" : "[E] Escama de Dragão", "rarity": "Épico", "amount": 2 }, 
-      { "name" : "Copper Coin", "amount": 3200000 }, 
+      { "name" : "Cobre", "amount": 3200000 }, 
       { "name" : "Aço Negro", "amount": 400000 }
     ]
   },
@@ -2234,7 +2234,7 @@
       { "name" : "[E] Esfera Perversa", "rarity": "Épico", "amount": 400 }, 
       { "name" : "[E] Pedra de Sombra Lunar", "rarity": "Épico", "amount": 400 }, 
       { "name" : "[E] Escama de Dragão", "rarity": "Épico", "amount": 4 }, 
-      { "name" : "Copper Coin", "amount": 8800000 }, 
+      { "name" : "Cobre", "amount": 8800000 }, 
       { "name" : "Aço Negro", "amount": 1600000 }
     ]
   },
@@ -2261,7 +2261,7 @@
       { "name" : "[E] Esfera Perversa", "rarity": "Épico", "amount": 800 }, 
       { "name" : "[E] Pedra de Sombra Lunar", "rarity": "Épico", "amount": 800 }, 
       { "name" : "[E] Escama de Dragão", "rarity": "Épico", "amount": 8 }, 
-      { "name" : "Copper Coin", "amount": 20800000 }, 
+      { "name" : "Cobre", "amount": 20800000 }, 
       { "name" : "Aço Negro", "amount": 3200000 }
     ]
   },
@@ -2297,7 +2297,7 @@
       { "name" : "[L] Esfera Perversa", "rarity": "Lendário", "amount": 100 }, 
       { "name" : "[L] Pedra de Sombra Lunar", "rarity": "Lendário", "amount": 100 }, 
       { "name" : "[L] Garra de Dragão", "rarity": "Lendário", "amount": 1 }, 
-      { "name" : "Copper Coin", "amount": 10000000 }, 
+      { "name" : "Cobre", "amount": 10000000 }, 
       { "name" : "Aço Negro", "amount": 10000000 }
     ]
   },
@@ -2324,7 +2324,7 @@
       { "name" : "[L] Esfera Perversa", "rarity": "Lendário", "amount": 200 }, 
       { "name" : "[L] Pedra de Sombra Lunar", "rarity": "Lendário", "amount": 200 }, 
       { "name" : "[L] Garra de Dragão", "rarity": "Lendário", "amount": 2 }, 
-      { "name" : "Copper Coin", "amount": 40000000 }, 
+      { "name" : "Cobre", "amount": 40000000 }, 
       { "name" : "Aço Negro", "amount": 40000000 }
     ]
   },
@@ -2351,7 +2351,7 @@
       { "name" : "[L] Esfera Perversa", "rarity": "Lendário", "amount": 400 }, 
       { "name" : "[L] Pedra de Sombra Lunar", "rarity": "Lendário", "amount": 400 }, 
       { "name" : "[L] Garra de Dragão", "rarity": "Lendário", "amount": 4 }, 
-      { "name" : "Copper Coin", "amount": 110000000 }, 
+      { "name" : "Cobre", "amount": 110000000 }, 
       { "name" : "Aço Negro", "amount": 110000000 }
     ]
   },
@@ -2378,7 +2378,7 @@
       { "name" : "[L] Esfera Perversa", "rarity": "Lendário", "amount": 800 }, 
       { "name" : "[L] Pedra de Sombra Lunar", "rarity": "Lendário", "amount": 800 }, 
       { "name" : "[L] Garra de Dragão", "rarity": "Lendário", "amount": 8 }, 
-      { "name" : "Copper Coin", "amount": 260000000 }, 
+      { "name" : "Cobre", "amount": 260000000 }, 
       { "name" : "Aço Negro", "amount": 260000000 }
     ]
   },
@@ -2408,7 +2408,7 @@
       { "name" : "[L] Esfera Perversa", "rarity": "Lendário", "amount": 100 }, 
       { "name" : "[L] Pedra de Sombra Lunar", "rarity": "Lendário", "amount": 100 }, 
       { "name" : "[L] Escama de Dragão", "rarity": "Lendário", "amount": 1 }, 
-      { "name" : "Copper Coin", "amount": 10000000 }, 
+      { "name" : "Cobre", "amount": 10000000 }, 
       { "name" : "Aço Negro", "amount": 1000000 }
     ]
   },
@@ -2435,7 +2435,7 @@
       { "name" : "[L] Esfera Perversa", "rarity": "Lendário", "amount": 200 }, 
       { "name" : "[L] Pedra de Sombra Lunar", "rarity": "Lendário", "amount": 200 }, 
       { "name" : "[L] Escama de Dragão", "rarity": "Lendário", "amount": 2 }, 
-      { "name" : "Copper Coin", "amount": 40000000 }, 
+      { "name" : "Cobre", "amount": 40000000 }, 
       { "name" : "Aço Negro", "amount": 4000000 }
     ]
   },
@@ -2462,7 +2462,7 @@
       { "name" : "[L] Esfera Perversa", "rarity": "Lendário", "amount": 400 }, 
       { "name" : "[L] Pedra de Sombra Lunar", "rarity": "Lendário", "amount": 400 }, 
       { "name" : "[L] Escama de Dragão", "rarity": "Lendário", "amount": 4 }, 
-      { "name" : "Copper Coin", "amount": 110000000 }, 
+      { "name" : "Cobre", "amount": 110000000 }, 
       { "name" : "Aço Negro", "amount": 11000000 }
     ]
   },
@@ -2489,7 +2489,7 @@
       { "name" : "[L] Esfera Perversa", "rarity": "Lendário", "amount": 800 }, 
       { "name" : "[L] Pedra de Sombra Lunar", "rarity": "Lendário", "amount": 800 }, 
       { "name" : "[L] Escama de Dragão", "rarity": "Lendário", "amount": 8 }, 
-      { "name" : "Copper Coin", "amount": 260000000 }, 
+      { "name" : "Cobre", "amount": 260000000 }, 
       { "name" : "Aço Negro", "amount": 26000000 }
     ]
   },
@@ -2605,7 +2605,7 @@
       { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 2 }, 
       { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 1 }, 
       { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 1 }, 
-      { "name" : "Copper Coin", "amount": 500 }, 
+      { "name" : "Cobre", "amount": 500 }, 
       { "name" : "Aço Negro", "amount": 500 }
     ]
   },
@@ -2632,7 +2632,7 @@
       { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 1 }, 
       { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 2 }, 
       { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 1 }, 
-      { "name" : "Copper Coin", "amount": 500 }, 
+      { "name" : "Cobre", "amount": 500 }, 
       { "name" : "Aço Negro", "amount": 500 }
     ]
   },
@@ -2659,7 +2659,7 @@
       { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 4 }, 
       { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 2 }, 
       { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 2 }, 
-      { "name" : "Copper Coin", "amount": 3500 }, 
+      { "name" : "Cobre", "amount": 3500 }, 
       { "name" : "Aço Negro", "amount": 2000 }
     ]
   },
@@ -2686,7 +2686,7 @@
       { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 2 }, 
       { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 4 }, 
       { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 2 }, 
-      { "name" : "Copper Coin", "amount": 3500 }, 
+      { "name" : "Cobre", "amount": 3500 }, 
       { "name" : "Aço Negro", "amount": 2000 }
     ]
   },
@@ -2713,7 +2713,7 @@
       { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 8 }, 
       { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 4 }, 
       { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 4 }, 
-      { "name" : "Copper Coin", "amount": 12000 }, 
+      { "name" : "Cobre", "amount": 12000 }, 
       { "name" : "Aço Negro", "amount": 5500 }
     ]
   },
@@ -2740,7 +2740,7 @@
       { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 4 }, 
       { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 8 }, 
       { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 4 }, 
-      { "name" : "Copper Coin", "amount": 12000 }, 
+      { "name" : "Cobre", "amount": 12000 }, 
       { "name" : "Aço Negro", "amount": 5500 }
     ]
   },
@@ -2767,7 +2767,7 @@
       { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 16 }, 
       { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 8 }, 
       { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 8 }, 
-      { "name" : "Copper Coin", "amount": 31500 }, 
+      { "name" : "Cobre", "amount": 31500 }, 
       { "name" : "Aço Negro", "amount": 13000 }
     ]
   },
@@ -2794,7 +2794,7 @@
       { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 8 }, 
       { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 16 }, 
       { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 8 }, 
-      { "name" : "Copper Coin", "amount": 31500 }, 
+      { "name" : "Cobre", "amount": 31500 }, 
       { "name" : "Aço Negro", "amount": 13000 }
     ]
   },
@@ -2827,7 +2827,7 @@
       { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 25 }, 
       { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 25 }, 
       { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 1 }, 
-      { "name" : "Copper Coin", "amount": 25000 }, 
+      { "name" : "Cobre", "amount": 25000 }, 
       { "name" : "Aço Negro", "amount": 5000 }
     ]
   },
@@ -2854,7 +2854,7 @@
       { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 25 }, 
       { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 25 }, 
       { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 1 }, 
-      { "name" : "Copper Coin", "amount": 25000 }, 
+      { "name" : "Cobre", "amount": 25000 }, 
       { "name" : "Aço Negro", "amount": 5000 }
     ]
   },
@@ -2881,7 +2881,7 @@
       { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 50 }, 
       { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 50 }, 
       { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 2 }, 
-      { "name" : "Copper Coin", "amount": 100000 }, 
+      { "name" : "Cobre", "amount": 100000 }, 
       { "name" : "Aço Negro", "amount": 17500 }
     ]
   },
@@ -2908,7 +2908,7 @@
       { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 50 }, 
       { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 50 }, 
       { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 2 }, 
-      { "name" : "Copper Coin", "amount": 100000 }, 
+      { "name" : "Cobre", "amount": 100000 }, 
       { "name" : "Aço Negro", "amount": 17500 }
     ]
   },
@@ -2935,7 +2935,7 @@
       { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 100 }, 
       { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 100 }, 
       { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 4 }, 
-      { "name" : "Copper Coin", "amount": 375000 }, 
+      { "name" : "Cobre", "amount": 375000 }, 
       { "name" : "Aço Negro", "amount": 45000 }
     ]
   },
@@ -2962,7 +2962,7 @@
       { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 100 }, 
       { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 100 }, 
       { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 4 }, 
-      { "name" : "Copper Coin", "amount": 375000 }, 
+      { "name" : "Cobre", "amount": 375000 }, 
       { "name" : "Aço Negro", "amount": 45000 }
     ]
   },
@@ -2989,7 +2989,7 @@
       { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 200 }, 
       { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 200 }, 
       { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 8 }, 
-      { "name" : "Copper Coin", "amount": 850000 }, 
+      { "name" : "Cobre", "amount": 850000 }, 
       { "name" : "Aço Negro", "amount": 102500 }
     ]
   },
@@ -3016,7 +3016,7 @@
       { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 200 }, 
       { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 200 }, 
       { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 8 }, 
-      { "name" : "Copper Coin", "amount": 850000 }, 
+      { "name" : "Cobre", "amount": 850000 }, 
       { "name" : "Aço Negro", "amount": 102500 }
     ]
   },
@@ -3058,7 +3058,7 @@
       { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 100 }, 
       { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 100 }, 
       { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 1 }, 
-      { "name" : "Copper Coin", "amount": 400000 }, 
+      { "name" : "Cobre", "amount": 400000 }, 
       { "name" : "Aço Negro", "amount": 50000 }
     ]
   },
@@ -3085,7 +3085,7 @@
       { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 100 }, 
       { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 100 }, 
       { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 1 }, 
-      { "name" : "Copper Coin", "amount": 400000 }, 
+      { "name" : "Cobre", "amount": 400000 }, 
       { "name" : "Aço Negro", "amount": 50000 }
     ]
   },
@@ -3112,7 +3112,7 @@
       { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 200 }, 
       { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 200 }, 
       { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 2 }, 
-      { "name" : "Copper Coin", "amount": 1600000 }, 
+      { "name" : "Cobre", "amount": 1600000 }, 
       { "name" : "Aço Negro", "amount": 200000 }
     ]
   },
@@ -3139,7 +3139,7 @@
       { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 200 }, 
       { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 200 }, 
       { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 2 }, 
-      { "name" : "Copper Coin", "amount": 1600000 }, 
+      { "name" : "Cobre", "amount": 1600000 }, 
       { "name" : "Aço Negro", "amount": 200000 }
     ]
   },
@@ -3166,7 +3166,7 @@
       { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 400 }, 
       { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 400 }, 
       { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 4 }, 
-      { "name" : "Copper Coin", "amount": 4400000 }, 
+      { "name" : "Cobre", "amount": 4400000 }, 
       { "name" : "Aço Negro", "amount": 550000 }
     ]
   },
@@ -3193,7 +3193,7 @@
       { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 400 }, 
       { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 400 }, 
       { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 4 }, 
-      { "name" : "Copper Coin", "amount": 4400000 }, 
+      { "name" : "Cobre", "amount": 4400000 }, 
       { "name" : "Aço Negro", "amount": 550000 }
     ]
   },
@@ -3220,7 +3220,7 @@
       { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 800 }, 
       { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 800 }, 
       { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 8 }, 
-      { "name" : "Copper Coin", "amount": 10400000 }, 
+      { "name" : "Cobre", "amount": 10400000 }, 
       { "name" : "Aço Negro", "amount": 1300000 }
     ]
   },
@@ -3247,7 +3247,7 @@
       { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 800 }, 
       { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 800 }, 
       { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 8 }, 
-      { "name" : "Copper Coin", "amount": 10400000 }, 
+      { "name" : "Cobre", "amount": 10400000 }, 
       { "name" : "Aço Negro", "amount": 1300000 }
     ]
   },
@@ -3280,7 +3280,7 @@
       { "name" : "[L] Quintessência", "rarity": "Lendário", "amount": 100 }, 
       { "name" : "[L] Bugiganga de Exorcismo", "rarity": "Lendário", "amount": 100 }, 
       { "name" : "[L] Couro de Dragão", "rarity": "Lendário", "amount": 1 }, 
-      { "name" : "Copper Coin", "amount": 5000000 }, 
+      { "name" : "Cobre", "amount": 5000000 }, 
       { "name" : "Aço Negro", "amount": 500000 }
     ]
   },
@@ -3307,7 +3307,7 @@
       { "name" : "[L] Quintessência", "rarity": "Lendário", "amount": 200 }, 
       { "name" : "[L] Bugiganga de Exorcismo", "rarity": "Lendário", "amount": 200 }, 
       { "name" : "[L] Couro de Dragão", "rarity": "Lendário", "amount": 2 }, 
-      { "name" : "Copper Coin", "amount": 20000000 }, 
+      { "name" : "Cobre", "amount": 20000000 }, 
       { "name" : "Aço Negro", "amount": 2000000 }
     ]
   },
@@ -3334,7 +3334,7 @@
       { "name" : "[L] Quintessência", "rarity": "Lendário", "amount": 400 }, 
       { "name" : "[L] Bugiganga de Exorcismo", "rarity": "Lendário", "amount": 400 }, 
       { "name" : "[L] Couro de Dragão", "rarity": "Lendário", "amount": 4 }, 
-      { "name" : "Copper Coin", "amount": 55000000 }, 
+      { "name" : "Cobre", "amount": 55000000 }, 
       { "name" : "Aço Negro", "amount": 5500000 }
     ]
   },
@@ -3361,7 +3361,7 @@
       { "name" : "[L] Quintessência", "rarity": "Lendário", "amount": 800 }, 
       { "name" : "[L] Bugiganga de Exorcismo", "rarity": "Lendário", "amount": 800 }, 
       { "name" : "[L] Couro de Dragão", "rarity": "Lendário", "amount": 8 }, 
-      { "name" : "Copper Coin", "amount": 130000000 }, 
+      { "name" : "Cobre", "amount": 130000000 }, 
       { "name" : "Aço Negro", "amount": 13000000 }
     ]
   },
@@ -3423,7 +3423,7 @@
         { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 2 }, 
         { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 1 }, 
         { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 1 }, 
-        { "name" : "Copper Coin", "amount": 500 }, 
+        { "name" : "Cobre", "amount": 500 }, 
         { "name" : "Aço Negro", "amount": 500 }
     ]
     },
@@ -3450,7 +3450,7 @@
         { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 1 }, 
         { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 2 }, 
         { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 1 }, 
-        { "name" : "Copper Coin", "amount": 500 }, 
+        { "name" : "Cobre", "amount": 500 }, 
         { "name" : "Aço Negro", "amount": 500 }
     ]
     },
@@ -3477,7 +3477,7 @@
         { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 4 }, 
         { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 2 }, 
         { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 2 }, 
-        { "name" : "Copper Coin", "amount": 3500 }, 
+        { "name" : "Cobre", "amount": 3500 }, 
         { "name" : "Aço Negro", "amount": 2000 }
     ]
     },
@@ -3504,7 +3504,7 @@
         { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 2 }, 
         { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 4 }, 
         { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 2 }, 
-        { "name" : "Copper Coin", "amount": 3500 }, 
+        { "name" : "Cobre", "amount": 3500 }, 
         { "name" : "Aço Negro", "amount": 2000 }
     ]
     },
@@ -3531,7 +3531,7 @@
         { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 8 }, 
         { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 4 }, 
         { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 4 }, 
-        { "name" : "Copper Coin", "amount": 12000 }, 
+        { "name" : "Cobre", "amount": 12000 }, 
         { "name" : "Aço Negro", "amount": 5500 }
     ]
     },
@@ -3558,7 +3558,7 @@
         { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 4 }, 
         { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 8 }, 
         { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 4 }, 
-        { "name" : "Copper Coin", "amount": 12000 }, 
+        { "name" : "Cobre", "amount": 12000 }, 
         { "name" : "Aço Negro", "amount": 5500 }
     ]
     },
@@ -3585,7 +3585,7 @@
         { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 16 }, 
         { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 8 }, 
         { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 8 }, 
-        { "name" : "Copper Coin", "amount": 31500 }, 
+        { "name" : "Cobre", "amount": 31500 }, 
         { "name" : "Aço Negro", "amount": 13000 }
     ]
     },
@@ -3612,7 +3612,7 @@
         { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 8 }, 
         { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 16 }, 
         { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 8 }, 
-        { "name" : "Copper Coin", "amount": 31500 }, 
+        { "name" : "Cobre", "amount": 31500 }, 
         { "name" : "Aço Negro", "amount": 13000 }
     ]
     },
@@ -3645,7 +3645,7 @@
         { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 25 }, 
         { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 25 }, 
         { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 1 }, 
-        { "name" : "Copper Coin", "amount": 25000 }, 
+        { "name" : "Cobre", "amount": 25000 }, 
         { "name" : "Aço Negro", "amount": 5000 }
     ]
     },
@@ -3672,7 +3672,7 @@
         { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 25 }, 
         { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 25 }, 
         { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 1 }, 
-        { "name" : "Copper Coin", "amount": 25000 }, 
+        { "name" : "Cobre", "amount": 25000 }, 
         { "name" : "Aço Negro", "amount": 5000 }
     ]
     },
@@ -3699,7 +3699,7 @@
         { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 50 }, 
         { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 50 }, 
         { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 2 }, 
-        { "name" : "Copper Coin", "amount": 100000 }, 
+        { "name" : "Cobre", "amount": 100000 }, 
         { "name" : "Aço Negro", "amount": 17500 }
     ]
     },
@@ -3726,7 +3726,7 @@
         { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 50 }, 
         { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 50 }, 
         { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 2 }, 
-        { "name" : "Copper Coin", "amount": 100000 }, 
+        { "name" : "Cobre", "amount": 100000 }, 
         { "name" : "Aço Negro", "amount": 17500 }
     ]
     },
@@ -3753,7 +3753,7 @@
         { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 100 }, 
         { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 100 }, 
         { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 4 }, 
-        { "name" : "Copper Coin", "amount": 375000 }, 
+        { "name" : "Cobre", "amount": 375000 }, 
         { "name" : "Aço Negro", "amount": 45000 }
     ]
     },
@@ -3780,7 +3780,7 @@
         { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 100 }, 
         { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 100 }, 
         { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 4 }, 
-        { "name" : "Copper Coin", "amount": 375000 }, 
+        { "name" : "Cobre", "amount": 375000 }, 
         { "name" : "Aço Negro", "amount": 45000 }
     ]
     },
@@ -3807,7 +3807,7 @@
         { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 200 }, 
         { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 200 }, 
         { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 8 }, 
-        { "name" : "Copper Coin", "amount": 850000 }, 
+        { "name" : "Cobre", "amount": 850000 }, 
         { "name" : "Aço Negro", "amount": 102500 }
     ]
     },
@@ -3834,7 +3834,7 @@
         { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 200 }, 
         { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 200 }, 
         { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 8 }, 
-        { "name" : "Copper Coin", "amount": 850000 }, 
+        { "name" : "Cobre", "amount": 850000 }, 
         { "name" : "Aço Negro", "amount": 102500 }
     ]
     },
@@ -3876,7 +3876,7 @@
         { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 100 }, 
         { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 100 }, 
         { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 1 }, 
-        { "name" : "Copper Coin", "amount": 400000 }, 
+        { "name" : "Cobre", "amount": 400000 }, 
         { "name" : "Aço Negro", "amount": 50000 }
     ]
     },
@@ -3903,7 +3903,7 @@
         { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 100 }, 
         { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 100 }, 
         { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 1 }, 
-        { "name" : "Copper Coin", "amount": 400000 }, 
+        { "name" : "Cobre", "amount": 400000 }, 
         { "name" : "Aço Negro", "amount": 50000 }
     ]
     },
@@ -3930,7 +3930,7 @@
         { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 200 }, 
         { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 200 }, 
         { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 2 }, 
-        { "name" : "Copper Coin", "amount": 1600000 }, 
+        { "name" : "Cobre", "amount": 1600000 }, 
         { "name" : "Aço Negro", "amount": 200000 }
     ]
     },
@@ -3957,7 +3957,7 @@
         { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 200 }, 
         { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 200 }, 
         { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 2 }, 
-        { "name" : "Copper Coin", "amount": 1600000 }, 
+        { "name" : "Cobre", "amount": 1600000 }, 
         { "name" : "Aço Negro", "amount": 200000 }
     ]
     },
@@ -3984,7 +3984,7 @@
         { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 400 }, 
         { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 400 }, 
         { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 4 }, 
-        { "name" : "Copper Coin", "amount": 4400000 }, 
+        { "name" : "Cobre", "amount": 4400000 }, 
         { "name" : "Aço Negro", "amount": 550000 }
     ]
     },
@@ -4011,7 +4011,7 @@
         { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 400 }, 
         { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 400 }, 
         { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 4 }, 
-        { "name" : "Copper Coin", "amount": 4400000 }, 
+        { "name" : "Cobre", "amount": 4400000 }, 
         { "name" : "Aço Negro", "amount": 550000 }
     ]
     },
@@ -4038,7 +4038,7 @@
         { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 800 }, 
         { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 800 }, 
         { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 8 }, 
-        { "name" : "Copper Coin", "amount": 10400000 }, 
+        { "name" : "Cobre", "amount": 10400000 }, 
         { "name" : "Aço Negro", "amount": 1300000 }
     ]
     },
@@ -4065,7 +4065,7 @@
         { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 800 }, 
         { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 800 }, 
         { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 8 }, 
-        { "name" : "Copper Coin", "amount": 10400000 }, 
+        { "name" : "Cobre", "amount": 10400000 }, 
         { "name" : "Aço Negro", "amount": 1300000 }
     ]
     },
@@ -4098,7 +4098,7 @@
         { "name" : "[L] Quintessência", "rarity": "Lendário", "amount": 100 }, 
         { "name" : "[L] Bugiganga de Exorcismo", "rarity": "Lendário", "amount": 100 }, 
         { "name" : "[L] Couro de Dragão", "rarity": "Lendário", "amount": 1 }, 
-        { "name" : "Copper Coin", "amount": 5000000 }, 
+        { "name" : "Cobre", "amount": 5000000 }, 
         { "name" : "Aço Negro", "amount": 500000 }
     ]
     },
@@ -4125,7 +4125,7 @@
         { "name" : "[L] Quintessência", "rarity": "Lendário", "amount": 200 }, 
         { "name" : "[L] Bugiganga de Exorcismo", "rarity": "Lendário", "amount": 200 }, 
         { "name" : "[L] Couro de Dragão", "rarity": "Lendário", "amount": 2 }, 
-        { "name" : "Copper Coin", "amount": 20000000 }, 
+        { "name" : "Cobre", "amount": 20000000 }, 
         { "name" : "Aço Negro", "amount": 2000000 }
     ]
     },
@@ -4152,7 +4152,7 @@
         { "name" : "[L] Quintessência", "rarity": "Lendário", "amount": 400 }, 
         { "name" : "[L] Bugiganga de Exorcismo", "rarity": "Lendário", "amount": 400 }, 
         { "name" : "[L] Couro de Dragão", "rarity": "Lendário", "amount": 4 }, 
-        { "name" : "Copper Coin", "amount": 55000000 }, 
+        { "name" : "Cobre", "amount": 55000000 }, 
         { "name" : "Aço Negro", "amount": 5500000 }
     ]
     },
@@ -4179,7 +4179,7 @@
           { "name" : "[L] Quintessência", "rarity": "Lendário", "amount": 800 }, 
           { "name" : "[L] Bugiganga de Exorcismo", "rarity": "Lendário", "amount": 800 }, 
           { "name" : "[L] Couro de Dragão", "rarity": "Lendário", "amount": 8 }, 
-          { "name" : "Copper Coin", "amount": 130000000 }, 
+          { "name" : "Cobre", "amount": 130000000 }, 
           { "name" : "Aço Negro", "amount": 13000000 }
       ]
     },
@@ -4257,7 +4257,7 @@
         { "name" : "[UC] Fragmento Iluminante", "rarity": "Incomum", "amount": 4 }, 
         { "name" : "[UC] Pedra de Anima", "rarity": "Incomum", "amount": 1 }, 
         { "name" : "[UC] Dragon Horn", "rarity": "Incomum", "amount": 1 }, 
-        { "name" : "Copper Coin", "amount": 1000 }, 
+        { "name" : "Cobre", "amount": 1000 }, 
         { "name" : "Aço Negro", "amount": 1000 }
       ]
     },
@@ -4272,7 +4272,7 @@
         { "name" : "[UC] Fragmento Iluminante", "rarity": "Incomum", "amount": 2 }, 
         { "name" : "[UC] Pedra de Anima", "rarity": "Incomum", "amount": 2 }, 
         { "name" : "[UC] Dragon Horn", "rarity": "Incomum", "amount": 1 }, 
-        { "name" : "Copper Coin", "amount": 1000 }, 
+        { "name" : "Cobre", "amount": 1000 }, 
         { "name" : "Aço Negro", "amount": 1000 }
       ]
     },
@@ -4287,7 +4287,7 @@
         { "name" : "[UC] Fragmento Iluminante", "rarity": "Incomum", "amount": 8 }, 
         { "name" : "[UC] Pedra de Anima", "rarity": "Incomum", "amount": 2 }, 
         { "name" : "[UC] Dragon Horn", "rarity": "Incomum", "amount": 2 }, 
-        { "name" : "Copper Coin", "amount": 7000 }, 
+        { "name" : "Cobre", "amount": 7000 }, 
         { "name" : "Aço Negro", "amount": 4000 }
       ]
     },
@@ -4302,7 +4302,7 @@
         { "name" : "[UC] Fragmento Iluminante", "rarity": "Incomum", "amount": 4 }, 
         { "name" : "[UC] Pedra de Anima", "rarity": "Incomum", "amount": 4 }, 
         { "name" : "[UC] Dragon Horn", "rarity": "Incomum", "amount": 2 }, 
-        { "name" : "Copper Coin", "amount": 7000 }, 
+        { "name" : "Cobre", "amount": 7000 }, 
         { "name" : "Aço Negro", "amount": 4000 }
       ]
     },
@@ -4317,7 +4317,7 @@
         { "name" : "[UC] Fragmento Iluminante", "rarity": "Incomum", "amount": 16 }, 
         { "name" : "[UC] Pedra de Anima", "rarity": "Incomum", "amount": 4 }, 
         { "name" : "[UC] Dragon Horn", "rarity": "Incomum", "amount": 4 }, 
-        { "name" : "Copper Coin", "amount": 24000 }, 
+        { "name" : "Cobre", "amount": 24000 }, 
         { "name" : "Aço Negro", "amount": 11000 }
       ]
     },
@@ -4332,7 +4332,7 @@
         { "name" : "[UC] Fragmento Iluminante", "rarity": "Incomum", "amount": 8 }, 
         { "name" : "[UC] Pedra de Anima", "rarity": "Incomum", "amount": 8 }, 
         { "name" : "[UC] Dragon Horn", "rarity": "Incomum", "amount": 4 }, 
-        { "name" : "Copper Coin", "amount": 24000 }, 
+        { "name" : "Cobre", "amount": 24000 }, 
         { "name" : "Aço Negro", "amount": 11000 }
       ]
     },
@@ -4347,7 +4347,7 @@
         { "name" : "[UC] Fragmento Iluminante", "rarity": "Incomum", "amount": 32 }, 
         { "name" : "[UC] Pedra de Anima", "rarity": "Incomum", "amount": 8 }, 
         { "name" : "[UC] Dragon Horn", "rarity": "Incomum", "amount": 8 }, 
-        { "name" : "Copper Coin", "amount": 63000 }, 
+        { "name" : "Cobre", "amount": 63000 }, 
         { "name" : "Aço Negro", "amount": 26000 }
       ]
     },
@@ -4362,7 +4362,7 @@
         { "name" : "[UC] Fragmento Iluminante", "rarity": "Incomum", "amount": 16 }, 
         { "name" : "[UC] Pedra de Anima", "rarity": "Incomum", "amount": 16 }, 
         { "name" : "[UC] Dragon Horn", "rarity": "Incomum", "amount": 8 }, 
-        { "name" : "Copper Coin", "amount": 63000 }, 
+        { "name" : "Cobre", "amount": 63000 }, 
         { "name" : "Aço Negro", "amount": 26000 }
       ]
     },
@@ -4383,7 +4383,7 @@
         { "name" : "[R] Fragmento Iluminante", "rarity": "Raro", "amount": 25 }, 
         { "name" : "[R] Pedra de Anima", "rarity": "Raro", "amount": 25 }, 
         { "name" : "[R] Dragon Horn", "rarity": "Raro", "amount": 1 }, 
-        { "name" : "Copper Coin", "amount": 50000 }, 
+        { "name" : "Cobre", "amount": 50000 }, 
         { "name" : "Aço Negro", "amount": 10000 }
       ]
     },
@@ -4398,7 +4398,7 @@
         { "name" : "[R] Fragmento Iluminante", "rarity": "Raro", "amount": 25 }, 
         { "name" : "[R] Pedra de Anima", "rarity": "Raro", "amount": 25 }, 
         { "name" : "[R] Dragon Horn", "rarity": "Raro", "amount": 1 }, 
-        { "name" : "Copper Coin", "amount": 50000 }, 
+        { "name" : "Cobre", "amount": 50000 }, 
         { "name" : "Aço Negro", "amount": 10000 }
       ]
     },
@@ -4413,7 +4413,7 @@
         { "name" : "[R] Fragmento Iluminante", "rarity": "Raro", "amount": 50 }, 
         { "name" : "[R] Pedra de Anima", "rarity": "Raro", "amount": 50 }, 
         { "name" : "[R] Dragon Horn", "rarity": "Raro", "amount": 2 }, 
-        { "name" : "Copper Coin", "amount": 200000 }, 
+        { "name" : "Cobre", "amount": 200000 }, 
         { "name" : "Aço Negro", "amount": 35000 }
       ]
     },
@@ -4428,7 +4428,7 @@
         { "name" : "[R] Fragmento Iluminante", "rarity": "Raro", "amount": 50 }, 
         { "name" : "[R] Pedra de Anima", "rarity": "Raro", "amount": 50 }, 
         { "name" : "[R] Dragon Horn", "rarity": "Raro", "amount": 2 }, 
-        { "name" : "Copper Coin", "amount": 200000 }, 
+        { "name" : "Cobre", "amount": 200000 }, 
         { "name" : "Aço Negro", "amount": 35000 }
       ]
     },
@@ -4443,7 +4443,7 @@
         { "name" : "[R] Fragmento Iluminante", "rarity": "Raro", "amount": 100 }, 
         { "name" : "[R] Pedra de Anima", "rarity": "Raro", "amount": 100 }, 
         { "name" : "[R] Dragon Horn", "rarity": "Raro", "amount": 4 }, 
-        { "name" : "Copper Coin", "amount": 550000 }, 
+        { "name" : "Cobre", "amount": 550000 }, 
         { "name" : "Aço Negro", "amount": 90000 }
       ]
     },
@@ -4458,7 +4458,7 @@
         { "name" : "[R] Fragmento Iluminante", "rarity": "Raro", "amount": 100 }, 
         { "name" : "[R] Pedra de Anima", "rarity": "Raro", "amount": 100 }, 
         { "name" : "[R] Dragon Horn", "rarity": "Raro", "amount": 4 }, 
-        { "name" : "Copper Coin", "amount": 550000 }, 
+        { "name" : "Cobre", "amount": 550000 }, 
         { "name" : "Aço Negro", "amount": 90000 }
       ]
     },
@@ -4473,7 +4473,7 @@
         { "name" : "[R] Fragmento Iluminante", "rarity": "Raro", "amount": 200 }, 
         { "name" : "[R] Pedra de Anima", "rarity": "Raro", "amount": 200 }, 
         { "name" : "[R] Dragon Horn", "rarity": "Raro", "amount": 8 }, 
-        { "name" : "Copper Coin", "amount": 1300000 }, 
+        { "name" : "Cobre", "amount": 1300000 }, 
         { "name" : "Aço Negro", "amount": 205000 }
       ]
     },
@@ -4488,7 +4488,7 @@
         { "name" : "[R] Fragmento Iluminante", "rarity": "Raro", "amount": 200 }, 
         { "name" : "[R] Pedra de Anima", "rarity": "Raro", "amount": 200 }, 
         { "name" : "[R] Dragon Horn", "rarity": "Raro", "amount": 8 }, 
-        { "name" : "Copper Coin", "amount": 1300000 }, 
+        { "name" : "Cobre", "amount": 1300000 }, 
         { "name" : "Aço Negro", "amount": 205000 }
       ]
     },
@@ -4509,7 +4509,7 @@
         { "name" : "[E] Fragmento Iluminante", "rarity": "Épico", "amount": 100 }, 
         { "name" : "[E] Pedra de Anima", "rarity": "Épico", "amount": 100 }, 
         { "name" : "[E] Dragon Horn", "rarity": "Épico", "amount": 1 }, 
-        { "name" : "Copper Coin", "amount": 800000 }, 
+        { "name" : "Cobre", "amount": 800000 }, 
         { "name" : "Aço Negro", "amount": 100000 }
       ]
     },
@@ -4524,7 +4524,7 @@
         { "name" : "[E] Fragmento Iluminante", "rarity": "Épico", "amount": 100 }, 
         { "name" : "[E] Pedra de Anima", "rarity": "Épico", "amount": 100 }, 
         { "name" : "[E] Dragon Horn", "rarity": "Épico", "amount": 1 }, 
-        { "name" : "Copper Coin", "amount": 800000 }, 
+        { "name" : "Cobre", "amount": 800000 }, 
         { "name" : "Aço Negro", "amount": 100000 }
       ]
     },
@@ -4539,7 +4539,7 @@
         { "name" : "[E] Fragmento Iluminante", "rarity": "Épico", "amount": 200 }, 
         { "name" : "[E] Pedra de Anima", "rarity": "Épico", "amount": 200 }, 
         { "name" : "[E] Dragon Horn", "rarity": "Épico", "amount": 2 }, 
-        { "name" : "Copper Coin", "amount": 3200000 }, 
+        { "name" : "Cobre", "amount": 3200000 }, 
         { "name" : "Aço Negro", "amount": 400000 }
       ]
     },
@@ -4554,7 +4554,7 @@
         { "name" : "[E] Fragmento Iluminante", "rarity": "Épico", "amount": 200 }, 
         { "name" : "[E] Pedra de Anima", "rarity": "Épico", "amount": 200 }, 
         { "name" : "[E] Dragon Horn", "rarity": "Épico", "amount": 2 }, 
-        { "name" : "Copper Coin", "amount": 3200000 }, 
+        { "name" : "Cobre", "amount": 3200000 }, 
         { "name" : "Aço Negro", "amount": 400000 }
       ]
     },
@@ -4569,7 +4569,7 @@
         { "name" : "[E] Fragmento Iluminante", "rarity": "Épico", "amount": 400 }, 
         { "name" : "[E] Pedra de Anima", "rarity": "Épico", "amount": 400 }, 
         { "name" : "[E] Dragon Horn", "rarity": "Épico", "amount": 4 }, 
-        { "name" : "Copper Coin", "amount": 8800000 }, 
+        { "name" : "Cobre", "amount": 8800000 }, 
         { "name" : "Aço Negro", "amount": 1600000 }
       ]
     },
@@ -4584,7 +4584,7 @@
         { "name" : "[E] Fragmento Iluminante", "rarity": "Épico", "amount": 400 }, 
         { "name" : "[E] Pedra de Anima", "rarity": "Épico", "amount": 400 }, 
         { "name" : "[E] Dragon Horn", "rarity": "Épico", "amount": 4 }, 
-        { "name" : "Copper Coin", "amount": 8800000 }, 
+        { "name" : "Cobre", "amount": 8800000 }, 
         { "name" : "Aço Negro", "amount": 1600000 }
       ]
     },
@@ -4599,7 +4599,7 @@
         { "name" : "[E] Fragmento Iluminante", "rarity": "Épico", "amount": 800 }, 
         { "name" : "[E] Pedra de Anima", "rarity": "Épico", "amount": 800 }, 
         { "name" : "[E] Dragon Horn", "rarity": "Épico", "amount": 8 }, 
-        { "name" : "Copper Coin", "amount": 20800000 }, 
+        { "name" : "Cobre", "amount": 20800000 }, 
         { "name" : "Aço Negro", "amount": 3200000 }
       ]
     },
@@ -4614,7 +4614,7 @@
         { "name" : "[E] Fragmento Iluminante", "rarity": "Épico", "amount": 800 }, 
         { "name" : "[E] Pedra de Anima", "rarity": "Épico", "amount": 800 }, 
         { "name" : "[E] Dragon Horn", "rarity": "Épico", "amount": 8 }, 
-        { "name" : "Copper Coin", "amount": 20800000 }, 
+        { "name" : "Cobre", "amount": 20800000 }, 
         { "name" : "Aço Negro", "amount": 3200000 }
       ]
     },
@@ -4639,7 +4639,7 @@
         { "name" : "[L] Fragmento Iluminante", "rarity": "Lendário", "amount": 100 }, 
         { "name" : "[L] Pedra de Anima", "rarity": "Lendário", "amount": 100 }, 
         { "name" : "[L] Dragon Horn", "rarity": "Lendário", "amount": 1 }, 
-        { "name" : "Copper Coin", "amount": 10000000 }, 
+        { "name" : "Cobre", "amount": 10000000 }, 
         { "name" : "Aço Negro", "amount": 1000000 }
       ]
     },
@@ -4654,7 +4654,7 @@
         { "name" : "[L] Fragmento Iluminante", "rarity": "Lendário", "amount": 200 }, 
         { "name" : "[L] Pedra de Anima", "rarity": "Lendário", "amount": 200 }, 
         { "name" : "[L] Dragon Horn", "rarity": "Lendário", "amount": 2 }, 
-        { "name" : "Copper Coin", "amount": 40000000 }, 
+        { "name" : "Cobre", "amount": 40000000 }, 
         { "name" : "Aço Negro", "amount": 4000000 }
       ]
     },
@@ -4669,7 +4669,7 @@
         { "name" : "[L] Fragmento Iluminante", "rarity": "Lendário", "amount": 400 }, 
         { "name" : "[L] Pedra de Anima", "rarity": "Lendário", "amount": 400 }, 
         { "name" : "[L] Dragon Horn", "rarity": "Lendário", "amount": 4 }, 
-        { "name" : "Copper Coin", "amount": 110000000 }, 
+        { "name" : "Cobre", "amount": 110000000 }, 
         { "name" : "Aço Negro", "amount": 11000000 }
       ]
     },
@@ -4684,7 +4684,7 @@
         { "name" : "[L] Fragmento Iluminante", "rarity": "Lendário", "amount": 800 }, 
         { "name" : "[L] Pedra de Anima", "rarity": "Lendário", "amount": 800 }, 
         { "name" : "[L] Dragon Horn", "rarity": "Lendário", "amount": 8 }, 
-        { "name" : "Copper Coin", "amount": 260000000 }, 
+        { "name" : "Cobre", "amount": 260000000 }, 
         { "name" : "Aço Negro", "amount": 26000000 }
       ]
     },
@@ -4743,7 +4743,7 @@
         { "name" : "[UC] Fragmento Iluminante", "rarity": "Incomum", "amount": 4 }, 
         { "name" : "[UC] Pedra de Anima", "rarity": "Incomum", "amount": 1 }, 
         { "name" : "[UC] Dragon Eye", "rarity": "Incomum", "amount": 1 }, 
-        { "name" : "Copper Coin", "amount": 1000 }, 
+        { "name" : "Cobre", "amount": 1000 }, 
         { "name" : "Aço Negro", "amount": 1000 }
       ]
     },
@@ -4758,7 +4758,7 @@
         { "name" : "[UC] Fragmento Iluminante", "rarity": "Incomum", "amount": 2 }, 
         { "name" : "[UC] Pedra de Anima", "rarity": "Incomum", "amount": 2 }, 
         { "name" : "[UC] Dragon Eye", "rarity": "Incomum", "amount": 1 }, 
-        { "name" : "Copper Coin", "amount": 1000 }, 
+        { "name" : "Cobre", "amount": 1000 }, 
         { "name" : "Aço Negro", "amount": 1000 }
       ]
     },
@@ -4773,7 +4773,7 @@
         { "name" : "[UC] Fragmento Iluminante", "rarity": "Incomum", "amount": 8 }, 
         { "name" : "[UC] Pedra de Anima", "rarity": "Incomum", "amount": 2 }, 
         { "name" : "[UC] Dragon Eye", "rarity": "Incomum", "amount": 2 }, 
-        { "name" : "Copper Coin", "amount": 7000 }, 
+        { "name" : "Cobre", "amount": 7000 }, 
         { "name" : "Aço Negro", "amount": 7000 }
       ]
     },
@@ -4788,7 +4788,7 @@
         { "name" : "[UC] Fragmento Iluminante", "rarity": "Incomum", "amount": 4 }, 
         { "name" : "[UC] Pedra de Anima", "rarity": "Incomum", "amount": 4 }, 
         { "name" : "[UC] Dragon Eye", "rarity": "Incomum", "amount": 2 }, 
-        { "name" : "Copper Coin", "amount": 7000 }, 
+        { "name" : "Cobre", "amount": 7000 }, 
         { "name" : "Aço Negro", "amount": 7000 }
       ]
     },
@@ -4803,7 +4803,7 @@
         { "name" : "[UC] Fragmento Iluminante", "rarity": "Incomum", "amount": 16 }, 
         { "name" : "[UC] Pedra de Anima", "rarity": "Incomum", "amount": 4 }, 
         { "name" : "[UC] Dragon Eye", "rarity": "Incomum", "amount": 4 }, 
-        { "name" : "Copper Coin", "amount": 24000 }, 
+        { "name" : "Cobre", "amount": 24000 }, 
         { "name" : "Aço Negro", "amount": 24000 }
       ]
     },
@@ -4818,7 +4818,7 @@
         { "name" : "[UC] Fragmento Iluminante", "rarity": "Incomum", "amount": 8 }, 
         { "name" : "[UC] Pedra de Anima", "rarity": "Incomum", "amount": 8 }, 
         { "name" : "[UC] Dragon Eye", "rarity": "Incomum", "amount": 4 }, 
-        { "name" : "Copper Coin", "amount": 24000 }, 
+        { "name" : "Cobre", "amount": 24000 }, 
         { "name" : "Aço Negro", "amount": 24000 }
       ]
     },
@@ -4833,7 +4833,7 @@
         { "name" : "[UC] Fragmento Iluminante", "rarity": "Incomum", "amount": 32 }, 
         { "name" : "[UC] Pedra de Anima", "rarity": "Incomum", "amount": 8 }, 
         { "name" : "[UC] Dragon Eye", "rarity": "Incomum", "amount": 8 }, 
-        { "name" : "Copper Coin", "amount": 63000 }, 
+        { "name" : "Cobre", "amount": 63000 }, 
         { "name" : "Aço Negro", "amount": 63000 }
       ]
     },
@@ -4848,7 +4848,7 @@
         { "name" : "[UC] Fragmento Iluminante", "rarity": "Incomum", "amount": 16 }, 
         { "name" : "[UC] Pedra de Anima", "rarity": "Incomum", "amount": 16 }, 
         { "name" : "[UC] Dragon Eye", "rarity": "Incomum", "amount": 8 }, 
-        { "name" : "Copper Coin", "amount": 63000 }, 
+        { "name" : "Cobre", "amount": 63000 }, 
         { "name" : "Aço Negro", "amount": 63000 }
       ]
     },
@@ -4872,7 +4872,7 @@
         { "name" : "[R] Fragmento Iluminante", "rarity": "Raro", "amount": 25 }, 
         { "name" : "[R] Pedra de Anima", "rarity": "Raro", "amount": 25 }, 
         { "name" : "[R] Dragon Eye", "rarity": "Raro", "amount": 1 }, 
-        { "name" : "Copper Coin", "amount": 50000 }, 
+        { "name" : "Cobre", "amount": 50000 }, 
         { "name" : "Aço Negro", "amount": 50000 }
       ]
     },
@@ -4887,7 +4887,7 @@
         { "name" : "[R] Fragmento Iluminante", "rarity": "Raro", "amount": 25 }, 
         { "name" : "[R] Pedra de Anima", "rarity": "Raro", "amount": 25 }, 
         { "name" : "[R] Dragon Eye", "rarity": "Raro", "amount": 1 }, 
-        { "name" : "Copper Coin", "amount": 50000 }, 
+        { "name" : "Cobre", "amount": 50000 }, 
         { "name" : "Aço Negro", "amount": 50000 }
       ]
     },
@@ -4902,7 +4902,7 @@
         { "name" : "[R] Fragmento Iluminante", "rarity": "Raro", "amount": 50 }, 
         { "name" : "[R] Pedra de Anima", "rarity": "Raro", "amount": 50 }, 
         { "name" : "[R] Dragon Eye", "rarity": "Raro", "amount": 2 }, 
-        { "name" : "Copper Coin", "amount": 200000 }, 
+        { "name" : "Cobre", "amount": 200000 }, 
         { "name" : "Aço Negro", "amount": 200000 }
       ]
     },
@@ -4917,7 +4917,7 @@
         { "name" : "[R] Fragmento Iluminante", "rarity": "Raro", "amount": 50 }, 
         { "name" : "[R] Pedra de Anima", "rarity": "Raro", "amount": 50 }, 
         { "name" : "[R] Dragon Eye", "rarity": "Raro", "amount": 2 }, 
-        { "name" : "Copper Coin", "amount": 200000 }, 
+        { "name" : "Cobre", "amount": 200000 }, 
         { "name" : "Aço Negro", "amount": 200000 }
       ]
     },
@@ -4932,7 +4932,7 @@
         { "name" : "[R] Fragmento Iluminante", "rarity": "Raro", "amount": 100 }, 
         { "name" : "[R] Pedra de Anima", "rarity": "Raro", "amount": 100 }, 
         { "name" : "[R] Dragon Eye", "rarity": "Raro", "amount": 4 }, 
-        { "name" : "Copper Coin", "amount": 550000 }, 
+        { "name" : "Cobre", "amount": 550000 }, 
         { "name" : "Aço Negro", "amount": 550000 }
       ]
     },
@@ -4947,7 +4947,7 @@
         { "name" : "[R] Fragmento Iluminante", "rarity": "Raro", "amount": 100 }, 
         { "name" : "[R] Pedra de Anima", "rarity": "Raro", "amount": 100 }, 
         { "name" : "[R] Dragon Eye", "rarity": "Raro", "amount": 4 }, 
-        { "name" : "Copper Coin", "amount": 550000 }, 
+        { "name" : "Cobre", "amount": 550000 }, 
         { "name" : "Aço Negro", "amount": 550000 }
       ]
     },
@@ -4962,7 +4962,7 @@
         { "name" : "[R] Fragmento Iluminante", "rarity": "Raro", "amount": 200 }, 
         { "name" : "[R] Pedra de Anima", "rarity": "Raro", "amount": 200 }, 
         { "name" : "[R] Dragon Eye", "rarity": "Raro", "amount": 8 }, 
-        { "name" : "Copper Coin", "amount": 1300000 }, 
+        { "name" : "Cobre", "amount": 1300000 }, 
         { "name" : "Aço Negro", "amount": 1300000 }
       ]
     },
@@ -4977,7 +4977,7 @@
         { "name" : "[R] Fragmento Iluminante", "rarity": "Raro", "amount": 200 }, 
         { "name" : "[R] Pedra de Anima", "rarity": "Raro", "amount": 200 }, 
         { "name" : "[R] Dragon Eye", "rarity": "Raro", "amount": 8 }, 
-        { "name" : "Copper Coin", "amount": 1300000 }, 
+        { "name" : "Cobre", "amount": 1300000 }, 
         { "name" : "Aço Negro", "amount": 1300000 }
       ]
     },
@@ -5002,7 +5002,7 @@
         { "name" : "[R] Fragmento Iluminante", "rarity": "Raro", "amount": 25 }, 
         { "name" : "[R] Pedra de Anima", "rarity": "Raro", "amount": 25 }, 
         { "name" : "[R] Dragon Horn", "rarity": "Raro", "amount": 1 }, 
-        { "name" : "Copper Coin", "amount": 50000 }, 
+        { "name" : "Cobre", "amount": 50000 }, 
         { "name" : "Aço Negro", "amount": 10000 }
       ]
     },
@@ -5017,7 +5017,7 @@
         { "name" : "[R] Fragmento Iluminante", "rarity": "Raro", "amount": 25 }, 
         { "name" : "[R] Pedra de Anima", "rarity": "Raro", "amount": 25 }, 
         { "name" : "[R] Dragon Horn", "rarity": "Raro", "amount": 1 }, 
-        { "name" : "Copper Coin", "amount": 50000 }, 
+        { "name" : "Cobre", "amount": 50000 }, 
         { "name" : "Aço Negro", "amount": 10000 }
       ]
     },
@@ -5032,7 +5032,7 @@
         { "name" : "[R] Fragmento Iluminante", "rarity": "Raro", "amount": 50 }, 
         { "name" : "[R] Pedra de Anima", "rarity": "Raro", "amount": 50 }, 
         { "name" : "[R] Dragon Horn", "rarity": "Raro", "amount": 2 }, 
-        { "name" : "Copper Coin", "amount": 200000 }, 
+        { "name" : "Cobre", "amount": 200000 }, 
         { "name" : "Aço Negro", "amount": 35000 }
       ]
     },
@@ -5047,7 +5047,7 @@
         { "name" : "[R] Fragmento Iluminante", "rarity": "Raro", "amount": 50 }, 
         { "name" : "[R] Pedra de Anima", "rarity": "Raro", "amount": 50 }, 
         { "name" : "[R] Dragon Horn", "rarity": "Raro", "amount": 2 }, 
-        { "name" : "Copper Coin", "amount": 200000 }, 
+        { "name" : "Cobre", "amount": 200000 }, 
         { "name" : "Aço Negro", "amount": 35000 }
       ]
     },
@@ -5062,7 +5062,7 @@
         { "name" : "[R] Fragmento Iluminante", "rarity": "Raro", "amount": 100 }, 
         { "name" : "[R] Pedra de Anima", "rarity": "Raro", "amount": 100 }, 
         { "name" : "[R] Dragon Horn", "rarity": "Raro", "amount": 4 }, 
-        { "name" : "Copper Coin", "amount": 550000 }, 
+        { "name" : "Cobre", "amount": 550000 }, 
         { "name" : "Aço Negro", "amount": 90000 }
       ]
     },
@@ -5077,7 +5077,7 @@
         { "name" : "[R] Fragmento Iluminante", "rarity": "Raro", "amount": 100 }, 
         { "name" : "[R] Pedra de Anima", "rarity": "Raro", "amount": 100 }, 
         { "name" : "[R] Dragon Horn", "rarity": "Raro", "amount": 4 }, 
-        { "name" : "Copper Coin", "amount": 550000 }, 
+        { "name" : "Cobre", "amount": 550000 }, 
         { "name" : "Aço Negro", "amount": 90000 }
       ]
     },
@@ -5092,7 +5092,7 @@
         { "name" : "[R] Fragmento Iluminante", "rarity": "Raro", "amount": 200 }, 
         { "name" : "[R] Pedra de Anima", "rarity": "Raro", "amount": 200 }, 
         { "name" : "[R] Dragon Horn", "rarity": "Raro", "amount": 8 }, 
-        { "name" : "Copper Coin", "amount": 1300000 }, 
+        { "name" : "Cobre", "amount": 1300000 }, 
         { "name" : "Aço Negro", "amount": 205000 }
       ]
     },
@@ -5107,7 +5107,7 @@
         { "name" : "[R] Fragmento Iluminante", "rarity": "Raro", "amount": 200 }, 
         { "name" : "[R] Pedra de Anima", "rarity": "Raro", "amount": 200 }, 
         { "name" : "[R] Dragon Horn", "rarity": "Raro", "amount": 8 }, 
-        { "name" : "Copper Coin", "amount": 1300000 }, 
+        { "name" : "Cobre", "amount": 1300000 }, 
         { "name" : "Aço Negro", "amount": 205000 }
       ]
     },
@@ -5138,7 +5138,7 @@
         { "name" : "[E] Fragmento Iluminante", "rarity": "Épico", "amount": 100 }, 
         { "name" : "[E] Pedra de Anima", "rarity": "Épico", "amount": 100 }, 
         { "name" : "[E] Dragon Eye", "rarity": "Épico", "amount": 1 }, 
-        { "name" : "Copper Coin", "amount": 800000 }, 
+        { "name" : "Cobre", "amount": 800000 }, 
         { "name" : "Aço Negro", "amount": 800000 }
       ]
     },
@@ -5153,7 +5153,7 @@
         { "name" : "[E] Fragmento Iluminante", "rarity": "Épico", "amount": 100 }, 
         { "name" : "[E] Pedra de Anima", "rarity": "Épico", "amount": 100 }, 
         { "name" : "[E] Dragon Eye", "rarity": "Épico", "amount": 1 }, 
-        { "name" : "Copper Coin", "amount": 800000 }, 
+        { "name" : "Cobre", "amount": 800000 }, 
         { "name" : "Aço Negro", "amount": 800000 }
       ]
     },
@@ -5168,7 +5168,7 @@
         { "name" : "[E] Fragmento Iluminante", "rarity": "Épico", "amount": 200 }, 
         { "name" : "[E] Pedra de Anima", "rarity": "Épico", "amount": 200 }, 
         { "name" : "[E] Dragon Eye", "rarity": "Épico", "amount": 2 }, 
-        { "name" : "Copper Coin", "amount": 3200000 }, 
+        { "name" : "Cobre", "amount": 3200000 }, 
         { "name" : "Aço Negro", "amount": 3200000 }
       ]
     },
@@ -5183,7 +5183,7 @@
         { "name" : "[E] Fragmento Iluminante", "rarity": "Épico", "amount": 200 }, 
         { "name" : "[E] Pedra de Anima", "rarity": "Épico", "amount": 200 }, 
         { "name" : "[E] Dragon Eye", "rarity": "Épico", "amount": 2 }, 
-        { "name" : "Copper Coin", "amount": 3200000 }, 
+        { "name" : "Cobre", "amount": 3200000 }, 
         { "name" : "Aço Negro", "amount": 3200000 }
       ]
     },
@@ -5198,7 +5198,7 @@
         { "name" : "[E] Fragmento Iluminante", "rarity": "Épico", "amount": 400 }, 
         { "name" : "[E] Pedra de Anima", "rarity": "Épico", "amount": 400 }, 
         { "name" : "[E] Dragon Eye", "rarity": "Épico", "amount": 4 }, 
-        { "name" : "Copper Coin", "amount": 8800000 }, 
+        { "name" : "Cobre", "amount": 8800000 }, 
         { "name" : "Aço Negro", "amount": 8800000 }
       ]
     },
@@ -5213,7 +5213,7 @@
         { "name" : "[E] Fragmento Iluminante", "rarity": "Épico", "amount": 400 }, 
         { "name" : "[E] Pedra de Anima", "rarity": "Épico", "amount": 400 }, 
         { "name" : "[E] Dragon Eye", "rarity": "Épico", "amount": 4 }, 
-        { "name" : "Copper Coin", "amount": 8800000 }, 
+        { "name" : "Cobre", "amount": 8800000 }, 
         { "name" : "Aço Negro", "amount": 8800000 }
       ]
     },
@@ -5228,7 +5228,7 @@
         { "name" : "[E] Fragmento Iluminante", "rarity": "Épico", "amount": 800 }, 
         { "name" : "[E] Pedra de Anima", "rarity": "Épico", "amount": 800 }, 
         { "name" : "[E] Dragon Eye", "rarity": "Épico", "amount": 8 }, 
-        { "name" : "Copper Coin", "amount": 20800000 }, 
+        { "name" : "Cobre", "amount": 20800000 }, 
         { "name" : "Aço Negro", "amount": 20800000 }
       ]
     },
@@ -5243,7 +5243,7 @@
         { "name" : "[E] Fragmento Iluminante", "rarity": "Épico", "amount": 800 }, 
         { "name" : "[E] Pedra de Anima", "rarity": "Épico", "amount": 800 }, 
         { "name" : "[E] Dragon Eye", "rarity": "Épico", "amount": 8 }, 
-        { "name" : "Copper Coin", "amount": 20800000 }, 
+        { "name" : "Cobre", "amount": 20800000 }, 
         { "name" : "Aço Negro", "amount": 20800000 }
       ]
     },
@@ -5264,7 +5264,7 @@
         { "name" : "[E] Fragmento Iluminante", "rarity": "Épico", "amount": 100 }, 
         { "name" : "[E] Pedra de Anima", "rarity": "Épico", "amount": 100 }, 
         { "name" : "[E] Dragon Horn", "rarity": "Épico", "amount": 1 }, 
-        { "name" : "Copper Coin", "amount": 800000 }, 
+        { "name" : "Cobre", "amount": 800000 }, 
         { "name" : "Aço Negro", "amount": 100000 }
       ]
     },
@@ -5279,7 +5279,7 @@
         { "name" : "[E] Fragmento Iluminante", "rarity": "Épico", "amount": 100 }, 
         { "name" : "[E] Pedra de Anima", "rarity": "Épico", "amount": 100 }, 
         { "name" : "[E] Dragon Horn", "rarity": "Épico", "amount": 1 }, 
-        { "name" : "Copper Coin", "amount": 800000 }, 
+        { "name" : "Cobre", "amount": 800000 }, 
         { "name" : "Aço Negro", "amount": 100000 }
       ]
     },
@@ -5294,7 +5294,7 @@
         { "name" : "[E] Fragmento Iluminante", "rarity": "Épico", "amount": 200 }, 
         { "name" : "[E] Pedra de Anima", "rarity": "Épico", "amount": 200 }, 
         { "name" : "[E] Dragon Horn", "rarity": "Épico", "amount": 2 }, 
-        { "name" : "Copper Coin", "amount": 3200000 }, 
+        { "name" : "Cobre", "amount": 3200000 }, 
         { "name" : "Aço Negro", "amount": 400000 }
       ]
     },
@@ -5309,7 +5309,7 @@
         { "name" : "[E] Fragmento Iluminante", "rarity": "Épico", "amount": 200 }, 
         { "name" : "[E] Pedra de Anima", "rarity": "Épico", "amount": 200 }, 
         { "name" : "[E] Dragon Horn", "rarity": "Épico", "amount": 2 }, 
-        { "name" : "Copper Coin", "amount": 3200000 }, 
+        { "name" : "Cobre", "amount": 3200000 }, 
         { "name" : "Aço Negro", "amount": 400000 }
       ]
     },
@@ -5324,7 +5324,7 @@
         { "name" : "[E] Fragmento Iluminante", "rarity": "Épico", "amount": 400 }, 
         { "name" : "[E] Pedra de Anima", "rarity": "Épico", "amount": 400 }, 
         { "name" : "[E] Dragon Horn", "rarity": "Épico", "amount": 4 }, 
-        { "name" : "Copper Coin", "amount": 8800000 }, 
+        { "name" : "Cobre", "amount": 8800000 }, 
         { "name" : "Aço Negro", "amount": 1600000 }
       ]
     },
@@ -5339,7 +5339,7 @@
         { "name" : "[E] Fragmento Iluminante", "rarity": "Épico", "amount": 400 }, 
         { "name" : "[E] Pedra de Anima", "rarity": "Épico", "amount": 400 }, 
         { "name" : "[E] Dragon Horn", "rarity": "Épico", "amount": 4 }, 
-        { "name" : "Copper Coin", "amount": 8800000 }, 
+        { "name" : "Cobre", "amount": 8800000 }, 
         { "name" : "Aço Negro", "amount": 1600000 }
       ]
     },
@@ -5354,7 +5354,7 @@
         { "name" : "[E] Fragmento Iluminante", "rarity": "Épico", "amount": 800 }, 
         { "name" : "[E] Pedra de Anima", "rarity": "Épico", "amount": 800 }, 
         { "name" : "[E] Dragon Horn", "rarity": "Épico", "amount": 8 }, 
-        { "name" : "Copper Coin", "amount": 20800000 }, 
+        { "name" : "Cobre", "amount": 20800000 }, 
         { "name" : "Aço Negro", "amount": 3200000 }
       ]
     },
@@ -5369,7 +5369,7 @@
         { "name" : "[E] Fragmento Iluminante", "rarity": "Épico", "amount": 800 }, 
         { "name" : "[E] Pedra de Anima", "rarity": "Épico", "amount": 800 }, 
         { "name" : "[E] Dragon Horn", "rarity": "Épico", "amount": 8 }, 
-        { "name" : "Copper Coin", "amount": 20800000 }, 
+        { "name" : "Cobre", "amount": 20800000 }, 
         { "name" : "Aço Negro", "amount": 3200000 }
       ]
     },
@@ -5407,7 +5407,7 @@
         { "name" : "[L] Fragmento Iluminante", "rarity": "Lendário", "amount": 100 }, 
         { "name" : "[L] Pedra de Anima", "rarity": "Lendário", "amount": 100 }, 
         { "name" : "[L] Dragon Eye", "rarity": "Lendário", "amount": 1 }, 
-        { "name" : "Copper Coin", "amount": 10000000 }, 
+        { "name" : "Cobre", "amount": 10000000 }, 
         { "name" : "Aço Negro", "amount": 10000000 }
       ]
     },
@@ -5422,7 +5422,7 @@
         { "name" : "[L] Fragmento Iluminante", "rarity": "Lendário", "amount": 200 }, 
         { "name" : "[L] Pedra de Anima", "rarity": "Lendário", "amount": 200 }, 
         { "name" : "[L] Dragon Eye", "rarity": "Lendário", "amount": 2 }, 
-        { "name" : "Copper Coin", "amount": 40000000 }, 
+        { "name" : "Cobre", "amount": 40000000 }, 
         { "name" : "Aço Negro", "amount": 40000000 }
       ]
     },
@@ -5437,7 +5437,7 @@
         { "name" : "[L] Fragmento Iluminante", "rarity": "Lendário", "amount": 400 }, 
         { "name" : "[L] Pedra de Anima", "rarity": "Lendário", "amount": 400 }, 
         { "name" : "[L] Dragon Eye", "rarity": "Lendário", "amount": 4 }, 
-        { "name" : "Copper Coin", "amount": 110000000 }, 
+        { "name" : "Cobre", "amount": 110000000 }, 
         { "name" : "Aço Negro", "amount": 110000000 }
       ]
     },
@@ -5452,7 +5452,7 @@
         { "name" : "[L] Fragmento Iluminante", "rarity": "Lendário", "amount": 800 }, 
         { "name" : "[L] Pedra de Anima", "rarity": "Lendário", "amount": 800 }, 
         { "name" : "[L] Dragon Eye", "rarity": "Lendário", "amount": 8 }, 
-        { "name" : "Copper Coin", "amount": 260000000 }, 
+        { "name" : "Cobre", "amount": 260000000 }, 
         { "name" : "Aço Negro", "amount": 260000000 }
       ]
     },
@@ -5467,7 +5467,7 @@
         { "name" : "[L] Fragmento Iluminante", "rarity": "Lendário", "amount": 100 }, 
         { "name" : "[L] Pedra de Anima", "rarity": "Lendário", "amount": 100 }, 
         { "name" : "[L] Dragon Horn", "rarity": "Lendário", "amount": 1 }, 
-        { "name" : "Copper Coin", "amount": 10000000 }, 
+        { "name" : "Cobre", "amount": 10000000 }, 
         { "name" : "Aço Negro", "amount": 1000000 }
       ]
     },
@@ -5482,7 +5482,7 @@
         { "name" : "[L] Fragmento Iluminante", "rarity": "Lendário", "amount": 200 }, 
         { "name" : "[L] Pedra de Anima", "rarity": "Lendário", "amount": 200 }, 
         { "name" : "[L] Dragon Horn", "rarity": "Lendário", "amount": 2 }, 
-        { "name" : "Copper Coin", "amount": 40000000 }, 
+        { "name" : "Cobre", "amount": 40000000 }, 
         { "name" : "Aço Negro", "amount": 4000000 }
       ]
     },
@@ -5497,7 +5497,7 @@
         { "name" : "[L] Fragmento Iluminante", "rarity": "Lendário", "amount": 400 }, 
         { "name" : "[L] Pedra de Anima", "rarity": "Lendário", "amount": 400 }, 
         { "name" : "[L] Dragon Horn", "rarity": "Lendário", "amount": 4 }, 
-        { "name" : "Copper Coin", "amount": 110000000 }, 
+        { "name" : "Cobre", "amount": 110000000 }, 
         { "name" : "Aço Negro", "amount": 11000000 }
       ]
     },
@@ -5512,7 +5512,7 @@
         { "name" : "[L] Fragmento Iluminante", "rarity": "Lendário", "amount": 800 }, 
         { "name" : "[L] Pedra de Anima", "rarity": "Lendário", "amount": 800 }, 
         { "name" : "[L] Dragon Horn", "rarity": "Lendário", "amount": 8 }, 
-        { "name" : "Copper Coin", "amount": 260000000 }, 
+        { "name" : "Cobre", "amount": 260000000 }, 
         { "name" : "Aço Negro", "amount": 26000000 }
       ]
     }

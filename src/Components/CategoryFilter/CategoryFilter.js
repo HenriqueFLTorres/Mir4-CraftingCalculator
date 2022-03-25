@@ -1,12 +1,10 @@
 import React, { useEffect } from 'react';
 import './CategoryFilter.css';
-
-import ItemsList from '../../Data/ItemsList.json'
 import handleLanguage from '../../Utils/handleLanguage';
-
 
 let allCategories = []
 
+let renderCount = 0;
 
 const CategoryFilter = ({ filter, setFilter, language }) => {
 
@@ -15,17 +13,44 @@ const CategoryFilter = ({ filter, setFilter, language }) => {
   let rarity = Array.from(new Set(langReturn.map((item, index) => langReturn[index].rarity)))
   let category = Array.from(new Set(langReturn.map((item, index) => langReturn[index].category)))
 
+  
   useEffect(() => {
-    filter.length === 0 && setFilter(allCategories)
-  }, [filter])
+    if ( localStorage.getItem("Filters") === null ) {
+      localStorage.setItem("Filters", JSON.stringify(allCategories))
+    }
 
-  useEffect(() => {
-
-    rarity.map((item) => allCategories.push(item) )
-    category.map((item) => allCategories.push(item) )
-
-    setFilter(allCategories)
+    let filterStorage = JSON.parse(localStorage.getItem("Filters"))
+    setFilter(filterStorage)
   }, [])
+
+
+  useEffect(() => {
+    // Gambiarra, i need the component to render on language change EXCEPT by first time, sooooooo
+    renderCount++
+    if ( renderCount >= 3 ) {
+      allCategories = []
+
+      rarity.map((item) => allCategories.push(item) )
+      category.map((item) => allCategories.push(item) )
+
+      setFilter(allCategories)
+      localStorage.setItem("Filters", allCategories)
+    }
+
+  }, [language])
+
+
+  useEffect(() => {
+    if (filter.length === 0) {
+      allCategories = []
+
+      rarity.map((item) => allCategories.push(item) )
+      category.map((item) => allCategories.push(item) )
+
+      setFilter(allCategories)
+    }
+    localStorage.setItem("Filters", JSON.stringify(filter))
+  }, [filter])
 
 
   return (

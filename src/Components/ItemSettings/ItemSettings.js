@@ -6,10 +6,12 @@ import './ItemSettings.css'
 import itemsList from '../../Data/ItemsList.json'
 import ItemConfigUI from './ItemConfigUI'
 import handleLanguage from '../../Utils/handleLanguage'
+import { nameHandler, imageHandler } from '../../Utils/itemClassDisplayer'
 
 const ItemSettings = ({ itemClass, icon, language }) => {
   const selected = useSelect();
   
+
 
   return (
     <div className='ItemSettings'>
@@ -20,8 +22,8 @@ const ItemSettings = ({ itemClass, icon, language }) => {
         let imageSet
         
         if ( !name ) {
-          nameSet = names[`name${itemClass}`]
-          imageSet = images[`image${itemClass}`]
+          nameSet = names["nameArbalist"]
+          imageSet = images["imageArbalist"]
         }
 
 

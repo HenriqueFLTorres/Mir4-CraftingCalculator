@@ -1,0 +1,1601 @@
+{
+  "names": { 
+    "nameArbalist": "Silk Outfit Torso/Pernas",
+    "nameLancer": "Cotton Brigandine Combat Uniform Torso/Pernas",
+    "nameSorcerer": "Silk Demon Outfit Torso/Pernas",
+    "nameTaoist": "Silk Outfit Torso/Pernas",
+    "nameWarrior": "Cottom Brigandine Armor Torso/Pernas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Silk_Outfit_Top.png", "./Icons/Arbalist/Silk_Outfit_Bottom.png" ],
+    "imageLancer": [ "./Icons/Lancer/Cotton_Brigandine_Combat_Uniform_Top.png", "./Icons/Lancer/Cotton_Brigandine_Combat_Uniform_Bottom.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Silk_Demon_Outfit_Top.png", "./Icons/Sorcerer/Silk_Demon_Outfit_Bottom.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Silk_Outfit_Top.png", "./Icons/Taoist/Silk_Outfit_Bottom.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Cotton_Brigandine_Armor_Top.png", "./Icons/Warrior/Cotton_Brigandine_Armor_Bottom.png" ]
+  },
+  "category": "Torso/Pernas",
+  "tier": "1",
+  "rarity": "Incomum",
+  "recipe": [ 
+    { "name" : "[UC] Aço", "rarity": "Incomum", "amount": 20 }, 
+    { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 2 }, 
+    { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 1 }, 
+    { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 1 }, 
+    { "name" : "Cobre", "amount": 500 }, 
+    { "name" : "Aço Negro", "amount": 500 }
+  ]
+},
+{
+  "names": { 
+    "nameArbalist": "Covert Outfit Torso/Pernas",
+    "nameLancer": "Purple Moon Combat Uniform Torso/Pernas",
+    "nameSorcerer": "Scarlet Fire Demon Outfit Torso/Pernas",
+    "nameTaoist": "Unification Torso/Pernas",
+    "nameWarrior": "Light Armor Torso/Pernas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Covert_Outfit_Top.png", "./Icons/Arbalist/Covert_Outfit_Bottom.png" ],
+    "imageLancer": [ "./Icons/Lancer/Purple_Moon_Combat_Uniform_Top.png", "./Icons/Lancer/Purple_Moon_Combat_Uniform_Bottom.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Scarlet_Fire_Demon_Outfit_Top.png", "./Icons/Sorcerer/Scarlet_Fire_Demon_Outfit_Bottom.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Unification_Outfit_Top.png", "./Icons/Taoist/Unification_Outfit_Bottom.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Light_Armor_Top.png", "./Icons/Warrior/Light_Armor_Bottom.png" ]
+  },
+  "category": "Torso/Pernas",
+  "tier": "1",
+  "rarity": "Incomum",
+  "recipe": [ 
+    { "name" : "[UC] Aço", "rarity": "Incomum", "amount": 20 }, 
+    { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 1 }, 
+    { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 2 }, 
+    { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 1 }, 
+    { "name" : "Cobre", "amount": 500 }, 
+    { "name" : "Aço Negro", "amount": 500 }
+  ]
+},
+{
+  "names": { 
+    "nameArbalist": "Afterimage Outfit Torso/Pernas",
+    "nameLancer": "Black Wing Combat Uniform Torso/Pernas",
+    "nameSorcerer": "Flame Demon Outfit Torso/Pernas",
+    "nameTaoist": "Taeul Outfit Torso/Pernas",
+    "nameWarrior": "Guard Armor Torso/Pernas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Silk_Outfit_Top.png", "./Icons/Arbalist/Silk_Outfit_Bottom.png" ],
+    "imageLancer": [ "./Icons/Lancer/Cotton_Brigandine_Combat_Uniform_Top.png", "./Icons/Lancer/Cotton_Brigandine_Combat_Uniform_Bottom.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Silk_Demon_Outfit_Top.png", "./Icons/Sorcerer/Silk_Demon_Outfit_Bottom.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Silk_Outfit_Top.png", "./Icons/Taoist/Silk_Outfit_Bottom.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Cotton_Brigandine_Armor_Top.png", "./Icons/Warrior/Cotton_Brigandine_Armor_Bottom.png" ]
+  },
+  "category": "Torso/Pernas",
+  "tier": "2",
+  "rarity": "Incomum",
+  "recipe": [ 
+    { "name" : "[UC] Aço", "rarity": "Incomum", "amount": 40 }, 
+    { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 4 }, 
+    { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 2 }, 
+    { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 2 }, 
+    { "name" : "Cobre", "amount": 3500 }, 
+    { "name" : "Aço Negro", "amount": 2000 }
+  ]
+},
+{
+  "names": { 
+    "nameArbalist": "Incognito Outfit Torso/Pernas",
+    "nameLancer": "Scarlet Moon Combat Uniform Torso/Pernas",
+    "nameSorcerer": "Blazing Fire Demon Outfit Torso/Pernas",
+    "nameTaoist": "Safeguard Outfit Torso/Pernas",
+    "nameWarrior": "Light Plate Armor Torso/Pernas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Covert_Outfit_Top.png", "./Icons/Arbalist/Covert_Outfit_Bottom.png" ],
+    "imageLancer": [ "./Icons/Lancer/Purple_Moon_Combat_Uniform_Top.png", "./Icons/Lancer/Purple_Moon_Combat_Uniform_Bottom.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Scarlet_Fire_Demon_Outfit_Top.png", "./Icons/Sorcerer/Scarlet_Fire_Demon_Outfit_Bottom.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Unification_Outfit_Top.png", "./Icons/Taoist/Unification_Outfit_Bottom.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Light_Armor_Top.png", "./Icons/Warrior/Light_Armor_Bottom.png" ]
+  },
+  "category": "Torso/Pernas",
+  "tier": "2",
+  "rarity": "Incomum",
+  "recipe": [ 
+    { "name" : "[UC] Aço", "rarity": "Incomum", "amount": 40 }, 
+    { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 2 }, 
+    { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 4 }, 
+    { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 2 }, 
+    { "name" : "Cobre", "amount": 3500 }, 
+    { "name" : "Aço Negro", "amount": 2000 }
+  ]
+},
+{
+  "names": { 
+    "nameArbalist": "Shadow Outfit Torso/Pernas",
+    "nameLancer": "Black Raven Combat Uniform Torso/Pernas",
+    "nameSorcerer": "Infernal Abomination Outfit Torso/Pernas",
+    "nameTaoist": "Earthy Fire Outfit Torso/Pernas",
+    "nameWarrior": "Splendid Armor Torso/Pernas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Silk_Outfit_Top.png", "./Icons/Arbalist/Silk_Outfit_Bottom.png" ],
+    "imageLancer": [ "./Icons/Lancer/Cotton_Brigandine_Combat_Uniform_Top.png", "./Icons/Lancer/Cotton_Brigandine_Combat_Uniform_Bottom.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Silk_Demon_Outfit_Top.png", "./Icons/Sorcerer/Silk_Demon_Outfit_Bottom.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Silk_Outfit_Top.png", "./Icons/Taoist/Silk_Outfit_Bottom.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Cotton_Brigandine_Armor_Top.png", "./Icons/Warrior/Cotton_Brigandine_Armor_Bottom.png" ]
+  },
+  "category": "Torso/Pernas",
+  "tier": "3",
+  "rarity": "Incomum",
+  "recipe": [ 
+    { "name" : "[UC] Aço", "rarity": "Incomum", "amount": 80 }, 
+    { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 8 }, 
+    { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 4 }, 
+    { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 4 }, 
+    { "name" : "Cobre", "amount": 12000 }, 
+    { "name" : "Aço Negro", "amount": 5500 }
+  ]
+},
+{
+  "names": { 
+    "nameArbalist": "Disguised Outfit Torso/Pernas",
+    "nameLancer": "Redmoon Combat Uniform Torso/Pernas",
+    "nameSorcerer": "Violet Lightning Demon Outfit Torso/Pernas",
+    "nameTaoist": "Taoist God Outfit Torso/Pernas",
+    "nameWarrior": "Ruling Tiger Armor Torso/Pernas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Covert_Outfit_Top.png", "./Icons/Arbalist/Covert_Outfit_Bottom.png" ],
+    "imageLancer": [ "./Icons/Lancer/Purple_Moon_Combat_Uniform_Top.png", "./Icons/Lancer/Purple_Moon_Combat_Uniform_Bottom.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Scarlet_Fire_Demon_Outfit_Top.png", "./Icons/Sorcerer/Scarlet_Fire_Demon_Outfit_Bottom.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Unification_Outfit_Top.png", "./Icons/Taoist/Unification_Outfit_Bottom.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Light_Armor_Top.png", "./Icons/Warrior/Light_Armor_Bottom.png" ]
+  },
+  "category": "Torso/Pernas",
+  "tier": "3",
+  "rarity": "Incomum",
+  "recipe": [ 
+    { "name" : "[UC] Aço", "rarity": "Incomum", "amount": 80 }, 
+    { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 4 }, 
+    { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 8 }, 
+    { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 4 }, 
+    { "name" : "Cobre", "amount": 12000 }, 
+    { "name" : "Aço Negro", "amount": 5500 }
+  ]
+},
+{
+  "names": { 
+    "nameArbalist": "Secret Outfit Torso/Pernas",
+    "nameLancer": "Black Shell Combat Uniform Torso/Pernas",
+    "nameSorcerer": "Crimson Fire Demon Outfit Torso/Pernas",
+    "nameTaoist": "Taiji Outfit Torso/Pernas",
+    "nameWarrior": "Ruler Armor Torso/Pernas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Silk_Outfit_Top.png", "./Icons/Arbalist/Silk_Outfit_Bottom.png" ],
+    "imageLancer": [ "./Icons/Lancer/Cotton_Brigandine_Combat_Uniform_Top.png", "./Icons/Lancer/Cotton_Brigandine_Combat_Uniform_Bottom.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Silk_Demon_Outfit_Top.png", "./Icons/Sorcerer/Silk_Demon_Outfit_Bottom.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Silk_Outfit_Top.png", "./Icons/Taoist/Silk_Outfit_Bottom.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Cotton_Brigandine_Armor_Top.png", "./Icons/Warrior/Cotton_Brigandine_Armor_Bottom.png" ]
+  },
+  "category": "Torso/Pernas",
+  "tier": "4",
+  "rarity": "Incomum",
+  "recipe": [ 
+    { "name" : "[UC] Aço", "rarity": "Incomum", "amount": 160 }, 
+    { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 16 }, 
+    { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 8 }, 
+    { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 8 }, 
+    { "name" : "Cobre", "amount": 31500 }, 
+    { "name" : "Aço Negro", "amount": 13000 }
+  ]
+},
+{
+  "names": { 
+    "nameArbalist": "Undercover Outfit Torso/Pernas",
+    "nameLancer": "Crimson Demon Combat Uniform Torso/Pernas",
+    "nameSorcerer": "Spark Demon Outfit Torso/Pernas",
+    "nameTaoist": "Arcanean Robe Torso/Pernas",
+    "nameWarrior": "Spectre Armor Torso/Pernas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Covert_Outfit_Top.png", "./Icons/Arbalist/Covert_Outfit_Bottom.png" ],
+    "imageLancer": [ "./Icons/Lancer/Purple_Moon_Combat_Uniform_Top.png", "./Icons/Lancer/Purple_Moon_Combat_Uniform_Bottom.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Scarlet_Fire_Demon_Outfit_Top.png", "./Icons/Sorcerer/Scarlet_Fire_Demon_Outfit_Bottom.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Unification_Outfit_Top.png", "./Icons/Taoist/Unification_Outfit_Bottom.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Light_Armor_Top.png", "./Icons/Warrior/Light_Armor_Bottom.png" ]
+  },
+  "category": "Torso/Pernas",
+  "tier": "4",
+  "rarity": "Incomum",
+  "recipe": [ 
+    { "name" : "[UC] Aço", "rarity": "Incomum", "amount": 160 }, 
+    { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 8 }, 
+    { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 16 }, 
+    { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 8 }, 
+    { "name" : "Cobre", "amount": 31500 }, 
+    { "name" : "Aço Negro", "amount": 13000 }
+  ]
+},
+
+
+
+
+
+
+{
+  "names": { 
+    "nameArbalist": "Phantom Martial Uniform Torso/Pernas",
+    "nameLancer": "Revenant Combat Uniform Torso/Pernas",
+    "nameSorcerer": "Ghastly Dragon Demon Outfit Torso/Pernas",
+    "nameTaoist": "Ascension Outfit Torso/Pernas",
+    "nameWarrior": "Soulgeist Armor Torso/Pernas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Phantom_Martial_Uniform_Top.png", "./Icons/Arbalist/Phantom_Martial_Uniform_Bottom.png" ],
+    "imageLancer": [ "./Icons/Lancer/Revenant_Combat_Uniform_Top.png", "./Icons/Lancer/Revenant_Combat_Uniform_Bottom.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Ghastly_Dragon_Outfit_Top.png", "./Icons/Sorcerer/Ghastly_Dragon_Demon_Outfit_Bottom.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Ascension_Outfit_Top.png", "./Icons/Taoist/Ascension_Outfit_Bottom.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Soulgeist_Armor_Top.png", "./Icons/Warrior/Soulgeist_Armor_Bottom.png" ]
+  },
+  "category": "Torso/Pernas",
+  "tier": "1",
+  "rarity": "Raro",
+  "recipe": [ 
+    { "name" : "[R] Aço", "rarity": "Raro", "amount": 75 }, 
+    { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 25 }, 
+    { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 25 }, 
+    { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 1 }, 
+    { "name" : "Cobre", "amount": 25000 }, 
+    { "name" : "Aço Negro", "amount": 5000 }
+  ]
+},
+{
+  "names": { 
+    "nameArbalist": "White Snake Martial Uniform Torso/Pernas",
+    "nameLancer": "White Dragon Uniform Torso/Pernas",
+    "nameSorcerer": "Sorcery Spell Uniform Torso/Pernas",
+    "nameTaoist": "White Wing Robe Torso/Pernas",
+    "nameWarrior": "White Tiger Battlearmor Torso/Pernas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/White_Snake_Martial_Uniform_Top.png", "./Icons/Arbalist/White_Snake_Martial_Uniform_Bottom.png" ],
+    "imageLancer": [ "./Icons/Lancer/White_Dragon_Uniform_Top.png", "./Icons/Lancer/White_Dragon_Uniform_Bottom.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Sorcery_Spell_Uniform_Top.png", "./Icons/Sorcerer/Sorcery_Spell_Uniform_Bottom.png" ],
+    "imageTaoist": [ "./Icons/Taoist/White_Wing_Robe_Top.png", "./Icons/Taoist/White_Wing_Robe_Bottom.png" ],
+    "imageWarrior": [ "./Icons/Warrior/White_Tiger_Battlearmor_Top.png", "./Icons/Warrior/White_Tiger_Battlearmor_Bottom.png" ]
+  },
+  "category": "Torso/Pernas",
+  "tier": "1",
+  "rarity": "Raro",
+  "recipe": [ 
+    { "name" : "[R] Aço", "rarity": "Raro", "amount": 75 }, 
+    { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 25 }, 
+    { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 25 }, 
+    { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 1 }, 
+    { "name" : "Cobre", "amount": 25000 }, 
+    { "name" : "Aço Negro", "amount": 5000 }
+  ]
+},
+{
+  "names": { 
+    "nameArbalist": "Soulgeist Martial Uniform Torso/Pernas",
+    "nameLancer": "Phantom Combat Uniform Torso/Pernas",
+    "nameSorcerer": "Ghastly Viperbeast Outfit Torso/Pernas",
+    "nameTaoist": "Taegyeong Outfit Torso/Pernas",
+    "nameWarrior": "Black Sould Battlearmor Torso/Pernas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Phantom_Martial_Uniform_Top.png", "./Icons/Arbalist/Phantom_Martial_Uniform_Bottom.png" ],
+    "imageLancer": [ "./Icons/Lancer/Revenant_Combat_Uniform_Top.png", "./Icons/Lancer/Revenant_Combat_Uniform_Bottom.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Ghastly_Dragon_Outfit_Top.png", "./Icons/Sorcerer/Ghastly_Dragon_Demon_Outfit_Bottom.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Ascension_Outfit_Top.png", "./Icons/Taoist/Ascension_Outfit_Bottom.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Soulgeist_Armor_Top.png", "./Icons/Warrior/Soulgeist_Armor_Bottom.png" ]
+  },
+  "category": "Torso/Pernas",
+  "tier": "2",
+  "rarity": "Raro",
+  "recipe": [ 
+    { "name" : "[R] Aço", "rarity": "Raro", "amount": 150 }, 
+    { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 50 }, 
+    { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 50 }, 
+    { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 2 }, 
+    { "name" : "Cobre", "amount": 100000 }, 
+    { "name" : "Aço Negro", "amount": 17500 }
+  ]
+},
+{
+  "names": { 
+    "nameArbalist": "Boundless Martial Uniform Torso/Pernas",
+    "nameLancer": "Demon Repeller Combat Uniform Torso/Pernas",
+    "nameSorcerer": "Demon Repeller Uniform Torso/Pernas",
+    "nameTaoist": "Ultimate Treasure Outfit Torso/Pernas",
+    "nameWarrior": "Demon Repeller Heavy Armor Torso/Pernas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/White_Snake_Martial_Uniform_Top.png", "./Icons/Arbalist/White_Snake_Martial_Uniform_Bottom.png" ],
+    "imageLancer": [ "./Icons/Lancer/White_Dragon_Uniform_Top.png", "./Icons/Lancer/White_Dragon_Uniform_Bottom.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Sorcery_Spell_Uniform_Top.png", "./Icons/Sorcerer/Sorcery_Spell_Uniform_Bottom.png" ],
+    "imageTaoist": [ "./Icons/Taoist/White_Wing_Robe_Top.png", "./Icons/Taoist/White_Wing_Robe_Bottom.png" ],
+    "imageWarrior": [ "./Icons/Warrior/White_Tiger_Battlearmor_Top.png", "./Icons/Warrior/White_Tiger_Battlearmor_Bottom.png" ]
+  },
+  "category": "Torso/Pernas",
+  "tier": "2",
+  "rarity": "Raro",
+  "recipe": [ 
+    { "name" : "[R] Aço", "rarity": "Raro", "amount": 150 }, 
+    { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 50 }, 
+    { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 50 }, 
+    { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 2 }, 
+    { "name" : "Cobre", "amount": 100000 }, 
+    { "name" : "Aço Negro", "amount": 17500 }
+  ]
+},
+{
+  "names": { 
+    "nameArbalist": "White Lotus Martial Uniform Torso/Pernas",
+    "nameLancer": "Hundred Perfection Combat Uniform Torso/Pernas",
+    "nameSorcerer": "Hundred Perfection Uniform Torso/Pernas",
+    "nameTaoist": "Hundred Perfection Robe Torso/Pernas",
+    "nameWarrior": "Hard Smelted Heavy Armor Torso/Pernas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Phantom_Martial_Uniform_Top.png", "./Icons/Arbalist/Phantom_Martial_Uniform_Bottom.png" ],
+    "imageLancer": [ "./Icons/Lancer/Revenant_Combat_Uniform_Top.png", "./Icons/Lancer/Revenant_Combat_Uniform_Bottom.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Ghastly_Dragon_Outfit_Top.png", "./Icons/Sorcerer/Ghastly_Dragon_Demon_Outfit_Bottom.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Ascension_Outfit_Top.png", "./Icons/Taoist/Ascension_Outfit_Bottom.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Soulgeist_Armor_Top.png", "./Icons/Warrior/Soulgeist_Armor_Bottom.png" ]
+  },
+  "category": "Torso/Pernas",
+  "tier": "3",
+  "rarity": "Raro",
+  "recipe": [ 
+    { "name" : "[R] Aço", "rarity": "Raro", "amount": 300 }, 
+    { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 100 }, 
+    { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 100 }, 
+    { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 4 }, 
+    { "name" : "Cobre", "amount": 375000 }, 
+    { "name" : "Aço Negro", "amount": 45000 }
+  ]
+},
+{
+  "names": { 
+    "nameArbalist": "Yellow Dragon Martial Uniform Torso/Pernas",
+    "nameLancer": "Yellow Dragon Combat Uniform Torso/Pernas",
+    "nameSorcerer": "Yellow Dragon Casting Outfit Torso/Pernas",
+    "nameTaoist": "Yellow Dragon Robe Torso/Pernas",
+    "nameWarrior": "Yellow Dragon Battlearmor Torso/Pernas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/White_Snake_Martial_Uniform_Top.png", "./Icons/Arbalist/White_Snake_Martial_Uniform_Bottom.png" ],
+    "imageLancer": [ "./Icons/Lancer/White_Dragon_Uniform_Top.png", "./Icons/Lancer/White_Dragon_Uniform_Bottom.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Sorcery_Spell_Uniform_Top.png", "./Icons/Sorcerer/Sorcery_Spell_Uniform_Bottom.png" ],
+    "imageTaoist": [ "./Icons/Taoist/White_Wing_Robe_Top.png", "./Icons/Taoist/White_Wing_Robe_Bottom.png" ],
+    "imageWarrior": [ "./Icons/Warrior/White_Tiger_Battlearmor_Top.png", "./Icons/Warrior/White_Tiger_Battlearmor_Bottom.png" ]
+  },
+  "category": "Torso/Pernas",
+  "tier": "3",
+  "rarity": "Raro",
+  "recipe": [ 
+    { "name" : "[R] Aço", "rarity": "Raro", "amount": 300 }, 
+    { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 100 }, 
+    { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 100 }, 
+    { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 4 }, 
+    { "name" : "Cobre", "amount": 375000 }, 
+    { "name" : "Aço Negro", "amount": 45000 }
+  ]
+},
+{
+  "names": { 
+    "nameArbalist": "Pacification Martial Uniform Torso/Pernas",
+    "nameLancer": "Pacification Combat Uniform Torso/Pernas",
+    "nameSorcerer": "Pacification Casting Uniform Torso/Pernas",
+    "nameTaoist": "Pacification Robe Torso/Pernas",
+    "nameWarrior": "Pacification Battlearmor Torso/Pernas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Phantom_Martial_Uniform_Top.png", "./Icons/Arbalist/Phantom_Martial_Uniform_Bottom.png" ],
+    "imageLancer": [ "./Icons/Lancer/Revenant_Combat_Uniform_Top.png", "./Icons/Lancer/Revenant_Combat_Uniform_Bottom.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Ghastly_Dragon_Outfit_Top.png", "./Icons/Sorcerer/Ghastly_Dragon_Demon_Outfit_Bottom.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Ascension_Outfit_Top.png", "./Icons/Taoist/Ascension_Outfit_Bottom.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Soulgeist_Armor_Top.png", "./Icons/Warrior/Soulgeist_Armor_Bottom.png" ]
+  },
+  "category": "Torso/Pernas",
+  "tier": "4",
+  "rarity": "Raro",
+  "recipe": [ 
+    { "name" : "[R] Aço", "rarity": "Raro", "amount": 600 }, 
+    { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 200 }, 
+    { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 200 }, 
+    { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 8 }, 
+    { "name" : "Cobre", "amount": 850000 }, 
+    { "name" : "Aço Negro", "amount": 102500 }
+  ]
+},
+{
+  "names": { 
+    "nameArbalist": "Shadowsteel Martial Uniform Torso/Pernas",
+    "nameLancer": "Shadowsteel Combat Uniform Torso/Pernas",
+    "nameSorcerer": "Shadowseteel Casting Outfit Torso/Pernas",
+    "nameTaoist": "Shadowsteel Robe Torso/Pernas",
+    "nameWarrior": "Shadowsteel Heavy Armor Torso/Pernas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/White_Snake_Martial_Uniform_Top.png", "./Icons/Arbalist/White_Snake_Martial_Uniform_Bottom.png" ],
+    "imageLancer": [ "./Icons/Lancer/White_Dragon_Uniform_Top.png", "./Icons/Lancer/White_Dragon_Uniform_Bottom.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Sorcery_Spell_Uniform_Top.png", "./Icons/Sorcerer/Sorcery_Spell_Uniform_Bottom.png" ],
+    "imageTaoist": [ "./Icons/Taoist/White_Wing_Robe_Top.png", "./Icons/Taoist/White_Wing_Robe_Bottom.png" ],
+    "imageWarrior": [ "./Icons/Warrior/White_Tiger_Battlearmor_Top.png", "./Icons/Warrior/White_Tiger_Battlearmor_Bottom.png" ]
+  },
+  "category": "Torso/Pernas",
+  "tier": "4",
+  "rarity": "Raro",
+  "recipe": [ 
+    { "name" : "[R] Aço", "rarity": "Raro", "amount": 600 }, 
+    { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 200 }, 
+    { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 200 }, 
+    { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 8 }, 
+    { "name" : "Cobre", "amount": 850000 }, 
+    { "name" : "Aço Negro", "amount": 102500 }
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "names": { 
+    "nameArbalist": "Murder Martial Uniform Torso/Pernas",
+    "nameLancer": "Battleslayer Combat Uniform Torso/Pernas",
+    "nameSorcerer": "Ultimate Mana Outfit Torso/Pernas",
+    "nameTaoist": "Pakua Robe Torso/Pernas",
+    "nameWarrior": "Ultimate Heavy Armor Torso/Pernas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Murder_Martial_Uniform_Top.png", "./Icons/Arbalist/Murder_Martial_Uniform_Bottom.png" ],
+    "imageLancer": [ "./Icons/Lancer/Battleslayer_Combat_Uniform_Top.png", "./Icons/Lancer/Battleslayer_Combat_Uniform_Bottom.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Ultimate_Mana_Outfit_Top.png", "./Icons/Sorcerer/Ultimate_Mana_Outfit_Bottom.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Pakua_Robe_Top.png", "./Icons/Taoist/Pakua_Robe_Bottom.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Ultimate_Heavy_Armor_Top.png", "./Icons/Warrior/Ultimate_Heavy_Armor_Bottom.png" ]
+  },
+  "category": "Torso/Pernas",
+  "tier": "1",
+  "rarity": "Épico",
+  "recipe": [ 
+    { "name" : "[E] Aço", "rarity": "Épico", "amount": 300 }, 
+    { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 100 }, 
+    { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 100 }, 
+    { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 1 }, 
+    { "name" : "Cobre", "amount": 400000 }, 
+    { "name" : "Aço Negro", "amount": 50000 }
+  ]
+},
+{
+  "names": { 
+    "nameArbalist": "Dark Cloud Martial Uniform Torso/Pernas",
+    "nameLancer": "Safeguard Combat Uniform Torso/Pernas",
+    "nameSorcerer": "Evil Absorber Uniform Torso/Pernas",
+    "nameTaoist": "Trustbuilding Robe Torso/Pernas",
+    "nameWarrior": "True Potential Heavy Armor Torso/Pernas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Top.png", "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Bottom.png" ],
+    "imageLancer": [ "./Icons/Lancer/Safeguard_Combat_Uniform_Top.png", "./Icons/Lancer/Safeguard_Combat_Uniform_Bottom.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Evil_Absorber_Uniform_Top.png", "./Icons/Sorcerer/Evil_Absorber_Uniform_Bottom.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Trustbuilding_Robe_Top.png", "./Icons/Taoist/Trustbuilding_Robe_Bottom.png" ],
+    "imageWarrior": [ "./Icons/Warrior/True_Potential_Heavy_Armor_Top.png", "./Icons/Warrior/True_Potential_Heavy_Armor_Bottom.png" ]
+  },
+  "category": "Torso/Pernas",
+  "tier": "1",
+  "rarity": "Épico",
+  "recipe": [ 
+    { "name" : "[E] Aço", "rarity": "Épico", "amount": 300 }, 
+    { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 100 }, 
+    { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 100 }, 
+    { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 1 }, 
+    { "name" : "Cobre", "amount": 400000 }, 
+    { "name" : "Aço Negro", "amount": 50000 }
+  ]
+},
+{
+  "names": { 
+    "nameArbalist": "Deep Secret Martial Uniform Torso/Pernas",
+    "nameLancer": "Ultimate Black Combat Uniform Torso/Pernas",
+    "nameSorcerer": "Sould Subjugator Uniform Torso/Pernas",
+    "nameTaoist": "Ultimate Crane Outfit Torso/Pernas",
+    "nameWarrior": "Dark Mercy Heavy Armor Torso/Pernas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Murder_Martial_Uniform_Top.png", "./Icons/Arbalist/Murder_Martial_Uniform_Bottom.png" ],
+    "imageLancer": [ "./Icons/Lancer/Battleslayer_Combat_Uniform_Top.png", "./Icons/Lancer/Battleslayer_Combat_Uniform_Bottom.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Ultimate_Mana_Outfit_Top.png", "./Icons/Sorcerer/Ultimate_Mana_Outfit_Bottom.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Pakua_Robe_Top.png", "./Icons/Taoist/Pakua_Robe_Bottom.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Ultimate_Heavy_Armor_Top.png", "./Icons/Warrior/Ultimate_Heavy_Armor_Bottom.png" ]
+  },
+  "category": "Torso/Pernas",
+  "tier": "2",
+  "rarity": "Épico",
+  "recipe": [ 
+    { "name" : "[E] Aço", "rarity": "Épico", "amount": 600 }, 
+    { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 200 }, 
+    { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 200 }, 
+    { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 2 }, 
+    { "name" : "Cobre", "amount": 1600000 }, 
+    { "name" : "Aço Negro", "amount": 200000 }
+  ]
+},
+{
+  "names": { 
+    "nameArbalist": "Dark King Cloud Martial Uniform Torso/Pernas",
+    "nameLancer": "Blue Arch Combat Uniform Torso/Pernas",
+    "nameSorcerer": "Forbidden Spell Uniform Torso/Pernas",
+    "nameTaoist": "Problem Solver Outfit Torso/Pernas",
+    "nameWarrior": "Blue Arch Battlearmor Torso/Pernas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Top.png", "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Bottom.png" ],
+    "imageLancer": [ "./Icons/Lancer/Safeguard_Combat_Uniform_Top.png", "./Icons/Lancer/Safeguard_Combat_Uniform_Bottom.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Evil_Absorber_Uniform_Top.png", "./Icons/Sorcerer/Evil_Absorber_Uniform_Bottom.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Trustbuilding_Robe_Top.png", "./Icons/Taoist/Trustbuilding_Robe_Bottom.png" ],
+    "imageWarrior": [ "./Icons/Warrior/True_Potential_Heavy_Armor_Top.png", "./Icons/Warrior/True_Potential_Heavy_Armor_Bottom.png" ]
+  },
+  "category": "Torso/Pernas",
+  "tier": "2",
+  "rarity": "Épico",
+  "recipe": [ 
+    { "name" : "[E] Aço", "rarity": "Épico", "amount": 600 }, 
+    { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 200 }, 
+    { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 200 }, 
+    { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 2 }, 
+    { "name" : "Cobre", "amount": 1600000 }, 
+    { "name" : "Aço Negro", "amount": 200000 }
+  ]
+},
+{
+  "names": { 
+    "nameArbalist": "Complete Secret Martial Uniform Torso/Pernas",
+    "nameLancer": "Dragonscale Combat Uniform Torso/Pernas",
+    "nameSorcerer": "Empress Scale Uniform Torso/Pernas",
+    "nameTaoist": "Skyquake Treasure Outfit Torso/Pernas",
+    "nameWarrior": "Roaring Thunder Armor Torso/Pernas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Murder_Martial_Uniform_Top.png", "./Icons/Arbalist/Murder_Martial_Uniform_Bottom.png" ],
+    "imageLancer": [ "./Icons/Lancer/Battleslayer_Combat_Uniform_Top.png", "./Icons/Lancer/Battleslayer_Combat_Uniform_Bottom.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Ultimate_Mana_Outfit_Top.png", "./Icons/Sorcerer/Ultimate_Mana_Outfit_Bottom.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Pakua_Robe_Top.png", "./Icons/Taoist/Pakua_Robe_Bottom.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Ultimate_Heavy_Armor_Top.png", "./Icons/Warrior/Ultimate_Heavy_Armor_Bottom.png" ]
+  },
+  "category": "Torso/Pernas",
+  "tier": "3",
+  "rarity": "Épico",
+  "recipe": [ 
+    { "name" : "[E] Aço", "rarity": "Épico", "amount": 1200 }, 
+    { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 400 }, 
+    { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 400 }, 
+    { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 4 }, 
+    { "name" : "Cobre", "amount": 4400000 }, 
+    { "name" : "Aço Negro", "amount": 550000 }
+  ]
+},
+{
+  "names": { 
+    "nameArbalist": "Dark Heaven Cloud Martial Uniform Torso/Pernas",
+    "nameLancer": "Taji Combat Uniform Torso/Pernas",
+    "nameSorcerer": "Sky Secret Outfit Torso/Pernas",
+    "nameTaoist": "Taji Uniform Torso/Pernas",
+    "nameWarrior": "Blue Sky Piercing Armor Torso/Pernas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Top.png", "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Bottom.png" ],
+    "imageLancer": [ "./Icons/Lancer/Safeguard_Combat_Uniform_Top.png", "./Icons/Lancer/Safeguard_Combat_Uniform_Bottom.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Evil_Absorber_Uniform_Top.png", "./Icons/Sorcerer/Evil_Absorber_Uniform_Bottom.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Trustbuilding_Robe_Top.png", "./Icons/Taoist/Trustbuilding_Robe_Bottom.png" ],
+    "imageWarrior": [ "./Icons/Warrior/True_Potential_Heavy_Armor_Top.png", "./Icons/Warrior/True_Potential_Heavy_Armor_Bottom.png" ]
+  },
+  "category": "Torso/Pernas",
+  "tier": "3",
+  "rarity": "Épico",
+  "recipe": [ 
+    { "name" : "[E] Aço", "rarity": "Épico", "amount": 1200 }, 
+    { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 400 }, 
+    { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 400 }, 
+    { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 4 }, 
+    { "name" : "Cobre", "amount": 4400000 }, 
+    { "name" : "Aço Negro", "amount": 550000 }
+  ]
+},
+{
+  "names": { 
+    "nameArbalist": "Spirit Suppression Martial Uniform Torso/Pernas",
+    "nameLancer": "Tue Demon Combat Uniform Torso/Pernas",
+    "nameSorcerer": "Advancing Desire Uniform Torso/Pernas",
+    "nameTaoist": "Benevolence Robe Torso/Pernas",
+    "nameWarrior": "True Warrior's Heavy Armor Torso/Pernas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Murder_Martial_Uniform_Top.png", "./Icons/Arbalist/Murder_Martial_Uniform_Bottom.png" ],
+    "imageLancer": [ "./Icons/Lancer/Battleslayer_Combat_Uniform_Top.png", "./Icons/Lancer/Battleslayer_Combat_Uniform_Bottom.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Ultimate_Mana_Outfit_Top.png", "./Icons/Sorcerer/Ultimate_Mana_Outfit_Bottom.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Pakua_Robe_Top.png", "./Icons/Taoist/Pakua_Robe_Bottom.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Ultimate_Heavy_Armor_Top.png", "./Icons/Warrior/Ultimate_Heavy_Armor_Bottom.png" ]
+  },
+  "category": "Torso/Pernas",
+  "tier": "4",
+  "rarity": "Épico",
+  "recipe": [ 
+    { "name" : "[E] Aço", "rarity": "Épico", "amount": 2400 }, 
+    { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 800 }, 
+    { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 800 }, 
+    { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 8 }, 
+    { "name" : "Cobre", "amount": 10400000 }, 
+    { "name" : "Aço Negro", "amount": 1300000 }
+  ]
+},
+{
+  "names": { 
+    "nameArbalist": "Countless Evil Cloud Martial Uniform Torso/Pernas",
+    "nameLancer": "Skytiger Combat Uniform Torso/Pernas",
+    "nameSorcerer": "Dawnsoarer Outfit Torso/Pernas",
+    "nameTaoist": "Heavenly Horse Robe Torso/Pernas",
+    "nameWarrior": "Netherwolf Black Armor Torso/Pernas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Top.png", "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Bottom.png" ],
+    "imageLancer": [ "./Icons/Lancer/Safeguard_Combat_Uniform_Top.png", "./Icons/Lancer/Safeguard_Combat_Uniform_Bottom.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Evil_Absorber_Uniform_Top.png", "./Icons/Sorcerer/Evil_Absorber_Uniform_Bottom.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Trustbuilding_Robe_Top.png", "./Icons/Taoist/Trustbuilding_Robe_Bottom.png" ],
+    "imageWarrior": [ "./Icons/Warrior/True_Potential_Heavy_Armor_Top.png", "./Icons/Warrior/True_Potential_Heavy_Armor_Bottom.png" ]
+  },
+  "category": "Torso/Pernas",
+  "tier": "4",
+  "rarity": "Épico",
+  "recipe": [ 
+    { "name" : "[E] Aço", "rarity": "Épico", "amount": 2400 }, 
+    { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 800 }, 
+    { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 800 }, 
+    { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 8 }, 
+    { "name" : "Cobre", "amount": 10400000 }, 
+    { "name" : "Aço Negro", "amount": 1300000 }
+  ]
+},
+
+
+
+
+
+
+{
+  "names": { 
+    "nameArbalist": "Heavenly Connection Martial Uniform Torso/Pernas",
+    "nameLancer": "All Creation Combat Uniform Torso/Pernas",
+    "nameSorcerer": "All Creation Outfit Torso/Pernas",
+    "nameTaoist": "Transcender's Outfit Torso/Pernas",
+    "nameWarrior": "Heavenly Connection Armor Torso/Pernas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Top.png", "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Bottom.png" ],
+    "imageLancer": [ "./Icons/Lancer/All_Creation_Combat_Uniform_Top.png", "./Icons/Lancer/All_Creation_Combat_Uniform_Bottom.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/All_Creation_Outfit_Top.png", "./Icons/Sorcerer/All_Creation_Outfit_Bottom.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Transcenders_Outfit_Top.png", "./Icons/Taoist/Transcenders_Outfit_Bottom.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Heavenly_Connection_Armor_Top.png", "./Icons/Warrior/Heavenly_Connection_Armor_Bottom.png" ]
+  },
+  "category": "Torso/Pernas",
+  "tier": "1",
+  "rarity": "Lendário",
+  "recipe": [ 
+    { "name" : "[L] Aço", "rarity": "Lendário", "amount": 300 }, 
+    { "name" : "[L] Quintessência", "rarity": "Lendário", "amount": 100 }, 
+    { "name" : "[L] Bugiganga de Exorcismo", "rarity": "Lendário", "amount": 100 }, 
+    { "name" : "[L] Couro de Dragão", "rarity": "Lendário", "amount": 1 }, 
+    { "name" : "Cobre", "amount": 5000000 }, 
+    { "name" : "Aço Negro", "amount": 500000 }
+  ]
+},
+{
+  "names": { 
+    "nameArbalist": "Celestial Martial Uniform Torso/Pernas",
+    "nameLancer": "Divinity Combat Uniform Torso/Pernas",
+    "nameSorcerer": "Heavenly Dragon Outfit Torso/Pernas",
+    "nameTaoist": "Celestial Outfit Torso/Pernas",
+    "nameWarrior": "Celestial Battlearmor Torso/Pernas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Top.png", "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Bottom.png" ],
+    "imageLancer": [ "./Icons/Lancer/All_Creation_Combat_Uniform_Top.png", "./Icons/Lancer/All_Creation_Combat_Uniform_Bottom.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/All_Creation_Outfit_Top.png", "./Icons/Sorcerer/All_Creation_Outfit_Bottom.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Transcenders_Outfit_Top.png", "./Icons/Taoist/Transcenders_Outfit_Bottom.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Heavenly_Connection_Armor_Top.png", "./Icons/Warrior/Heavenly_Connection_Armor_Bottom.png" ]
+  },
+  "category": "Torso/Pernas",
+  "tier": "2",
+  "rarity": "Lendário",
+  "recipe": [ 
+    { "name" : "[L] Aço", "rarity": "Lendário", "amount": 600 }, 
+    { "name" : "[L] Quintessência", "rarity": "Lendário", "amount": 200 }, 
+    { "name" : "[L] Bugiganga de Exorcismo", "rarity": "Lendário", "amount": 200 }, 
+    { "name" : "[L] Couro de Dragão", "rarity": "Lendário", "amount": 2 }, 
+    { "name" : "Cobre", "amount": 20000000 }, 
+    { "name" : "Aço Negro", "amount": 2000000 }
+  ]
+},
+{
+  "names": { 
+    "nameArbalist": "Shineworld Secret Outfit Torso/Pernas",
+    "nameLancer": "Shining Dragon Uniform Torso/Pernas",
+    "nameSorcerer": "Shineworld Dragon Outfit Torso/Pernas",
+    "nameTaoist": "Shineworld Crane Outfit Torso/Pernas",
+    "nameWarrior": "Shineworld Dragon Armor Torso/Pernas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Top.png", "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Bottom.png" ],
+    "imageLancer": [ "./Icons/Lancer/All_Creation_Combat_Uniform_Top.png", "./Icons/Lancer/All_Creation_Combat_Uniform_Bottom.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/All_Creation_Outfit_Top.png", "./Icons/Sorcerer/All_Creation_Outfit_Bottom.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Transcenders_Outfit_Top.png", "./Icons/Taoist/Transcenders_Outfit_Bottom.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Heavenly_Connection_Armor_Top.png", "./Icons/Warrior/Heavenly_Connection_Armor_Bottom.png" ]
+  },
+  "category": "Torso/Pernas",
+  "tier": "3",
+  "rarity": "Lendário",
+  "recipe": [ 
+    { "name" : "[L] Aço", "rarity": "Lendário", "amount": 1200 }, 
+    { "name" : "[L] Quintessência", "rarity": "Lendário", "amount": 400 }, 
+    { "name" : "[L] Bugiganga de Exorcismo", "rarity": "Lendário", "amount": 400 }, 
+    { "name" : "[L] Couro de Dragão", "rarity": "Lendário", "amount": 4 }, 
+    { "name" : "Cobre", "amount": 55000000 }, 
+    { "name" : "Aço Negro", "amount": 5500000 }
+  ]
+},
+{
+  "names": { 
+    "nameArbalist": "Skyweb Secret Outfit Torso/Pernas",
+    "nameLancer": "War Dragon Outfit Torso/Pernas",
+    "nameSorcerer": "Mana Treasure Outfit Torso/Pernas",
+    "nameTaoist": "Thousand Handed Buddha Outfit Torso/Pernas",
+    "nameWarrior": "Warrior God Battlearmor Torso/Pernas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Top.png", "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Bottom.png" ],
+    "imageLancer": [ "./Icons/Lancer/All_Creation_Combat_Uniform_Top.png", "./Icons/Lancer/All_Creation_Combat_Uniform_Bottom.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/All_Creation_Outfit_Top.png", "./Icons/Sorcerer/All_Creation_Outfit_Bottom.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Transcenders_Outfit_Top.png", "./Icons/Taoist/Transcenders_Outfit_Bottom.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Heavenly_Connection_Armor_Top.png", "./Icons/Warrior/Heavenly_Connection_Armor_Bottom.png" ]
+  },
+  "category": "Torso/Pernas",
+  "tier": "4",
+  "rarity": "Lendário",
+  "recipe": [ 
+    { "name" : "[L] Aço", "rarity": "Lendário", "amount": 2400 }, 
+    { "name" : "[L] Quintessência", "rarity": "Lendário", "amount": 800 }, 
+    { "name" : "[L] Bugiganga de Exorcismo", "rarity": "Lendário", "amount": 800 }, 
+    { "name" : "[L] Couro de Dragão", "rarity": "Lendário", "amount": 8 }, 
+    { "name" : "Cobre", "amount": 130000000 }, 
+    { "name" : "Aço Negro", "amount": 13000000 }
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "names": { 
+    "nameArbalist": "Silk Outfit Luvas/Botas",
+    "nameLancer": "Cotton Brigandine Combat Luvas/Botas",
+    "nameSorcerer": "Silk Demon Luvas/Botas",
+    "nameTaoist": "Silk Luvas/Botas",
+    "nameWarrior": "Cotton Brigandine Luvas/Botas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Silk_Outfit_Gloves.png", "./Icons/Arbalist/Silk_Outfit_Boots.png" ],
+    "imageLancer": [ "./Icons/Lancer/Cotton_Brigandine_Combat_Gloves.png", "./Icons/Lancer/Cotton_Brigandine_Combat_Boots.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Silk_Demon_Gloves.png", "./Icons/Sorcerer/Silk_Demon_Boots.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Silk_Outfit_Gloves.png", "./Icons/Taoist/Silk_Outfit_Boots.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Cotton_Brigandine_Armor_Gloves.png", "./Icons/Warrior/Cotton_Brigandine_Armor_Boots.png" ]
+  },
+  "category": "Luvas/Botas",
+  "tier": "1",
+  "rarity": "Incomum",
+  "recipe": [ 
+      { "name" : "[UC] Aço", "rarity": "Incomum", "amount": 20 }, 
+      { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 2 }, 
+      { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 1 }, 
+      { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 1 }, 
+      { "name" : "Cobre", "amount": 500 }, 
+      { "name" : "Aço Negro", "amount": 500 }
+  ]
+  },
+  {
+  "names": { 
+    "nameArbalist": "Covert Outfit Luvas/Botas",
+    "nameLancer": "Purple Moon Combat Luvas/Botas",
+    "nameSorcerer": "Scarlet Fire Demon Luvas/Botas",
+    "nameTaoist": "Unification Luvas/Botas",
+    "nameWarrior": "Light Armor Luvas/Botas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Covert_Outfit_Gloves.png", "./Icons/Arbalist/Covert_Outfit_Boots.png" ],
+    "imageLancer": [ "./Icons/Lancer/Purple_Moon_Combat_Gloves.png", "./Icons/Lancer/Purple_Moon_Combat_Boots.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Scarlet_Fire_Demon_Gloves.png", "./Icons/Sorcerer/Scarlet_Fire_Demon_Boots.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Unification_Outfit_Gloves.png", "./Icons/Taoist/Unification_Outfit_Boots.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Light_Armor_Gloves.png", "./Icons/Warrior/Light_Armor_Boots.png" ]
+  },
+  "category": "Luvas/Botas",
+  "tier": "1",
+  "rarity": "Incomum",
+  "recipe": [ 
+      { "name" : "[UC] Aço", "rarity": "Incomum", "amount": 20 }, 
+      { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 1 }, 
+      { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 2 }, 
+      { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 1 }, 
+      { "name" : "Cobre", "amount": 500 }, 
+      { "name" : "Aço Negro", "amount": 500 }
+  ]
+  },
+  {
+  "names": { 
+    "nameArbalist": "Afterimage Outfit Luvas/Botas",
+    "nameLancer": "Black Wing Combat Luvas/Botas",
+    "nameSorcerer": "Flame Demon Luvas/Botas",
+    "nameTaoist": "Taeul Luvas/Botas",
+    "nameWarrior": "Guard Luvas/Botas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Silk_Outfit_Gloves.png", "./Icons/Arbalist/Silk_Outfit_Boots.png" ],
+    "imageLancer": [ "./Icons/Lancer/Cotton_Brigandine_Combat_Gloves.png", "./Icons/Lancer/Cotton_Brigandine_Combat_Boots.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Silk_Demon_Gloves.png", "./Icons/Sorcerer/Silk_Demon_Boots.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Silk_Outfit_Gloves.png", "./Icons/Taoist/Silk_Outfit_Boots.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Cotton_Brigandine_Armor_Gloves.png", "./Icons/Warrior/Cotton_Brigandine_Armor_Boots.png" ]
+  },
+  "category": "Luvas/Botas",
+  "tier": "2",
+  "rarity": "Incomum",
+  "recipe": [ 
+      { "name" : "[UC] Aço", "rarity": "Incomum", "amount": 40 }, 
+      { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 4 }, 
+      { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 2 }, 
+      { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 2 }, 
+      { "name" : "Cobre", "amount": 3500 }, 
+      { "name" : "Aço Negro", "amount": 2000 }
+  ]
+  },
+  {
+  "names": { 
+    "nameArbalist": "Incognito Outfit Luvas/Botas",
+    "nameLancer": "Scarlet Moon Combat Luvas/Botas",
+    "nameSorcerer": "Blazing Fire Demon Luvas/Botas",
+    "nameTaoist": "Safeguard Luvas/Botas",
+    "nameWarrior": "Light Plate Luvas/Botas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Covert_Outfit_Gloves.png", "./Icons/Arbalist/Covert_Outfit_Boots.png" ],
+    "imageLancer": [ "./Icons/Lancer/Purple_Moon_Combat_Gloves.png", "./Icons/Lancer/Purple_Moon_Combat_Boots.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Scarlet_Fire_Demon_Gloves.png", "./Icons/Sorcerer/Scarlet_Fire_Demon_Boots.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Unification_Outfit_Gloves.png", "./Icons/Taoist/Unification_Outfit_Boots.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Light_Armor_Gloves.png", "./Icons/Warrior/Light_Armor_Boots.png" ]
+  },
+  "category": "Luvas/Botas",
+  "tier": "2",
+  "rarity": "Incomum",
+  "recipe": [ 
+      { "name" : "[UC] Aço", "rarity": "Incomum", "amount": 40 }, 
+      { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 2 }, 
+      { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 4 }, 
+      { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 2 }, 
+      { "name" : "Cobre", "amount": 3500 }, 
+      { "name" : "Aço Negro", "amount": 2000 }
+  ]
+  },
+  {
+  "names": { 
+    "nameArbalist": "Shadow Outfit Luvas/Botas",
+    "nameLancer": "Black Raven Combat Luvas/Botas",
+    "nameSorcerer": "Infernal Abomination Luvas/Botas",
+    "nameTaoist": "Earthy Fire Luvas/Botas",
+    "nameWarrior": "Splendid Luvas/Botas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Silk_Outfit_Gloves.png", "./Icons/Arbalist/Silk_Outfit_Boots.png" ],
+    "imageLancer": [ "./Icons/Lancer/Cotton_Brigandine_Combat_Gloves.png", "./Icons/Lancer/Cotton_Brigandine_Combat_Boots.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Silk_Demon_Gloves.png", "./Icons/Sorcerer/Silk_Demon_Boots.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Silk_Outfit_Gloves.png", "./Icons/Taoist/Silk_Outfit_Boots.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Cotton_Brigandine_Armor_Gloves.png", "./Icons/Warrior/Cotton_Brigandine_Armor_Boots.png" ]
+  },
+  "category": "Luvas/Botas",
+  "tier": "3",
+  "rarity": "Incomum",
+  "recipe": [ 
+      { "name" : "[UC] Aço", "rarity": "Incomum", "amount": 80 }, 
+      { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 8 }, 
+      { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 4 }, 
+      { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 4 }, 
+      { "name" : "Cobre", "amount": 12000 }, 
+      { "name" : "Aço Negro", "amount": 5500 }
+  ]
+  },
+  {
+  "names": { 
+    "nameArbalist": "Disguised Outfit Luvas/Botas",
+    "nameLancer": "Redmoon Combat Luvas/Botas",
+    "nameSorcerer": "Violet Lightning Demon Luvas/Botas",
+    "nameTaoist": "Taoist God Luvas/Botas",
+    "nameWarrior": "Ruling Tiger Luvas/Botas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Covert_Outfit_Gloves.png", "./Icons/Arbalist/Covert_Outfit_Boots.png" ],
+    "imageLancer": [ "./Icons/Lancer/Purple_Moon_Combat_Gloves.png", "./Icons/Lancer/Purple_Moon_Combat_Boots.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Scarlet_Fire_Demon_Gloves.png", "./Icons/Sorcerer/Scarlet_Fire_Demon_Boots.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Unification_Outfit_Gloves.png", "./Icons/Taoist/Unification_Outfit_Boots.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Light_Armor_Gloves.png", "./Icons/Warrior/Light_Armor_Boots.png" ]
+  },
+  "category": "Luvas/Botas",
+  "tier": "3",
+  "rarity": "Incomum",
+  "recipe": [ 
+      { "name" : "[UC] Aço", "rarity": "Incomum", "amount": 80 }, 
+      { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 4 }, 
+      { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 8 }, 
+      { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 4 }, 
+      { "name" : "Cobre", "amount": 12000 }, 
+      { "name" : "Aço Negro", "amount": 5500 }
+  ]
+  },
+  {
+  "names": { 
+    "nameArbalist": "Secret Outfit Luvas/Botas",
+    "nameLancer": "Black Shell Combat Luvas/Botas",
+    "nameSorcerer": "Crimson Fire Demon Luvas/Botas",
+    "nameTaoist": "Taji Luvas/Botas",
+    "nameWarrior": "Ruler Luvas/Botas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Silk_Outfit_Gloves.png", "./Icons/Arbalist/Silk_Outfit_Boots.png" ],
+    "imageLancer": [ "./Icons/Lancer/Cotton_Brigandine_Combat_Gloves.png", "./Icons/Lancer/Cotton_Brigandine_Combat_Boots.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Silk_Demon_Gloves.png", "./Icons/Sorcerer/Silk_Demon_Boots.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Silk_Outfit_Gloves.png", "./Icons/Taoist/Silk_Outfit_Boots.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Cotton_Brigandine_Armor_Gloves.png", "./Icons/Warrior/Cotton_Brigandine_Armor_Boots.png" ]
+  },
+  "category": "Luvas/Botas",
+  "tier": "4",
+  "rarity": "Incomum",
+  "recipe": [ 
+      { "name" : "[UC] Aço", "rarity": "Incomum", "amount": 160 }, 
+      { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 16 }, 
+      { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 8 }, 
+      { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 8 }, 
+      { "name" : "Cobre", "amount": 31500 }, 
+      { "name" : "Aço Negro", "amount": 13000 }
+  ]
+  },
+  {
+  "names": { 
+    "nameArbalist": "Undercover Outfit Luvas/Botas",
+    "nameLancer": "Crimson Demon Combat Luvas/Botas",
+    "nameSorcerer": "Spark Demon Luvas/Botas",
+    "nameTaoist": "Arcanean Luvas/Botas",
+    "nameWarrior": "Spectre Luvas/Botas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Covert_Outfit_Gloves.png", "./Icons/Arbalist/Covert_Outfit_Boots.png" ],
+    "imageLancer": [ "./Icons/Lancer/Purple_Moon_Combat_Gloves.png", "./Icons/Lancer/Purple_Moon_Combat_Boots.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Scarlet_Fire_Demon_Gloves.png", "./Icons/Sorcerer/Scarlet_Fire_Demon_Boots.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Unification_Outfit_Gloves.png", "./Icons/Taoist/Unification_Outfit_Boots.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Light_Armor_Gloves.png", "./Icons/Warrior/Light_Armor_Boots.png" ]
+  },
+  "category": "Luvas/Botas",
+  "tier": "4",
+  "rarity": "Incomum",
+  "recipe": [ 
+      { "name" : "[UC] Aço", "rarity": "Incomum", "amount": 160 }, 
+      { "name" : "[UC] Quintessência", "rarity": "Incomum", "amount": 8 }, 
+      { "name" : "[UC] Bugiganga de Exorcismo", "rarity": "Incomum", "amount": 16 }, 
+      { "name" : "[UC] Couro de Dragão", "rarity": "Incomum", "amount": 8 }, 
+      { "name" : "Cobre", "amount": 31500 }, 
+      { "name" : "Aço Negro", "amount": 13000 }
+  ]
+  },
+
+
+
+
+
+
+  {
+  "names": { 
+    "nameArbalist": "Phantom Martial Uniform Luvas/Botas",
+    "nameLancer": "Revenant Combat Luvas/Botas",
+    "nameSorcerer": "Ghastly Dragon Demon Luvas/Botas",
+    "nameTaoist": "Ascension Luvas/Botas",
+    "nameWarrior": "Soulgeist Luvas/Botas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Phantom_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Phantom_Martial_Uniform_Boots.png" ],
+    "imageLancer": [ "./Icons/Lancer/Revenant_Combat_Gloves.png", "./Icons/Lancer/Revenant_Combat_Boots.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Ghastly_Dragon_Demon_Gloves.png", "./Icons/Sorcerer/Ghastly_Dragon_Demon_Boots.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Ascension_Outfit_Gloves.png", "./Icons/Taoist/Ascension_Outfit_Boots.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Soulgeist_Armor_Gloves.png", "./Icons/Warrior/Soulgeist_Armor_Boots.png" ]
+  },
+  "category": "Luvas/Botas",
+  "tier": "1",
+  "rarity": "Raro",
+  "recipe": [ 
+      { "name" : "[R] Aço", "rarity": "Raro", "amount": 75 }, 
+      { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 25 }, 
+      { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 25 }, 
+      { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 1 }, 
+      { "name" : "Cobre", "amount": 25000 }, 
+      { "name" : "Aço Negro", "amount": 5000 }
+  ]
+  },
+  {
+  "names": { 
+    "nameArbalist": "White Snake Martial Uniform Luvas/Botas",
+    "nameLancer": "White Dragon Luvas/Botas",
+    "nameSorcerer": "Sorcery Spell Luvas/Botas",
+    "nameTaoist": "White Wing Luvas/Botas",
+    "nameWarrior": "White Tiger Battle Luvas/Botas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/White_Snake_Martial_Uniform_Gloves.png", "./Icons/Arbalist/White_Snake_Martial_Uniform_Boots.png" ],
+    "imageLancer": [ "./Icons/Lancer/White_Dragon_Gloves.png", "./Icons/Lancer/White_Dragon_Boots.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Sorcery_Spell_Gloves.png", "./Icons/Sorcerer/Sorcery_Spell_Boots.png" ],
+    "imageTaoist": [ "./Icons/Taoist/White_Wing_Outfit_Gloves.png", "./Icons/Taoist/White_Wing_Outfit_Boots.png" ],
+    "imageWarrior": [ "./Icons/Warrior/White_Tiger_Battlearmor_Gloves.png", "./Icons/Warrior/White_Tiger_Battlearmor_Boots.png" ]
+  },
+  "category": "Luvas/Botas",
+  "tier": "1",
+  "rarity": "Raro",
+  "recipe": [ 
+      { "name" : "[R] Aço", "rarity": "Raro", "amount": 75 }, 
+      { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 25 }, 
+      { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 25 }, 
+      { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 1 }, 
+      { "name" : "Cobre", "amount": 25000 }, 
+      { "name" : "Aço Negro", "amount": 5000 }
+  ]
+  },
+  {
+  "names": { 
+    "nameArbalist": "Soulgeist Martial Uniform Luvas/Botas",
+    "nameLancer": "Phantom Combat Luvas/Botas",
+    "nameSorcerer": "Ghastly Viperbeast Luvas/Botas",
+    "nameTaoist": "Taegyeong Luvas/Botas",
+    "nameWarrior": "Black Soul Battle Luvas/Botas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Phantom_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Phantom_Martial_Uniform_Boots.png" ],
+    "imageLancer": [ "./Icons/Lancer/Revenant_Combat_Gloves.png", "./Icons/Lancer/Revenant_Combat_Boots.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Ghastly_Dragon_Demon_Gloves.png", "./Icons/Sorcerer/Ghastly_Dragon_Demon_Boots.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Ascension_Outfit_Gloves.png", "./Icons/Taoist/Ascension_Outfit_Boots.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Soulgeist_Armor_Gloves.png", "./Icons/Warrior/Soulgeist_Armor_Boots.png" ]
+  },
+  "category": "Luvas/Botas",
+  "tier": "2",
+  "rarity": "Raro",
+  "recipe": [ 
+      { "name" : "[R] Aço", "rarity": "Raro", "amount": 150 }, 
+      { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 50 }, 
+      { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 50 }, 
+      { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 2 }, 
+      { "name" : "Cobre", "amount": 100000 }, 
+      { "name" : "Aço Negro", "amount": 17500 }
+  ]
+  },
+  {
+  "names": { 
+    "nameArbalist": "Boundless Martial Uniform Luvas/Botas",
+    "nameLancer": "Demon Repeller Combat Boots",
+    "nameSorcerer": "Demon Repeller Luvas/Botas",
+    "nameTaoist": "Ultimate Treasure Luvas/Botas",
+    "nameWarrior": "Demon Repeller Heavy Luvas/Botas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/White_Snake_Martial_Uniform_Gloves.png", "./Icons/Arbalist/White_Snake_Martial_Uniform_Boots.png" ],
+    "imageLancer": [ "./Icons/Lancer/White_Dragon_Gloves.png", "./Icons/Lancer/White_Dragon_Boots.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Sorcery_Spell_Gloves.png", "./Icons/Sorcerer/Sorcery_Spell_Boots.png" ],
+    "imageTaoist": [ "./Icons/Taoist/White_Wing_Outfit_Gloves.png", "./Icons/Taoist/White_Wing_Outfit_Boots.png" ],
+    "imageWarrior": [ "./Icons/Warrior/White_Tiger_Battlearmor_Gloves.png", "./Icons/Warrior/White_Tiger_Battlearmor_Boots.png" ]
+  },
+  "category": "Luvas/Botas",
+  "tier": "2",
+  "rarity": "Raro",
+  "recipe": [ 
+      { "name" : "[R] Aço", "rarity": "Raro", "amount": 150 }, 
+      { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 50 }, 
+      { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 50 }, 
+      { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 2 }, 
+      { "name" : "Cobre", "amount": 100000 }, 
+      { "name" : "Aço Negro", "amount": 17500 }
+  ]
+  },
+  {
+  "names": { 
+    "nameArbalist": "White Lotus Martial Uniform Luvas/Botas",
+    "nameLancer": "Hundred Perfection Combat Luvas/Botas",
+    "nameSorcerer": "Hundred Perfection Luvas/Botas",
+    "nameTaoist": "Hundred Perfection Luvas/Botas",
+    "nameWarrior": "Hard Smelted Heavy Luvas/Botas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Phantom_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Phantom_Martial_Uniform_Boots.png" ],
+    "imageLancer": [ "./Icons/Lancer/Revenant_Combat_Gloves.png", "./Icons/Lancer/Revenant_Combat_Boots.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Ghastly_Dragon_Demon_Gloves.png", "./Icons/Sorcerer/Ghastly_Dragon_Demon_Boots.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Ascension_Outfit_Gloves.png", "./Icons/Taoist/Ascension_Outfit_Boots.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Soulgeist_Armor_Gloves.png", "./Icons/Warrior/Soulgeist_Armor_Boots.png" ]
+  },
+  "category": "Luvas/Botas",
+  "tier": "3",
+  "rarity": "Raro",
+  "recipe": [ 
+      { "name" : "[R] Aço", "rarity": "Raro", "amount": 300 }, 
+      { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 100 }, 
+      { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 100 }, 
+      { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 4 }, 
+      { "name" : "Cobre", "amount": 375000 }, 
+      { "name" : "Aço Negro", "amount": 45000 }
+  ]
+  },
+  {
+  "names": { 
+    "nameArbalist": "Yellow Dragon Martial Uniform Luvas/Botas",
+    "nameLancer": "Yellow Dragon Combat Luvas/Botas",
+    "nameSorcerer": "Yellow Dragon Casting Luvas/Botas",
+    "nameTaoist": "Yellow Dragon Luvas/Botas",
+    "nameWarrior": "Yellow Dragon Battle Luvas/Botas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/White_Snake_Martial_Uniform_Gloves.png", "./Icons/Arbalist/White_Snake_Martial_Uniform_Boots.png" ],
+    "imageLancer": [ "./Icons/Lancer/White_Dragon_Gloves.png", "./Icons/Lancer/White_Dragon_Boots.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Sorcery_Spell_Gloves.png", "./Icons/Sorcerer/Sorcery_Spell_Boots.png" ],
+    "imageTaoist": [ "./Icons/Taoist/White_Wing_Outfit_Gloves.png", "./Icons/Taoist/White_Wing_Outfit_Boots.png" ],
+    "imageWarrior": [ "./Icons/Warrior/White_Tiger_Battlearmor_Gloves.png", "./Icons/Warrior/White_Tiger_Battlearmor_Boots.png" ]
+  },
+  "category": "Luvas/Botas",
+  "tier": "3",
+  "rarity": "Raro",
+  "recipe": [ 
+      { "name" : "[R] Aço", "rarity": "Raro", "amount": 300 }, 
+      { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 100 }, 
+      { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 100 }, 
+      { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 4 }, 
+      { "name" : "Cobre", "amount": 375000 }, 
+      { "name" : "Aço Negro", "amount": 45000 }
+  ]
+  },
+  {
+  "names": { 
+    "nameArbalist": "Pacification Martial Uniform Luvas/Botas",
+    "nameLancer": "Pacification Combat Luvas/Botas",
+    "nameSorcerer": "Pacification Casting Luvas/Botas",
+    "nameTaoist": "Pacification Luvas/Botas",
+    "nameWarrior": "Pacification Battle Luvas/Botas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Phantom_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Phantom_Martial_Uniform_Boots.png" ],
+    "imageLancer": [ "./Icons/Lancer/Revenant_Combat_Gloves.png", "./Icons/Lancer/Revenant_Combat_Boots.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Ghastly_Dragon_Demon_Gloves.png", "./Icons/Sorcerer/Ghastly_Dragon_Demon_Boots.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Ascension_Outfit_Gloves.png", "./Icons/Taoist/Ascension_Outfit_Boots.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Soulgeist_Armor_Gloves.png", "./Icons/Warrior/Soulgeist_Armor_Boots.png" ]
+  },
+  "category": "Luvas/Botas",
+  "tier": "4",
+  "rarity": "Raro",
+  "recipe": [ 
+      { "name" : "[R] Aço", "rarity": "Raro", "amount": 600 }, 
+      { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 200 }, 
+      { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 200 }, 
+      { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 8 }, 
+      { "name" : "Cobre", "amount": 850000 }, 
+      { "name" : "Aço Negro", "amount": 102500 }
+  ]
+  },
+  {
+  "names": { 
+    "nameArbalist": "Shadowsteel Martial Uniform Luvas/Botas",
+    "nameLancer": "Shadowsteel Combat Luvas/Botas",
+    "nameSorcerer": "Shadowsteel Casting Luvas/Botas",
+    "nameTaoist": "Shadowsteel Luvas/Botas",
+    "nameWarrior": "Shadowsteel Heavy Luvas/Botas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/White_Snake_Martial_Uniform_Gloves.png", "./Icons/Arbalist/White_Snake_Martial_Uniform_Boots.png" ],
+    "imageLancer": [ "./Icons/Lancer/White_Dragon_Gloves.png", "./Icons/Lancer/White_Dragon_Boots.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Sorcery_Spell_Gloves.png", "./Icons/Sorcerer/Sorcery_Spell_Boots.png" ],
+    "imageTaoist": [ "./Icons/Taoist/White_Wing_Outfit_Gloves.png", "./Icons/Taoist/White_Wing_Outfit_Boots.png" ],
+    "imageWarrior": [ "./Icons/Warrior/White_Tiger_Battlearmor_Gloves.png", "./Icons/Warrior/White_Tiger_Battlearmor_Boots.png" ]
+  },
+  "category": "Luvas/Botas",
+  "tier": "4",
+  "rarity": "Raro",
+  "recipe": [ 
+      { "name" : "[R] Aço", "rarity": "Raro", "amount": 600 }, 
+      { "name" : "[R] Quintessência", "rarity": "Raro", "amount": 200 }, 
+      { "name" : "[R] Bugiganga de Exorcismo", "rarity": "Raro", "amount": 200 }, 
+      { "name" : "[R] Couro de Dragão", "rarity": "Raro", "amount": 8 }, 
+      { "name" : "Cobre", "amount": 850000 }, 
+      { "name" : "Aço Negro", "amount": 102500 }
+  ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+  "names": { 
+    "nameArbalist": "Murder Martial Uniform Luvas/Botas",
+    "nameLancer": "Battleslayer Combat Luvas/Botas",
+    "nameSorcerer": "Ultimate Mana Luvas/Botas",
+    "nameTaoist": "Pakua Luvas/Botas",
+    "nameWarrior": "Ultimate Heavy Luvas/Botas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Murder_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Murder_Martial_Uniform_Boots.png" ],
+    "imageLancer": [ "./Icons/Lancer/Battleslayer_Combat_Gloves.png", "./Icons/Lancer/Battleslayer_Combat_Boots.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Ultimate_Mana_Gloves.png", "./Icons/Sorcerer/Ultimate_Mana_Boots.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Pakua_Outfit_Gloves.png", "./Icons/Taoist/Pakua_Outfit_Boots.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Ultimate_Heavy_Armor_Gloves.png", "./Icons/Warrior/Ultimate_Heavy_Armor_Boots.png" ]
+  },
+  "category": "Luvas/Botas",
+  "tier": "1",
+  "rarity": "Épico",
+  "recipe": [ 
+      { "name" : "[E] Aço", "rarity": "Épico", "amount": 300 }, 
+      { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 100 }, 
+      { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 100 }, 
+      { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 1 }, 
+      { "name" : "Cobre", "amount": 400000 }, 
+      { "name" : "Aço Negro", "amount": 50000 }
+  ]
+  },
+  {
+  "names": { 
+    "nameArbalist": "Dark Cloud Martial Uniform Luvas/Botas",
+    "nameLancer": "Safeguard Combat Luvas/Botas",
+    "nameSorcerer": "Evil Absorber Luvas/Botas",
+    "nameTaoist": "Trustbuilding Luvas/Botas",
+    "nameWarrior": "True Potential Heavy Luvas/Botas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Boots.png" ],
+    "imageLancer": [ "./Icons/Lancer/Safeguard_Combat_Gloves.png", "./Icons/Lancer/Safeguard_Combat_Boots.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Evil_Absorber_Gloves.png", "./Icons/Sorcerer/Evil_Absorber_Boots.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Trustbuilding_Outfit_Gloves.png", "./Icons/Taoist/Trustbuilding_Outfit_Boots.png" ],
+    "imageWarrior": [ "./Icons/Warrior/True_Potential_Heavy_Armor_Gloves.png", "./Icons/Warrior/True_Potential_Heavy_Armor_Boots.png" ]
+  },
+  "category": "Luvas/Botas",
+  "tier": "1",
+  "rarity": "Épico",
+  "recipe": [ 
+      { "name" : "[E] Aço", "rarity": "Épico", "amount": 300 }, 
+      { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 100 }, 
+      { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 100 }, 
+      { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 1 }, 
+      { "name" : "Cobre", "amount": 400000 }, 
+      { "name" : "Aço Negro", "amount": 50000 }
+  ]
+  },
+  {
+  "names": { 
+    "nameArbalist": "Deep Secret Martial Uniform Luvas/Botas",
+    "nameLancer": "Ultimate Black Combat Luvas/Botas",
+    "nameSorcerer": "Soul Subjugator Luvas/Botas",
+    "nameTaoist": "Ultimate Crane Luvas/Botas",
+    "nameWarrior": "Dark Mercy Heavy Luvas/Botas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Murder_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Murder_Martial_Uniform_Boots.png" ],
+    "imageLancer": [ "./Icons/Lancer/Battleslayer_Combat_Gloves.png", "./Icons/Lancer/Battleslayer_Combat_Boots.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Ultimate_Mana_Gloves.png", "./Icons/Sorcerer/Ultimate_Mana_Boots.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Pakua_Outfit_Gloves.png", "./Icons/Taoist/Pakua_Outfit_Boots.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Ultimate_Heavy_Armor_Gloves.png", "./Icons/Warrior/Ultimate_Heavy_Armor_Boots.png" ]
+  },
+  "category": "Luvas/Botas",
+  "tier": "2",
+  "rarity": "Épico",
+  "recipe": [ 
+      { "name" : "[E] Aço", "rarity": "Épico", "amount": 600 }, 
+      { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 200 }, 
+      { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 200 }, 
+      { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 2 }, 
+      { "name" : "Cobre", "amount": 1600000 }, 
+      { "name" : "Aço Negro", "amount": 200000 }
+  ]
+  },
+  {
+  "names": { 
+    "nameArbalist": "Dark King Cloud Martial Uniform Luvas/Botas",
+    "nameLancer": "Blue Arch Combat Luvas/Botas",
+    "nameSorcerer": "Forbidden Spell Luvas/Botas",
+    "nameTaoist": "Problem Solver Luvas/Botas",
+    "nameWarrior": "Blue Arch Battle Luvas/Botas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Boots.png" ],
+    "imageLancer": [ "./Icons/Lancer/Safeguard_Combat_Gloves.png", "./Icons/Lancer/Safeguard_Combat_Boots.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Evil_Absorber_Gloves.png", "./Icons/Sorcerer/Evil_Absorber_Boots.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Trustbuilding_Outfit_Gloves.png", "./Icons/Taoist/Trustbuilding_Outfit_Boots.png" ],
+    "imageWarrior": [ "./Icons/Warrior/True_Potential_Heavy_Armor_Gloves.png", "./Icons/Warrior/True_Potential_Heavy_Armor_Boots.png" ]
+  },
+  "category": "Luvas/Botas",
+  "tier": "2",
+  "rarity": "Épico",
+  "recipe": [ 
+      { "name" : "[E] Aço", "rarity": "Épico", "amount": 600 }, 
+      { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 200 }, 
+      { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 200 }, 
+      { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 2 }, 
+      { "name" : "Cobre", "amount": 1600000 }, 
+      { "name" : "Aço Negro", "amount": 200000 }
+  ]
+  },
+  {
+  "names": { 
+    "nameArbalist": "Complete Secret Martial Uniform Luvas/Botas",
+    "nameLancer": "Dragonscale Combat Luvas/Botas",
+    "nameSorcerer": "Empress Scale Luvas/Botas",
+    "nameTaoist": "Skyquake Treasure Luvas/Botas",
+    "nameWarrior": "Boaring Thunder Luvas/Botas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Murder_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Murder_Martial_Uniform_Boots.png" ],
+    "imageLancer": [ "./Icons/Lancer/Battleslayer_Combat_Gloves.png", "./Icons/Lancer/Battleslayer_Combat_Boots.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Ultimate_Mana_Gloves.png", "./Icons/Sorcerer/Ultimate_Mana_Boots.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Pakua_Outfit_Gloves.png", "./Icons/Taoist/Pakua_Outfit_Boots.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Ultimate_Heavy_Armor_Gloves.png", "./Icons/Warrior/Ultimate_Heavy_Armor_Boots.png" ]
+  },
+  "category": "Luvas/Botas",
+  "tier": "3",
+  "rarity": "Épico",
+  "recipe": [ 
+      { "name" : "[E] Aço", "rarity": "Épico", "amount": 1200 }, 
+      { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 400 }, 
+      { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 400 }, 
+      { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 4 }, 
+      { "name" : "Cobre", "amount": 4400000 }, 
+      { "name" : "Aço Negro", "amount": 550000 }
+  ]
+  },
+  {
+  "names": { 
+    "nameArbalist": "Dark Heaven Cloud Martial Uniform Luvas/Botas",
+    "nameLancer": "Taji Combat Luvas/Botas",
+    "nameSorcerer": "Sky Secret Luvas/Botas",
+    "nameTaoist": "Taji Luvas/Botas",
+    "nameWarrior": "Blue Sky Piercing Luvas/Botas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Boots.png" ],
+    "imageLancer": [ "./Icons/Lancer/Safeguard_Combat_Gloves.png", "./Icons/Lancer/Safeguard_Combat_Boots.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Evil_Absorber_Gloves.png", "./Icons/Sorcerer/Evil_Absorber_Boots.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Trustbuilding_Outfit_Gloves.png", "./Icons/Taoist/Trustbuilding_Outfit_Boots.png" ],
+    "imageWarrior": [ "./Icons/Warrior/True_Potential_Heavy_Armor_Gloves.png", "./Icons/Warrior/True_Potential_Heavy_Armor_Boots.png" ]
+  },
+  "category": "Luvas/Botas",
+  "tier": "3",
+  "rarity": "Épico",
+  "recipe": [ 
+      { "name" : "[E] Aço", "rarity": "Épico", "amount": 1200 }, 
+      { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 400 }, 
+      { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 400 }, 
+      { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 4 }, 
+      { "name" : "Cobre", "amount": 4400000 }, 
+      { "name" : "Aço Negro", "amount": 550000 }
+  ]
+  },
+  {
+  "names": { 
+    "nameArbalist": "Spirit Suppression Martial Uniform Luvas/Botas",
+    "nameLancer": "True Demon Combat Luvas/Botas",
+    "nameSorcerer": "Advancing Desire Luvas/Botas",
+    "nameTaoist": "Benevolence Luvas/Botas",
+    "nameWarrior": "True Warrior's Heavy Luvas/Botas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Murder_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Murder_Martial_Uniform_Boots.png" ],
+    "imageLancer": [ "./Icons/Lancer/Battleslayer_Combat_Gloves.png", "./Icons/Lancer/Battleslayer_Combat_Boots.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Ultimate_Mana_Gloves.png", "./Icons/Sorcerer/Ultimate_Mana_Boots.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Pakua_Outfit_Gloves.png", "./Icons/Taoist/Pakua_Outfit_Boots.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Ultimate_Heavy_Armor_Gloves.png", "./Icons/Warrior/Ultimate_Heavy_Armor_Boots.png" ]
+  },
+  "category": "Luvas/Botas",
+  "tier": "4",
+  "rarity": "Épico",
+  "recipe": [ 
+      { "name" : "[E] Aço", "rarity": "Épico", "amount": 2400 }, 
+      { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 800 }, 
+      { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 800 }, 
+      { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 8 }, 
+      { "name" : "Cobre", "amount": 10400000 }, 
+      { "name" : "Aço Negro", "amount": 1300000 }
+  ]
+  },
+  {
+  "names": { 
+    "nameArbalist": "Countless Evil Cloud Martial Uniform Luvas/Botas",
+    "nameLancer": "Skytiger Combat Luvas/Botas",
+    "nameSorcerer": "Dawnsoarer Luvas/Botas",
+    "nameTaoist": "Heavenly Horse Luvas/Botas",
+    "nameWarrior": "Netherwolf Black Luvas/Botas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Dark_Cloud_Martial_Uniform_Boots.png" ],
+    "imageLancer": [ "./Icons/Lancer/Safeguard_Combat_Gloves.png", "./Icons/Lancer/Safeguard_Combat_Boots.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/Evil_Absorber_Gloves.png", "./Icons/Sorcerer/Evil_Absorber_Boots.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Trustbuilding_Outfit_Gloves.png", "./Icons/Taoist/Trustbuilding_Outfit_Boots.png" ],
+    "imageWarrior": [ "./Icons/Warrior/True_Potential_Heavy_Armor_Gloves.png", "./Icons/Warrior/True_Potential_Heavy_Armor_Boots.png" ]
+  },
+  "category": "Luvas/Botas",
+  "tier": "4",
+  "rarity": "Épico",
+  "recipe": [ 
+      { "name" : "[E] Aço", "rarity": "Épico", "amount": 2400 }, 
+      { "name" : "[E] Quintessência", "rarity": "Épico", "amount": 800 }, 
+      { "name" : "[E] Bugiganga de Exorcismo", "rarity": "Épico", "amount": 800 }, 
+      { "name" : "[E] Couro de Dragão", "rarity": "Épico", "amount": 8 }, 
+      { "name" : "Cobre", "amount": 10400000 }, 
+      { "name" : "Aço Negro", "amount": 1300000 }
+  ]
+  },
+
+
+
+
+
+
+  {
+  "names": { 
+    "nameArbalist": "Heavenly Connection Martial Uniform Luvas/Botas",
+    "nameLancer": "All Creation Combat Luvas/Botas",
+    "nameSorcerer": "All Creation Luvas/Botas",
+    "nameTaoist": "Transcender's Luvas/Botas",
+    "nameWarrior": "Heavenly Connection Luvas/Botas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Boots.png" ],
+    "imageLancer": [ "./Icons/Lancer/All_Creation_Combat_Gloves.png", "./Icons/Lancer/All_Creation_Combat_Boots.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/All_Creation_Gloves.png", "./Icons/Sorcerer/All_Creation_Boots.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Transcenders_Outfit_Gloves.png", "./Icons/Taoist/Transcenders_Outfit_Boots.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Heavenly_Connection_Armor_Gloves.png", "./Icons/Warrior/Heavenly_Connection_Armor_Boots.png" ]
+  },
+  "category": "Luvas/Botas",
+  "tier": "1",
+  "rarity": "Lendário",
+  "recipe": [ 
+      { "name" : "[L] Aço", "rarity": "Lendário", "amount": 300 }, 
+      { "name" : "[L] Quintessência", "rarity": "Lendário", "amount": 100 }, 
+      { "name" : "[L] Bugiganga de Exorcismo", "rarity": "Lendário", "amount": 100 }, 
+      { "name" : "[L] Couro de Dragão", "rarity": "Lendário", "amount": 1 }, 
+      { "name" : "Cobre", "amount": 5000000 }, 
+      { "name" : "Aço Negro", "amount": 500000 }
+  ]
+  },
+  {
+  "names": { 
+    "nameArbalist": "Celestial Martial Uniform Luvas/Botas",
+    "nameLancer": "Heavenly Divinity Combat Luvas/Botas",
+    "nameSorcerer": "Heavenly Dragon Luvas/Botas",
+    "nameTaoist": "Celestial Luvas/Botas",
+    "nameWarrior": "Celestial Battle Luvas/Botas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Boots.png" ],
+    "imageLancer": [ "./Icons/Lancer/All_Creation_Combat_Gloves.png", "./Icons/Lancer/All_Creation_Combat_Boots.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/All_Creation_Gloves.png", "./Icons/Sorcerer/All_Creation_Boots.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Transcenders_Outfit_Gloves.png", "./Icons/Taoist/Transcenders_Outfit_Boots.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Heavenly_Connection_Armor_Gloves.png", "./Icons/Warrior/Heavenly_Connection_Armor_Boots.png" ]
+  },
+  "category": "Luvas/Botas",
+  "tier": "2",
+  "rarity": "Lendário",
+  "recipe": [ 
+      { "name" : "[L] Aço", "rarity": "Lendário", "amount": 600 }, 
+      { "name" : "[L] Quintessência", "rarity": "Lendário", "amount": 200 }, 
+      { "name" : "[L] Bugiganga de Exorcismo", "rarity": "Lendário", "amount": 200 }, 
+      { "name" : "[L] Couro de Dragão", "rarity": "Lendário", "amount": 2 }, 
+      { "name" : "Cobre", "amount": 20000000 }, 
+      { "name" : "Aço Negro", "amount": 2000000 }
+  ]
+  },
+  {
+  "names": { 
+    "nameArbalist": "Shineworld Secret Outfit Luvas/Botas",
+    "nameLancer": "Shineworld Dragon Luvas/Botas",
+    "nameSorcerer": "Shineworld Dragon Luvas/Botas",
+    "nameTaoist": "Shineworld Crane Luvas/Botas",
+    "nameWarrior": "Shineworld Dragon Luvas/Botas"
+  },
+  "images": {
+    "imageArbalist": [ "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Boots.png" ],
+    "imageLancer": [ "./Icons/Lancer/All_Creation_Combat_Gloves.png", "./Icons/Lancer/All_Creation_Combat_Boots.png" ],
+    "imageSorcerer": [ "./Icons/Sorcerer/All_Creation_Gloves.png", "./Icons/Sorcerer/All_Creation_Boots.png" ],
+    "imageTaoist": [ "./Icons/Taoist/Transcenders_Outfit_Gloves.png", "./Icons/Taoist/Transcenders_Outfit_Boots.png" ],
+    "imageWarrior": [ "./Icons/Warrior/Heavenly_Connection_Armor_Gloves.png", "./Icons/Warrior/Heavenly_Connection_Armor_Boots.png" ]
+  },
+  "category": "Luvas/Botas",
+  "tier": "3",
+  "rarity": "Lendário",
+  "recipe": [ 
+      { "name" : "[L] Aço", "rarity": "Lendário", "amount": 1200 }, 
+      { "name" : "[L] Quintessência", "rarity": "Lendário", "amount": 400 }, 
+      { "name" : "[L] Bugiganga de Exorcismo", "rarity": "Lendário", "amount": 400 }, 
+      { "name" : "[L] Couro de Dragão", "rarity": "Lendário", "amount": 4 }, 
+      { "name" : "Cobre", "amount": 55000000 }, 
+      { "name" : "Aço Negro", "amount": 5500000 }
+  ]
+  },
+  {
+    "names": { 
+      "nameArbalist": "Skyweb Secret Outfit Luvas/Botas",
+      "nameLancer": "War Dragon Luvas/Botas",
+      "nameSorcerer": "Mana Treasure Luvas/Botas",
+      "nameTaoist": "Thousand Handed Buddha Luvas/Botas",
+      "nameWarrior": "Warrior God Battle Luvas/Botas"
+    },
+    "images": {
+      "imageArbalist": [ "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Gloves.png", "./Icons/Arbalist/Heavenly_Connection_Martial_Uniform_Boots.png" ],
+      "imageLancer": [ "./Icons/Lancer/All_Creation_Combat_Gloves.png", "./Icons/Lancer/All_Creation_Combat_Boots.png" ],
+      "imageSorcerer": [ "./Icons/Sorcerer/All_Creation_Gloves.png", "./Icons/Sorcerer/All_Creation_Boots.png" ],
+      "imageTaoist": [ "./Icons/Taoist/Transcenders_Outfit_Gloves.png", "./Icons/Taoist/Transcenders_Outfit_Boots.png" ],
+      "imageWarrior": [ "./Icons/Warrior/Heavenly_Connection_Armor_Gloves.png", "./Icons/Warrior/Heavenly_Connection_Armor_Boots.png" ]
+    },
+    "category": "Luvas/Botas",
+    "tier": "4",
+    "rarity": "Lendário",
+    "recipe": [ 
+        { "name" : "[L] Aço", "rarity": "Lendário", "amount": 2400 }, 
+        { "name" : "[L] Quintessência", "rarity": "Lendário", "amount": 800 }, 
+        { "name" : "[L] Bugiganga de Exorcismo", "rarity": "Lendário", "amount": 800 }, 
+        { "name" : "[L] Couro de Dragão", "rarity": "Lendário", "amount": 8 }, 
+        { "name" : "Cobre", "amount": 130000000 }, 
+        { "name" : "Aço Negro", "amount": 13000000 }
+    ]
+  },

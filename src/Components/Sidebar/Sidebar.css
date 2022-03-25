@@ -65,43 +65,43 @@
 
 
 
-.Dark .Arbalist > div {
+.Dark .Arbalist > div, .Dark .Besteiro > div {
     background-image: url(../../../public/Icons/Arbalist.png);
 }
 
-.Arbalist > div {
+.Arbalist > div, .Besteiro > div {
     background-image: url(../../../public/Icons/ArbalistLight.png);
 }
 
-.Dark .Lancer > div {
+.Dark .Lancer > div, .Dark .Lanceiro > div {
     background-image: url(../../../public/Icons/Lancer.png);
 }
 
-.Lancer > div {
+.Lancer > div, .Lanceiro > div {
     background-image: url(../../../public/Icons/LancerLight.png);
 }
 
-.Dark .Sorcerer > div {
+.Dark .Sorcerer > div, .Dark .Hechicero > div {
     background-image: url(../../../public/Icons/Sorcerer.png);
 }
 
-.Sorcerer > div {
+.Sorcerer > div, .Hechicero > div {
     background-image: url(../../../public/Icons/SorcererLight.png);
 }
 
-.Dark .Taoist > div {
+.Dark .Taoist > div, .Dark .Taoista > div {
     background-image: url(../../../public/Icons/Taoist.png);
 }
 
-.Taoist > div {
+.Taoist > div, .Taoista > div {
     background-image: url(../../../public/Icons/TaoistLight.png);
 }
 
-.Dark .Warrior > div {
+.Dark .Warrior > div, .Dark .Guerreiro > div {
     background-image: url(../../../public/Icons/Warrior.png);
 }
 
-.Warrior > div {
+.Warrior > div, .Guerreiro > div {
     background-image: url(../../../public/Icons/WarriorLight.png);
 }
 

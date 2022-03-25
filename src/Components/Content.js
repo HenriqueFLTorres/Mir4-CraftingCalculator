@@ -16,20 +16,22 @@ export const Content = ({ language }) => {
   const [filter, setFilter] = useState([''])
   const [totalRecipe, setTotalRecipe] = useState([])
   const [colapse, setColapse] = useState(false)
-  const [itemClass, setItemClass] = useState(language === "PT-BR" ? "Besteiro" : "Arbalist")
+  const [itemClass, setItemClass] = useState(0)
   const [icon, setIcon] = useState(false)
 
   setTimeout(() => {
     setIcon(!icon)
-  }, 1000);
+  }, 2000);
   
   const [inventory, setInventory] = useState(false)
   const [inventoryContent, setInventoryContent] = useState([])
   
   useEffect(() => {
+
     if ( localStorage.getItem("Backpack") === null ) {
       localStorage.setItem("Backpack", JSON.stringify(myBackpack))
     }
+
     let storageBP = localStorage.getItem("Backpack")
     storageBP && ( myBackpack = JSON.parse(storageBP) )
   }, [])
@@ -48,7 +50,7 @@ export const Content = ({ language }) => {
             <Sidebar filter={filter} inventory={inventory} inventoryContent={inventoryContent} setInventoryContent={setInventoryContent} setItemClass={setItemClass} itemClass={itemClass} icon={icon} language={language} />
             <CategoryFilter filter={filter} setFilter={setFilter} language={language}/>
             <ItemSettings itemClass={itemClass} icon={icon} setIcon={setIcon} language={language}/>
-            <RecipeResult />
+            <RecipeResult language={language} />
             <BackpackMenu inventory={inventory} setInventory={setInventory} inventoryContent={inventoryContent} myBackpack={myBackpack} icon={icon} itemClass={itemClass} />
           </AcessRecipeContext>
       </SelectAndUpdateContext>

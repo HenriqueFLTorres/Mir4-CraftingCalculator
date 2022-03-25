@@ -8,7 +8,7 @@ import millify from 'millify'
 import nameFormatter from '../../Utils/nameFormatter'
 import recipeBGColor from '../../Utils/recipeBGColor'
 
-const RecipeResult = () => {
+const RecipeResult = ({ language }) => {
   
   const recipeInfo = useRecipe();
   let recipe = recipeInfo;
@@ -35,7 +35,7 @@ const RecipeResult = () => {
           return (
             <div className={`RecipeCounter`} key={index} data-content={item.value <= 0 ? Math.abs(item.value) : fancyAmount} >
                 <div className='RCFrame' style={{ background: backgroundColor }}>
-                  <img className='RCImage' src={`./Icons/${bakedName}.png`} alt={item.name} />
+                  { language = "PT-BR" ? <img className='RCImage' src={`./Icons/PT-BR/${bakedName}.png`} alt={item.name} /> : <img className='RCImage' src={`./Icons/EN${bakedName}.png`} alt={item.name} /> }
                   { item.tier && <img className='Tier' src={`./Icons/tier${item.tier}.png`} alt={`tier ${item.tier}`} />  }
                 </div>
                 <h3 className='RCName'>{item.name}</h3>

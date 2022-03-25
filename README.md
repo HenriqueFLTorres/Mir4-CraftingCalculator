@@ -43,8 +43,17 @@
   
 ### Updates 🎉
   
-  ### V1.3 - (03/22/22)
-  - Fixing a bug when user deleted backpack storage the website no longer worked
+  ### V1.4 - (03/24/22)
+  - All remaining class items added.
+  - Filter is now saved on local Storage.
+  - Class is now saved on local Storage.
+  - New feature: Languages Selector.
+  - New language added: PT-BR.
+  - Language is saved on local Storage.
+  - On collapse, item settings items increase its size.
+
+  ### V1.3 - (03/22/22 - 03/23/22)
+  - Fixed a bug when the user delete the backpack storage the website no longer worked
   - Ton of design fixes for better responsiviness
   - Design changes for better visibility
   - Added remaining items (Jewels)

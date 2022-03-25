@@ -36,7 +36,11 @@ const Sidebar = ({ filter, inventory, inventoryContent, setInventoryContent, ite
           }
 
           return (
-           filter.includes(category) && filter.includes(rarity) && (
+            ( name ?
+              name?.toLocaleLowerCase().includes(search.toLocaleLowerCase()) 
+                : 
+              nameSet?.toLocaleLowerCase().includes(search.toLocaleLowerCase()) 
+            ) && filter.includes(category) && filter.includes(rarity) && (
               <ItemUi
                 key={index}
                 index={index}

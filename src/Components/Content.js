@@ -11,20 +11,22 @@ import Arrow from './SVG/Icons/Arrow';
 import BackpackMenu from './BackpackMenu';
 
 let myBackpack = {"Copper Coin": 0, "Dark Steel": 0, "Energy": 0};
+// let renderCount = 0;
 
 export const Content = ({ language }) => {
   const [filter, setFilter] = useState([''])
   const [totalRecipe, setTotalRecipe] = useState([])
   const [colapse, setColapse] = useState(false)
-  const [itemClass, setItemClass] = useState(0)
+  const [itemClass, setItemClass] = useState(null)
   const [icon, setIcon] = useState(false)
+
+  const [inventory, setInventory] = useState(false)
+  const [inventoryContent, setInventoryContent] = useState([])
 
   setTimeout(() => {
     setIcon(!icon)
   }, 2000);
   
-  const [inventory, setInventory] = useState(false)
-  const [inventoryContent, setInventoryContent] = useState([])
   
   useEffect(() => {
 
@@ -35,6 +37,11 @@ export const Content = ({ language }) => {
     let storageBP = localStorage.getItem("Backpack")
     storageBP && ( myBackpack = JSON.parse(storageBP) )
   }, [])
+
+
+  useEffect(() => {
+    localStorage.setItem("Language", language)
+  }, [language])
   
   
 

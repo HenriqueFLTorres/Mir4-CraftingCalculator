@@ -41,7 +41,17 @@
   
 <br/><br/>
   
-### Updates 🎉
+## Updates 🎉
+  
+  ### v1.5 - (03/25/22)
+  - Arbalist PT-BR translation completed
+  - Search bar doesn't spell check anymore
+  - Basic items on backpack, now have a millified value below them which can be hovered, and it will show the “Fancy Value” (e.g. 900000 ⇾ 900 000)
+  <br/>
+  <img width="20%" src="https://i.imgur.com/BcaIgCv.png"><img width="20%" src="https://i.imgur.com/cdT0BEy.png">
+  - Item card now displays a simplified version of their names is the name is too big. Obs: they still can be searched by their  full name
+  <br/>
+  <img width="40%" src="https://i.imgur.com/Gz7BwvQ.png">
   
   ### V1.4 - (03/24/22)
   - All remaining class items added.

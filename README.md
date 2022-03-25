@@ -52,6 +52,7 @@
   - Item card now displays a simplified version of their names is the name is too big. Obs: they still can be searched by their  full name
   <br/>
   <img width="40%" src="https://i.imgur.com/Gz7BwvQ.png">
+  - Fixed language not being correctly requested from storage
   
   ### V1.4 - (03/24/22)
   - All remaining class items added.

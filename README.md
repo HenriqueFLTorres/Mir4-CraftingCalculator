@@ -96,9 +96,9 @@
 <br/><br/>
 
 ### Goals 🏆
-  - Add all remaining items
-  - Fancier list item collapse
-  - Inventory option to the user choose their items
+  - Add all remaining items ✔️
+  - Fancier list item collapse ✔️
+  - Inventory option to the user choose their items ✔️
   - More calculator tools such as lvl up, upgrade and etc...
 
   

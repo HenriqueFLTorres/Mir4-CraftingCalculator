@@ -18,7 +18,7 @@ const ItemConfigUI = ({ name, image, rarity, recipe, index, tier, nameSet, image
 
     const recipeValue = useRecipe();
     const recipeUpdate = useRecipeUpdate();
-    
+     
     useEffect(() => {
         
         let recipeSelector = document.querySelectorAll(".RecipeItem")

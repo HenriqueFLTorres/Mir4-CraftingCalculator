@@ -43,4 +43,4 @@ const ItemUi = ({ name, image, imageS, category, rarity, index, tier, inventory,
   )
 }
 
-export default ItemUi
+export default React.memo(ItemUi)

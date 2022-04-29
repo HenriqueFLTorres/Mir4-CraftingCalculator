@@ -2,11 +2,8 @@ import React from 'react'
 import { useSelect } from '../Hooks/SelectedContext'
 import './ItemSettings.css'
 
-
-import itemsList from '../../Data/ItemsList.json'
 import ItemConfigUI from './ItemConfigUI'
 import handleLanguage from '../../Utils/handleLanguage'
-import { nameHandler, imageHandler } from '../../Utils/itemClassDisplayer'
 
 const ItemSettings = ({ itemClass, icon, language }) => {
   const selected = useSelect();

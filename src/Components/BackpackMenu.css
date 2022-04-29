@@ -18,19 +18,19 @@
 }
 
 .BackpackButton {
-    width: clamp(0.1rem, 5vw + 1rem ,200rem);
-    height: clamp(0.1rem, 5vw + 1rem ,200rem);
+    width: 10rem;
+    height: 10rem;
     opacity: 1;
 
-    padding: 1vw;
+    padding: 2rem;
 
-    border-radius: 1vw;
+    border-radius: 1rem;
     border-top-right-radius: 0;
     border-bottom-right-radius: 0;
     cursor: pointer;
 
     background-color: var(--dark-color);
-    transform: translateY(10vh) translateX(54vw);
+    transform: translateY(10rem) translateX(54vw);
 
     transition: transform 550ms ease;
 }

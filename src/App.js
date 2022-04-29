@@ -13,6 +13,7 @@ function App() {
       localStorage.setItem("Language", "EN")
       setLanguage("EN")
     }
+
   }, [])
 
   return (

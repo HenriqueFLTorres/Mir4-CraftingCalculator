@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, memo } from "react";
 
 import handleLanguage from "../../Utils/handleLanguage";
 import { nameHandler, imageHandler } from "../../Utils/itemClassDisplayer"
@@ -66,4 +66,4 @@ const Sidebar = ({ filter, inventory, inventoryContent, setInventoryContent, ite
   );
 };
 
-export default Sidebar;
+export default memo(Sidebar);

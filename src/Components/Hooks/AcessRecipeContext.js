@@ -1,5 +1,4 @@
 import React, { useContext, useState } from "react";
-import { useEffect } from "react/cjs/react.production.min";
 
 export const RecipeContext = React.createContext();
 export const RecipeUpdateContext = React.createContext();
@@ -14,7 +13,7 @@ export const useRecipeUpdate = () => {
 
 export const AcessRecipeContext = ({ children }) => {
     const [recipe, setRecipe] = useState(() => [])
-
+ 
     return (
         <RecipeContext.Provider value={recipe}>
             <RecipeUpdateContext.Provider value={setRecipe}>

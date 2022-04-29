@@ -25,7 +25,6 @@ export const Content = ({ language }) => {
     setIcon(!icon)
   }, 2000);
   
-  
   useEffect(() => {
 
     if ( localStorage.getItem("Backpack") === null ) {
